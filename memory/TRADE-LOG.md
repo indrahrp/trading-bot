@@ -28,3 +28,16 @@ No positions yet. Bot launches tomorrow.
 | TXN    | 70     | $267.28  | $280.10 | -0.35%  | +$897.56 (+4.80%)    | $253.73 (10% trail) |
 
 **Notes:** Strong Friday close led by INTC (+5.63% day, +22.17% from entry) on continued semis momentum. Portfolio up +5.53% phase after just 5 days. INTC stop correctly tightened to 5% trail per strategy rule (+20% threshold). TXN slightly red on the day but thesis intact. Weekly trade cap reached (3/3 — AMZN, INTC, TXN entered this week). Under-deployed at ~60% vs 75-85% target; 2-3 positions available to add Monday. No new trades today. Stops all live as GTC trailing orders.
+
+---
+
+### May 02 — EOD Snapshot (Day 6, Saturday)
+**Portfolio:** $105,616.63 | **Cash:** $42,606.45 (40.3%) | **Day P&L:** +$88.48 (+0.08%) | **Phase P&L:** +$5,616.63 (+5.62%)
+
+| Ticker | Shares | Entry    | Close   | Day Chg | Unrealized P&L        | Stop     |
+|--------|--------|----------|---------|---------|-----------------------|----------|
+| AMZN   | 78     | $260.30  | $268.26 | 0.00%   | +$620.66 (+3.06%)     | $245.98 (10% trail) |
+| INTC   | 225    | $81.69   | $99.62  | 0.00%   | +$4,034.01 (+21.95%)  | $95.11 (5% trail)   |
+| TXN    | 70     | $267.28  | $281.02 | 0.00%   | +$961.96 (+5.14%)     | $253.73 (10% trail) |
+
+**Notes:** Saturday — no market activity. Portfolio settled at $105,616.63, up +$88.48 vs Friday close (minor float adjustment). INTC remains top performer at +21.95% from entry with 5% trail stop at $95.11. TXN and AMZN both profitable with 10% trails intact. Weekly cap at 3/3 (AMZN, INTC, TXN); new week resets Monday May 04. Under-deployed at ~60% cash vs 75-85% target — plan to add 2-3 positions early next week. All GTC trailing stops remain active.
