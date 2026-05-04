@@ -68,6 +68,71 @@ Watch INTC: tighten trail to 5% if/when price hits $98.03.
 
 ---
 
+## 2026-05-04 — Pre-market Research
+*Note: PERPLEXITY_API_KEY not set — market research via WebSearch fallback. ClickUp alert sent.*
+
+### Account
+- Equity: $105,577.11 (down $39.52 from prior close)
+- Cash: $42,606.45 (40.3%) — UNDERDEPLOYED vs 75-85% target
+- Buying power: $148,183.56
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (fresh weekly cap)
+
+### Open Positions
+| SYM  | Shares | Entry    | Premarket | P&L             | Stop              |
+|------|--------|----------|-----------|-----------------|-------------------|
+| INTC | 225    | $81.69   | $99.07    | +$3,910 +21.3%  | 5% trail @ $95.11 (HWM $100.12) |
+| TXN  | 70     | $267.28  | $281.28   | +$980   +5.2%   | 10% trail @ $253.73 (HWM $281.92) |
+| AMZN | 78     | $260.30  | $269.02   | +$680   +3.3%   | 10% trail @ $245.98 (HWM $273.32) |
+
+Deployment: $62,971 / $105,577 = 59.7% (need $15–$27k to reach 75-85% target)
+
+### Market Context
+- WTI: ~$101 | Brent: ~$108 (eased from $126 Apr-30 peak on US-Iran ceasefire hopes; volatile)
+- S&P 500 futures: mixed; +0.07% to -0.13% — Dow futures fell on fresh Iran conflict newsflow (reports of attack on US warship, Strait of Hormuz tensions)
+- VIX: ~16.89 (moderate, fear receding from 31.65 highs)
+- S&P 500 closed May 1 at ATH 7,230; YTD +5.64%
+- Core PCE: 4.3% QoQ (above 4.1% expected) — inflation hotter than expected
+- Chicago PMI: 49.2 (contractionary; below 54.8 expected) — first contraction of 2026
+- GME/EBAY M&A: GameStop bid $125/share (~$56B) for eBay; EBAY +10%
+- AMD reports Q1 earnings TOMORROW (May 5, after close); consensus $9.89B rev (+33%), $1.29 EPS (+34%)
+- PLTR reports Q1 today (BMO); consensus +115% earnings jump
+
+### Sector Momentum
+- Semiconductors: AMD +74% in April, INTC +129% YTD — still leading
+- Technology: Equal-weight outpacing cap-weight by ~5pp (broad rotation)
+- Energy: XOM at ~$152-155; oil volatile on Iran conflict (spike risk both ways)
+- S&P 500 at ATH — stretched valuations, less margin of error
+
+### Held Position Thesis Check
+- **INTC**: At $99.07 (-0.55% premarket). HWM $100.12, stop $95.11. Motley Fool targeting $150. BNP Paribas/HSBC upgrades. **INTACT — hold, 5% trail correct.**
+- **TXN**: At $281.28 (+0.09%). HWM $281.92, stop $253.73. Q1 beat intact thesis. SVP insider sales still a watch item. **INTACT — hold.**
+- **AMZN**: At $269.02 (+0.28%). Stop $245.98. AWS +28% YoY, $200B capex. Jassy defended spend. **INTACT — hold.**
+
+### Trade Ideas
+1. **XOM** — Energy sector momentum, Q1 beat ($85.14B rev, EPS $1.16 vs est). Current price ~$152-155 (original thesis was $115; stock has moved +33% since). Entry ~$152, stop $136.80 (-10%), target $175 (+15%), R:R ~1.5:1. **Gate: wait for Iran clarity — Hormuz tension could spike or collapse oil; entry on pullback to ~$148 preferred.**
+2. **AMD** — Earnings tomorrow after close. Do NOT buy before earnings — gap risk. **Watch post-earnings reaction May 5 close; possible entry May 6 open if beats.**
+3. **PLTR** — Reports today BMO. If beats materially, could be entry catalyst. Watch open reaction. Entry only if sector momentum confirms and position count ≤5.
+
+### Risk Factors
+- Iran conflict escalation — Dow futures falling; Strait of Hormuz supply disruption = oil spike + broad market headwind
+- Core PCE 4.3% > 4.1% expected — Fed stays hawkish longer, rate-cut hopes fade
+- Chicago PMI 49.2 (contraction) — first warning sign of economic slowdown 2026
+- INTC near $100 ATH psychological resistance; HWM stalling at $100.12
+- AMD earnings risk tomorrow — buying today = earnings lottery
+- Market at ATH → any geopolitical shock hits harder
+- TXN SVP insider selling ongoing
+
+### Decision
+**HOLD all 3 positions.** Theses intact, stops in place, no action needed.
+**NEW TRADES:** Default HOLD at open. Iran newsflow too uncertain for clean entry.
+- XOM: Only enter on Iran de-escalation confirmation + pullback to ~$148. Otherwise wait.
+- AMD: Wait for earnings reaction tomorrow.
+- PLTR: Watch today's open reaction post-earnings.
+**Priority remains:** Close deployment gap (59.7% → 75-85%) but patience > forcing entries into uncertain tape.
+
+---
+
 ## 2026-05-02 — Weekend Research (Next trading day: Monday May 5)
 
 ### Account
