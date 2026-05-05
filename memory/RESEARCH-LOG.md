@@ -180,3 +180,37 @@ Deployment: $62,971 / $105,577 = 59.7% (need $15–$27k to reach 75-85% target)
 **HOLD all 3 positions.** Theses intact, stops in place.
 **WATCH Monday open** — if S&P confirms positive, evaluate XOM or AMD entry to close deployment gap.
 **Priority**: deploy $16-27k into 1-2 new positions. Default to HOLD if Monday open is uncertain.
+
+---
+
+## 2026-05-05 — Midday Scan
+
+### Account (midday)
+- Equity: ~$108,386 | Cash: $42,606.45 (39.3%) | Deployment: 60.7%
+- Day P&L: +$3,347 (+3.17%) | Phase P&L: +$8,386 (+8.39%)
+- Week trades: 0/3
+
+### Positions (midday)
+| SYM  | Shares | Entry   | Now      | Unreal P&L          | Stop                        |
+|------|--------|---------|----------|---------------------|-----------------------------|
+| INTC | 225    | $81.69  | $109.50  | +$6,256 (+34.04%)   | 5% trail @ $104.96 (HWM $110.48) |
+| AMZN | 78     | $260.30 | $275.30  | +$1,169 (+5.76%)    | 10% trail @ $250.70 (HWM $278.56) |
+| TXN  | 70     | $267.28 | $281.00  | +$961 (+5.13%)      | 10% trail @ $255.41 (HWM $283.79) |
+
+### INTC Intraday Surge (+14.32%) — Research Addendum
+- **Tesla 14A foundry win**: Tesla confirmed Intel 14A process for TeraFab AI chip — first major external 14A customer; validates Lip-Bu Tan turnaround strategy
+- **Apple partnership**: Apple exploring chip production partnership with Intel; significant validation of foundry roadmap
+- **Evercore ISI**: Doubled PT to $111, citing "CPU renaissance" from agentic AI CPU demand uplift
+- **Thesis**: STRENGTHENING — Q1 beat + foundry wins + AI CPU demand all intact; no red flags
+
+### Actions Taken
+- None. No losers (-7% rule: no triggers). No stop adjustments (all correctly set).
+- INTC: 5% trail already in place at HWM $110.48 — correct per +20% rule ✓
+- AMZN: 10% trail correct (+5.76% — below +15% threshold) ✓
+- TXN: 10% trail correct (+5.13% — below +15% threshold) ✓
+
+### AMD Reminder
+- AMD reports Q1 after close today. Research log: do NOT buy before earnings. Watch May 6 open reaction.
+
+### Decision
+**HOLD all. No action required.** Stops in place, theses intact or strengthening.
