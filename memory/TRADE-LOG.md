@@ -67,3 +67,15 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 - Thesis: AMZN intact (AWS momentum); TXN intact (Q1 beat, monitor SVP selling)
 - Research: Perplexity unavailable (key not set)
 - **Deployment: 38.4% — critically underdeployed. AMD at ~$416 post-earnings; evaluate entry pre-market May 7. Need 2-3 new positions.**
+
+---
+
+### May 06 — EOD Snapshot (Day 8, Wednesday)
+**Portfolio:** $108,552.00 | **Cash:** $66,844.78 (61.6%) | **Day P&L:** +$176.21 (+0.16%) | **Phase P&L:** +$8,552.00 (+8.55%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg  | Unrealized P&L        | Stop     |
+|--------|--------|----------|----------|----------|-----------------------|----------|
+| AMZN   | 78     | $260.30  | $274.99  | +0.53%   | +$1,145.60 (+5.64%)   | $250.70 (10% trail, HWM $278.56) |
+| TXN    | 70     | $267.28  | $289.40  | +2.99%   | +$1,548.56 (+8.28%)   | $263.38 (10% trail, HWM $292.64) |
+
+**Notes:** INTC 5% trailing stop triggered today at $107.73 (HWM $113.50) locking in +31.87% (+$5,857.81 realized) from $81.69 entry — exit working as designed. AMZN +0.53% and TXN +2.99% on the day; both well above stops, theses intact. Portfolio up +8.55% phase through Day 8. Critically underdeployed at 38.4% vs 75-85% target — $66.8K cash available. New entries this week: 0/3 cap open. Priority for Thu pre-market: identify 2-3 new positions (AMD ~$416 flagged). TXN new HWM $292.64 today; neither position near +15% tighten threshold yet.
