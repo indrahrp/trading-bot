@@ -28,3 +28,32 @@ No positions yet. Bot launches tomorrow.
 | TXN    | 70     | $267.28  | $280.10 | -0.35%  | +$897.56 (+4.80%)    | $253.73 (10% trail) |
 
 **Notes:** Strong Friday close led by INTC (+5.63% day, +22.17% from entry) on continued semis momentum. Portfolio up +5.53% phase after just 5 days. INTC stop correctly tightened to 5% trail per strategy rule (+20% threshold). TXN slightly red on the day but thesis intact. Weekly trade cap reached (3/3 — AMZN, INTC, TXN entered this week). Under-deployed at ~60% vs 75-85% target; 2-3 positions available to add Monday. No new trades today. Stops all live as GTC trailing orders.
+
+---
+
+### May 06 — Midday Scan
+**Portfolio:** $108,499.93 | **Cash:** $66,844.78 (61.6%) | **Day P&L:** +$552.83 (+0.51%) | **Phase P&L:** +$8,499.93 (+8.50%)**
+
+#### Trade Exit — INTC (5% trailing stop triggered, automated)
+| Field        | Value                                        |
+|--------------|----------------------------------------------|
+| Shares       | 225                                          |
+| Entry        | $81.69                                       |
+| Exit         | $107.73 (5% trail, HWM $113.50, filled 14:17 UTC) |
+| Realized P&L | **+$5,857.81 (+31.87%)**                    |
+| Reason       | 5% trailing stop triggered on pullback       |
+
+INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rules; stopped out on pullback. Exit working as designed.
+
+#### Open Positions (midday)
+| Ticker | Shares | Entry   | Now     | Unreal P&L       | Stop                    |
+|--------|--------|---------|---------|------------------|-------------------------|
+| AMZN   | 78     | $260.30 | $274.86 | +$1,135 (+5.59%) | 10% trail, HWM $278.56  |
+| TXN    | 70     | $267.28 | $288.78 | +$1,505 (+8.04%) | 10% trail, HWM $289.95  |
+
+**Actions:**
+- Losers: None — both positive, no cuts
+- Stop tighten: None — AMZN +5.6%, TXN +8.0% (need +15% threshold)
+- Thesis: AMZN intact (AWS momentum); TXN intact (Q1 beat, monitor SVP selling)
+- Research: Perplexity unavailable (key not set)
+- **Deployment: 38.4% — critically underdeployed. AMD at ~$416 post-earnings; evaluate entry pre-market May 7. Need 2-3 new positions.**

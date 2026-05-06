@@ -180,3 +180,32 @@ Deployment: $62,971 / $105,577 = 59.7% (need $15–$27k to reach 75-85% target)
 **HOLD all 3 positions.** Theses intact, stops in place.
 **WATCH Monday open** — if S&P confirms positive, evaluate XOM or AMD entry to close deployment gap.
 **Priority**: deploy $16-27k into 1-2 new positions. Default to HOLD if Monday open is uncertain.
+
+---
+
+## 2026-05-06 — Midday Addendum
+
+### Account
+- Equity: $108,499.93
+- Cash: $66,844.78 (61.6%) — CRITICALLY UNDERDEPLOYED
+- Buying power: $175,344.71
+- Daytrade count: 0 | Week trades: 0/3
+
+### Event: INTC Stop-Out (automated, 14:17 UTC)
+- 5% trailing stop filled at $107.73; HWM was $113.50
+- Realized P&L: +$5,857.81 (+31.87%) on 225 shares
+- Stop sequence: 10% → 7% (at +15%) → 5% (at +20%) — all per rules
+
+### Open Positions
+| SYM  | Shares | Entry   | Now     | P&L             | Stop                   |
+|------|--------|---------|---------|-----------------|------------------------|
+| AMZN | 78     | $260.30 | $274.86 | +$1,135 (+5.6%) | 10% trail, HWM $278.56 |
+| TXN  | 70     | $267.28 | $288.78 | +$1,505 (+8.0%) | 10% trail, HWM $289.95 |
+
+### Midday Assessment
+- No losers | No stops to tighten | Theses intact
+- Perplexity unavailable (key not set) — no live research
+- AMD at ~$416-418 post-earnings (May 5 close); was flagged as watch entry
+
+### Decision
+**HOLD** — no intraday action. Pre-market May 7: evaluate AMD entry + 1-2 additional positions to close deployment gap (38.4% → 75-85% target).
