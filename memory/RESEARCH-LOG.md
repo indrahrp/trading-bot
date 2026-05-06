@@ -180,3 +180,63 @@ Deployment: $62,971 / $105,577 = 59.7% (need $15–$27k to reach 75-85% target)
 **HOLD all 3 positions.** Theses intact, stops in place.
 **WATCH Monday open** — if S&P confirms positive, evaluate XOM or AMD entry to close deployment gap.
 **Priority**: deploy $16-27k into 1-2 new positions. Default to HOLD if Monday open is uncertain.
+
+---
+
+## 2026-05-06 — Pre-market Research
+
+> ⚠️ Perplexity fallback: PERPLEXITY_API_KEY not set in environment. All research via WebSearch. ClickUp alert sent.
+
+### Account
+- Equity: $108,983.72 (+$8,983.72 / +8.98% phase)
+- Cash: $42,606.45 (39.1%) — UNDERDEPLOYED vs 75-85% target
+- Buying power: $151,590.17
+- Long market value: $66,377.27
+- Daytrade count: 0 | PDT: false
+
+### Open Positions
+| SYM  | Shares | Entry    | Now      | P&L              | Stop               | Thesis Status            |
+|------|--------|----------|----------|------------------|--------------------|--------------------------|
+| INTC | 225    | $81.69   | $112.67  | +$6,970 +37.92%  | 5% trail ~$107.04* | INTACT ✓ (Apple talks!)  |
+| AMZN | 78     | $260.30  | $275.31  | +$1,170  +5.76%  | 10% trail $250.70  | INTACT ✓                 |
+| TXN  | 70     | $267.28  | $279.33  | +$843    +4.51%  | 10% trail $255.41  | INTACT ⚠️ insiders selling |
+
+*INTC HWM in Alpaca shows $110.48 (stale from prior session); effective live stop = $112.67 × 0.95 ≈ $107.04 — trailing stop auto-updates intraday.
+
+### Market Context
+- WTI / Brent: $100.73 / $108.23 (WTI -1.51%, Brent -1.48% on Iran ceasefire progress; down from $106+ mid-week)
+- S&P 500 futures: 7,305.25 (+0.25%) — mildly positive open expected
+- VIX: ~16.73 (low fear; down from 17.95 open -3.74%)
+- Today's catalysts:
+  - **INTC**: Bloomberg report — Intel in talks with Apple to become primary US chip manufacturer → INTC hit new ATH (+13% yesterday, up 175% YTD / 430% YoY)
+  - **AMD**: Q1 2026 beat — revenue $10.3B (+38% YoY), EPS $1.37, Data Center +57%, Q2 guide $11.2B (+46%); stock +4% aftermarket → opening higher
+  - **Iran ceasefire** progressing → oil falling, risk-on tone
+  - Jobless claims: 189,000 (lowest since 1969) — economy very strong
+  - Pfizer Q1 beat (+2.2%); PayPal guidance miss (-9%); AB InBev +6%
+- Earnings before open: KHC (est. $0.50 EPS, $5.89B rev) — not in portfolio
+- Economic calendar: **FOMC Day 1 of 2** (May 6-7). Decision **tomorrow May 7 at 2pm ET**. Rate hold at 3.5-3.75% widely expected. Powell press conference 2:30pm ET tomorrow. Earliest rate cut: June 16-17.
+- Sector momentum YTD: Energy +22.7% (but cooling on ceasefire), Financials +22%, Materials +16.3%, Industrials +14.3%, Healthcare defensive play; Tech lagging but Semis surging
+
+### Thesis Check
+- **INTC**: Apple partnership talks + Q1 beat + AI foundry ramp = thesis amplified. Stock extended (+37.92% from entry, +175% YTD) but catalyst still fresh. 5% trail correct. **HOLD.**
+- **AMZN**: AWS +28% YoY, Q2 guide above consensus ($194-199B), advertising $70B+ TTM, Leo satellite Q3. One technical downgrade to Hold/Accumulate but fundamentals strong. HWM $278.56. **HOLD.**
+- **TXN**: Q1 beat maintained, Q2 guide strong ($5.0-5.4B), Silicon Labs acquisition. ⚠️ Continued heavy insider selling: SVP Mark Gary -13,689 shares ($3.82M), SVP Roberts -28,080 shares ($7.87M) on May 1. Ex-div $1.42 (May 5). **HOLD but monitor closely — 2 SVP-level sellers is a yellow flag.**
+
+### Trade Ideas
+1. **AMD** — Q1 massive beat ($10.3B, +38%), Data Center +57%, Q2 guide $11.2B (+46%). AI GPU demand accelerating, CEO citing inferencing + agentic AI. Stock +4% aftermarket (~$352). Entry: wait for market open, buy on confirmation of positive price action ~$350-360. Stop: 10% below entry (~$315-324). Target: $420+ (+20%). R:R ≈ 2:1. **Week 2 of challenge — 0/3 trades used this week. Deployment gap ~$37k (39% → 75-85% target). This is the cleaner entry catalyst.**
+2. **XOM** — Skip. Iran ceasefire = oil supply headwind. WTI -1.5% premarket. Energy sector momentum may cool. Previously flagged ~$115 entry — wait for oil to stabilize and re-test before considering.
+3. **Second position**: If AMD entry fills, consider one more position (~$18-21k) to reach 75% deployment. Watch PLTR or MU as secondary semi/AI play. Evaluate post-AMD open.
+
+### Risk Factors
+- **FOMC tomorrow (May 7)**: Policy statement + Powell presser could move markets. Hold through or reduce size pre-decision if entering AMD today.
+- **INTC Apple deal unconfirmed**: Bloomberg report, not a signed deal. If denial surfaces → gap-down risk. 5% trail limits damage.
+- **TXN insider selling**: Two SVPs selling tens of thousands of shares. Not a sell signal alone but elevates risk; -7% stop discipline critical.
+- **AMD buy-the-news risk**: Stock up 4% premarket on earnings — entering into strength. Gap fill possible if broad market softens.
+- **Deployment gap**: 39.1% deployed (target 75-85%). Underperformance drag if market continues to rally.
+- **VIX 16.73**: Low fear = complacency risk. Any shock hits harder.
+
+### Decision
+**HOLD INTC, AMZN, TXN.** All theses intact, stops in place.
+**WATCH AMD at open** — clean earnings catalyst, deployment gap justifies entry. If AMD opens $348-360 with positive tape, buy ~$18-21k (~50-60 shares). Set 10% trailing stop immediately. Do NOT chase above $365.
+**SKIP XOM** — Iran ceasefire = oil headwind near-term.
+**Default: HOLD** if AMD opens red or tape turns negative at open.
