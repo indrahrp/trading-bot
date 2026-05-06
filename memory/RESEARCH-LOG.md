@@ -183,6 +183,52 @@ Deployment: $62,971 / $105,577 = 59.7% (need $15–$27k to reach 75-85% target)
 
 ---
 
+## 2026-05-05 — Pre-market Research (inline, market-open workflow)
+
+### Account
+- Equity: $107,401.64
+- Cash: $42,606.45 (39.7%) — UNDERDEPLOYED vs 75-85% target
+- Buying power: $150,008.09
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (fresh weekly cap)
+
+### Open Positions
+| SYM  | Shares | Entry    | Live Ask  | P&L              | Stop (GTC, live)                  |
+|------|--------|----------|-----------|------------------|-----------------------------------|
+| INTC | 225    | $81.69   | $105.55   | +$5,367 +29.2%   | 5% trail @ $100.32 (HWM $105.60) |
+| AMZN | 78     | $260.30  | $277.03   | +$1,303 +6.4%    | 10% trail @ $250.61 (HWM $278.45)|
+| TXN  | 70     | $267.28  | ~$278.20  | +$764   +4.1%    | 10% trail @ $255.41 (HWM $283.79)|
+
+Deployment: $64,795 / $107,402 = 60.3% (target 75-85%)
+
+### Market Context
+- PERPLEXITY_API_KEY not available — using live Alpaca quotes only
+- AMD: Q1 earnings after close today (consensus $9.89B rev, $1.29 EPS). Do NOT buy before earnings.
+- PLTR: Reported May 4 BMO. Current price ~$141.15 — no May 5 thesis documented.
+- XOM: ~$156 midpoint (ask $159.60 / bid $153.38) — above May 4 preferred entry of $148. No Iran catalyst confirmed.
+- INTC: +10.1% on the day, now +29.2% from entry. Stop correctly tightened to 5% trail per strategy rule.
+
+### Thesis Check on Held Positions
+- **INTC**: +29.2% from entry; 5% trail stop live at $100.32 (HWM $105.60). Thesis intact — semis momentum, earnings beat, AI chip demand. Hold.
+- **AMZN**: +6.4% from entry; 10% trail stop at $250.61. AWS AI infra thesis intact. Hold.
+- **TXN**: +4.1% from entry; 10% trail stop at $255.41. Q1 beat thesis intact; monitor insider selling. Hold.
+
+### Trade Ideas
+1. **AMD** — BLOCKED: earnings after close today. Gap risk. Possible entry tomorrow if beats.
+2. **XOM** — BLOCKED: $156 > preferred entry $148; no confirmed Iran ceasefire/de-escalation data today.
+3. **PLTR** — BLOCKED: no May 5 catalyst documented; fresh research needed before entry.
+
+### Risk Factors
+- INTC approaching extended territory (+29%); 5% trail provides limited cushion on a gap-down
+- AMD earnings today — broad semiconductor reaction could affect INTC/TXN
+- Deployment at 60%, below 75-85% target — AMD post-earnings tomorrow is best near-term opportunity
+- TXN insider selling ongoing
+
+### Decision
+**HOLD all 3 positions.** No new trades today — all entry gates blocked.
+- AMD: wait for post-earnings reaction tomorrow (May 6 open).
+- XOM: wait for pullback to $148 + Iran clarity.
+- PLTR: needs fresh research before entry.
 ## 2026-05-06 — Midday Addendum
 
 ### Account
