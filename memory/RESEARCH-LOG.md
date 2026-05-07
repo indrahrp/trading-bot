@@ -276,3 +276,48 @@ Deployment: $64,795 / $107,402 = 60.3% (target 75-85%)
 
 ### Decision
 **HOLD all 3.** No cuts, no stop tightenings. Broad market selling today; positions within normal variance. Perplexity unavailable for news check. Deployment 57% vs 75-85% target — 1-2 entries still needed. Pre-market May 8: research additional candidates.
+---
+
+## 2026-05-07 — Pre-market Research (inline, market-open workflow)
+
+### Account
+- Equity: $108,139.65
+- Cash: $66,844.74 (61.8%) — CRITICALLY UNDERDEPLOYED
+- Buying power: $174,984.39
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (fresh weekly cap)
+
+### Open Positions
+| SYM  | Shares | Entry   | Now     | P&L             | Stop (live GTC)                      |
+|------|--------|---------|---------|-----------------|--------------------------------------|
+| AMZN | 78     | $260.30 | $273.56 | +$1,034 (+5.1%) | 10% trail, HWM $278.56, stop $250.70 |
+| TXN  | 70     | $267.28 | $285.12 | +$1,249 (+6.7%) | 10% trail, HWM $292.64, stop $263.38 |
+
+Deployment: $41,295 / $108,140 = 38.2% (target 75-85%)
+
+### Market Context
+- PERPLEXITY_API_KEY not set — WebSearch fallback (alert sent to ClickUp)
+- AMD: Q1 revenue $10.25B (+38% YoY) vs $9.89B est — BEAT; Data Center +57%; Q2 guide $11.2B vs consensus — BEAT. Morgan Stanley PT raised May 6. Stock +16% today. Catalyst confirmed.
+- XOM: Pulled back to $148 ask (from $159 high). US-Iran deal nears; oil slid ~8%; analyst consensus target $140-144 (below current price). Energy premium unwinding.
+- S&P 500: At all-time highs; semiconductor sector leading
+- VIX: Moderate, declining from highs
+
+### Thesis Check on Held Positions
+- **AMZN**: $273.56 (-0.5% today), HWM $278.56, stop $250.70. AWS AI thesis intact. Hold.
+- **TXN**: $285.12 (-1.5% today), HWM $292.64, stop $263.38. Q1 beat thesis intact; monitor SVP selling. Hold.
+
+### Trade Ideas
+1. **AMD** — Q1 earnings beat ($10.25B +38% YoY, Data Center +57%, Q2 guide $11.2B above est). Post-earnings momentum confirmed. Entry ~$425 ask, stop $382.50 (-10%), target $510 (+20%), R:R 2.0:1. **EXECUTE.**
+2. **XOM** — SKIP: Iran deal nearing → oil prices falling → energy premium unwinds; analyst consensus $140-144 below current $148 ask = negative R:R.
+
+### Risk Factors
+- AMD: +16% today, potential exhaustion after gap-up
+- Semiconductor sector multi-week run (INTC +39%, TXN +9%, AMD +16%); consolidation possible
+- TXN SVP insider selling ongoing
+- AMZN/TXN both modestly red on day; possible sector rotation
+- Deployment 57.8% after AMD (can't fully resolve today)
+
+### Decision
+**AMD: BUY** — 50 shares at market (~$425), stop $382.50 (10% trail GTC). All gates pass.
+**XOM: HOLD** — Iran clarity = oil bearish; analyst targets below current price.
+**AMZN/TXN: HOLD** — theses intact, stops live.

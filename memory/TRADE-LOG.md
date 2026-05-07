@@ -98,3 +98,27 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 - Thesis: AMD intact (post-earnings semis momentum, stop provides risk control); AMZN intact (AWS); TXN intact (Q1 beat)
 - Research: Perplexity unavailable (key not set)
 - **Deployment: 57.1% — still below 75-85% target. 2 positions available. Watch for entries.**
+### May 07 — New Trade Entry
+
+#### Buy: AMD
+| Field        | Value                                                                                        |
+|--------------|----------------------------------------------------------------------------------------------|
+| Date         | 2026-05-07                                                                                   |
+| Ticker       | AMD                                                                                          |
+| Side         | BUY                                                                                          |
+| Shares       | 50                                                                                           |
+| Entry Price  | $414.95                                                                                      |
+| Stop Level   | $372.77 (10% trailing, HWM $414.19, order f91d16c7)                                         |
+| Thesis       | Q1 earnings beat ($10.25B +38% YoY, Data Center +57%, Q2 guide $11.2B above consensus); post-earnings semiconductor momentum; closes deployment gap |
+| Target       | $498 (+20%)                                                                                  |
+| R:R          | 2.0:1                                                                                        |
+| Week Trades  | 1/3                                                                                          |
+
+#### Portfolio After Trade
+**Equity:** ~$108,140 | **Cash:** ~$45,595 | **Deployment:** ~57.8% (↑ from 38.2%)
+
+| Ticker | Shares | Entry    | Now     | Unrealized P&L   | Stop                                 |
+|--------|--------|----------|---------|------------------|--------------------------------------|
+| AMD    | 50     | $414.95  | $414.28 | -$34 (-0.2%)     | 10% trail, HWM $414.19, stop $372.77 |
+| AMZN   | 78     | $260.30  | $274.58 | +$1,114 (+5.5%)  | 10% trail, HWM $278.56, stop $250.70 |
+| TXN    | 70     | $267.28  | $285.01 | +$1,241 (+6.6%)  | 10% trail, HWM $292.64, stop $263.38 |
