@@ -256,6 +256,26 @@ Deployment: $64,795 / $107,402 = 60.3% (target 75-85%)
 ### Decision
 **HOLD** — no intraday action. Pre-market May 7: evaluate AMD entry + 1-2 additional positions to close deployment gap (38.4% → 75-85% target).
 
+## 2026-05-07 — Midday Addendum
+
+### Account
+- Equity: ~$107,505 | Cash: ~$46,097 (42.9%) | Deployment: 57.1%
+- Daytrade count: 0 | Week trades: 1/3 (AMD)
+
+### New Position: AMD
+- Entered 50 shares @ $414.95 (pre-planned post-earnings entry from May 6 scan)
+- Thesis: Q1 beat (May 5 after close), semis sector momentum, 10% trailing stop
+- AMD down -3.73% on day from yesterday HWM $421.71 → now $405.67; stop at $379.54
+
+### Open Positions Check
+| SYM  | P&L from Entry | Day Chg | Action |
+|------|----------------|---------|--------|
+| AMD  | -2.24%         | -3.73%  | Hold — above stop, thesis intact |
+| AMZN | +4.86%         | -0.75%  | Hold — AWS thesis intact |
+| TXN  | +6.01%         | -2.10%  | Hold — Q1 beat thesis intact |
+
+### Decision
+**HOLD all 3.** No cuts, no stop tightenings. Broad market selling today; positions within normal variance. Perplexity unavailable for news check. Deployment 57% vs 75-85% target — 1-2 entries still needed. Pre-market May 8: research additional candidates.
 ---
 
 ## 2026-05-07 — Pre-market Research (inline, market-open workflow)

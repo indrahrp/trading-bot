@@ -70,6 +70,34 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 
 ---
 
+### May 07 — New Entry: AMD
+| Field   | Value                                                   |
+|---------|---------------------------------------------------------|
+| Symbol  | AMD                                                     |
+| Shares  | 50                                                      |
+| Entry   | $414.95                                                 |
+| Stop    | 10% trailing GTC (HWM $421.71, stop $379.54)           |
+| Thesis  | Q1 earnings beat (May 5 after close); semis momentum continuation; pre-planned entry from May 6 scan |
+| Week    | 1/3 trades this week                                    |
+
+---
+
+### May 07 — Midday Scan
+**Portfolio:** ~$107,505 | **Cash:** ~$46,097 (42.9%) | **Day P&L:** ~-$995 (-0.92%) | **Phase P&L:** ~+$7,505 (+7.50%)**
+
+#### Open Positions (midday)
+| Ticker | Shares | Entry   | Now     | Unreal P&L        | Stop                    |
+|--------|--------|---------|---------|-------------------|-------------------------|
+| AMD    | 50     | $414.95 | $405.67 | -$464 (-2.24%)    | 10% trail, HWM $421.71  |
+| AMZN   | 78     | $260.30 | $272.94 | +$986 (+4.86%)    | 10% trail, HWM $278.56  |
+| TXN    | 70     | $267.28 | $283.35 | +$1,125 (+6.01%)  | 10% trail, HWM $292.64  |
+
+**Actions:**
+- Losers: None — no position at -7% (AMD -2.24%, within range)
+- Stop tighten: None — AMD -2.24%, AMZN +4.86%, TXN +6.01% (all below +15% threshold)
+- Thesis: AMD intact (post-earnings semis momentum, stop provides risk control); AMZN intact (AWS); TXN intact (Q1 beat)
+- Research: Perplexity unavailable (key not set)
+- **Deployment: 57.1% — still below 75-85% target. 2 positions available. Watch for entries.**
 ### May 07 — New Trade Entry
 
 #### Buy: AMD
