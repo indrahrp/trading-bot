@@ -132,3 +132,22 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | AMD    | 50     | $414.95  | $414.28 | -$34 (-0.2%)     | 10% trail, HWM $414.19, stop $372.77 |
 | AMZN   | 78     | $260.30  | $274.58 | +$1,114 (+5.5%)  | 10% trail, HWM $278.56, stop $250.70 |
 | TXN    | 70     | $267.28  | $285.01 | +$1,241 (+6.6%)  | 10% trail, HWM $292.64, stop $263.38 |
+
+---
+
+### May 08 — Midday Scan
+**Portfolio:** ~$109,690 | **Cash:** ~$46,097 (42.0%) | **Deployment:** ~58.0% | **Phase P&L:** ~+$9,690 (+9.69%)**
+
+#### Open Positions (midday)
+| Ticker | Shares | Entry   | Now     | Unreal P&L        | Stop                              |
+|--------|--------|---------|---------|-------------------|-----------------------------------|
+| AMD    | 50     | $414.95 | $439.78 | +$1,242 (+5.98%) | 10% trail, HWM $444.98, stop $400.48 |
+| AMZN   | 78     | $260.30 | $272.93 | +$985 (+4.85%)   | 10% trail, HWM $278.56, stop $250.70 |
+| TXN    | 70     | $267.28 | $290.22 | +$1,606 (+8.58%) | 10% trail, HWM $292.64, stop $263.38 |
+
+**Actions:**
+- Losers: None — all positions positive
+- Stop tighten: None — AMD +5.98%, AMZN +4.85%, TXN +8.58% (all below +15% threshold)
+- Thesis: AMD intact (semis momentum, up +7.67% intraday, HWM $444.98 confirms strength); AMZN intact (AWS); TXN intact (Q1 beat)
+- Research: Perplexity unavailable (key not set) — AMD move consistent with semis thesis, no investigation needed
+- **Deployment: 58.0% — still below 75-85% target. 2 positions available. Pre-market May 9: research new entries.**

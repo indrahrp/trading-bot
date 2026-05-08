@@ -321,3 +321,25 @@ Deployment: $41,295 / $108,140 = 38.2% (target 75-85%)
 **AMD: BUY** — 50 shares at market (~$425), stop $382.50 (10% trail GTC). All gates pass.
 **XOM: HOLD** — Iran clarity = oil bearish; analyst targets below current price.
 **AMZN/TXN: HOLD** — theses intact, stops live.
+
+## 2026-05-08 — Midday Addendum
+
+### Account
+- Equity: ~$109,690 | Cash: ~$46,097 (42.0%) | Deployment: ~58.0%
+- Daytrade count: 0 | Week trades: 1/3 (AMD entered May 7)
+
+### Open Positions Check
+| SYM  | P&L from Entry | Day Chg  | Action |
+|------|----------------|----------|--------|
+| AMD  | +5.98%         | +7.67%   | Hold — HWM $444.98, stop tracking at $400.48 |
+| AMZN | +4.85%         | +0.65%   | Hold — AWS thesis intact |
+| TXN  | +8.58%         | +1.74%   | Hold — Q1 beat thesis intact |
+
+### AMD Intraday Move (+7.67%)
+- AMD ran $408.46 → HWM $444.98 intraday; currently $439.78
+- No Perplexity available for news attribution; move consistent with ongoing semis sector momentum
+- 10% trailing stop auto-updated to $400.48 (HWM $444.98) — no manual intervention needed
+- +15% tighten threshold: $477.19 | +20% tighten threshold: $497.94 — not yet reached
+
+### Decision
+**HOLD all 3.** No cuts, no stop tightenings. AMD strong day supports thesis. Deployment 58% — 2 positions available. Pre-market May 9: research 2 candidates to close deployment gap.
