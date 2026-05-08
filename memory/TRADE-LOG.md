@@ -132,3 +132,16 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | AMD    | 50     | $414.95  | $414.28 | -$34 (-0.2%)     | 10% trail, HWM $414.19, stop $372.77 |
 | AMZN   | 78     | $260.30  | $274.58 | +$1,114 (+5.5%)  | 10% trail, HWM $278.56, stop $250.70 |
 | TXN    | 70     | $267.28  | $285.01 | +$1,241 (+6.6%)  | 10% trail, HWM $292.64, stop $263.38 |
+
+---
+
+### May 08 — EOD Snapshot (Day 10, Friday)
+**Portfolio:** $110,128.04 | **Cash:** $46,097.24 (41.9%) | **Day P&L:** +$2,489.74 (+2.31%) | **Phase P&L:** +$10,128.04 (+10.13%)
+
+| Ticker | Shares | Entry    | Close   | Day Chg  | Unrealized P&L         | Stop                                    |
+|--------|--------|----------|---------|----------|------------------------|-----------------------------------------|
+| AMD    | 50     | $414.95  | $455.11 | +11.42%  | +$2,008.00 (+9.68%)    | $410.66 (10% trail, HWM $456.29)        |
+| AMZN   | 78     | $260.30  | $272.45 | +0.47%   | +$947.48 (+4.67%)      | $250.70 (10% trail, HWM $278.56)        |
+| TXN    | 70     | $267.28  | $286.06 | +0.29%   | +$1,314.76 (+7.03%)    | $263.38 (10% trail, HWM $292.64)        |
+
+**Notes:** Strong recovery day led by AMD surging +11.42% on continued semiconductor momentum; AMD unrealized P&L flipped from -$372.50 yesterday to +$2,008.00 today with HWM updated to $456.29 and trailing stop now at $410.66. Portfolio crossed +10% phase gain milestone ($110,128). AMZN and TXN both held steady with modest gains (+0.47%, +0.29%). No trades today. 1/3 trades this week (AMD entered Thursday). Deployment still at 58.1% — below 75-85% target; 1-2 new positions needed. Stop tighten watch: AMD needs $477.19 (+15% from entry) to trigger 7% trail. All GTC trailing stops confirmed active.
