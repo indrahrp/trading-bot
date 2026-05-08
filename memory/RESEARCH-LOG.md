@@ -321,3 +321,56 @@ Deployment: $41,295 / $108,140 = 38.2% (target 75-85%)
 **AMD: BUY** — 50 shares at market (~$425), stop $382.50 (10% trail GTC). All gates pass.
 **XOM: HOLD** — Iran clarity = oil bearish; analyst targets below current price.
 **AMZN/TXN: HOLD** — theses intact, stops live.
+
+---
+
+## 2026-05-08 — Pre-market Research
+
+*Note: PERPLEXITY_API_KEY not set in environment; no .env file found. All market research via WebSearch fallback.*
+
+### Account
+- Equity: $108,310.24
+- Cash: $46,097.24 (42.5%)
+- Buying power: $154,407.48
+- Long market value: $62,213 | Deployment: 57.4% (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Week trades: 1/3 (AMD entered May 7)
+
+### Open Positions
+| SYM  | Shares | Entry    | Now     | Unrealized P&L        | Stop (GTC)                           |
+|------|--------|----------|---------|-----------------------|--------------------------------------|
+| AMD  | 50     | $414.95  | $414.60 | -$17.50 (-0.08%)      | 10% trail, HWM $421.71, stop $379.54 |
+| AMZN | 78     | $260.30  | $271.90 | +$904.58 (+4.46%)     | 10% trail, HWM $278.56, stop $250.70 |
+| TXN  | 70     | $267.28  | $289.64 | +$1,565.36 (+8.37%)   | 10% trail, HWM $292.64, stop $263.38 |
+
+### Market Context
+- WTI / Brent: $94.36 / $100.54 — elevated; Middle East tensions supporting prices; Iran talk progress pulling oil -2% premarket
+- S&P 500 futures: +0.37% to 7,364.61 premarket — mildly positive
+- VIX: 17.32 (−0.40%) — moderate/low volatility, constructive for equities
+- Today's catalysts: Iran peace talks progress; AI inference demand surge (Deloitte: 2/3 of global AI compute = inference by 2026); Magnificent 7 earnings beats driving index; 83% S&P 500 companies beat Q1 estimates by avg 11%
+- Earnings before open: BRK.B (est. $4.82 EPS), NCLH, TSN, CNA — no direct impact on held positions
+- Economic calendar: **April Jobs Report (NFP) at 8:30 AM ET** — major market mover; March NFP was +178K, unemployment 4.3%
+- Sector momentum YTD: Energy +22% (leader), Industrials, Materials, Consumer Staples in momentum; Tech recovering after AI selloff; Financials lagging
+
+### Held Ticker News
+- **AMD** $414.60 (+1.50% today): Q1 beat intact ($10.25B +38% YoY, DC +57%). Rackspace enterprise AI partnership. Two analysts raised PTs post-earnings. Thesis fully intact.
+- **AMZN** $271.90 (+0.27% today): Analyst consensus Strong Buy, avg PT $306 (vs ~$272 current = +12% upside). AWS AI thesis intact; supply chain services expansion; Amazon Pharmacy GLP-1 expansion. Near all-time highs.
+- **TXN** $289.64 (+1.54% today): Q1 beat (+18.6% YoY rev), BofA upgraded to Buy PT $320. BUT: **Heavy insider selling** — CEO Haviv Ilan sold ~$5.6M (May 4); SVP Mark Gary sold $3.8M; SVP Roberts sold $7.9M. Dividend $1.42/sh payable May 19.
+
+### Trade Ideas
+1. **NVDA** — Goldman Sachs Buy, expects beat+raise; $1T datacenter guidance upside; AI inference wave (2/3 of global AI compute). Entry ~$900-920 range, stop $820 (10%), target $1,100 (+20%), R:R ~2.0:1. **Risk**: adds semiconductor concentration (already hold AMD).
+2. **XLE (Energy ETF)** — Energy sector +22% YTD, WTI $94 / Brent $100 with persistent Middle East tensions. Diversified energy entry vs single-stock risk. Entry ~$95-97, stop $87 (10%), target $116 (+20%), R:R 2.0:1. **Risk**: Iran deal could accelerate oil decline.
+3. **Industrials (XLI or individual)** — Sector in YTD momentum, non-AI diversification, low semiconductor correlation. Need specific catalyst to qualify — defer to midday scan.
+
+### Risk Factors
+- **NFP at 8:30 AM today** — strong print = Fed hawkish → rate hike fears; weak print = recession fears. Either tail can gap market. Do NOT enter before release.
+- TXN: CEO + 2 SVPs all selling millions in May — insider distribution at highs; monitor for stop hit at $263.38 or thesis break
+- AMD: Unrealized loss (-$17.50) with stop at $379.54; stock must recapture HWM $421.71 to resume momentum
+- Semiconductor sector extended: INTC +170% YTD, AMD +16% post-earnings. Consolidation risk.
+- Deployment 57.4% — critically underdeployed; pressure to add 1-2 positions but patience > forcing trades
+
+### Decision
+- **AMD / AMZN / TXN: HOLD** — all stops live, theses intact. Monitor TXN insider selling.
+- **NEW POSITIONS: HOLD pending NFP** — await 8:30 AM jobs data; if positive reaction, evaluate NVDA entry (strongest catalyst, semis leadership). Maximum 1 new position today to stay at 2/3 weekly trades used.
+- **TXN watch**: If insider selling continues or stop approaches $263, prepare to exit early and redeploy to NVDA or energy.
+- **Deployment target**: Need ~$19K-$28K more deployed. 1 position at ~$20K brings to ~75%.
