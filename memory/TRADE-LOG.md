@@ -70,6 +70,16 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 
 ---
 
+### May 07 — EOD Snapshot (Day 9, Thursday)
+**Portfolio:** $107,626.34 | **Cash:** $46,097.24 (42.8%) | **Day P&L:** -$928.42 (-0.86%) | **Phase P&L:** +$7,626.34 (+7.63%)
+
+| Ticker | Shares | Entry    | Close   | Day Chg | Unrealized P&L        | Stop     |
+|--------|--------|----------|---------|---------|-----------------------|----------|
+| AMD    | 50     | $414.95  | $407.50 | -3.30%  | -$372.50 (-1.79%)     | $379.54 (10% trail, HWM $421.71) |
+| AMZN   | 78     | $260.30  | $270.95 | -1.47%  | +$830.48 (+4.09%)     | $250.70 (10% trail, HWM $278.56) |
+| TXN    | 70     | $267.28  | $286.00 | -1.19%  | +$1,310.56 (+7.01%)   | $263.38 (10% trail, HWM $292.64) |
+
+**Notes:** Down day across the board — AMD entered today at $414.95 (50sh) on post-earnings semis thesis; closed -3.30% at $407.50, now -1.79% from entry, well above -7% manual cut and -10% stop at $379.54. AMZN and TXN both pulled back modestly (-1.47%, -1.19%) but remain well above stops with positive unrealized P&L. Portfolio dipped -0.86% on the day, phase returns eased from 8.38% peak to +7.63%. Trades this week: 1/3 (AMD). Still underdeployed at 57.2% vs 75-85% target; cash $46K available for 1-2 more entries. Pre-market Friday: scan for 1 additional position to close deployment gap. All GTC trailing stops confirmed live.
 ### May 07 — New Entry: AMD
 | Field   | Value                                                   |
 |---------|---------------------------------------------------------|
