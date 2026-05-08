@@ -80,3 +80,55 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $286.00 | -1.19%  | +$1,310.56 (+7.01%)   | $263.38 (10% trail, HWM $292.64) |
 
 **Notes:** Down day across the board — AMD entered today at $414.95 (50sh) on post-earnings semis thesis; closed -3.30% at $407.50, now -1.79% from entry, well above -7% manual cut and -10% stop at $379.54. AMZN and TXN both pulled back modestly (-1.47%, -1.19%) but remain well above stops with positive unrealized P&L. Portfolio dipped -0.86% on the day, phase returns eased from 8.38% peak to +7.63%. Trades this week: 1/3 (AMD). Still underdeployed at 57.2% vs 75-85% target; cash $46K available for 1-2 more entries. Pre-market Friday: scan for 1 additional position to close deployment gap. All GTC trailing stops confirmed live.
+### May 07 — New Entry: AMD
+| Field   | Value                                                   |
+|---------|---------------------------------------------------------|
+| Symbol  | AMD                                                     |
+| Shares  | 50                                                      |
+| Entry   | $414.95                                                 |
+| Stop    | 10% trailing GTC (HWM $421.71, stop $379.54)           |
+| Thesis  | Q1 earnings beat (May 5 after close); semis momentum continuation; pre-planned entry from May 6 scan |
+| Week    | 1/3 trades this week                                    |
+
+---
+
+### May 07 — Midday Scan
+**Portfolio:** ~$107,505 | **Cash:** ~$46,097 (42.9%) | **Day P&L:** ~-$995 (-0.92%) | **Phase P&L:** ~+$7,505 (+7.50%)**
+
+#### Open Positions (midday)
+| Ticker | Shares | Entry   | Now     | Unreal P&L        | Stop                    |
+|--------|--------|---------|---------|-------------------|-------------------------|
+| AMD    | 50     | $414.95 | $405.67 | -$464 (-2.24%)    | 10% trail, HWM $421.71  |
+| AMZN   | 78     | $260.30 | $272.94 | +$986 (+4.86%)    | 10% trail, HWM $278.56  |
+| TXN    | 70     | $267.28 | $283.35 | +$1,125 (+6.01%)  | 10% trail, HWM $292.64  |
+
+**Actions:**
+- Losers: None — no position at -7% (AMD -2.24%, within range)
+- Stop tighten: None — AMD -2.24%, AMZN +4.86%, TXN +6.01% (all below +15% threshold)
+- Thesis: AMD intact (post-earnings semis momentum, stop provides risk control); AMZN intact (AWS); TXN intact (Q1 beat)
+- Research: Perplexity unavailable (key not set)
+- **Deployment: 57.1% — still below 75-85% target. 2 positions available. Watch for entries.**
+### May 07 — New Trade Entry
+
+#### Buy: AMD
+| Field        | Value                                                                                        |
+|--------------|----------------------------------------------------------------------------------------------|
+| Date         | 2026-05-07                                                                                   |
+| Ticker       | AMD                                                                                          |
+| Side         | BUY                                                                                          |
+| Shares       | 50                                                                                           |
+| Entry Price  | $414.95                                                                                      |
+| Stop Level   | $372.77 (10% trailing, HWM $414.19, order f91d16c7)                                         |
+| Thesis       | Q1 earnings beat ($10.25B +38% YoY, Data Center +57%, Q2 guide $11.2B above consensus); post-earnings semiconductor momentum; closes deployment gap |
+| Target       | $498 (+20%)                                                                                  |
+| R:R          | 2.0:1                                                                                        |
+| Week Trades  | 1/3                                                                                          |
+
+#### Portfolio After Trade
+**Equity:** ~$108,140 | **Cash:** ~$45,595 | **Deployment:** ~57.8% (↑ from 38.2%)
+
+| Ticker | Shares | Entry    | Now     | Unrealized P&L   | Stop                                 |
+|--------|--------|----------|---------|------------------|--------------------------------------|
+| AMD    | 50     | $414.95  | $414.28 | -$34 (-0.2%)     | 10% trail, HWM $414.19, stop $372.77 |
+| AMZN   | 78     | $260.30  | $274.58 | +$1,114 (+5.5%)  | 10% trail, HWM $278.56, stop $250.70 |
+| TXN    | 70     | $267.28  | $285.01 | +$1,241 (+6.6%)  | 10% trail, HWM $292.64, stop $263.38 |
