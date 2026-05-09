@@ -92,6 +92,25 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 
 ---
 
+### May 09 — Midday Scan (Saturday — market closed; prices = Friday May 8 close)
+**Portfolio:** ~$110,272 | **Cash:** ~$46,097 (41.8%) | **Deployment:** 58.2% | **Phase P&L:** ~+$10,272 (+10.27%)**
+
+#### Open Positions
+| Ticker | Shares | Entry   | Fri Close | Unreal P&L       | Stop                            |
+|--------|--------|---------|-----------|------------------|---------------------------------|
+| AMD    | 50     | $414.95 | $455.19   | +$2,012 (+9.70%) | 10% trail, HWM $456.29, stop $410.66 |
+| AMZN   | 78     | $260.30 | $272.68   | +$965 (+4.76%)   | 10% trail, HWM $278.56, stop $250.70 |
+| TXN    | 70     | $267.28 | $287.80   | +$1,437 (+7.68%) | 10% trail, HWM $292.64, stop $263.38 |
+
+**Actions:**
+- Losers: None — all positions positive. No cuts.
+- Stop tighten: None — AMD +9.70%, AMZN +4.76%, TXN +7.68% (all below +15% threshold)
+- Thesis: AMD intact (semis momentum, Friday +9.8% session — AMD ran from ~$414 to $455 on day); AMZN intact (AWS); TXN intact but heavy insider selling (CEO + 2 SVPs sold ~$17M combined in May) remains watch risk
+- Research: Market closed; no Perplexity (key not set)
+- **Deployment: 58.2% — still underdeployed vs 75-85% target. 1-2 positions needed. Pre-market Monday: evaluate new entries.**
+
+---
+
 ### May 07 — Midday Scan
 **Portfolio:** ~$107,505 | **Cash:** ~$46,097 (42.9%) | **Day P&L:** ~-$995 (-0.92%) | **Phase P&L:** ~+$7,505 (+7.50%)**
 
