@@ -374,3 +374,50 @@ Deployment: $41,295 / $108,140 = 38.2% (target 75-85%)
 - **NEW POSITIONS: HOLD pending NFP** — await 8:30 AM jobs data; if positive reaction, evaluate NVDA entry (strongest catalyst, semis leadership). Maximum 1 new position today to stay at 2/3 weekly trades used.
 - **TXN watch**: If insider selling continues or stop approaches $263, prepare to exit early and redeploy to NVDA or energy.
 - **Deployment target**: Need ~$19K-$28K more deployed. 1 position at ~$20K brings to ~75%.
+
+---
+
+## 2026-05-10 — Weekend Research (Next trading day: Monday May 11)
+*Market closed — Sunday. Data as of May 8 close. PERPLEXITY_API_KEY not set; no live web research.*
+
+### Account
+- Equity: $110,271.78
+- Cash: $46,097.24 (41.8%)
+- Buying power: $156,369.02
+- Long market value: $64,174.54 | Deployment: 58.2% (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (new week — resets Monday May 11)
+
+### Open Positions (May 8 closing prices)
+| SYM  | Shares | Entry   | Close (5/8) | Unrealized P&L   | Stop (GTC live)                       |
+|------|--------|---------|-------------|------------------|---------------------------------------|
+| AMD  | 50     | $414.95 | $455.19     | +$2,012 (+9.70%) | 10% trail, HWM $456.29, stop $410.66  |
+| AMZN | 78     | $260.30 | $272.68     | +$965 (+4.76%)   | 10% trail, HWM $278.56, stop $250.70  |
+| TXN  | 70     | $267.28 | $287.80     | +$1,437 (+7.68%) | 10% trail, HWM $292.64, stop $263.38  |
+
+Deployment: $64,175 / $110,272 = 58.2% (need ~$18–$29k to reach 75–85%)
+
+### Thesis Check
+- **AMD**: +9.70% from entry; HWM $456.29 reached May 8 on post-earnings semis momentum. 10% trail active at $410.66. Watch $477.19 (+15%) for tighten-to-7% trigger. Thesis intact.
+- **AMZN**: +4.76% from entry; below HWM $278.56. AWS AI infra thesis intact. Stop unchanged at $250.70.
+- **TXN**: +7.68% from entry; below HWM $292.64. Q1 beat thesis intact; ongoing SVP + CEO insider selling ($5.6M CEO + $11.7M SVPs in May) is a watch item. Stop at $263.38.
+
+### Trade Ideas for Monday May 11
+1. **NVDA** — AI inference wave dominant catalyst; Goldman Sachs Buy; $1T datacenter guidance upside. Entry ~$900–920, stop $820 (10%), target $1,100 (+20%), R:R ~2.0:1. Risk: semiconductor concentration (AMD already held). **PRIORITY CANDIDATE — execute if open confirms semis strength.**
+2. **XLE (Energy ETF)** — Energy sector YTD leader (+22%), WTI $94/Brent $100 elevated on Middle East tensions. Entry ~$95–97, stop $87 (10%), target $116 (+20%), R:R ~2.0:1. Risk: Iran deal acceleration could unwind oil premium. **Secondary candidate — diversifies away from tech/semis.**
+3. **Industrials (XLI)** — Sector in YTD momentum, low semis correlation. Needs fresh catalyst. Defer to midday scan if no NVDA entry.
+
+### Risk Factors
+- TXN insider distribution (CEO + 2 SVPs, millions in May) — potential early exit signal
+- AMD approaching +15% tighten threshold ($477) — rapid stop tightening risk on volatility
+- Semiconductor sector extended (INTC stopped out +31.87%, AMD +9.7%, TXN +7.7%); rotation possible
+- May seasonality: avg +0.9%, 68% gain frequency — not strongly negative but patience required
+- No Perplexity access for live catalyst verification; all research carries Friday data
+
+### Decision
+**MARKET CLOSED — no trades today (Sunday).**
+**Monday May 11:**
+- Evaluate NVDA entry at open if semiconductor sector confirms strength
+- Max 1 new position to preserve 2 slots for week
+- AMZN/TXN/AMD: HOLD — all stops live, theses intact
+- TXN: exit early only if stop breached ($263.38) or insider thesis breaks materially
