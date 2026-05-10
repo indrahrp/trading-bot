@@ -132,3 +132,16 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | AMD    | 50     | $414.95  | $414.28 | -$34 (-0.2%)     | 10% trail, HWM $414.19, stop $372.77 |
 | AMZN   | 78     | $260.30  | $274.58 | +$1,114 (+5.5%)  | 10% trail, HWM $278.56, stop $250.70 |
 | TXN    | 70     | $267.28  | $285.01 | +$1,241 (+6.6%)  | 10% trail, HWM $292.64, stop $263.38 |
+
+---
+
+### May 10 — EOD Snapshot (Day 10, Sunday)
+**Portfolio:** $110,271.78 | **Cash:** $46,097.24 (41.8%) | **Day P&L:** +$2,645.44 (+2.46%) [covers May 08 Fri — last trading day; May 08 EOD not captured] | **Phase P&L:** +$10,271.78 (+10.27%)
+
+| Ticker | Shares | Entry    | Close   | Day Chg  | Unrealized P&L        | Stop                                     |
+|--------|--------|----------|---------|----------|-----------------------|------------------------------------------|
+| AMD    | 50     | $414.95  | $455.19 | +11.72%  | +$2,012.00 (+9.70%)   | 10% trail, HWM $456.29, stop $410.66    |
+| AMZN   | 78     | $260.30  | $272.68 | +0.64%   | +$965.42 (+4.76%)     | 10% trail, HWM $278.56, stop $250.70    |
+| TXN    | 70     | $267.28  | $287.80 | +0.63%   | +$1,436.56 (+7.68%)   | 10% trail, HWM $292.64, stop $263.38    |
+
+**Notes:** Weekend check-in; May 08 EOD was not captured on Friday. AMD surged +11.72% on Friday May 08 (lifted by semis momentum/macro tailwinds), bringing phase P&L to +10.27%. HWM on AMD updated to $456.29, stop tightened to $410.66 — still below +15% entry-gain threshold so trail remains at 10%. AMZN and TXN modest gains on the week. Portfolio still underdeployed at 58.2% vs 75-85% target; $46K cash available for 1-2 new positions. Trades this week: 1/3 (AMD entered May 07). Pre-market Monday: scan for 1-2 entries to close deployment gap; watch AMD at +15% (+$62.24 from entry, target ~$477) for trail tighten trigger.
