@@ -132,3 +132,22 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | AMD    | 50     | $414.95  | $414.28 | -$34 (-0.2%)     | 10% trail, HWM $414.19, stop $372.77 |
 | AMZN   | 78     | $260.30  | $274.58 | +$1,114 (+5.5%)  | 10% trail, HWM $278.56, stop $250.70 |
 | TXN    | 70     | $267.28  | $285.01 | +$1,241 (+6.6%)  | 10% trail, HWM $292.64, stop $263.38 |
+
+---
+
+### May 10 — Midday Scan (Weekend Check)
+**Portfolio:** $110,271.78 | **Cash:** $46,097.24 (41.8%) | **Phase P&L:** +$10,271.78 (+10.27%)
+
+*Market closed (Sunday). Prices are Friday May 8 close.*
+
+| Ticker | Shares | Entry   | Close   | Unrealized P&L       | Stop                                  |
+|--------|--------|---------|---------|----------------------|---------------------------------------|
+| AMD    | 50     | $414.95 | $455.19 | +$2,012 (+9.70%)     | 10% trail, HWM $456.29, stop $410.66 |
+| AMZN   | 78     | $260.30 | $272.68 | +$965 (+4.76%)       | 10% trail, HWM $278.56, stop $250.70 |
+| TXN    | 70     | $267.28 | $287.80 | +$1,437 (+7.68%)     | 10% trail, HWM $292.64, stop $263.38 |
+
+**Actions:**
+- Losers: None — all positions positive
+- Stop tighten: None — AMD +9.70%, AMZN +4.76%, TXN +7.68% (all below +15% threshold)
+- Thesis: AMD intact (AI/semis momentum, HWM $456.29); AMZN intact (AWS); TXN intact (Q1 beat, monitor insider selling)
+- **Deployment: 58.2% — below 75-85% target. Pre-market Monday: evaluate NVDA and/or energy entry.**
