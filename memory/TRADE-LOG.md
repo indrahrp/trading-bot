@@ -1,19 +1,22 @@
 # Trade Log
 
 ## Day 0 — EOD Snapshot (pre-launch baseline)
-**Portfolio:** $10,000.00 | **Cash:** $10,000.00 (100%) | **Day P&L:** $0 | **Phase P&L:** $0
+**Portfolio:** $100,000.00 | **Cash:** $100,000.00 (100%) | **Day P&L:** $0 | **Phase P&L:** $0
 
+No positions yet. Bot launches tomorrow. (Alpaca paper account funded at $100k.)
 No positions yet. Bot launches tomorrow.
 
 ---
 
 ### Apr 27 — EOD Snapshot (Day 1, Monday)
+**Portfolio:** $100,000.00 | **Cash:** $100,000.00 (100%) | **Day P&L:** $0 (0.00%) | **Phase P&L:** $0 (0.00%)
 **Portfolio:** $100,000.00 | **Cash:** $100,000.00 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
 
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 |--------|--------|-------|-------|---------|----------------|------|
 | —      | —      | —     | —     | —       | —              | —    |
 
+**Notes:** Day 1, first live trading day. Market open but no positions entered — bot is in pre-deployment research phase. Account confirmed active on Alpaca paper trading with $100,000 equity (corrected from $10k placeholder in Day 0 log). Zero trades executed, zero open positions, zero open orders. Tomorrow: conduct pre-market scan, identify 1-2 candidates with strong catalysts and sector momentum, target 75-85% deployment across 3-5 positions within the week.
 **Notes:** Day 1 of the challenge. Account confirmed active at $100,000 paper equity (note: TRADE-LOG Day 0 baseline was a pre-funding estimate of $10,000; resetting phase baseline to actual funded equity of $100,000). No positions entered today — no signals met entry criteria. Cash 100% deployed into dry powder. Market scan pending tomorrow pre-market for first entries.
 
 ---
@@ -92,6 +95,25 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 
 ---
 
+### May 09 — Midday Scan (Saturday — market closed; prices = Friday May 8 close)
+**Portfolio:** ~$110,272 | **Cash:** ~$46,097 (41.8%) | **Deployment:** 58.2% | **Phase P&L:** ~+$10,272 (+10.27%)**
+
+#### Open Positions
+| Ticker | Shares | Entry   | Fri Close | Unreal P&L       | Stop                            |
+|--------|--------|---------|-----------|------------------|---------------------------------|
+| AMD    | 50     | $414.95 | $455.19   | +$2,012 (+9.70%) | 10% trail, HWM $456.29, stop $410.66 |
+| AMZN   | 78     | $260.30 | $272.68   | +$965 (+4.76%)   | 10% trail, HWM $278.56, stop $250.70 |
+| TXN    | 70     | $267.28 | $287.80   | +$1,437 (+7.68%) | 10% trail, HWM $292.64, stop $263.38 |
+
+**Actions:**
+- Losers: None — all positions positive. No cuts.
+- Stop tighten: None — AMD +9.70%, AMZN +4.76%, TXN +7.68% (all below +15% threshold)
+- Thesis: AMD intact (semis momentum, Friday +9.8% session — AMD ran from ~$414 to $455 on day); AMZN intact (AWS); TXN intact but heavy insider selling (CEO + 2 SVPs sold ~$17M combined in May) remains watch risk
+- Research: Market closed; no Perplexity (key not set)
+- **Deployment: 58.2% — still underdeployed vs 75-85% target. 1-2 positions needed. Pre-market Monday: evaluate new entries.**
+
+---
+
 ### May 07 — Midday Scan
 **Portfolio:** ~$107,505 | **Cash:** ~$46,097 (42.9%) | **Day P&L:** ~-$995 (-0.92%) | **Phase P&L:** ~+$7,505 (+7.50%)**
 
@@ -160,3 +182,23 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | AMD    | 50     | $414.95  | $459.44 | +$2,225 (+10.7%)  | 10% trail, HWM $467.68, stop $420.91  |
 | AMZN   | 78     | $260.30  | $274.38 | +$886 (+4.4%)     | 10% trail, HWM $278.56, stop $250.70  |
 | TXN    | 70     | $267.28  | $306.45 | +$2,744 (+14.6%)  | 10% trail, HWM $295.90, stop $266.31  |
+### May 10 — EOD Snapshot (Day 10, Sunday)
+**Portfolio:** $110,271.78 | **Cash:** $46,097.24 (41.8%) | **Day P&L:** +$2,645.44 (+2.46%) [covers May 08 Fri — last trading day; May 08 EOD not captured] | **Phase P&L:** +$10,271.78 (+10.27%)
+
+| Ticker | Shares | Entry    | Close   | Day Chg  | Unrealized P&L        | Stop                                     |
+|--------|--------|----------|---------|----------|-----------------------|------------------------------------------|
+| AMD    | 50     | $414.95  | $455.19 | +11.72%  | +$2,012.00 (+9.70%)   | 10% trail, HWM $456.29, stop $410.66    |
+| AMZN   | 78     | $260.30  | $272.68 | +0.64%   | +$965.42 (+4.76%)     | 10% trail, HWM $278.56, stop $250.70    |
+| TXN    | 70     | $267.28  | $287.80 | +0.63%   | +$1,436.56 (+7.68%)   | 10% trail, HWM $292.64, stop $263.38    |
+
+**Notes:** Weekend check-in; May 08 EOD was not captured on Friday. AMD surged +11.72% on Friday May 08 (lifted by semis momentum/macro tailwinds), bringing phase P&L to +10.27%. HWM on AMD updated to $456.29, stop tightened to $410.66 — still below +15% entry-gain threshold so trail remains at 10%. AMZN and TXN modest gains on the week. Portfolio still underdeployed at 58.2% vs 75-85% target; $46K cash available for 1-2 new positions. Trades this week: 1/3 (AMD entered May 07). Pre-market Monday: scan for 1-2 entries to close deployment gap; watch AMD at +15% (+$62.24 from entry, target ~$477) for trail tighten trigger.
+### May 08 — EOD Snapshot (Day 10, Friday)
+**Portfolio:** $110,128.04 | **Cash:** $46,097.24 (41.9%) | **Day P&L:** +$2,489.74 (+2.31%) | **Phase P&L:** +$10,128.04 (+10.13%)
+
+| Ticker | Shares | Entry    | Close   | Day Chg  | Unrealized P&L         | Stop                                    |
+|--------|--------|----------|---------|----------|------------------------|-----------------------------------------|
+| AMD    | 50     | $414.95  | $455.11 | +11.42%  | +$2,008.00 (+9.68%)    | $410.66 (10% trail, HWM $456.29)        |
+| AMZN   | 78     | $260.30  | $272.45 | +0.47%   | +$947.48 (+4.67%)      | $250.70 (10% trail, HWM $278.56)        |
+| TXN    | 70     | $267.28  | $286.06 | +0.29%   | +$1,314.76 (+7.03%)    | $263.38 (10% trail, HWM $292.64)        |
+
+**Notes:** Strong recovery day led by AMD surging +11.42% on continued semiconductor momentum; AMD unrealized P&L flipped from -$372.50 yesterday to +$2,008.00 today with HWM updated to $456.29 and trailing stop now at $410.66. Portfolio crossed +10% phase gain milestone ($110,128). AMZN and TXN both held steady with modest gains (+0.47%, +0.29%). No trades today. 1/3 trades this week (AMD entered Thursday). Deployment still at 58.1% — below 75-85% target; 1-2 new positions needed. Stop tighten watch: AMD needs $477.19 (+15% from entry) to trigger 7% trail. All GTC trailing stops confirmed active.

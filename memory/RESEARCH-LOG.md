@@ -425,3 +425,56 @@ Deployment: $64,783 / $110,881 = 58.4% (target 75-85%)
 ### Decision
 **NVDA: BUY 101 shares at market** — closes deployment gap to 78.2%, all gates pass.
 **AMD / AMZN / TXN: HOLD** — theses intact, stops live, no tightenings needed.
+## 2026-05-11 — Pre-market Research
+
+*Note: PERPLEXITY_API_KEY not set in environment; all market research via WebSearch fallback.*
+
+### Account
+- Equity: $110,791.42
+- Cash: $46,097.24 (41.6%)
+- Buying power: $156,888.66
+- Long market value: $64,694.18 | Deployment: 58.4% (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Week trades: 0/3 (new week — last trade AMD May 7)
+- Phase P&L: +$10,791.42 (+10.79%)
+
+### Open Positions
+| SYM  | Shares | Entry    | Now     | Unrealized P&L        | Stop (GTC)                            |
+|------|--------|----------|---------|-----------------------|---------------------------------------|
+| AMD  | 50     | $414.95  | $467.25 | +$2,615 (+12.60%)     | 10% trail, HWM $456.29, stop $410.66  |
+| AMZN | 78     | $260.30  | $270.66 | +$807.86 (+3.98%)     | 10% trail, HWM $278.56, stop $250.70  |
+| TXN  | 70     | $267.28  | $288.86 | +$1,510.76 (+8.08%)   | 10% trail, HWM $292.64, stop $263.38  |
+
+### Market Context
+- **WTI / Brent**: ~$98-100 / $103.79 (+2.47%) — oil elevated; weekend Iran peace talks broke down (Trump rejected proposal), removing near-term downward pressure on oil
+- **S&P 500 futures**: -0.09% (roughly flat); Polymarket showing only 38% chance of up open; risk-off mood from Iran breakdown
+- **VIX**: 17.19 (+0.64%) — moderate; trending up slightly from 17.08 Friday; manageable but rising
+- **Week catalysts**: **CPI Tuesday May 12** (headline +3.7% YoY est., core +2.7%) is the key market-moving event; **PPI Wednesday May 13**; Fed Chair transition (Powell term ends May 15, Warsh confirmation expected); Trump-Xi summit May 14-15 (trade tensions)
+- **Earnings this week**: CSCO Wed (EPS est $0.92); AMAT Wed; POET surging 14% premarket ahead of earnings Mon. No direct impact on held positions.
+- **Sector momentum YTD**: Energy +30.7% (leader), Consumer Staples / Industrials / Materials in momentum; Tech/Semis recovering but cooling; Financials lagging; overall S&P 500 +6% YTD
+- **S&P 500**: Broke above 7,300 for first time, six-week winning streak — but CPI/geopolitics create near-term uncertainty
+
+### Held Ticker News
+- **AMD** $467.25 (+2.65% Friday): YTD +112%. Q1 beat intact ($10.3B +38%, DC +57%). Management doubled 2030 server CPU TAM estimate to $120B; Goldman Sachs PT raised to $450 (stock has *exceeded* this). Motley Fool: "Not too late to buy." Thesis very intact. **Critical: approaching +15% tighten threshold at $477.19** — watch at open.
+- **AMZN** $270.66 (-0.74% Friday): YTD +19.7%. AWS AI dominance, $200B capex plan, advertising +24% YoY, custom chip advantage (Graviton/Trainium). Second-best Magnificent 7 YTD. Thesis intact.
+- **TXN** $288.86 (+0.37% Friday): Near 52-week high of $292.64. AI demand + easing geopolitical tensions cited as drivers. Nicholas Company increased stake (bullish institutional signal). Earlier insider selling (CEO/SVPs in May) remains a risk to monitor. Thesis intact but watch $292.64 resistance.
+
+### Trade Ideas
+1. **XLE (Energy ETF)** — Energy sector +30.7% YTD, Brent $103.79, Iran breakdown sustains oil premium. Sector in clear momentum per strategy rules. Entry ~$98-101, stop $88-91 (10% trail), target $118-121 (+20%), R:R ~2.0:1. Closes deployment gap with diversification away from semis. **Risk**: any Iran/OPEC supply surprise could reverse oil sharply; CPI hot print = demand destruction fear.
+2. **XLI (Industrials ETF)** — Sector in YTD momentum, low semiconductor correlation, fundamental diversification. No single-stock catalyst risk. Entry ~$135, stop $121 (10%), target $162 (+20%). **Risk**: tariff/trade war escalation at Trump-Xi summit May 14-15 could hurt industrials.
+3. **NVDA** — AI inference wave catalyst still strongest in semis; data center demand; Goldman Buy-rated. But AMD already held — adds sector concentration. Defer unless AMD stop is hit.
+
+### Risk Factors
+- **CPI Tuesday May 12**: Hot print (>3.7% headline) → Fed hawkish repricing → rate spike, equity selloff. Do NOT add positions before CPI release.
+- **Iran peace talks collapsed**: Oil elevated Monday; Brent $103.79 supports energy longs but risk-off for broader equities
+- **Fed Chair transition**: Warsh replacing Powell (May 15) → policy uncertainty; market may price in hawkish pivot
+- **Trump-Xi summit May 14-15**: Trade escalation risk; industrials and tech exposed
+- **AMD tighten trigger $477.19**: At open, AMD +12.60% — if price continues, crosses +15% threshold quickly; must tighten trail to 7% when reached
+- **TXN $292.64 resistance**: Near 52-week high; may stall; insider distribution risk from prior month
+
+### Decision
+- **AMD: HOLD + WATCH** — tighten trail to 7% if/when price hits $477.19 (+15% from entry)
+- **AMZN: HOLD** — thesis intact, stop live, no action
+- **TXN: HOLD** — approaching 52-week high resistance; thesis intact but monitor; stop at $263.38
+- **NEW POSITIONS: HOLD until post-CPI** — wait for Tuesday May 12 CPI data before adding; if benign (≤3.7% headline, ≤2.7% core), evaluate XLE entry to close deployment gap (1 position, max $22K ≈ 20% of equity)
+- **Deployment**: 58.4% — underdeployed but CPI uncertainty justifies patience. Target: 1 new position post-CPI to reach ~75%.
