@@ -202,3 +202,23 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $286.06 | +0.29%   | +$1,314.76 (+7.03%)    | $263.38 (10% trail, HWM $292.64)        |
 
 **Notes:** Strong recovery day led by AMD surging +11.42% on continued semiconductor momentum; AMD unrealized P&L flipped from -$372.50 yesterday to +$2,008.00 today with HWM updated to $456.29 and trailing stop now at $410.66. Portfolio crossed +10% phase gain milestone ($110,128). AMZN and TXN both held steady with modest gains (+0.47%, +0.29%). No trades today. 1/3 trades this week (AMD entered Thursday). Deployment still at 58.1% — below 75-85% target; 1-2 new positions needed. Stop tighten watch: AMD needs $477.19 (+15% from entry) to trigger 7% trail. All GTC trailing stops confirmed active.
+
+---
+
+### May 11 — Midday Scan
+**Portfolio:** $111,624.47 | **Cash:** $24,075.66 (21.6%) | **Deployment:** 78.4% ✓ | **Day P&L:** +$1,352.69 (+1.23%) | **Phase P&L:** +$11,624.47 (+11.62%)**
+
+#### Open Positions (midday)
+| Ticker | Shares | Entry   | Now     | Unreal P&L        | Stop                             |
+|--------|--------|---------|---------|-------------------|----------------------------------|
+| AMD    | 50     | $414.95 | $465.17 | +$2,511 (+12.10%) | 10% trail, HWM $467.68, stop $420.91 |
+| AMZN   | 78     | $260.30 | $272.91 | +$983 (+4.84%)    | 10% trail, HWM $278.56, stop $250.70 |
+| NVDA   | 101    | $218.04 | $221.85 | +$385 (+1.75%)    | 10% trail, HWM $222.29, stop $200.06 |
+| TXN    | 70     | $267.28 | $294.01 | +$1,871 (+10.00%) | 10% trail, HWM $296.30, stop $266.67 |
+
+**Actions:**
+- Losers: None — all 4 positive. No cuts.
+- Stop tighten: None — AMD +12.1% (need $477.19 for +15%), TXN +10.0% (need $307.37), AMZN +4.84%, NVDA +1.75%
+- Thesis: All 4 intact — semis/AI (AMD, NVDA), AWS (AMZN), analog recovery (TXN)
+- Research: Perplexity unavailable (key not set)
+- **Deployment: 78.4% — within 75-85% target ✓ (NVDA entry this morning closed the gap)**
