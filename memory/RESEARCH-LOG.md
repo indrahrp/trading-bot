@@ -374,3 +374,54 @@ Deployment: $41,295 / $108,140 = 38.2% (target 75-85%)
 - **NEW POSITIONS: HOLD pending NFP** — await 8:30 AM jobs data; if positive reaction, evaluate NVDA entry (strongest catalyst, semis leadership). Maximum 1 new position today to stay at 2/3 weekly trades used.
 - **TXN watch**: If insider selling continues or stop approaches $263, prepare to exit early and redeploy to NVDA or energy.
 - **Deployment target**: Need ~$19K-$28K more deployed. 1 position at ~$20K brings to ~75%.
+
+---
+
+## 2026-05-11 — Pre-market Research (inline, market-open workflow)
+
+### Account
+- Equity: $110,880.55
+- Cash: $46,097.24 (41.6%) — UNDERDEPLOYED vs 75-85% target
+- Buying power: $156,977.79
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (fresh weekly cap — new week May 11–15)
+
+### Open Positions
+| SYM  | Shares | Entry   | Live Ask  | P&L              | Stop (GTC, live)                    |
+|------|--------|---------|-----------|------------------|-------------------------------------|
+| AMD  | 50     | $414.95 | $459.44   | +$2,204 (+10.6%) | 10% trail, HWM $467.68, stop $420.91 |
+| AMZN | 78     | $260.30 | $274.38   | +$886 (+4.4%)    | 10% trail, HWM $278.56, stop $250.70 |
+| TXN  | 70     | $267.28 | $306.45   | +$1,958 (+10.5%) | 10% trail, HWM $295.90, stop $266.31 |
+
+Deployment: $64,783 / $110,881 = 58.4% (target 75-85%)
+
+### Market Context
+- PERPLEXITY_API_KEY not set — live Alpaca quotes only
+- May 08 NFP data released Friday; market reaction consistent with positive outlook (portfolio +$608 Friday)
+- NVDA: $217.50 ask — AI inference demand remains structural catalyst (Goldman Sachs Buy; 2/3 of global AI compute = inference by 2026; datacenter capex cycle intact)
+- AMD: HWM $467.68 (up from $421.71 entry-day HWM); trailing stop auto-updated to $420.91
+- TXN: HWM $295.90 (approaching +10.5% from entry); insider selling (CEO, 2 SVPs) remains a watch item
+
+### Thesis Check on Held Positions
+- **AMD**: +10.6% from entry; 10% trail HWM $467.68. Q1 beat, semis momentum. Intact — hold.
+- **AMZN**: +4.4% from entry; 10% trail HWM $278.56. AWS AI thesis intact. Hold.
+- **TXN**: +10.5% from entry; 10% trail HWM $295.90. Q1 beat thesis intact; monitor insider selling. Hold.
+
+### Stop Tighten Check
+- AMD +10.6%: below +15% threshold ($477.19) — no tighten
+- TXN +10.5%: below +15% threshold ($307.37) — no tighten
+- AMZN +4.4%: well below threshold — no tighten
+
+### Trade Ideas
+1. **NVDA** — Goldman Sachs Buy; AI inference wave (2/3 global AI compute); datacenter capex supercycle; sector momentum (semis leading). Entry ~$217.50 ask, stop $195.75 (-10%), target $261 (+20%), R:R 2.0:1. Brings deployment to ~78.2% (target range). **EXECUTE.**
+2. **XLE** — Energy ETF; at $56.57. Iran deal progress = oil bearish; weaker structural thesis vs NVDA. **SKIP.**
+
+### Risk Factors
+- Semiconductor concentration: AMD + NVDA both in semis → correlated drawdown risk
+- AMD stop at $420.91 = ~8.5% downside; NVDA stop at $195.75 = 10% downside
+- TXN insider distribution ongoing
+- No Perplexity — limited intraday news awareness
+
+### Decision
+**NVDA: BUY 101 shares at market** — closes deployment gap to 78.2%, all gates pass.
+**AMD / AMZN / TXN: HOLD** — theses intact, stops live, no tightenings needed.
