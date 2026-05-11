@@ -157,6 +157,31 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 
 ---
 
+### May 11 — New Trade Entry
+
+#### Buy: NVDA
+| Field        | Value                                                                                        |
+|--------------|----------------------------------------------------------------------------------------------|
+| Date         | 2026-05-11                                                                                   |
+| Ticker       | NVDA                                                                                         |
+| Side         | BUY                                                                                          |
+| Shares       | 101                                                                                          |
+| Entry Price  | $218.04                                                                                      |
+| Stop Level   | $196.30 (10% trailing GTC, HWM $218.11, order 3adf28ac)                                     |
+| Thesis       | AI inference demand supercycle (2/3 global AI compute = inference by 2026); Goldman Sachs Buy; datacenter capex cycle intact; semis sector leading |
+| Target       | $261.64 (+20%)                                                                               |
+| R:R          | 2.0:1                                                                                        |
+| Week Trades  | 1/3                                                                                          |
+
+#### Portfolio After Trade
+**Equity:** ~$110,881 | **Cash:** ~$24,065 | **Deployment:** ~78.2% (target 75-85% ✓)
+
+| Ticker | Shares | Entry    | Now     | Unrealized P&L    | Stop                                  |
+|--------|--------|----------|---------|-------------------|---------------------------------------|
+| NVDA   | 101    | $218.04  | $218.14 | +$11 (+0.05%)     | 10% trail, HWM $218.11, stop $196.30  |
+| AMD    | 50     | $414.95  | $459.44 | +$2,225 (+10.7%)  | 10% trail, HWM $467.68, stop $420.91  |
+| AMZN   | 78     | $260.30  | $274.38 | +$886 (+4.4%)     | 10% trail, HWM $278.56, stop $250.70  |
+| TXN    | 70     | $267.28  | $306.45 | +$2,744 (+14.6%)  | 10% trail, HWM $295.90, stop $266.31  |
 ### May 10 — EOD Snapshot (Day 10, Sunday)
 **Portfolio:** $110,271.78 | **Cash:** $46,097.24 (41.8%) | **Day P&L:** +$2,645.44 (+2.46%) [covers May 08 Fri — last trading day; May 08 EOD not captured] | **Phase P&L:** +$10,271.78 (+10.27%)
 
