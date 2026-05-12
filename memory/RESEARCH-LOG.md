@@ -478,3 +478,45 @@ Deployment: $64,783 / $110,881 = 58.4% (target 75-85%)
 - **TXN: HOLD** — approaching 52-week high resistance; thesis intact but monitor; stop at $263.38
 - **NEW POSITIONS: HOLD until post-CPI** — wait for Tuesday May 12 CPI data before adding; if benign (≤3.7% headline, ≤2.7% core), evaluate XLE entry to close deployment gap (1 position, max $22K ≈ 20% of equity)
 - **Deployment**: 58.4% — underdeployed but CPI uncertainty justifies patience. Target: 1 new position post-CPI to reach ~75%.
+
+## 2026-05-12 — Midday Scan
+
+### Account (approx)
+- Equity: ~$108,700 | Cash: ~$24,065 (~22%)
+- Deployment: ~78% (4 positions; target 75-85% ✓)
+- Phase P&L: +$8,700 (+8.70%)
+
+### CPI Release (April 2026, released May 12)
+- **Headline: +3.8% YoY** (est. +3.7%) — HOT PRINT
+- **Core: +2.8% YoY** (est. +2.7%) — above estimate
+- Monthly CPI: +0.6% MoM
+- Market implication: No Fed cuts in 2026; first cut pushed to H2 2027 (BofA). USD strength, equity selloff across semis/tech.
+
+### Open Positions — Midday
+| SYM  | Shares | Entry   | Now     | Day Chg | P&L               | Stop (GTC, live)                       |
+|------|--------|---------|---------|---------|-------------------|----------------------------------------|
+| NVDA | 101    | $218.04 | $218.07 | -0.62%  | +$3 (+0.02%)      | 10% trail, HWM $223.75, stop $201.38   |
+| AMD  | 50     | $414.95 | $434.81 | -5.23%  | +$993 (+4.79%)    | 10% trail, HWM $469.21, stop $422.29   |
+| AMZN | 78     | $260.30 | $264.71 | -1.59%  | +$344 (+1.69%)    | 10% trail, HWM $278.56, stop $250.70   |
+| TXN  | 70     | $267.28 | $289.01 | -2.94%  | +$1,521 (+8.13%)  | 10% trail, HWM $298.18, stop $268.36   |
+
+### Step 3 — Cut Losers
+- All positions positive from entry. No cuts.
+
+### Step 4 — Stop Tightenings
+- AMD +4.79%: below +15% threshold ($477.19). No action.
+- AMZN +1.69%: below +15% threshold. No action.
+- NVDA +0.02%: below +15% threshold. No action.
+- TXN +8.13%: below +15% threshold ($307.37). No action.
+
+### Step 5 — Thesis Check
+- **AMD**: -5.23% intraday (macro/rate-driven, not AMD-specific). "Changing of the guard in AI" narrative toward AMD/Intel (CNBC). Q1 beat thesis intact. HOLD.
+- **AMZN**: -1.59% intraday. AWS AI thesis intact. HOLD.
+- **NVDA**: -0.62%. AI inference demand structural; Goldman Buy intact. HOLD.
+- **TXN**: -2.94%. Q1 beat thesis intact; insider selling ongoing watch item. HOLD.
+- No thesis breaks. Pullback entirely macro/CPI-driven.
+
+### Decision
+- **All positions: HOLD** — theses intact, stops live, no -7% triggered.
+- **No new entries** — hot CPI (3.8% > 3.7% est.) confirmed pre-market risk flag; pause deployment. Resume scan when inflation data stabilizes (watch PPI Wed May 13).
+- PERPLEXITY_API_KEY not set — WebSearch used for CPI/market context.

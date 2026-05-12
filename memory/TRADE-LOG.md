@@ -202,3 +202,22 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $286.06 | +0.29%   | +$1,314.76 (+7.03%)    | $263.38 (10% trail, HWM $292.64)        |
 
 **Notes:** Strong recovery day led by AMD surging +11.42% on continued semiconductor momentum; AMD unrealized P&L flipped from -$372.50 yesterday to +$2,008.00 today with HWM updated to $456.29 and trailing stop now at $410.66. Portfolio crossed +10% phase gain milestone ($110,128). AMZN and TXN both held steady with modest gains (+0.47%, +0.29%). No trades today. 1/3 trades this week (AMD entered Thursday). Deployment still at 58.1% — below 75-85% target; 1-2 new positions needed. Stop tighten watch: AMD needs $477.19 (+15% from entry) to trigger 7% trail. All GTC trailing stops confirmed active.
+
+---
+
+### May 12 — Midday Scan (CPI Day)
+**Portfolio (approx):** ~$108,700 | **Cash:** ~$24,065 | **Deployment:** ~78% | **Phase P&L:** +$8,700 (+8.70%)
+
+| Ticker | Shares | Entry    | Now     | Day Chg  | Unrealized P&L        | Stop (GTC, live)                          |
+|--------|--------|----------|---------|----------|-----------------------|-------------------------------------------|
+| NVDA   | 101    | $218.04  | $218.07 | -0.62%   | +$3 (+0.02%)          | 10% trail, HWM $223.75, stop $201.38     |
+| AMD    | 50     | $414.95  | $434.81 | -5.23%   | +$993 (+4.79%)        | 10% trail, HWM $469.21, stop $422.29     |
+| AMZN   | 78     | $260.30  | $264.71 | -1.59%   | +$344 (+1.69%)        | 10% trail, HWM $278.56, stop $250.70     |
+| TXN    | 70     | $267.28  | $289.01 | -2.94%   | +$1,521 (+8.13%)      | 10% trail, HWM $298.18, stop $268.36     |
+
+**Actions:** No trades. No stops tightened (no position ≥+15% from entry).
+- CPI April 2026: +3.8% YoY (est. +3.7%) / core +2.8% (est. +2.7%) — hot print confirmed. No rate cuts 2026; first cut pushed H2 2027.
+- Broad sector pullback (macro/rate repricing); all positions down intraday but well above stops.
+- Theses intact: AMD semis AI intact; AMZN AWS intact; NVDA AI inference intact; TXN Q1 beat intact.
+- No new entries — hot CPI per pre-market risk flag. Hold cash until macro stabilizes.
+- AMD HWM $469.21 (stop $422.29); current $434.81 — ~3% above stop, cushioned.
