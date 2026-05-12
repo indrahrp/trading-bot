@@ -202,3 +202,17 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $286.06 | +0.29%   | +$1,314.76 (+7.03%)    | $263.38 (10% trail, HWM $292.64)        |
 
 **Notes:** Strong recovery day led by AMD surging +11.42% on continued semiconductor momentum; AMD unrealized P&L flipped from -$372.50 yesterday to +$2,008.00 today with HWM updated to $456.29 and trailing stop now at $410.66. Portfolio crossed +10% phase gain milestone ($110,128). AMZN and TXN both held steady with modest gains (+0.47%, +0.29%). No trades today. 1/3 trades this week (AMD entered Thursday). Deployment still at 58.1% — below 75-85% target; 1-2 new positions needed. Stop tighten watch: AMD needs $477.19 (+15% from entry) to trigger 7% trail. All GTC trailing stops confirmed active.
+
+---
+
+### May 12 — EOD Snapshot (Day 12, Tuesday)
+**Portfolio:** $110,240.20 | **Cash:** $24,075.66 (21.8%) | **Day P&L:** -$762.82 (-0.69%) | **Phase P&L:** +$10,240.20 (+10.24%)
+
+| Ticker | Shares | Entry    | Close   | Day Chg | Unrealized P&L          | Stop                                    |
+|--------|--------|----------|---------|---------|-------------------------|-----------------------------------------|
+| AMD    | 50     | $414.95  | $449.49 | -2.03%  | +$1,727.00 (+8.32%)     | $422.29 (10% trail, HWM $469.21)        |
+| AMZN   | 78     | $260.30  | $267.00 | -0.74%  | +$522.38 (+2.57%)       | $250.70 (10% trail, HWM $278.56)        |
+| NVDA   | 101    | $218.04  | $220.08 | +0.29%  | +$206.46 (+0.94%)       | $201.38 (10% trail, HWM $223.75)        |
+| TXN    | 70     | $267.28  | $294.80 | -0.99%  | +$1,926.56 (+10.30%)    | $268.36 (10% trail, HWM $298.18)        |
+
+**Notes:** Broad market pullback today; portfolio down -$762.82 (-0.69%). AMD led losses at -2.03% despite HWM now $469.21 — trailing stop at $422.29 (well above cost basis). TXN -0.99% but approaching +15% gain trigger: needs $307.37 (+$12.57 from today's close) to tighten trail to 7%. NVDA up +0.29% on day 2; intact thesis. AMZN -0.74%, stop safe at $250.70. No stops triggered, no trades executed. Deployment 78.2% — squarely in 75-85% target range with 4 positions (cap is 5-6). Trades this week: 1/3 (NVDA May 11). Phase P&L +10.24% on Day 12. Watch TXN tomorrow for trail tighten trigger at $307.37.
