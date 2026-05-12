@@ -478,3 +478,44 @@ Deployment: $64,783 / $110,881 = 58.4% (target 75-85%)
 - **TXN: HOLD** — approaching 52-week high resistance; thesis intact but monitor; stop at $263.38
 - **NEW POSITIONS: HOLD until post-CPI** — wait for Tuesday May 12 CPI data before adding; if benign (≤3.7% headline, ≤2.7% core), evaluate XLE entry to close deployment gap (1 position, max $22K ≈ 20% of equity)
 - **Deployment**: 58.4% — underdeployed but CPI uncertainty justifies patience. Target: 1 new position post-CPI to reach ~75%.
+
+---
+
+## 2026-05-12 — Market-Open Research
+
+*Note: PERPLEXITY_API_KEY not set; CPI data via WebSearch fallback.*
+
+### Account
+- Equity: $110,399.67
+- Cash: $24,075.66 (21.8%)
+- Buying power: $134,475.33
+- Long market value: $86,324.01 | Deployment: 78.2% (target 75-85% ✓)
+- Daytrade count: 0 | PDT: false
+- Week trades: 1/3 (NVDA entered May 11)
+
+### Open Positions
+| SYM  | Shares | Entry    | Now     | Unrealized P&L       | Stop (GTC live)              |
+|------|--------|----------|---------|----------------------|------------------------------|
+| NVDA | 101    | $218.04  | $220.75 | +$274 (+1.25%)       | 10% trail, HWM $222.30, stop $200.07 |
+| AMD  | 50     | $414.95  | $454.45 | +$1,975 (+9.52%)     | 10% trail, HWM $469.21, stop $422.29 |
+| AMZN | 78     | $260.30  | $266.40 | +$475 (+2.34%)       | 10% trail, HWM $278.56, stop $250.70 |
+| TXN  | 70     | $267.28  | $293.34 | +$1,824 (+9.75%)     | 10% trail, HWM $298.18, stop $268.36 |
+
+### CPI Release (April 2026, reported 8:30 AM ET today)
+- **Headline CPI**: +3.8% YoY (est. ≤3.7%) — HOT, above threshold
+- **Core CPI**: +2.8% YoY (est. ≤2.7%) — HOT, above threshold
+- Energy +3.8% MoM, gasoline +28.4% YoY; shelter +0.6% MoM
+- Real wages: -0.5% MoM, -0.3% YoY — consumer pressure rising
+
+### Stop Tighten Check
+- AMD HWM $469.21 → +13.1% from entry; tighten trigger $477.19 (+15%) — NOT YET
+- TXN HWM $298.18 → +11.6% from entry; tighten trigger $307.37 (+15%) — NOT YET
+- AMZN +2.34%, NVDA +1.25% — well below thresholds
+
+### Decision
+**HOLD all 4 positions.** CPI hot on both headline and core — new position gate blocked per May 11 pre-plan.
+- XLE entry: BLOCKED (hot CPI = demand destruction risk for energy; energy premium may unwind)
+- AMD: Watch $477.19 — tighten to 7% trail if reached
+- TXN: Watch $307.37 — tighten to 7% trail if reached
+- Deployment at 78.2% — within target range; no urgency to add
+- Next catalyst: PPI Wednesday May 13; Fed Chair transition May 15; Trump-Xi summit May 14-15
