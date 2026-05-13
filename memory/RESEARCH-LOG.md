@@ -501,3 +501,40 @@ Deployment: $64,783 / $110,881 = 58.4% (target 75-85%)
 ### Decision
 **HOLD all 4.** No cuts, no tightenings, no new trades.
 **CPI tomorrow May 12 at 8:30 AM ET** — key macro event. Hot print (>3.7% headline) could gap market lower; do NOT place any new orders before release. If benign, evaluate adding XLE (energy, 1 position ≤$22K) to maintain 75-85% deployment if stops pull back.
+
+---
+
+## 2026-05-13 — Pre-market Research
+
+### Account
+- Equity: $111,659.23 | Phase P&L: +$11,659.23 (+11.66%)
+- Cash: $24,075.66 (21.6%) | Deployment: 78.4% (target 75-85% ✓)
+- Daytrade count: 0 | Week trades: 1/3 (NVDA May 11)
+
+### Positions (live premarket)
+| Ticker | Shares | Entry    | Now      | Unrealized P&L       | Stop (10% trail)                       |
+|--------|--------|----------|----------|----------------------|----------------------------------------|
+| AMD    | 50     | $414.95  | $458.30  | +$2,167.50 (+10.45%) | HWM $469.21, stop $422.29 (+15% trig $477.19) |
+| AMZN   | 78     | $260.30  | $266.06  | +$449.06 (+2.21%)    | HWM $278.56, stop $250.70              |
+| NVDA   | 101    | $218.04  | $226.18  | +$822.69 (+3.74%)    | HWM $223.75, stop $201.38              |
+| TXN    | 70     | $267.28  | $301.01  | +$2,361.26 (+12.62%) | HWM $298.18, stop $268.36 (+15% trig $307.37) |
+
+### Market Context
+- **PERPLEXITY_API_KEY not set** — Perplexity queries skipped; WebSearch fallback not invoked per STOP protocol
+- CPI May 12 result and broader market context unavailable
+- ClickUp alert sent: missing PERPLEXITY_API_KEY
+
+### Trade Ideas
+- None generated — no research data available
+
+### Risk Factors
+- CPI May 12 outcome unknown — market reaction could be significant (up or down)
+- TXN approaching +15% tighten threshold ($307.37 vs $301.01 current) — monitor at open
+- AMD +15% threshold at $477.19 — watch intraday
+
+### Decision
+**HOLD all 4.** No new trades — no catalyst documentation available without Perplexity. Patience > activity.
+- AMD: hold, watch for $477.19 tighten trigger
+- AMZN: hold, thesis intact
+- NVDA: hold, AI inference thesis intact
+- TXN: hold, watch $307.37 tighten trigger
