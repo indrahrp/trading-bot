@@ -478,3 +478,26 @@ Deployment: $64,783 / $110,881 = 58.4% (target 75-85%)
 - **TXN: HOLD** — approaching 52-week high resistance; thesis intact but monitor; stop at $263.38
 - **NEW POSITIONS: HOLD until post-CPI** — wait for Tuesday May 12 CPI data before adding; if benign (≤3.7% headline, ≤2.7% core), evaluate XLE entry to close deployment gap (1 position, max $22K ≈ 20% of equity)
 - **Deployment**: 58.4% — underdeployed but CPI uncertainty justifies patience. Target: 1 new position post-CPI to reach ~75%.
+
+## 2026-05-11 — Midday Addendum
+
+### Account
+- Equity: $111,624.47
+- Cash: $24,075.66 (21.6%)
+- Deployment: 78.4% (target 75-85% ✓ — NVDA entry this morning resolved gap)
+- Daytrade count: 1 | Week trades: 1/3 (NVDA entered today)
+
+### Positions Check
+| SYM  | P&L from Entry | Day Chg | Action |
+|------|----------------|---------|--------|
+| AMD  | +12.10%        | +2.19%  | Hold — below +15% tighten threshold ($477.19) |
+| AMZN | +4.84%         | +0.08%  | Hold — AWS thesis intact |
+| NVDA | +1.75%         | +3.09%  | Hold — new position, AI inference thesis intact |
+| TXN  | +10.00%        | +2.16%  | Hold — below +15% tighten threshold ($307.37) |
+
+- No losers. No stop tightenings. All theses intact.
+- No sharp moves requiring Perplexity research (Perplexity unavailable — key not set).
+
+### Decision
+**HOLD all 4.** No cuts, no tightenings, no new trades.
+**CPI tomorrow May 12 at 8:30 AM ET** — key macro event. Hot print (>3.7% headline) could gap market lower; do NOT place any new orders before release. If benign, evaluate adding XLE (energy, 1 position ≤$22K) to maintain 75-85% deployment if stops pull back.
