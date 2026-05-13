@@ -501,3 +501,25 @@ Deployment: $64,783 / $110,881 = 58.4% (target 75-85%)
 ### Decision
 **HOLD all 4.** No cuts, no tightenings, no new trades.
 **CPI tomorrow May 12 at 8:30 AM ET** — key macro event. Hot print (>3.7% headline) could gap market lower; do NOT place any new orders before release. If benign, evaluate adding XLE (energy, 1 position ≤$22K) to maintain 75-85% deployment if stops pull back.
+
+## 2026-05-13 — Midday Scan
+
+### Account
+- Equity: $111,594.08
+- Cash: $24,075.66 (21.6%)
+- Deployment: 78.5% (target 75-85% ✓)
+- Day trades: checking / Week trades: 1/3
+
+### Positions Check
+| SYM  | P&L from Entry | Day Chg  | Action |
+|------|----------------|----------|--------|
+| AMD  | +7.84%         | -0.18%   | Hold — pulled back from HWM $469.21 to $447.48; stop intact at $422.29; below +15% tighten threshold ($477.19) |
+| AMZN | +3.17%         | +1.03%   | Hold — AWS thesis intact |
+| NVDA | +4.20%         | +2.91%   | Hold — AI inference thesis intact; HWM $227.57 |
+| TXN  | +14.03%        | +3.26%   | Hold — watch closely; +15% trail-tighten trigger at $307.37 (only $2.58 away) |
+
+- No losers. No stop tightenings triggered (TXN very close at +14.03% vs +15% threshold).
+- All theses intact. No unusual sharp moves. No Perplexity research needed.
+
+### Decision
+**HOLD all 4.** TXN approaching +15% tighten trigger ($307.37) — monitor closely this afternoon. AMD has pulled back ~4.6% off its HWM but stop is well-clear at $422.29.
