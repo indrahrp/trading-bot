@@ -501,3 +501,57 @@ Deployment: $64,783 / $110,881 = 58.4% (target 75-85%)
 ### Decision
 **HOLD all 4.** No cuts, no tightenings, no new trades.
 **CPI tomorrow May 12 at 8:30 AM ET** — key macro event. Hot print (>3.7% headline) could gap market lower; do NOT place any new orders before release. If benign, evaluate adding XLE (energy, 1 position ≤$22K) to maintain 75-85% deployment if stops pull back.
+
+---
+
+## 2026-05-13 — Pre-market Research (inline, market-open workflow)
+
+### Account
+- Equity: $111,044.40
+- Cash: $24,075.66 (21.7%)
+- Long market value: $86,968.74 | Deployment: 78.3% ✓ (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Week trade count: 1/3 (NVDA entered May 11)
+- Phase P&L: +$11,044.40 (+11.04%)
+
+### Open Positions
+| SYM  | Shares | Entry    | Now     | Unrealized P&L        | Stop (GTC, live)                       |
+|------|--------|----------|---------|-----------------------|----------------------------------------|
+| AMD  | 50     | $414.95  | $444.64 | +$1,484 (+7.15%)      | 10% trail, HWM $469.21, stop $422.29   |
+| AMZN | 78     | $260.30  | $264.03 | +$291 (+1.43%)        | 10% trail, HWM $278.56, stop $250.70   |
+| NVDA | 101    | $218.04  | $225.74 | +$778 (+3.53%)        | 10% trail, HWM $227.16, stop $204.44   |
+| TXN  | 70     | $267.28  | $304.62 | +$2,614 (+13.97%)     | 10% trail, HWM $305.50, stop $274.95   |
+
+### Market Context
+- PERPLEXITY_API_KEY not set — live Alpaca quotes only
+- **PPI today May 13** (producer price index) — market-moving macro event; adds uncertainty
+- CPI May 12 (yesterday): portfolio equity up $859 vs last close → market absorbed CPI positively
+- Deployment 78.3% — already within 75-85% target; no urgency to add positions
+- Phase P&L: +11.04% vs S&P 500 benchmark
+
+### Stop Tighten Check
+- AMD +7.15%: below +15% threshold ($477.19) — no tighten
+- AMZN +1.43%: well below threshold — no tighten
+- NVDA +3.53%: well below threshold — no tighten
+- **TXN +13.97%: approaching +15% threshold at $307.37** — ask currently $305.10; watch at open
+
+### Thesis Check
+- **AMD**: HWM $469.21 (above entry +13%); stop $422.29 (10% trail). Q1 beat, semis momentum. INTACT.
+- **AMZN**: HWM $278.56, stop $250.70. AWS AI thesis intact. INTACT.
+- **NVDA**: HWM $227.16, stop $204.44. AI inference demand structural catalyst. INTACT.
+- **TXN**: HWM $305.50, stop $274.95. Q1 beat intact; insider selling (CEO/SVPs) remains watch risk. INTACT.
+
+### Trade Ideas
+1. **No new positions** — deployment at 78.3% (within target); PPI uncertainty today; patience > forcing entries.
+
+### Risk Factors
+- **PPI today May 13**: Hot print could reprice rate expectations → equities lower
+- TXN insider selling (CEO + 2 SVPs May) ongoing — thesis intact but watch
+- AMD pulled back from HWM $469.21 to $444.64 (-5.2%); stop at $422.29 (5.2% below current) — tight
+- Semiconductor concentration: AMD + NVDA correlated; sector pullback = double hit
+
+### Decision
+**HOLD all 4 positions.** No new trades today.
+- **TXN TIGHTEN ACTION**: If/when TXN hits $307.37 (+15% from entry), cancel order 863a0a75 (10% trail) and place 7% trailing stop GTC per strategy rules.
+- All stops live, all theses intact. No manual cuts needed.
+- Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
