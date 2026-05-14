@@ -232,3 +232,30 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 - Thesis: All 4 intact — semis/AI (AMD, NVDA), AWS (AMZN), analog recovery (TXN)
 - Research: Perplexity unavailable (key not set)
 - **Deployment: 78.4% — within 75-85% target ✓ (NVDA entry this morning closed the gap)**
+
+---
+
+### May 14 — Midday Scan
+**Portfolio:** $113,014.15 | **Cash:** $24,075.66 (21.3%) | **Deployment:** 78.7% ✓ | **Day P&L:** +$1,340.72 (+1.20%) | **Phase P&L:** +$13,014.15 (+13.01%)**
+
+#### Stop Tighten — TXN
+| Field     | Value                                                         |
+|-----------|---------------------------------------------------------------|
+| Old Stop  | 10% trail, HWM $310.18, stop $279.162 (order 863a0a75, canceled) |
+| New Stop  | 7% trail, HWM $309.05, stop $287.42 (order 79f4e463)         |
+| Trigger   | TXN +15.56% from entry ($267.28 → $308.86) — tighten to 7% per rule |
+
+#### Open Positions (midday)
+| Ticker | Shares | Entry   | Now     | Unreal P&L        | Stop                                  |
+|--------|--------|---------|---------|-------------------|---------------------------------------|
+| AMD    | 50     | $414.95 | $450.23 | +$1,764 (+8.50%)  | 10% trail, HWM $469.21, stop $422.29  |
+| AMZN   | 78     | $260.30 | $268.38 | +$630 (+3.10%)    | 10% trail, HWM $278.56, stop $250.70  |
+| NVDA   | 101    | $218.04 | $235.69 | +$1,783 (+8.10%)  | 10% trail, HWM $236.47, stop $212.82  |
+| TXN    | 70     | $267.28 | $308.86 | +$2,910 (+15.56%) | **7% trail**, HWM $309.05, stop $287.42 |
+
+**Actions:**
+- Losers: None — all positive, no cuts
+- Stop tighten: **TXN 10% → 7%** (crossed +15% threshold per strategy rule)
+- Thesis: All 4 intact (AMD semis/AI; AMZN AWS; NVDA AI inference; TXN Q1 beat)
+- Research: Perplexity unavailable (key not set)
+- **Deployment: 78.7% — within 75-85% target ✓**

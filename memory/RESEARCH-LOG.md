@@ -501,3 +501,25 @@ Deployment: $64,783 / $110,881 = 58.4% (target 75-85%)
 ### Decision
 **HOLD all 4.** No cuts, no tightenings, no new trades.
 **CPI tomorrow May 12 at 8:30 AM ET** — key macro event. Hot print (>3.7% headline) could gap market lower; do NOT place any new orders before release. If benign, evaluate adding XLE (energy, 1 position ≤$22K) to maintain 75-85% deployment if stops pull back.
+
+## 2026-05-14 — Midday Addendum
+
+### Account
+- Equity: $113,014.15 | Cash: $24,075.66 (21.3%) | Deployment: 78.7% ✓
+- Daytrade count: 0 | Week trades: 0/3 (new week)
+
+### Positions Check
+| SYM  | P&L from Entry | Day Chg  | Action |
+|------|----------------|----------|--------|
+| AMD  | +8.50%         | +1.06%   | Hold — below +15% tighten threshold ($477.19) |
+| AMZN | +3.10%         | -0.65%   | Hold — AWS thesis intact |
+| NVDA | +8.10%         | +4.37%   | Hold — AI inference thesis intact (notable up day) |
+| TXN  | +15.56%        | +0.82%   | **Stop tightened 10% → 7%** (crossed +15% rule threshold) |
+
+### Action Taken
+- **TXN**: Canceled 10% trailing stop (order 863a0a75, stop $279.162). Placed new 7% trailing stop (order 79f4e463, stop $287.42, HWM $309.05). Stop moved up $8.26/share.
+- No losers. No thesis breaks.
+- Perplexity unavailable (key not set) — no intraday news research possible.
+
+### Decision
+**HOLD all 4.** TXN stop appropriately tightened. NVDA +4.37% day is notable — investigate cause at next opportunity when Perplexity available. Deployment 78.7% within target range.
