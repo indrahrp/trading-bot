@@ -232,3 +232,17 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 - Thesis: All 4 intact — semis/AI (AMD, NVDA), AWS (AMZN), analog recovery (TXN)
 - Research: Perplexity unavailable (key not set)
 - **Deployment: 78.4% — within 75-85% target ✓ (NVDA entry this morning closed the gap)**
+
+---
+
+### May 14 — EOD Snapshot (Day 14, Thursday)
+**Portfolio:** $112,564.77 | **Cash:** $24,075.66 (21.4%) | **Day P&L:** +$891.34 (+0.80%) | **Phase P&L:** +$12,564.77 (+12.56%)
+
+| Ticker | Shares | Entry    | Close   | Day Chg  | Unrealized P&L         | Stop                                            |
+|--------|--------|----------|---------|----------|------------------------|-------------------------------------------------|
+| AMD    | 50     | $414.95  | $447.89 | +0.54%   | +$1,647.00 (+7.94%)    | 10% trail, HWM $469.21, stop $422.29            |
+| AMZN   | 78     | $260.30  | $267.10 | -1.12%   | +$530.18 (+2.61%)      | 10% trail, HWM $278.56, stop $250.70            |
+| NVDA   | 101    | $218.04  | $235.32 | +4.20%   | +$1,745.74 (+7.93%)    | 10% trail, HWM $236.54, stop $212.89            |
+| TXN    | 70     | $267.28  | $307.00 | +0.22%   | +$2,780.56 (+14.86%)   | 7% trail (tightened), HWM $310.29, stop $288.57 |
+
+**Notes:** Quiet positive day (+0.80%, +$891). NVDA led +4.20% on continued AI/inference momentum. TXN hit HWM $310.29 (+16.1% from entry), triggering 7% trail tighten — stop now $288.57, locking in +7.8% buffer above entry. AMD approaching +15% trigger (HWM $469.21 vs trigger $477.19, gap only $7.98). AMZN gave back -1.12% but thesis intact. No new trades today; 1/3 this week (NVDA May 11). Deployment 78.6% — on target. Tomorrow: watch AMD for $477.19 +15% trigger; consider 5th position if strong momentum signal (room for 1 more within 5-6 cap).
