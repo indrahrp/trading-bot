@@ -501,3 +501,67 @@ Deployment: $64,783 / $110,881 = 58.4% (target 75-85%)
 ### Decision
 **HOLD all 4.** No cuts, no tightenings, no new trades.
 **CPI tomorrow May 12 at 8:30 AM ET** — key macro event. Hot print (>3.7% headline) could gap market lower; do NOT place any new orders before release. If benign, evaluate adding XLE (energy, 1 position ≤$22K) to maintain 75-85% deployment if stops pull back.
+
+---
+
+## 2026-05-14 — Pre-market Research
+
+*Note: PERPLEXITY_API_KEY not set in environment; all market research via WebSearch fallback. ClickUp alert sent.*
+
+### Account
+- Equity: $111,846.44
+- Cash: $24,075.66 (21.5%)
+- Buying power: $135,922.10
+- Long market value: $87,770.78 | Deployment: 78.5% ✓ (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Week trades: 1/3 (NVDA entered May 11)
+- Phase P&L: +$11,846.44 (+11.85%)
+
+### Open Positions
+| SYM  | Shares | Entry    | Now     | Unrealized P&L        | Stop (GTC)                             |
+|------|--------|----------|---------|-----------------------|----------------------------------------|
+| AMD  | 50     | $414.95  | $439.50 | +$1,228 (+5.92%)      | 10% trail, HWM $469.21, stop $422.29  |
+| AMZN | 78     | $260.30  | $269.91 | +$749 (+3.69%)        | 10% trail, HWM $278.56, stop $250.70  |
+| NVDA | 101    | $218.04  | $230.62 | +$1,271 (+5.77%)      | 10% trail, HWM $227.72, stop $204.95  |
+| TXN  | 70     | $267.28  | $306.46 | +$2,743 (+14.66%)     | 10% trail, HWM $309.32, stop $278.39  |
+
+### ⚠️ ACTION REQUIRED — TXN Stop Tighten (OVERDUE)
+- TXN entry $267.28 × 1.15 = $307.37 (+15% threshold)
+- HWM $309.32 already EXCEEDS threshold → trail must be tightened to 7% per strategy rules
+- New stop at 7% on HWM $309.32 = **$287.67** (current 10% stop = $278.39 → raise by $9.28/share)
+- **Execute at market open: cancel order 863a0a75, place new 7% trailing stop GTC on 70 TXN**
+
+### Market Context
+- WTI / Brent: $101.54 / $105.87 — elevated, geopolitical tensions sustaining premium
+- S&P 500 futures: +0.12–0.30% — mildly positive; Dow poised to reclaim 50,000
+- VIX: ~17–19 range — moderate
+- PPI April (released May 13): **+1.4% MoM vs +0.5% est; +6.0% YoY** — biggest monthly surge since 2022. Core PPI +1.0% MoM vs +0.4% est. Inflationary shock → Fed stays higher for longer, rate-hike risk elevated.
+- Retail Sales + Jobless Claims: 8:30 AM ET today — key releases; consensus +0.5% retail, 208K claims
+- Trump-Xi summit (May 14–15 Beijing): "constructive" opening; "generally balanced and positive" trade outcomes. Jensen Huang (NVDA CEO) in delegation — potential China AI chip deal signal.
+- Earnings today BMO: Klarna + 249 others; no direct impact on held positions
+- Sector momentum YTD: Energy, Industrials, Materials, Consumer Staples leading; Tech/Semis lagging but recovering
+
+### Held Ticker News
+- **AMD** $439.50 (−1.35% yesterday): Daiwa downgraded to Outperform from Buy (PT $500 from $250 — target still well above current price, downgrade is sentiment only). Q1 beat thesis (+38% YoY, DC +57%) intact. Below HWM $469.21; stop $422.29 provides floor. Hold.
+- **NVDA** $230.62 (+2.12% yesterday): Jensen Huang at Trump-Xi summit in Beijing — potential China AI deal. FY2026 revenue +65% to $215.9B. AI inference dominance (81% market share). Price above HWM $227.72 — trailing stop auto-updating. Thesis very intact. Hold.
+- **TXN** $306.46 (+0.04% yesterday): HWM $309.32 already crossed +15% trigger ($307.37). **Must tighten trail to 7% immediately.** Insider selling (CEO/SVPs ~$17M combined in May) still a watch risk. Q1 beat intact. Hold with tightened stop.
+- **AMZN** $269.91 (−0.08% yesterday): AWS AI thesis intact. Below HWM $278.56, stop $250.70. No news pressure. Hold.
+
+### Trade Ideas
+1. No new positions — deployment 78.5% within 75-85% target ✓. Adding any position risks exceeding 85%.
+2. After-CPI / post-summit clarity: if market reacts well to trade deal news and PPI shock fades, could revisit XLE (energy, sector #1 YTD) for 5th position — but only if one current position exits and deployment drops below 75%.
+
+### Risk Factors
+- **PPI +1.4% MoM / +6.0% YoY** — hottest since 2022; services 60% of increase; rate-hike fears resurface
+- **Retail Sales 8:30 AM** — if hot on top of hot PPI → double inflation print, market selloff risk
+- TXN insider selling (CEO + 2 SVPs ~$17M in May) — distribution at highs
+- AMD below HWM by ~6.4% ($439.50 vs $469.21 HWM); NVDA also showed HWM lag in order data (now correcting)
+- Trump-Xi summit ongoing through May 15 — headline risk in both directions; any Taiwan/tech escalation = sharp selldown
+- Oil $101-106 elevated — persistent cost-push inflation driver
+
+### Decision
+- **AMD: HOLD** — thesis intact, stop $422.29, below +15% tighten threshold
+- **AMZN: HOLD** — AWS thesis intact, stop $250.70
+- **NVDA: HOLD** — AI inference + China deal catalyst, stop auto-updating above HWM
+- **TXN: HOLD + TIGHTEN TRAIL TO 7%** — execute at open, new stop ~$287.67
+- **NEW POSITIONS: HOLD** — deployment 78.5% on target; hot PPI + Retail Sales at 8:30 = wait for data before any action
