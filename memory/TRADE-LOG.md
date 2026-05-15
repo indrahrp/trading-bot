@@ -232,3 +232,17 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 - Thesis: All 4 intact — semis/AI (AMD, NVDA), AWS (AMZN), analog recovery (TXN)
 - Research: Perplexity unavailable (key not set)
 - **Deployment: 78.4% — within 75-85% target ✓ (NVDA entry this morning closed the gap)**
+
+---
+
+### May 15 — EOD Snapshot (Day 15, Friday)
+**Portfolio:** $109,706.96 | **Cash:** $24,075.66 (21.97%) | **Day P&L:** -$3,078.50 (-2.73%) | **Phase P&L:** +$9,706.96 (+9.71%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg  | Unrealized P&L         | Stop                                      |
+|--------|--------|----------|----------|----------|------------------------|-------------------------------------------|
+| AMD    | 50     | $414.95  | $423.56  | -5.81%   | +$430.50 (+2.08%)      | 10% trail, HWM $469.21, stop $422.29 ⚠️  |
+| AMZN   | 78     | $260.30  | $263.27  | -1.48%   | +$231.44 (+1.14%)      | 10% trail, HWM $278.56, stop $250.70     |
+| NVDA   | 101    | $218.04  | $225.16  | -4.49%   | +$719.56 (+3.27%)      | 10% trail, HWM $236.54, stop $212.89     |
+| TXN    | 70     | $267.28  | $302.53  | -1.83%   | +$2,467.66 (+13.19%)   | 7% trail, HWM $310.29, stop $288.57      |
+
+**Notes:** Broad red day across semis/tech — AMD -5.81%, NVDA -4.49%, TXN -1.83%, AMZN -1.48%. Day P&L -$3,078.50 (-2.73%) pulls phase gains back to +$9,706.96 (+9.71%). Critical alert: AMD stop at $422.29 with current price $423.56 — only $1.27 cushion (0.3%); AMD is on the verge of being stopped out. TXN stop was tightened to 7% trail (HWM $310.29, stop $288.57) after breaching +15% from entry ($307.37 threshold hit during the week). NVDA still on 10% trail (HWM $236.54, +8.5% from entry). No trades today. 1/3 trades this week (NVDA entered May 11). Portfolio deployment 78.0% (within 75-85% target), but AMD stop-out risk could drop deployment to ~59% if triggered Monday.
