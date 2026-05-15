@@ -501,3 +501,71 @@ Deployment: $64,783 / $110,881 = 58.4% (target 75-85%)
 ### Decision
 **HOLD all 4.** No cuts, no tightenings, no new trades.
 **CPI tomorrow May 12 at 8:30 AM ET** — key macro event. Hot print (>3.7% headline) could gap market lower; do NOT place any new orders before release. If benign, evaluate adding XLE (energy, 1 position ≤$22K) to maintain 75-85% deployment if stops pull back.
+
+---
+
+## 2026-05-15 — Pre-market Research
+
+*Note: PERPLEXITY_API_KEY not set — WebSearch fallback. ClickUp alert sent.*
+
+### Account
+- Equity: $110,543.39 | Phase P&L: +$10,543.39 (+10.54%)
+- Cash: $24,075.66 (21.8%)
+- Buying power: $134,619.05
+- Long market value: $86,467.73 | Deployment: 78.2% ✓
+- Daytrade count: 0 | PDT: false
+- Week trades: 1/3 (NVDA May 11)
+- Day P&L: -$2,242.07 (-1.99%) vs yesterday $112,785.46
+
+### Open Positions
+| SYM  | Shares | Entry    | Now     | Unrealized P&L        | Stop (GTC)                              |
+|------|--------|----------|---------|-----------------------|-----------------------------------------|
+| AMD  | 50     | $414.95  | $433.92 | +$948 (+4.57%)        | 10% trail, HWM $469.21, stop **$422.29** ⚠️ |
+| AMZN | 78     | $260.30  | $262.73 | +$189 (+0.93%)        | 10% trail, HWM $278.56, stop $250.70   |
+| NVDA | 101    | $218.04  | $229.79 | +$1,187 (+5.39%)      | 10% trail, HWM $236.54, stop $212.89   |
+| TXN  | 70     | $267.28  | $301.00 | +$2,361 (+12.62%)     | 7% trail, HWM $310.29, stop $288.57    |
+
+**⚠️ AMD gap-to-stop: $11.63 (2.68%) — critically thin. AMD down -3.51% today.**
+
+### Market Context
+- WTI: ~$102 / Brent: ~$107 — elevated; Strait of Hormuz closure sustaining oil premium
+- S&P 500 futures: -0.7% premarket (pullback after Thursday's ATH close 7,444.25; 7-week winning streak)
+- VIX: ~17.90 (+0.17%) — moderate; slight uptick on futures decline
+- Today's catalysts: Univ. of Michigan Consumer Sentiment; April Industrial Production + Empire State Index; Powell's final day as Fed Chair (Warsh confirmation expected); Trump-Xi summit concluding (delegation includes Jensen Huang/NVDA, Tim Cook, Elon Musk — positive AI/trade signal)
+- Earnings before open: ~98 reports; no major names with direct impact on held positions
+- Economic calendar: Univ. of Michigan Sentiment (8:30–10 AM ET); Industrial Production — week's big data already cleared (CPI Tue, PPI Wed, Retail Sales Thu)
+- Sector momentum YTD: Energy/Materials leading (+22-30%); Consumer Staples/Industrials in momentum; Tech/Semis recovering but cooling; Financials lagging
+
+### Held Ticker News
+- **AMD** $433.92 (-3.51% today): Q1 beat intact; Samsung 2nm partnership emerging. Stop $422.29 only 2.68% away — trailing from HWM $469.21. Thesis intact but stop proximity is acute risk.
+- **NVDA** $229.79 (-2.52% today): **Earnings next Wednesday May 20** (fiscal Q1 April quarter — large upcoming event). Jensen Huang in Trump-Xi summit delegation → AI/export trade positive. Stop $212.89 (7.35% gap).
+- **AMZN** $262.73 (-1.68% today): AWS thesis intact. Modest decline, well above stop $250.70 (4.58% gap).
+- **TXN** $301.00 (-2.33% today): Hit ATH recently (HWM $310.29); 7% trail correctly set at $288.57 (4.13% gap). Insider selling (CEO/SVPs) remains watch item.
+
+### Trade Ideas
+1. **XLE / Energy** — Brent $107, Hormuz closure sustaining premium; Energy +22-30% YTD in momentum. BUT: deployment 78.2% leaves only ~$24K cash — no room for a full position without a stop-out first. **GATE: wait for AMD or AMZN stop to trigger before entering.**
+2. **Hold NVDA through May 20 earnings** — Jensen Huang at Trump-Xi summit = positive trade/AI sentiment. Thesis strengthening. Risk: earnings gap either way on May 20.
+
+### Stop Tighten Check
+- AMD +4.57%: below +15% threshold ($477.19) — no tighten
+- TXN +12.62%: trail already at 7% (triggered at HWM $310.29 = +16.1% from entry) ✓
+- NVDA +5.39%: below +15% threshold ($250.75) — no tighten
+- AMZN +0.93%: well below threshold — no tighten
+
+### Risk Factors
+- **AMD stop $422.29 (2.68% from current)** — one more down session could close this position; would free ~$21K cash for redeployment
+- **NVDA earnings May 20** — gap risk both ways; thesis intact but gap-down risk is real
+- Powell → Warsh transition today — potential hawkish pivot repricing
+- Trump-Xi summit conclusion — if trade deal disappoints, tech/semis hit harder
+- S&P 500 at ATH 7,444 — extended; pullback (-0.7% futures) could deepen
+- All 4 positions red today; broad rotation out of tech/semis into energy/staples
+- Strait of Hormuz closure — oil elevated, macro headwind for growth stocks
+
+### Decision
+**HOLD all 4 positions.** No new trades.
+- **AMD**: HOLD — thesis intact (Q1 beat, semis/AI); stop $422.29 active. Do NOT move stop down. Accept stop-out if triggered.
+- **AMZN**: HOLD — AWS AI thesis intact, above stop.
+- **NVDA**: HOLD — AI inference + Trump-Xi trade tailwind; NVDA earnings May 20 is key event. Thesis intact.
+- **TXN**: HOLD — Q1 beat intact, 7% trail set. Monitor $288.57 stop.
+- **New positions**: HOLD. Deployment 78.2% ✓, cash $24K insufficient for a full new position without a stop-out. If AMD stopped out at $422.29 → ~$21K released → evaluate XLE entry.
+- **Patience > activity.** 7-week market winning streak + ATH = stretched; normal pullback, not thesis break.
