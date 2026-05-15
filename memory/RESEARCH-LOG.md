@@ -501,3 +501,34 @@ Deployment: $64,783 / $110,881 = 58.4% (target 75-85%)
 ### Decision
 **HOLD all 4.** No cuts, no tightenings, no new trades.
 **CPI tomorrow May 12 at 8:30 AM ET** — key macro event. Hot print (>3.7% headline) could gap market lower; do NOT place any new orders before release. If benign, evaluate adding XLE (energy, 1 position ≤$22K) to maintain 75-85% deployment if stops pull back.
+
+## 2026-05-15 — Midday Scan
+
+### Account
+- Equity: $110,576.21
+- Cash: $24,075.66 (21.8%)
+- Deployment: 78.2% ✓ (target 75-85%)
+- Day P&L: -$2,209.25 (-1.96%)
+- Phase P&L: +$10,576.21 (+10.58%)
+
+### Positions Check
+| SYM  | P&L from Entry | Day Chg | Stop Gap | Action |
+|------|----------------|---------|----------|--------|
+| AMD  | +4.27%         | -3.79%  | 2.4% ⚠️  | Hold — stop $422.29 close; thesis intact |
+| AMZN | +0.71%         | -1.90%  | 4.6%     | Hold — AWS thesis intact |
+| NVDA | +4.58%         | -3.27%  | 6.7%     | Hold — AI inference thesis intact |
+| TXN  | +14.31%        | -0.86%  | 5.6%     | Hold — analog recovery intact; 7% trail already set |
+
+### Market Context
+- Broad tech/semis selloff: AMD -3.79%, NVDA -3.27%, AMZN -1.90%
+- TXN relatively resilient at -0.86% (analog vs digital divergence intact)
+- Pullback appears macro-driven (no individual catalyst found); theses all intact
+- Perplexity unavailable for deeper catalyst research (key not set)
+
+### Key Risk
+- AMD trailing stop at $422.29 is only 2.4% below current price ($432.67)
+- HWM was $469.21; AMD has pulled back ~7.8% from peak
+- Stop will auto-fire if AMD drops another ~$10 (~2.4%) — monitoring
+
+### Decision
+**HOLD all 4.** No cuts (all above -7% from entry), no tightenings (no position at +15%+ today), no new trades. AMD stop proximity elevated — watch afternoon tape.
