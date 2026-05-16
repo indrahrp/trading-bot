@@ -425,6 +425,45 @@ Deployment: $64,783 / $110,881 = 58.4% (target 75-85%)
 ### Decision
 **NVDA: BUY 101 shares at market** — closes deployment gap to 78.2%, all gates pass.
 **AMD / AMZN / TXN: HOLD** — theses intact, stops live, no tightenings needed.
+## 2026-05-14 — Market-Open Assessment (inline pre-market)
+
+### Account (live)
+- Equity: $111,834 | Cash: $24,076 (21.5%) | Deployment: 78.5% ✓
+- Daytrade count: 0 | PDT: false | Week trades: 1/3 (NVDA May 11)
+
+### Open Positions
+| SYM  | Shares | Entry    | Live Bid  | Unrealized P&L    | Stop (GTC)                              |
+|------|--------|----------|-----------|-------------------|-----------------------------------------|
+| AMD  | 50     | $414.95  | $442.02   | +$1,354 (+6.5%)   | 10% trail, stop $422.29                 |
+| AMZN | 78     | $260.30  | $269.82   | +$741 (+3.7%)     | 10% trail, stop $250.70                 |
+| NVDA | 101    | $218.04  | $230.58   | +$1,267 (+5.7%)   | 10% trail, stop $208.97                 |
+| TXN  | 70     | $267.28  | $305.24   | +$2,657 (+14.2%)  | 10% trail, stop $278.39                 |
+
+### Macro Context
+- **CPI Apr (May 12)**: Headline +3.8% YoY (est +3.7%), core +2.8% (est +2.7%) — HOT. Rate hike odds spiked; 2026 rate cut odds nearly eliminated. Energy +17.9% YoY.
+- **PPI Apr (May 13)**: Final demand +1.4% MoM, +6.0% YoY — HOT. S&P fell on data.
+- **Trump-Xi Summit (May 14-15, Beijing)**: Broadly constructive — trade truce maintained; "constructive strategic stability" framework. Positive for tech/semis (chip tariff risk reduced).
+- **AMD**: Daiwa downgraded to Outperform from Buy — "valuation stretched." Thesis intact (Q1 beat, semis momentum).
+- **NVDA**: Up +2.1% today; AI inference thesis intact; Trump-Xi reduces chip export tension.
+- **AMZN**: "Alexa for Shopping" AI e-commerce tool — positive for AI/AWS thesis.
+- **TXN**: Approaching +15% tighten trigger at $307.37 (bid $305.24 — $2.13 away).
+
+### Gate Check — No New Trades
+- Deployment 78.5% (in range — no urgency)
+- CPI 3.8% > 3.7% threshold → new entry condition NOT met; XLE deferred
+- PPI +6.0% YoY adds to hawkish backdrop
+- No fresh catalyst for untested ticker
+
+### Stop Tighten Check
+- AMD +6.5%: below $477.19 (+15%) — hold
+- AMZN +3.7%: below $299.35 — hold
+- NVDA +5.7%: below $250.75 — hold
+- TXN +14.2%: **WATCH** — tighten to 7% trail at $307.37
+
+### Decision
+**HOLD all 4. No new trades.** Hot CPI/PPI = macro gate fails. Deployment in range.
+Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, thesis intact.
+
 ## 2026-05-11 — Pre-market Research
 
 *Note: PERPLEXITY_API_KEY not set in environment; all market research via WebSearch fallback.*
