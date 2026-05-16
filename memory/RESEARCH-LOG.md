@@ -594,3 +594,53 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **TXN TIGHTEN ACTION**: If/when TXN hits $307.37 (+15% from entry), cancel order 863a0a75 (10% trail) and place 7% trailing stop GTC per strategy rules.
 - All stops live, all theses intact. No manual cuts needed.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-05-16 — Weekend Assessment (Next trading day: Monday May 19)
+
+### Account (live — prices = May 15 close)
+- Equity: $109,832 | Cash: $24,076 (21.9%) | Deployment: 78.1% ✓
+- Daytrade count: 0 | PDT: false
+- Week trades: 0/3 (new week May 19–23)
+
+### Open Positions
+| SYM  | Shares | Entry    | Close    | Unrealized P&L    | Trail | HWM      | Stop    |
+|------|--------|----------|----------|-------------------|-------|----------|---------|
+| AMD  | 50     | $414.95  | $424.10  | +$457 (+2.2%)     | 10%   | $469.21  | $422.29 ⚠️ |
+| AMZN | 78     | $260.30  | $264.14  | +$299 (+1.5%)     | 10%   | $278.56  | $250.70 |
+| NVDA | 101    | $218.04  | $225.32  | +$736 (+3.3%)     | 10%   | $236.54  | $212.89 |
+| TXN  | 70     | $267.28  | $302.73  | +$2,482 (+13.3%)  | 7%    | $310.29  | $288.57 |
+
+### Critical Watch: AMD
+- Current $424.10 vs stop $422.29 — only $1.81 cushion (0.43%)
+- Any Monday gap-down likely triggers stop; stop-out at ~$422 = +$362 realized (+1.7%)
+- If stopped: deployment drops 78% → ~59%; ~$21K cash freed for redeployment
+- AMD thesis: Q1 beat intact, but position pulled back significantly from HWM $469.21 (-9.6% from HWM)
+
+### Stop Tighten Checks
+- AMD +2.2%: below $477.19 (+15%) — no tighten; 10% trail correct
+- AMZN +1.5%: well below threshold — no tighten; 10% trail correct
+- NVDA +3.3%: below $250.75 (+15%) — no tighten; 10% trail correct
+- TXN +13.3%: already on 7% trail (tightened during week); watch $320.74 (+20%) → 5% trail trigger
+
+### Market Context
+- Market closed Saturday May 16
+- No Perplexity available (key not set)
+- Phase P&L: +$9,832 (+9.83%) — pulled back from +11.6% peak on May 11
+
+### Trade Ideas for Monday May 19
+1. **AMD stop-out contingency** — if AMD stopped out, evaluate 1 replacement position to stay in 75-85% range. Candidates: XLE (energy sector momentum) or a semis name if AMD thesis still valid elsewhere. Need pre-market research Monday.
+2. **No new trades if AMD holds** — deployment 78.1% already within target; patience > forcing.
+
+### Risk Factors
+- AMD gap-down Monday → stop-out → deployment falls to ~59%
+- TXN: CEO + 2 SVPs sold ~$17M in May; insider distribution ongoing; thesis intact but watch
+- Semiconductor concentration: AMD + NVDA correlated; broad semis pullback hits double
+- No Perplexity for news scan — operating with limited macro visibility
+
+### Decision
+**HOLD all 4.** Market closed. All stops live and correctly set.
+- AMD: prepare for possible stop-out Monday; have replacement candidate researched pre-market.
+- TXN: watch $320.74 for 5% trail tighten (approaching +20% threshold).
+- If AMD survives Monday open with upward momentum: reassess HWM update; thesis still intact.
