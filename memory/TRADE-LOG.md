@@ -246,3 +246,23 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $302.53  | -1.83%   | +$2,467.66 (+13.19%)   | 7% trail, HWM $310.29, stop $288.57      |
 
 **Notes:** Broad red day across semis/tech — AMD -5.81%, NVDA -4.49%, TXN -1.83%, AMZN -1.48%. Day P&L -$3,078.50 (-2.73%) pulls phase gains back to +$9,706.96 (+9.71%). Critical alert: AMD stop at $422.29 with current price $423.56 — only $1.27 cushion (0.3%); AMD is on the verge of being stopped out. TXN stop was tightened to 7% trail (HWM $310.29, stop $288.57) after breaching +15% from entry ($307.37 threshold hit during the week). NVDA still on 10% trail (HWM $236.54, +8.5% from entry). No trades today. 1/3 trades this week (NVDA entered May 11). Portfolio deployment 78.0% (within 75-85% target), but AMD stop-out risk could drop deployment to ~59% if triggered Monday.
+
+---
+
+### May 16 — Midday Scan (Saturday — market closed; prices = Fri May 15 close)
+**Portfolio:** $109,832 | **Cash:** $24,075.66 (21.9%) | **Deployment:** 78.1% ✓ | **Day P&L:** $0 (market closed) | **Phase P&L:** +$9,832 (+9.83%)**
+
+#### Open Positions
+| Ticker | Shares | Entry   | Close   | Unreal P&L        | Stop                                 |
+|--------|--------|---------|---------|-------------------|--------------------------------------|
+| AMD    | 50     | $414.95 | $424.10 | +$457 (+2.21%) ⚠️ | 10% trail, HWM $469.21, stop $422.29 |
+| AMZN   | 78     | $260.30 | $264.14 | +$299 (+1.47%)    | 10% trail, HWM $278.56, stop $250.70 |
+| NVDA   | 101    | $218.04 | $225.32 | +$736 (+3.34%)    | 10% trail, HWM $236.54, stop $212.89 |
+| TXN    | 70     | $267.28 | $302.73 | +$2,482 (+13.26%) | 7% trail, HWM $310.29, stop $288.57  |
+
+**Actions:**
+- Losers: None — all positions positive. No cuts.
+- Stop tighten: None — AMD +2.21%, AMZN +1.47%, NVDA +3.34% (all below +15%); TXN +13.26% already at 7% trail, below +20% threshold ($320.74)
+- Thesis: All intact — AMD (Q1 beat, semis), AMZN (AWS), NVDA (AI inference), TXN (analog recovery)
+- Research: Market closed; no Perplexity (key not set)
+- **⚠️ AMD WARNING: $424.10 vs stop $422.29 — only $1.81 cushion (0.43%). Stop-out likely on any Monday weakness.**
