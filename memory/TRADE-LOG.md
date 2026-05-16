@@ -235,14 +235,14 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 
 ---
 
-### May 13 — EOD Snapshot (Day 13, Wednesday)
-**Portfolio:** $111,757.56 | **Cash:** $24,075.66 (21.6%) | **Day P&L:** +$1,572.76 (+1.43%) | **Phase P&L:** +$11,757.56 (+11.76%)
+### May 14 — EOD Snapshot (Day 14, Thursday)
+**Portfolio:** $112,564.77 | **Cash:** $24,075.66 (21.4%) | **Day P&L:** +$891.34 (+0.80%) | **Phase P&L:** +$12,564.77 (+12.56%)
 
-| Ticker | Shares | Entry    | Close   | Day Chg | Unrealized P&L          | Stop                                      |
-|--------|--------|----------|---------|---------|-------------------------|-------------------------------------------|
-| AMD    | 50     | $414.95  | $445.56 | -0.61%  | +$1,530.50 (+7.38%)     | 10% trail, HWM $469.21, stop $422.29     |
-| AMZN   | 78     | $260.30  | $270.15 | +1.63%  | +$768.08 (+3.78%)       | 10% trail, HWM $278.56, stop $250.70     |
-| NVDA   | 101    | $218.04  | $226.40 | +2.55%  | +$844.82 (+3.84%)       | 10% trail, HWM $227.72, stop $204.95     |
-| TXN    | 70     | $267.28  | $306.34 | +3.78%  | +$2,734.36 (+14.62%)    | 10% trail, HWM $309.32, stop $278.39     |
+| Ticker | Shares | Entry    | Close   | Day Chg  | Unrealized P&L         | Stop                                            |
+|--------|--------|----------|---------|----------|------------------------|-------------------------------------------------|
+| AMD    | 50     | $414.95  | $447.89 | +0.54%   | +$1,647.00 (+7.94%)    | 10% trail, HWM $469.21, stop $422.29            |
+| AMZN   | 78     | $260.30  | $267.10 | -1.12%   | +$530.18 (+2.61%)      | 10% trail, HWM $278.56, stop $250.70            |
+| NVDA   | 101    | $218.04  | $235.32 | +4.20%   | +$1,745.74 (+7.93%)    | 10% trail, HWM $236.54, stop $212.89            |
+| TXN    | 70     | $267.28  | $307.00 | +0.22%   | +$2,780.56 (+14.86%)   | 7% trail (tightened), HWM $310.29, stop $288.57 |
 
-**Notes:** Solid broad gain — TXN led at +3.78% and is now +14.62% from entry, just $1.03 below the +15% trail-tighten trigger ($307.37); watch closely Thursday. NVDA +2.55%, AMZN +1.63%; AMD -0.61% pullback from its HWM of $469.21 but stop at $422.29 is well above entry ($414.95) — no action. No trades today. 1 trade this week (NVDA Mon May 11), 2/3 cap remaining. Deployment 78.5% — squarely in 75-85% target zone. Phase P&L +11.76% through Day 13.
+**Notes:** Quiet positive day (+0.80%, +$891). NVDA led +4.20% on continued AI/inference momentum. TXN hit HWM $310.29 (+16.1% from entry), triggering 7% trail tighten — stop now $288.57, locking in +7.8% buffer above entry. AMD approaching +15% trigger (HWM $469.21 vs trigger $477.19, gap only $7.98). AMZN gave back -1.12% but thesis intact. No new trades today; 1/3 this week (NVDA May 11). Deployment 78.6% — on target. Tomorrow: watch AMD for $477.19 +15% trigger; consider 5th position if strong momentum signal (room for 1 more within 5-6 cap).
