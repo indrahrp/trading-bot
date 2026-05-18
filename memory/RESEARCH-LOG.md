@@ -594,3 +594,60 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **TXN TIGHTEN ACTION**: If/when TXN hits $307.37 (+15% from entry), cancel order 863a0a75 (10% trail) and place 7% trailing stop GTC per strategy rules.
 - All stops live, all theses intact. No manual cuts needed.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-05-18 — Pre-market Research
+
+> **Note:** PERPLEXITY_API_KEY not set — research via WebSearch fallback. ClickUp alert sent.
+
+### Account Snapshot
+- **Equity:** $110,131.16 | **Cash:** $24,075.66 (21.9%) | **Long MV:** $86,055.50
+- **Deployment:** 78.1% ✓ (target 75-85%)
+- **Daytrade count:** 0 | **PDT:** false | **Week trades:** 0/3 (new week)
+- **Phase P&L:** +$10,131.16 (+10.13%)
+
+### Open Positions
+| Ticker | Shares | Entry   | Current  | Unrealized P&L        | Stop (GTC, live)                          |
+|--------|--------|---------|----------|-----------------------|-------------------------------------------|
+| AMD    | 50     | $414.95 | $425.80  | +$542 (+2.62%)        | 10% trail, HWM $469.21, stop $422.29 ⚠️  |
+| AMZN   | 78     | $260.30 | $262.60  | +$179 (+0.88%)        | 10% trail, HWM $278.56, stop $250.70     |
+| NVDA   | 101    | $218.04 | $228.24  | +$1,031 (+4.68%)      | 10% trail, HWM $236.54, stop $212.89     |
+| TXN    | 70     | $267.28 | $303.08  | +$2,506 (+13.40%)     | 7% trail, HWM $310.29, stop $288.57      |
+
+### Market Context
+- **WTI:** ~$107.35/bbl | **Brent:** ~$108.17/bbl — elevated; Strait of Hormuz closure risk (Iran war ongoing)
+- **S&P 500 futures:** -0.6% premarket — drone strike near UAE Barakah nuclear plant
+- **VIX:** 18.43 (+6.78%) — mid-band (12–20), elevated but not panic territory
+- **Sector YTD:** Energy +26% (leading), Tech +16.7% (cooling); leadership shift from Tech → Energy
+- **Economic releases today:** PPI + Retail Sales at 7:30 AM ET; FOMC Minutes at 1:00 PM ET
+- **Earnings today (BMO):** No major held tickers; Baidu reporting
+- **Key event this week:** NVDA Q1 FY27 earnings Wednesday May 20 after close ($78B rev / $1.77 EPS expected; 8 consecutive beats; Polymarket 54% odds $240+ by end of May)
+
+### Ticker News
+- **AMD:** Premarket ~$425–428. Stop $422.29 — cushion only ~$3–6 (0.7–1.4%). AMD YTD +98%, Q1 beat ($10.25B rev, +57% data-center). BofA top chip pick. ⚠️ Stop extremely tight; S&P -0.6% open could gap AMD through stop.
+- **NVDA:** Stop $212.89 (10% trail, HWM $236.54). Earnings Wed May 20 after close. Hyperscaler capex projections up to $725B (from $531B). Analysts universally bullish. Hold through.
+- **TXN:** At $303.08 (+13.4% from entry). HWM $310.29, stop already tightened to 7% trail ($288.57). Q1 beat +23.5% EPS surprise; Stifel PT raised to $340. Strategic acquisition of Silicon Labs. Thesis intact.
+- **AMZN:** At $262.60 (+0.88% from entry). Stop $250.70. AWS AI thesis intact. No material news today.
+
+### Trade Ideas
+1. **AMD stop-out contingency → XLE entry:** If AMD gaps down through $422.29 at open and is stopped out (~$21K released), evaluate XLE (energy sector) entry post 7:30 AM PPI release. Energy sector +26% YTD; oil structurally elevated (Iran war). Size: ≤$22K (≤20% equity). Wait for PPI data — hot print could gap indices lower.
+2. **NVDA hold through earnings (Wed):** Bullish setup — 8 consecutive beats, hyperscaler capex surging, BofA top pick, Polymarket 54% $240+ target. Stop at $212.89 protects vs gap-down. No action needed pre-earnings.
+3. **TXN approaching +15% tighten:** Entry $267.28; +15% = $307.37. Current $303.08 — $4.29 away. If TXN hits $307.37 today, cancel order 79f4e463 and place fresh 7% GTC trailing stop.
+
+### Risk Factors
+- **AMD stop critically tight:** Only $3.51 cushion above $422.29 stop. Futures -0.6% → likely gap-down at open. AMD may be stopped out in first minutes.
+- **PPI + Retail Sales 7:30 AM ET:** Macro uncertainty. No new orders before release.
+- **FOMC Minutes 1:00 PM ET:** Rate / yield volatility risk midday.
+- **NVDA earnings Wednesday:** Held long; risk of gap-down if miss, but 8-beat streak and buyside very positioned.
+- **Iran/Strait of Hormuz:** Oil spike risk ongoing; could pressure tech on rate fear, but benefits any energy position.
+- **Semis concentration:** AMD + NVDA correlated; sector risk on both simultaneously.
+
+### Decision
+**HOLD all 4 positions — but AMD stop may trigger at open.**
+- Do NOT place any new orders before 7:30 AM PPI data
+- AMD stop $422.29 active and GTC — let it execute if price hits; do not move stop down
+- If AMD stopped out: evaluate XLE entry after 7:30 AM PPI (only if data benign)
+- TXN watch: tighten to 7% trail if/when $307.37 hit (already tightened per May 14 order)
+- NVDA hold through Wednesday earnings
+- All 4 GTC trailing stops confirmed active and in order
