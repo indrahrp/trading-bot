@@ -594,3 +594,37 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **TXN TIGHTEN ACTION**: If/when TXN hits $307.37 (+15% from entry), cancel order 863a0a75 (10% trail) and place 7% trailing stop GTC per strategy rules.
 - All stops live, all theses intact. No manual cuts needed.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-05-18 — Midday Scan (Day 16, Monday)
+
+### Account State
+- Portfolio: $109,288.92 | Cash: $45,153.16 (41.3%)
+- Long market value: $64,135.76 | Deployment: 58.7% ⚠️ (target 75-85%)
+- Phase P&L: +$9,288.92 (+9.29%)
+
+### AMD Stop-Out (confirmed)
+- AMD trailing stop filled 14:00 UTC at $421.55 (10% trail, HWM $469.21)
+- Realized: +$330 (+1.59%) on 50 shares
+- AMD is now closed; freed ~$21K cash
+
+### Open Positions (midday)
+| SYM  | Shares | Entry   | Now     | Unrealized P&L     | Stop (GTC, live)                      |
+|------|---------|---------|---------|--------------------|---------------------------------------|
+| AMZN | 78      | $260.30 | $265.38 | +$396 (+1.95%)     | 10% trail, HWM $278.56, stop $250.70  |
+| NVDA | 101     | $218.04 | $221.66 | +$366 (+1.66%)     | 10% trail, HWM $236.54, stop $212.89  |
+| TXN  | 70      | $267.28 | $300.66 | +$2,337 (+12.49%)  | 7% trail, HWM $310.29, stop $288.57   |
+
+### Actions Taken
+- No losers to cut (all positions positive)
+- No stop tightening (TXN needs $320.74 for +20% → 5% trail; current $300.66)
+- All theses intact — no thesis-break exits
+
+### Research
+- PERPLEXITY_API_KEY not set; Alpaca live quotes only
+- NVDA -1.63% intraday — mild tech weakness, no sharp catalyst requiring research
+- TXN -0.68% intraday, AMZN +0.47% intraday — routine moves
+
+### Decision
+**HOLD 3 positions.** Deployment 58.7% — below target. Need 1-2 new entries at tomorrow's pre-market/open scan to restore 75-85% deployment. ~$21K freed from AMD stop-out available for new position(s).

@@ -246,3 +246,36 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $302.53  | -1.83%   | +$2,467.66 (+13.19%)   | 7% trail, HWM $310.29, stop $288.57      |
 
 **Notes:** Broad red day across semis/tech — AMD -5.81%, NVDA -4.49%, TXN -1.83%, AMZN -1.48%. Day P&L -$3,078.50 (-2.73%) pulls phase gains back to +$9,706.96 (+9.71%). Critical alert: AMD stop at $422.29 with current price $423.56 — only $1.27 cushion (0.3%); AMD is on the verge of being stopped out. TXN stop was tightened to 7% trail (HWM $310.29, stop $288.57) after breaching +15% from entry ($307.37 threshold hit during the week). NVDA still on 10% trail (HWM $236.54, +8.5% from entry). No trades today. 1/3 trades this week (NVDA entered May 11). Portfolio deployment 78.0% (within 75-85% target), but AMD stop-out risk could drop deployment to ~59% if triggered Monday.
+
+---
+
+### May 18 — AMD Stop-Out (Day 16, Monday)
+
+#### Exit: AMD — Trailing Stop Triggered
+| Field         | Value                                                              |
+|---------------|--------------------------------------------------------------------|
+| Date          | 2026-05-18                                                         |
+| Ticker        | AMD                                                                |
+| Side          | SELL (trailing stop)                                               |
+| Shares        | 50                                                                 |
+| Entry Price   | $414.95                                                            |
+| Exit Price    | $421.55                                                            |
+| Realized P&L  | +$330.00 (+1.59%)                                                  |
+| Stop Trigger  | 10% trail, HWM $469.21, stop $422.29, filled $421.55 at 14:00 UTC |
+| Reason        | Cut at trailing stop per rule — AMD fell through $422.29 at open  |
+
+#### Midday Snapshot (after stop-out)
+**Portfolio:** $109,288.92 | **Cash:** $45,153.16 (41.3%) | **Deployment:** 58.7% ⚠️ | **Phase P&L:** +$9,288.92 (+9.29%)
+
+| Ticker | Shares | Entry   | Now     | Unrealized P&L       | Stop                              |
+|--------|--------|---------|---------|----------------------|-----------------------------------|
+| AMZN   | 78     | $260.30 | $265.38 | +$396 (+1.95%)       | 10% trail, HWM $278.56, stop $250.70 |
+| NVDA   | 101    | $218.04 | $221.66 | +$366 (+1.66%)       | 10% trail, HWM $236.54, stop $212.89 |
+| TXN    | 70     | $267.28 | $300.66 | +$2,337 (+12.49%)    | 7% trail, HWM $310.29, stop $288.57  |
+
+**Actions:**
+- AMD stopped out — trailing stop hit at open; +1.59% realized; order f91d16c7 filled
+- Losers: None — all 3 remaining positions positive. No manual cuts.
+- Stop tighten: TXN at 7% trail already; needs +20% ($320.74) for 5% tighten. Current $300.66 < threshold. No action.
+- Thesis: AMZN AWS ✓, NVDA AI inference ✓, TXN analog recovery ✓ — all intact.
+- Deployment: 58.7% — BELOW 75-85% target. AMD stop-out freed $21K. Need 1-2 new positions at market open tomorrow.
