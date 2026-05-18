@@ -594,3 +594,58 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **TXN TIGHTEN ACTION**: If/when TXN hits $307.37 (+15% from entry), cancel order 863a0a75 (10% trail) and place 7% trailing stop GTC per strategy rules.
 - All stops live, all theses intact. No manual cuts needed.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-05-18 — Pre-market Research (inline, market-open workflow)
+
+### Account
+- Equity: $110,853.99
+- Cash: $24,075.66 (21.7%)
+- Long market value: $86,778.33 | Deployment: 78.3% ✓ (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (fresh weekly cap — new week May 18–22)
+- Phase P&L: +$10,853.99 (+10.85%)
+
+### Open Positions
+| SYM  | Shares | Entry   | Live    | P&L              | Stop (GTC, live)                        |
+|------|--------|---------|---------|------------------|-----------------------------------------|
+| AMD  | 50     | $414.95 | $434.85 | +$994 (+4.80%)   | 10% trail, HWM $469.21, stop $422.29 ⚠️ |
+| AMZN | 78     | $260.30 | $264.80 | +$351 (+1.73%)   | 10% trail, HWM $278.56, stop $250.70    |
+| NVDA | 101    | $218.04 | $227.22 | +$928 (+4.21%)   | 10% trail, HWM $236.54, stop $212.89    |
+| TXN  | 70     | $267.28 | $307.27 | +$2,799 (+14.96%)| 7% trail, HWM $310.29, stop $288.57     |
+
+### Market Context
+- PERPLEXITY_API_KEY not set — live Alpaca quotes only
+- All 4 positions green on day (AMD +2.53%, TXN +1.50%, NVDA +0.84%, AMZN +0.25%)
+- Portfolio recovered from May 15 red day (-2.73%); equity up from $109,707 to $110,854 (+$1,147)
+- Week of May 18: fresh 0/3 weekly trade cap
+
+### Thesis Check on Held Positions
+- **AMD**: $434.85, HWM $469.21, stop $422.29 (2.9% cushion). Q1 beat, semis momentum intact. Hold — watch stop closely.
+- **AMZN**: $264.80, stop $250.70. AWS AI thesis intact. Hold.
+- **NVDA**: $227.22, stop $212.89. AI inference demand structural. Hold.
+- **TXN**: $307.27, 7% trail (HWM $310.29, stop $288.57). Q1 beat intact. Approaching +20% trigger at $320.74 for 5% tighten.
+
+### Stop Tighten Check
+- AMD +4.80%: below +15% threshold ($477.19) — no action
+- AMZN +1.73%: below threshold — no action
+- NVDA +4.21%: below threshold — no action
+- TXN +14.96%: already at 7% trail ✓. Watch $320.74 for 5% tighten trigger.
+
+### Trade Ideas
+- None. Deployment at 78.3% (in range). Cash $24,075 limits new position to ~$22K max. No fresh catalyst available (no Perplexity). Patience > forcing entry.
+
+### Risk Factors
+- AMD stop at $422.29 with price $434.85 — only 2.9% cushion; any sharp pullback could trigger stop-out
+- Semiconductor concentration (AMD + NVDA + TXN all semis/analog): correlated drawdown risk
+- TXN insider selling (CEO + SVPs) ongoing — thesis intact but monitor
+- Limited cash for new entries ($24K); one stop-out would free $20-22K for redeployment
+- No intraday news awareness (Perplexity unavailable)
+
+### Decision
+**HOLD all 4 positions.** No new trades today.
+- All stops live and confirmed via order check.
+- AMD: monitor closely — stop $422.29 with 2.9% cushion.
+- TXN: watch $320.74 (+20% from entry) for 5% trail tighten.
+- No new entries — deployment in range, no fresh catalyst.
