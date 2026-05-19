@@ -246,3 +246,16 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $302.53  | -1.83%   | +$2,467.66 (+13.19%)   | 7% trail, HWM $310.29, stop $288.57      |
 
 **Notes:** Broad red day across semis/tech — AMD -5.81%, NVDA -4.49%, TXN -1.83%, AMZN -1.48%. Day P&L -$3,078.50 (-2.73%) pulls phase gains back to +$9,706.96 (+9.71%). Critical alert: AMD stop at $422.29 with current price $423.56 — only $1.27 cushion (0.3%); AMD is on the verge of being stopped out. TXN stop was tightened to 7% trail (HWM $310.29, stop $288.57) after breaching +15% from entry ($307.37 threshold hit during the week). NVDA still on 10% trail (HWM $236.54, +8.5% from entry). No trades today. 1/3 trades this week (NVDA entered May 11). Portfolio deployment 78.0% (within 75-85% target), but AMD stop-out risk could drop deployment to ~59% if triggered Monday.
+
+---
+
+### May 19 — EOD Snapshot (Day 16, Monday)
+**Portfolio:** $108,856.95 | **Cash:** $45,153.15 (41.5%) | **Day P&L:** -$451.60 (-0.41%) | **Phase P&L:** +$8,856.95 (+8.86%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg  | Unrealized P&L          | Stop                                   |
+|--------|--------|----------|----------|----------|-------------------------|----------------------------------------|
+| AMZN   | 78     | $260.30  | $258.96  | -2.23%   | -$104.74 (-0.52%)       | 10% trail, HWM $278.56, stop $250.70  |
+| NVDA   | 101    | $218.04  | $221.22  | -0.49%   | +$321.64 (+1.46%)       | 10% trail, HWM $236.54, stop $212.89  |
+| TXN    | 70     | $267.28  | $302.31  | +0.57%   | +$2,452.26 (+13.11%)    | 7% trail, HWM $310.29, stop $288.57   |
+
+**Notes:** AMD stopped out over the weekend — confirmed absent from positions; last close $423.56 was only $1.27 above stop $422.29, triggered likely at open Monday. Portfolio dropped from 4 to 3 positions; deployment fell to 58.5% (well below 75-85% target, $45K cash). Mixed day: TXN +0.57% (holding near 13% gain, approaching +15% trail-tighten threshold at $307.37), NVDA -0.49%, AMZN -2.23% (now fractionally underwater at -0.52%). No trades today. 0/3 trades this week. Priority tomorrow: pre-market scan for 1-2 momentum entries to restore deployment; semis/AI and sector leaders in focus.
