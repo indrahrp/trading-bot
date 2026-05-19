@@ -594,3 +594,63 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **TXN TIGHTEN ACTION**: If/when TXN hits $307.37 (+15% from entry), cancel order 863a0a75 (10% trail) and place 7% trailing stop GTC per strategy rules.
 - All stops live, all theses intact. No manual cuts needed.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-05-19 — Pre-market Research
+
+### Account Snapshot
+- **Equity:** $108,532.10 | **Cash:** $45,153.15 | **Long MV:** $63,378.95
+- **Deployment:** 58.4% ⚠️ (target 75-85% — AMD stopped out, gap to fill)
+- **Daytrade count:** 0 | **PDT:** false | **Week trades:** 0/3 (new week)
+- **Phase P&L:** +$8,532.10 (+8.53%)
+
+### Open Positions
+| Ticker | Shares | Entry   | Now     | Unrealized P&L       | Stop (GTC, live)                       |
+|--------|--------|---------|---------|----------------------|----------------------------------------|
+| AMZN   | 78     | $260.30 | $263.00 | +$210 (+1.04%)       | 10% trail, HWM $278.56, stop $250.70  |
+| NVDA   | 101    | $218.04 | $219.96 | +$195 (+0.89%)       | 10% trail, HWM $236.54, stop $212.89  |
+| TXN    | 70     | $267.28 | $295.00 | +$1,941 (+10.37%)    | 7% trail, HWM $310.29, stop $288.57   |
+
+**AMD:** Stopped out (stop triggered at $422.29; ~$367 gain on 50 shares). Cash +$21K returned.
+
+### Market Context
+- **WTI:** ~$105/bbl (eased from $108 Mon high) | **Brent:** ~$102/bbl (eased from $111)
+- **Geopolitical:** Trump called off Iran strike; "serious negotiations" underway. Strait of Hormuz largely closed — oil supply risk remains elevated.
+- **S&P 500 futures:** -0.4% premarket. Tech/chip sell-off leading drag. Micron -2% (4th straight down day).
+- **VIX:** ~19.0 (up ~3% today); closed Mon at 17.82. Elevated but not panic.
+- **Yields:** 2yr >4.0%, 10yr >4.50%, 30yr >5.0% — multi-year highs. Growth/tech headwind.
+- **Sector rotation:** Materials +22% YTD leading. Energy, Industrials, Consumer Staples outperforming. Technology **lagging** — AI capex ROI questioned. Healthcare strong (defensive).
+- *(Fallback: Perplexity unavailable — PERPLEXITY_API_KEY not set; data from WebSearch)*
+
+### Key Catalyst: NVDA Earnings Tomorrow (May 20)
+- Reports Q1 FY2027 after close Wed May 20
+- Consensus: 60%+ datacenter revenue growth
+- Options pricing **8.65% move** — binary event
+- Morgan Stanley raised PT to $285 (from $260)
+- Holding 101 shares; stop at $212.89. Current $219.96 = only **3.2% cushion** above stop
+- If miss: NVDA could break through $212.89 stop. If beat: push toward HWM; $247.34 = +15% tighten trigger
+
+### Stop Checks
+- **NVDA:** +0.89% from entry. Stop $212.89, current $219.96 — 3.2% buffer. TIGHT into earnings.
+- **TXN:** +10.37% from entry. Stop $288.57 (7% trail), current $295.00 — 2.2% buffer. TXN -1.86% today.
+- **AMZN:** +1.04% from entry. Stop $250.70 (10% trail), current $263.00 — 4.7% buffer. Healthiest cushion.
+
+### Trade Ideas
+1. **Energy entry (XOM or CVX)** — Sector momentum leading YTD; oil geopolitical bid; diversifies away from tech concentration. Entry: post-NVDA clarity (Thu May 21). Position ≤$21K (~20% of equity). Stop 10% trail.
+2. **Materials entry (FCX or NEM)** — Materials +22% YTD; inflation hedge. Same timing — wait for NVDA earnings to clear.
+3. **No new semis until after NVDA May 20** — chip sector in active sell-off; NVDA earnings binary.
+
+### Risk Factors
+- **NVDA earnings May 20** — 8.65% options move; stop at $212.89 could be triggered on a miss
+- **Tech sector lagging** — AI ROI skepticism; AMZN + NVDA = 39% of deployed capital in lagging sector
+- **Elevated yields (30yr >5%)** — persistent valuation pressure on growth names
+- **Oil/geopolitical** — Strait of Hormuz partially closed; supply shock risk to broad market
+- **TXN stop tightness** — 7% trail, 2.2% buffer; one more red day in semis could trigger
+
+### Decision
+**HOLD all 3 positions** through NVDA earnings.
+- Do NOT add new positions today — NVDA binary event tomorrow creates unnecessary entry risk.
+- **Post-NVDA (Thu May 21):** If market stabilizes, enter 1-2 non-tech positions (Energy/Materials) to restore deployment to 75-85%.
+- **NVDA earnings alert:** If NVDA -8%+ overnight post-earnings → likely stopped out; reassess sector allocation.
+- All stops live. No manual cuts today.
