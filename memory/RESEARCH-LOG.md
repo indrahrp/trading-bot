@@ -594,3 +594,65 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **TXN TIGHTEN ACTION**: If/when TXN hits $307.37 (+15% from entry), cancel order 863a0a75 (10% trail) and place 7% trailing stop GTC per strategy rules.
 - All stops live, all theses intact. No manual cuts needed.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-05-20 — Pre-market Research (inline, market-open workflow)
+
+### Account
+- Equity: $109,145.15
+- Cash: $45,153.15 (41.4%) — UNDERDEPLOYED vs 75-85% target
+- Buying power: $154,298.30
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (fresh week May 19–23)
+- PERPLEXITY_API_KEY not set — WebSearch fallback
+
+### AMD Exit (automated trailing stop, triggered prior to May 20 open)
+- 50 shares @ $414.95 entry; 10% trail HWM $469.21, stop $422.29
+- Stop triggered ~$422.29; Realized P&L: ~+$367 (+1.77%)
+- Cash restored to $45,153 (was $24,076 post-NVDA entry May 11)
+
+### Open Positions
+| SYM  | Shares | Entry   | Now      | Unrealized P&L    | Stop (GTC, live)                     |
+|------|--------|---------|----------|-------------------|--------------------------------------|
+| AMZN | 78     | $260.30 | $261.22  | +$72 (+0.35%)     | 10% trail, HWM $278.56, stop $250.70 |
+| NVDA | 101    | $218.04 | $221.93  | +$393 (+1.78%)    | 10% trail, HWM $236.54, stop $212.89 |
+| TXN  | 70     | $267.28 | $302.87  | +$2,491 (+13.32%) | 7% trail, HWM $310.29, stop $288.57  |
+
+Deployment: $63,992 / $109,145 = 58.6% (target 75-85%)
+
+### Market Context
+- S&P 500 futures: +0.21% — mildly positive; 71% Polymarket probability of green open
+- VIX: 18.06 (+1.35% from May 19 close) — neutral/slightly elevated
+- **NVDA earnings after close tonight** — Q1 FY2027; consensus EPS $1.77 (+120% YoY), rev ~$78-79B (+79% YoY); China H20 export restrictions (~$1B headwind) key risk
+- No tier-1 macro data today; Fed speakers possible; bond yield pressure ongoing
+- AM earnings today: TGT, LOW, TJX, ADI (no direct impact on held positions)
+- Sector YTD: Energy +22%, Industrials +16%, Consumer Defensive +13% (rotation away from semis); SOX +65% YTD — veteran analysts flagging 25-30% correction risk
+
+### Held Ticker News
+- **NVDA**: Premarket +1.6% to $224.11; Blackwell ramping; 81% AI accelerator market share; China H20 restrictions are overhang. **Earnings tonight — binary event.**
+- **AMZN**: No immediate catalyst; Bezos "Project Sunrise" space data centers (2027+ timeline). Thesis intact.
+- **TXN**: ~$302-308 near 52-week high $310.29; Stifel raised PT to $340; BUT CFO sold $14.7M in shares (cumulative with CEO/SVPs). Thesis intact but watch insider distribution.
+- **AMD** (stopped out): Premarket +2.37% to $423.85; Citi PT $460, Evercore PT $579; Cathie Wood selling AMD, rotating into NVDA.
+
+### Stop Tighten Check
+- AMZN +0.35%: no tighten (threshold +15% = $299.35)
+- NVDA +1.78%: no tighten (threshold +15% = $250.75)
+- TXN +13.32%: no tighten yet — 7% trail already placed. Next: tighten to 5% at +20% ($320.74)
+
+### Trade Ideas
+1. **NO NEW SEMIS TODAY** — NVDA earnings tonight; AMD sympathy move risky; SOX at 65% YTD bubble-warning territory
+2. **XLE / Energy** — sector +22% YTD; Brent $100+; Iran deal progress stalled. Post-NVDA if semis sell off and deployment slips further.
+3. **MU** — momentum +30% in recent week; potential add if NVDA beats tonight and semis sentiment holds. Defer to post-earnings.
+
+### Risk Factors
+- **NVDA earnings binary tonight** — miss + China guidance cut could gap NVDA below stop $212.89; trailing stop won't prevent gap-through
+- TXN CFO + CEO + 2 SVPs: cumulative insider selling (May) at 52-week highs — distribution risk
+- Deployment 58.6% — underdeployed but NVDA uncertainty justifies patience today
+- SOX +65% YTD — analyst-flagged bubble/consolidation risk for semis sector
+
+### Decision
+**HOLD all 3 positions.** No new trades today.
+- NVDA: thesis intact; existing 10% trail stop at $212.89 provides protection; hold through earnings
+- AMZN/TXN: no action needed; stops live
+- **Post-NVDA reaction (tomorrow pre-market)**: if beats and guides higher, evaluate 1-2 new entries (MU, AMD re-entry, or XLE for diversification) to close deployment gap (58.6% → 75-85%)
