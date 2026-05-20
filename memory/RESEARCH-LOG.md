@@ -594,3 +594,64 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **TXN TIGHTEN ACTION**: If/when TXN hits $307.37 (+15% from entry), cancel order 863a0a75 (10% trail) and place 7% trailing stop GTC per strategy rules.
 - All stops live, all theses intact. No manual cuts needed.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-05-20 — Pre-market Research
+
+*Note: PERPLEXITY_API_KEY not set; no .env file. All research via WebSearch fallback.*
+
+### Account
+- Equity: $109,365.14
+- Cash: $45,153.15
+- Buying power: $154,518.29
+- Long market value: $64,211.99 | Deployment: 58.7% — UNDERDEPLOYED (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Week trades: 0/3 (new week May 18–22)
+- Phase P&L: +$9,365.14 (+9.37%)
+
+### AMD Stop-Out (confirmed since May 15)
+- Entry $414.95 × 50 sh → stopped out ~$422.29 (10% trail, HWM $469.21)
+- Estimated realized P&L: +$367 (+1.77%) — small gain, position closed cleanly
+
+### Open Positions
+| SYM  | Shares | Entry   | Now     | Unrealized P&L        | Stop (GTC)                           |
+|------|--------|---------|---------|-----------------------|--------------------------------------|
+| AMZN | 78     | $260.30 | $260.00 | -$23.62 (-0.12%)      | 10% trail, HWM $278.56, stop $250.70 |
+| NVDA | 101    | $218.04 | $224.00 | +$602 (+2.74%)        | 10% trail, HWM $236.54, stop $212.89 |
+| TXN  | 70     | $267.28 | $304.40 | +$2,599 (+13.89%)     | 7% trail, HWM $310.29, stop $288.57  |
+
+### Market Context
+- WTI / Brent: ~$103 / ~$110 — elevated; Strait of Hormuz disruption + Iran conflict
+- S&P 500 futures: +0.21% (Nasdaq +0.4%) — mildly positive ahead of NVDA earnings
+- VIX: ~18.17 (moderate; slight upward drift from 17.82)
+- Bond yields elevated: 10-yr 4.69%, 30-yr 5.19% — inflation concerns, rate-cut hopes fading
+- **NVDA reports Q1 FY27 AFTER CLOSE TODAY** — consensus $1.78 EPS (+120% YoY), $79.2B rev (+79.5%); $2.5B China H20 restriction headwind; hyperscaler capex up 77% to $725B
+- **FOMC minutes likely today** (Apr 28-29 meeting + 3-week rule = May 20) — market-moving
+- Sector momentum YTD: Materials +22% (leader), Energy/Industrials/Staples Leading; Tech/Semis Lagging; S&P 500 +10% YTD but 85% of gains from TMT (concentrated)
+
+### Held Ticker News
+- **NVDA** $224.00: Earnings after close tonight. China ban = $2.5B hit. Hyperscaler capex tailwind ($725B combined). Stock down from HWM $236.54; stop $212.89 = 5.0% below — tight heading into print. "Sell on news" risk.
+- **AMZN** $260.00 (-0.12% from entry): AI push toward $3T market cap. AWS +28% YoY. 79/83 analysts Buy, avg PT $313. Thesis intact; stock at seasonal lows near entry price. Stop $250.70 = 3.6% away.
+- **TXN** $304.40 (+13.89%): Stifel PT raised to $340, Mizuho to $300. CFO sold 47,734 sh ($14.7M); SVP sold 5,000 sh ($1.5M) — heavy insider distribution ongoing. Next tighten trigger: +20% = $320.74 → 5% trail. 7% trail confirmed active (HWM $310.29, stop $288.57).
+
+### Trade Ideas
+1. **XLB (Materials ETF)** — Materials +22% YTD, #1 momentum sector, non-correlated to tech/AI. Entry ~$95-98, stop $86-88 (-10%), target $114-118 (+20%), R:R 2.0:1. **Gate: defer until May 21 post-NVDA reaction; do not add today.**
+2. **XLE (Energy ETF)** — Energy Leading sector; WTI $103 / Brent $110 on Hormuz disruption. Entry ~$56-58, stop $51-52 (-10%), target $68-70 (+20%), R:R 2.0:1. **Risk**: any Iran deal = oil reversal. **Gate: defer to May 21.**
+3. **No new entries today** — NVDA earnings = binary event; forced tech/semis exposure too high to add risk before close.
+
+### Risk Factors
+- **NVDA earnings tonight** — hold 101 sh, stop $212.89 (5.0% below current); gap-down on miss = stop-out; "sell the news" = moderate drawdown risk
+- **FOMC minutes today** — hawkish tone = broad equity selloff
+- **TXN insider selling** — CFO + SVP sold ~$16M in May; distribution pattern at highs
+- **AMZN at entry** — flat from cost basis; stop $250.70 just 3.6% away; broad selloff could trigger
+- **Bond yields** 10-yr 4.69% / 30-yr 5.19% — sustained headwind for growth/tech valuations
+- **Deployment 58.7%** — underdeployed but NVDA binary event blocks adding today
+
+### Decision
+**HOLD all 3 positions.** No new trades today.
+- **NVDA**: Hold through earnings; stop $212.89 protects downside; if beats strongly, trail updates automatically
+- **TXN**: Watch +20% trigger at $320.74 → tighten stop to 5% trail per strategy rules
+- **AMZN**: Flat from entry, thesis intact; stop live and correct
+- **New entries**: Defer to May 21; evaluate XLB or XLE post-NVDA reaction
+- Deployment priority resumes May 21 if market stable after earnings
