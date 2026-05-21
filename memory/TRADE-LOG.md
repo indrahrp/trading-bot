@@ -18,12 +18,13 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
-### Apr 28 — EOD Snapshot (Day 2, Tuesday)
-**Portfolio:** $100,839.97 | **Cash:** $62,910.07 (62.4%) | **Day P&L:** +$839.97 (+0.84%) | **Phase P&L:** +$839.97 (+0.84%)
+### Apr 30 — EOD Snapshot (Day 4, Thursday)
+**Portfolio:** $104,065.19 | **Cash:** $42,606.45 (40.9%) | **Day P&L:** +$990.97 (+0.96%) | **Phase P&L:** +$4,065.19 (+4.07%)
 
 | Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
 |--------|--------|-------|-------|---------|----------------|------|
-| INTC   | 225    | $81.69 | $85.21 | +0.26% | +$791.76 (+4.31%) | $76.13 (10% trail) |
-| TXN    | 70     | $267.28 | $267.87 | -0.61% | +$41.46 (+0.22%) | $243.62 (10% trail) |
+| AMZN | 78 | $260.30 | $264.24 | +0.45% | +$306.75 | $239.84 (10% trail) |
+| INTC | 225 | $81.69 | $94.10 | -0.69% | +$2,792.28 | $88.48 (7% trail) |
+| TXN | 70 | $267.28 | $281.08 | +4.41% | +$966.16 | $253.73 (10% trail) |
 
-**Notes:** Day 2 of the challenge. Entered 2 new positions: INTC (225 shares avg $81.69) and TXN (70 shares avg $267.28), both with 10% trailing stop GTC orders live. Account closed +$839.97 (+0.84%) on the day, with INTC accounting for the bulk of gains at +4.31% unrealized. TXN slipped -0.61% intraday but unrealized P&L remains slightly positive on the entry cost basis. Cash at 62.4% — capacity for 1 more position within the 75-85% deployment target. Week tally: 2 of 3 trades used; one slot remains for high-conviction entry.
+**Notes:** Day 4 of the challenge. Three positions active — AMZN and INTC entered today (Apr 30), TXN entered Apr 28 (Apr 28–29 EOD snapshots missing). Portfolio up +0.96% on the day, driven primarily by TXN's strong +4.41% session. INTC slipped -0.69% intraday but is +15.2% from entry with stop already tightened to 7% trailing at $88.48 (HWM $95.14). AMZN +0.45% with 10% trail at $239.84. Weekly trade count at 3/3 cap — no new entries until next week. Capital deployed at 59.1%, below the 75–85% target; evaluate new setups Monday pre-market.
