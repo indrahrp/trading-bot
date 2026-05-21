@@ -18,15 +18,13 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
-### Apr 27 — Market-Open Orders (fills at Apr 28 open)
+### Apr 28 — Market-Open Trades (Day 2, Tuesday)
+**Portfolio:** $100,401.50 | **Cash:** $62,910.07 (62.7%) | **Deployed:** $37,491.43 (37.3%) | **Open Positions:** 2 | **Trades This Week:** 2/3
 
-**Orders placed after regular hours; execute at Apr 28 09:30 ET open.**
+| Date    | Ticker | Side | Shares | Entry     | Stop (10% trail) | Target | R:R  | Thesis |
+|---------|--------|------|--------|-----------|------------------|--------|------|--------|
+| Apr 28  | INTC   | BUY  | 225    | $81.69    | $74.38 (trailing)| $100   | 2.2:1| Post-earnings momentum — 6th consecutive beat; agentic AI CPU demand; Tesla Terafab partnership; Q2 guide $13.8–14.8B vs $13.07B est |
+| Apr 28  | TXN    | BUY  | 70     | $267.28   | $242.59 (trailing)| $320  | 2.0:1| Post-earnings momentum — Q1 rev $4.83B +19% YoY; analog + datacenter recovery; Q2 guide $5.0–5.4B vs $4.87B est |
 
-| Date | Ticker | Side | Shares | Est. Entry | Stop | Thesis | Target | R:R |
-|------|--------|------|--------|-----------|------|--------|--------|-----|
-| 2026-04-27 | INTC | BUY | 225 | ~$87.75 | 10% trail (set at fill Apr 28) | Intel cracked 26-yr record; AI momentum breakout; analog/data-center demand | $105.25 | 2.0:1 |
-| 2026-04-27 | TXN | BUY | 70 | ~$285.52 | 10% trail (set at fill Apr 28) | Q1 earnings beat; rose most in 25 yrs; analog chips for AI data centers | $342.62 | 2.0:1 |
-
-**Stop note:** Trailing stops rejected 403 (positions unfilled at order time). **ACTION REQUIRED at Apr 28 open:** Place 10% trailing stop GTC for INTC (225 sh) and TXN (70 sh) immediately after fill confirmation.
-
-**Weekly trade count:** 2 of 3 used
+**Stop orders placed:** INTC trailing_stop 10% GTC (order 94c61435) | TXN trailing_stop 10% GTC (order 863a0a75)
+**Notes:** Both filled at market open. Trailing stops placed same session. Semis concentration 37% of equity — holding last weekly trade slot for diversified post-earnings opportunity (AAPL/META/AMZN earnings this week).

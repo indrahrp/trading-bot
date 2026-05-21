@@ -32,33 +32,31 @@ TRADE or HOLD (default HOLD if no edge)
 
 ---
 
-## 2026-04-27 — Pre-market Research
+## 2026-04-28 — Pre-market Research
 
 ### Account
-- Equity: $100,000
-- Cash: $100,000
-- Buying power: $200,000
+- Equity: $100,401.50
+- Cash: $62,910.07
+- Buying power: $163,311.57
 - Daytrade count: 0
 
 ### Market Context
-- S&P 500: 7,173.91 (+0.12%), new record high
-- Nasdaq: 24,887.10 (+0.20%)
-- VIX: 18.02 (-3.69%) — moderate, risk-on
-- Today's catalysts: Crowded earnings week (5 Mag7 reporting), 3 central bank meetings
-- Sector momentum: AI/semiconductor, analog chips, clean energy/industrial
-- SOX (semis): +33% over 3 months; RSI >85 (overbought but momentum intact)
-- Breadth narrowing — mega-cap tech leading
+- WTI/Brent: ~$103/bbl (down from April peak $138; geopolitical premium partially unwinding)
+- S&P 500 futures: Mixed; S&P hit record 7,173.91 on Apr 27; Nasdaq record 24,887.10
+- VIX: 19.02 (+5.56%)
+- Today's catalysts: UAE leaving OPEC effective May 1; mega-cap earnings week (AAPL, MSFT, AMZN, META, GOOG)
+- Earnings before open: GM (beat + raised 2026 guidance), KO (+3% beat)
+- Sector momentum: Semis (INTC +25%, TXN +18% post-earnings Apr 23); Steel/Industrials (NUE +3.8%); Energy extended (XOM/CVX +20% YTD, fading)
 
 ### Trade Ideas
-1. INTC — Cracked 26-year-old record on AI momentum; major technical/fundamental breakout. Entry ~$87.75, stop 10% trail (~$79), target $105.25, R:R 2.0:1
-2. TXN — Q1 earnings beat; rose most in 25 years; analog chips winning data center AI buildout. Entry ~$285.52, stop 10% trail (~$257), target $342.62, R:R 2.0:1
-3. CLH — Citi Buy upgrade $346 target, cup & handle; SKIP: R:R <1:1 at current price $326
-4. CIEN — Optical networking AI infra play; SKIP: insufficient price target data
+1. INTC — post-earnings momentum; 6th consecutive beat; agentic AI CPU demand surge; Tesla Terafab chip partnership; entry $81.69, stop $74.38, target $100, R:R 2.2:1 ✅ EXECUTED
+2. TXN — post-earnings momentum; Q1 rev $4.83B +19% YoY; analog + datacenter recovery; Q2 guide beat; entry $267.28, stop $242.59, target $320, R:R 2.0:1 ✅ EXECUTED
+3. 3rd slot held — watch AAPL/META post-earnings for diversified entry later this week
 
 ### Risk Factors
-- Semis RSI >85 — overbought; pullback risk if any Mag7 earnings miss
-- Market breadth narrowing (only 188/500 stocks up last week vs 406 week prior)
-- TXN already moved significantly post-earnings; possible extension
+- Semis concentration: both positions in semis (~37% equity)
+- VIX 19 slightly elevated; binary risk from mega-cap earnings this week
+- Oil at $103 fading from $138 peak; UAE OPEC exit bearish for oil long-term
 
 ### Decision
-TRADE — INTC (225 sh) and TXN (70 sh); total deployment $39,730 (39.7%)
+HOLD on 3rd trade — patience > activity. Monitor AAPL/META/AMZN earnings for clean post-earnings momentum entry to diversify away from semis.
