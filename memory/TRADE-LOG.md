@@ -317,3 +317,16 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### May 21 — EOD Snapshot (Day 18, Thursday)
+**Portfolio:** $109,139.65 | **Cash:** $45,153.15 (41.4%) | **Day P&L:** -$596.35 (-0.54%) | **Phase P&L:** +$9,139.65 (+9.14%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg  | Unrealized P&L        | Stop                                     |
+|--------|--------|----------|----------|----------|-----------------------|------------------------------------------|
+| AMZN   | 78     | $260.30  | $268.43  | +1.29%   | +$634.16 (+3.12%)     | 10% trail, HWM $278.56, stop $250.70    |
+| NVDA   | 101    | $218.04  | $219.40  | -1.82%   | +$138.08 (+0.63%)     | 10% trail, HWM $236.54, stop $212.89    |
+| TXN    | 70     | $267.28  | $298.39  | -2.13%   | +$2,177.86 (+11.64%)  | 7% trail, HWM $310.29, stop $288.57     |
+
+**Notes:** NVDA reported Q1 FY2027 earnings after close May 20; stock pulled back -1.82% today but 10% trail stop at $212.89 holds with $6.51 cushion — no panic, thesis intact (AI inference cycle). TXN declined -2.13% on no specific catalyst, remains +11.64% above entry and well above 7% stop ($288.57 vs $298.39 current). AMZN the bright spot at +1.29%. Portfolio still underdeployed at 58.6% ($45K idle); no new trades this week (0/3). No stops triggered, no losers at -7%. Pre-market tomorrow (Friday): scan for 1-2 momentum entries to close deployment gap; if none qualify, hold cash into weekend.
