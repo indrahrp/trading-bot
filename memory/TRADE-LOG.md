@@ -249,13 +249,14 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 
 ---
 
-### May 18 — EOD Snapshot (Day 16, Monday)
-**Portfolio:** $109,326.83 | **Cash:** $45,153.16 (41.3%) | **Day P&L:** -$505.17 (-0.46%) | **Phase P&L:** +$9,326.83 (+9.33%)
+### May 17 — EOD Snapshot (Day 15, Sunday)
+**Portfolio:** $109,832.00 | **Cash:** $24,075.66 (21.9%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** +$9,832.00 (+9.83%)
 
-| Ticker | Shares | Entry    | Close   | Day Chg  | Unrealized P&L         | Stop                                      |
-|--------|--------|----------|---------|----------|------------------------|-------------------------------------------|
-| AMZN   | 78     | $260.30  | $264.90 | +0.29%   | +$358.58 (+1.77%)      | 10% trail, HWM $278.56, stop $250.70     |
-| NVDA   | 101    | $218.04  | $222.47 | -1.26%   | +$447.89 (+2.03%)      | 10% trail, HWM $236.54, stop $212.89     |
-| TXN    | 70     | $267.28  | $300.60 | -0.70%   | +$2,332.56 (+12.47%)   | 7% trail, HWM $310.29, stop $288.57      |
+| Ticker | Shares | Entry    | Close    | Day Chg | Unrealized P&L         | Stop                                      |
+|--------|--------|----------|----------|---------|------------------------|-------------------------------------------|
+| AMD    | 50     | $414.95  | $424.10  | 0.00%   | +$457.50 (+2.21%)      | 10% trail, HWM $469.21, stop $422.29 ⚠️  |
+| AMZN   | 78     | $260.30  | $264.14  | 0.00%   | +$299.30 (+1.47%)      | 10% trail, HWM $278.56, stop $250.70     |
+| NVDA   | 101    | $218.04  | $225.32  | 0.00%   | +$735.74 (+3.34%)      | 10% trail, HWM $236.54, stop $212.89     |
+| TXN    | 70     | $267.28  | $302.73  | 0.00%   | +$2,481.66 (+13.26%)   | 7% trail, HWM $310.29, stop $288.57      |
 
-**Notes:** AMD trailing stop triggered at open (stop $422.29, HWM $469.21) — filled ~$421.55, locking in +$330 (+1.59% on entry). AMD peaked +13.2% from entry before retreating; strategy stop worked correctly. NVDA and TXN both dipped modestly on the day while AMZN eked out a small gain. Deployment dropped to 58.7% with AMD exit — back below 75-85% target; $45K cash available for 1-2 new entries. TXN strongest at +12.47% unrealized, approaching 7% trail tighten at +15% ($307.37 threshold already passed — stop already at 7%, further tighten to 5% at +20% = $320.74). Trades this week (new buys): 0/3.
+**Notes:** Weekend check-in (Sunday, no trading). Alpaca equity $109,832 is authoritative vs Friday May 15 log of $109,706.96 — minor ~$125 upward adjustment from end-of-day price updates. Phase P&L +$9,832 (+9.83%). AMD critical: price $424.10 vs stop $422.29, only $1.81 cushion (0.43%) — monitor Monday open closely for stop-out. TXN at +13.26% from entry, approaching +15% tighten trigger ($307.37); 7% trail already active. NVDA +3.34%, AMZN +1.47%, both healthy. Deployment 78.1% (within 75-85% ✓). Trades this week: 1/3 (NVDA May 11). Week 3 closes at +9.83% phase. Monday plan: AMD stop-out likely if gap down — have watchlist ready for replacement entry; TXN watch for +15% trigger.
