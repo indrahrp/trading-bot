@@ -425,45 +425,6 @@ Deployment: $64,783 / $110,881 = 58.4% (target 75-85%)
 ### Decision
 **NVDA: BUY 101 shares at market** — closes deployment gap to 78.2%, all gates pass.
 **AMD / AMZN / TXN: HOLD** — theses intact, stops live, no tightenings needed.
-## 2026-05-14 — Market-Open Assessment (inline pre-market)
-
-### Account (live)
-- Equity: $111,834 | Cash: $24,076 (21.5%) | Deployment: 78.5% ✓
-- Daytrade count: 0 | PDT: false | Week trades: 1/3 (NVDA May 11)
-
-### Open Positions
-| SYM  | Shares | Entry    | Live Bid  | Unrealized P&L    | Stop (GTC)                              |
-|------|--------|----------|-----------|-------------------|-----------------------------------------|
-| AMD  | 50     | $414.95  | $442.02   | +$1,354 (+6.5%)   | 10% trail, stop $422.29                 |
-| AMZN | 78     | $260.30  | $269.82   | +$741 (+3.7%)     | 10% trail, stop $250.70                 |
-| NVDA | 101    | $218.04  | $230.58   | +$1,267 (+5.7%)   | 10% trail, stop $208.97                 |
-| TXN  | 70     | $267.28  | $305.24   | +$2,657 (+14.2%)  | 10% trail, stop $278.39                 |
-
-### Macro Context
-- **CPI Apr (May 12)**: Headline +3.8% YoY (est +3.7%), core +2.8% (est +2.7%) — HOT. Rate hike odds spiked; 2026 rate cut odds nearly eliminated. Energy +17.9% YoY.
-- **PPI Apr (May 13)**: Final demand +1.4% MoM, +6.0% YoY — HOT. S&P fell on data.
-- **Trump-Xi Summit (May 14-15, Beijing)**: Broadly constructive — trade truce maintained; "constructive strategic stability" framework. Positive for tech/semis (chip tariff risk reduced).
-- **AMD**: Daiwa downgraded to Outperform from Buy — "valuation stretched." Thesis intact (Q1 beat, semis momentum).
-- **NVDA**: Up +2.1% today; AI inference thesis intact; Trump-Xi reduces chip export tension.
-- **AMZN**: "Alexa for Shopping" AI e-commerce tool — positive for AI/AWS thesis.
-- **TXN**: Approaching +15% tighten trigger at $307.37 (bid $305.24 — $2.13 away).
-
-### Gate Check — No New Trades
-- Deployment 78.5% (in range — no urgency)
-- CPI 3.8% > 3.7% threshold → new entry condition NOT met; XLE deferred
-- PPI +6.0% YoY adds to hawkish backdrop
-- No fresh catalyst for untested ticker
-
-### Stop Tighten Check
-- AMD +6.5%: below $477.19 (+15%) — hold
-- AMZN +3.7%: below $299.35 — hold
-- NVDA +5.7%: below $250.75 — hold
-- TXN +14.2%: **WATCH** — tighten to 7% trail at $307.37
-
-### Decision
-**HOLD all 4. No new trades.** Hot CPI/PPI = macro gate fails. Deployment in range.
-Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, thesis intact.
-
 ## 2026-05-11 — Pre-market Research
 
 *Note: PERPLEXITY_API_KEY not set in environment; all market research via WebSearch fallback.*
@@ -518,214 +479,43 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **NEW POSITIONS: HOLD until post-CPI** — wait for Tuesday May 12 CPI data before adding; if benign (≤3.7% headline, ≤2.7% core), evaluate XLE entry to close deployment gap (1 position, max $22K ≈ 20% of equity)
 - **Deployment**: 58.4% — underdeployed but CPI uncertainty justifies patience. Target: 1 new position post-CPI to reach ~75%.
 
-## 2026-05-11 — Midday Addendum
-
-### Account
-- Equity: $111,624.47
-- Cash: $24,075.66 (21.6%)
-- Deployment: 78.4% (target 75-85% ✓ — NVDA entry this morning resolved gap)
-- Daytrade count: 1 | Week trades: 1/3 (NVDA entered today)
-
-### Positions Check
-| SYM  | P&L from Entry | Day Chg | Action |
-|------|----------------|---------|--------|
-| AMD  | +12.10%        | +2.19%  | Hold — below +15% tighten threshold ($477.19) |
-| AMZN | +4.84%         | +0.08%  | Hold — AWS thesis intact |
-| NVDA | +1.75%         | +3.09%  | Hold — new position, AI inference thesis intact |
-| TXN  | +10.00%        | +2.16%  | Hold — below +15% tighten threshold ($307.37) |
-
-- No losers. No stop tightenings. All theses intact.
-- No sharp moves requiring Perplexity research (Perplexity unavailable — key not set).
-
-### Decision
-**HOLD all 4.** No cuts, no tightenings, no new trades.
-**CPI tomorrow May 12 at 8:30 AM ET** — key macro event. Hot print (>3.7% headline) could gap market lower; do NOT place any new orders before release. If benign, evaluate adding XLE (energy, 1 position ≤$22K) to maintain 75-85% deployment if stops pull back.
-
 ---
 
-## 2026-05-13 — Pre-market Research (inline, market-open workflow)
+## 2026-05-12 — Market-Open Research
+
+*Note: PERPLEXITY_API_KEY not set; CPI data via WebSearch fallback.*
 
 ### Account
-- Equity: $111,044.40
-- Cash: $24,075.66 (21.7%)
-- Long market value: $86,968.74 | Deployment: 78.3% ✓ (target 75-85%)
+- Equity: $110,399.67
+- Cash: $24,075.66 (21.8%)
+- Buying power: $134,475.33
+- Long market value: $86,324.01 | Deployment: 78.2% (target 75-85% ✓)
 - Daytrade count: 0 | PDT: false
-- Week trade count: 1/3 (NVDA entered May 11)
-- Phase P&L: +$11,044.40 (+11.04%)
+- Week trades: 1/3 (NVDA entered May 11)
 
 ### Open Positions
-| SYM  | Shares | Entry    | Now     | Unrealized P&L        | Stop (GTC, live)                       |
-|------|--------|----------|---------|-----------------------|----------------------------------------|
-| AMD  | 50     | $414.95  | $444.64 | +$1,484 (+7.15%)      | 10% trail, HWM $469.21, stop $422.29   |
-| AMZN | 78     | $260.30  | $264.03 | +$291 (+1.43%)        | 10% trail, HWM $278.56, stop $250.70   |
-| NVDA | 101    | $218.04  | $225.74 | +$778 (+3.53%)        | 10% trail, HWM $227.16, stop $204.44   |
-| TXN  | 70     | $267.28  | $304.62 | +$2,614 (+13.97%)     | 10% trail, HWM $305.50, stop $274.95   |
+| SYM  | Shares | Entry    | Now     | Unrealized P&L       | Stop (GTC live)              |
+|------|--------|----------|---------|----------------------|------------------------------|
+| NVDA | 101    | $218.04  | $220.75 | +$274 (+1.25%)       | 10% trail, HWM $222.30, stop $200.07 |
+| AMD  | 50     | $414.95  | $454.45 | +$1,975 (+9.52%)     | 10% trail, HWM $469.21, stop $422.29 |
+| AMZN | 78     | $260.30  | $266.40 | +$475 (+2.34%)       | 10% trail, HWM $278.56, stop $250.70 |
+| TXN  | 70     | $267.28  | $293.34 | +$1,824 (+9.75%)     | 10% trail, HWM $298.18, stop $268.36 |
 
-### Market Context
-- PERPLEXITY_API_KEY not set — live Alpaca quotes only
-- **PPI today May 13** (producer price index) — market-moving macro event; adds uncertainty
-- CPI May 12 (yesterday): portfolio equity up $859 vs last close → market absorbed CPI positively
-- Deployment 78.3% — already within 75-85% target; no urgency to add positions
-- Phase P&L: +11.04% vs S&P 500 benchmark
-
-### Stop Tighten Check
-- AMD +7.15%: below +15% threshold ($477.19) — no tighten
-- AMZN +1.43%: well below threshold — no tighten
-- NVDA +3.53%: well below threshold — no tighten
-- **TXN +13.97%: approaching +15% threshold at $307.37** — ask currently $305.10; watch at open
-
-### Thesis Check
-- **AMD**: HWM $469.21 (above entry +13%); stop $422.29 (10% trail). Q1 beat, semis momentum. INTACT.
-- **AMZN**: HWM $278.56, stop $250.70. AWS AI thesis intact. INTACT.
-- **NVDA**: HWM $227.16, stop $204.44. AI inference demand structural catalyst. INTACT.
-- **TXN**: HWM $305.50, stop $274.95. Q1 beat intact; insider selling (CEO/SVPs) remains watch risk. INTACT.
-
-### Trade Ideas
-1. **No new positions** — deployment at 78.3% (within target); PPI uncertainty today; patience > forcing entries.
-
-### Risk Factors
-- **PPI today May 13**: Hot print could reprice rate expectations → equities lower
-- TXN insider selling (CEO + 2 SVPs May) ongoing — thesis intact but watch
-- AMD pulled back from HWM $469.21 to $444.64 (-5.2%); stop at $422.29 (5.2% below current) — tight
-- Semiconductor concentration: AMD + NVDA correlated; sector pullback = double hit
-
-### Decision
-**HOLD all 4 positions.** No new trades today.
-- **TXN TIGHTEN ACTION**: If/when TXN hits $307.37 (+15% from entry), cancel order 863a0a75 (10% trail) and place 7% trailing stop GTC per strategy rules.
-- All stops live, all theses intact. No manual cuts needed.
-- Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
-
----
-
-## 2026-05-19 — Pre-market Research (inline, market-open workflow)
-
-*Note: PERPLEXITY_API_KEY not set — WebSearch fallback. ClickUp alert not sent (non-critical; no trades requiring research)*
-
-### Account
-- Equity: $108,666.88
-- Cash: $45,153.15 (41.6%) — UNDERDEPLOYED vs 75-85% target
-- Buying power: $153,820.03
-- Long market value: $63,513.73 | Deployment: 58.4%
-- Daytrade count: 0 | PDT: false
-- Week trades: 0/3 (fresh week — May 19–23)
-- Phase P&L: +$8,666.88 (+8.67%)
-
-### Event Since Last Entry: AMD Stop-Out
-- AMD 5% trailing stop triggered between May 15–19 (stop was $422.29; May 15 close $423.56 — 0.3% cushion)
-- AMD confirmed absent from live positions
-- AMD bid $400.16 / ask $442.02 (wide off-hours spread) — position closed at ~$422
-- Realized P&L estimated: ~+$350 (+1.7% from $414.95 entry) — exact fill TBD from broker confirm
-- Deployment dropped from 78% → 58.4% on stop-out
-
-### Open Positions
-| SYM  | Shares | Entry    | Live Price | Unrealized P&L        | Stop (GTC, live)                      |
-|------|--------|----------|------------|-----------------------|---------------------------------------|
-| AMZN | 78     | $260.30  | $260.31    | +$0.56   (+0.003%)    | 10% trail, HWM $278.56, stop $250.70  |
-| NVDA | 101    | $218.04  | $221.74    | +$374    (+1.7%)      | 10% trail, HWM $236.54, stop $212.89  |
-| TXN  | 70     | $267.28  | $297.41    | +$2,109  (+11.3%)     | 7% trail, HWM $310.29, stop $288.57   |
-
-### Market Context
-- **S&P 500**: Down 0.55% today; Dow -0.85%; Nasdaq -1.0% — broad tech sell-off
-- **VIX**: Rising; sector rotation from tech into energy/utilities
-- **Energy**: Elevated (WTI ~$94-100, Brent elevated); Dominion/NextEra power utility surge on $67B acquisition
-- **Tech/Semis**: AI infrastructure names correcting after May run; NVDA, Tesla, Meta all lower
-- **KEY EVENT: NVDA Q1 earnings TOMORROW May 20 after close**
-  - Consensus: EPS $1.76-1.78 (+120% YoY), Revenue $78.4-79.2B (+79.5% YoY), Datacenter $73.2B (+87% YoY)
-  - Expected move: 8.65% (options market)
-  - Analysts expect beat+raise; 3 of last 4 quarters beat; Ark bought $1.2M NVDA May 18
-  - Vera Rubin / Blackwell progress, supply commentary, competition from AMD custom silicon — key themes
-
-### Held Ticker Status
-- **NVDA**: $221.74 (-0.3% today), HWM $236.54, stop $212.89 (~4.2% cushion). Q1 earnings tomorrow. Thesis intact (AI inference supercycle, datacenter capex). Ark bought yesterday. **HOLD — do NOT add or exit ahead of earnings.**
-- **TXN**: $297.41 (-1.1% today), 7% trail, HWM $310.29, stop $288.57 (~2.9% cushion). Q1 beat thesis intact. Stop approaching on pullback from HWM — monitor. **HOLD.**
-- **AMZN**: $260.31 (~flat), essentially at entry price. AWS AI thesis intact. Stop $250.70 far from current. **HOLD.**
+### CPI Release (April 2026, reported 8:30 AM ET today)
+- **Headline CPI**: +3.8% YoY (est. ≤3.7%) — HOT, above threshold
+- **Core CPI**: +2.8% YoY (est. ≤2.7%) — HOT, above threshold
+- Energy +3.8% MoM, gasoline +28.4% YoY; shelter +0.6% MoM
+- Real wages: -0.5% MoM, -0.3% YoY — consumer pressure rising
 
 ### Stop Tighten Check
-- NVDA +1.7%: well below +15% threshold ($250.75) — no tighten
-- TXN +11.3%: already on 7% trail (tightened per rules); below +20% threshold ($320.74) — no tighten to 5%
-- AMZN +0.003%: well below thresholds — no tighten
-
-### Trade Ideas
-1. **No new positions today** — gates fail:
-   - Broad tech sell-off today (Nasdaq -1%) → no edge entering tech
-   - NVDA earnings tomorrow → semis sector under cloud; adding AMD/NVDA/SMH = compounding earnings risk
-   - Energy (XLE/MPC): elevated prices, momentum sector YTD, but entering into a red-market Monday with Iran uncertainty = no confirmed catalyst specific enough to meet entry gate
-   - Industrials (GEV, CAT, FIX): A+ momentum, some interesting AI-adjacent catalysts, but no researched thesis documented — cannot enter without proper catalyst documentation
-   - **Patience > activity** — forcing entry into a sell-off violates core strategy discipline
-
-### Risk Factors
-- **NVDA earnings gap risk**: Stop at $212.89 only provides ~4% cushion; hard miss could gap -10-15% through stop
-- **TXN HWM retreat**: From $310.29 → $297.41 (-4.2%); 7% trail stop at $288.57 = 3.0% below current — a further -3% day could trigger stop-out
-- **Deployment 58.4%**: Persistently underdeployed but NVDA earnings overhang justifies patience today
-- **AMD stop-out cascade**: Three stop-outs in recent weeks (INTC, AMD) signal sector consolidation; semis may be in a topping/consolidation phase
+- AMD HWM $469.21 → +13.1% from entry; tighten trigger $477.19 (+15%) — NOT YET
+- TXN HWM $298.18 → +11.6% from entry; tighten trigger $307.37 (+15%) — NOT YET
+- AMZN +2.34%, NVDA +1.25% — well below thresholds
 
 ### Decision
-**HOLD all 3 positions.** No new trades today.
-- AMZN / NVDA / TXN: all stops live, all theses intact. No tightenings needed.
-- **NVDA watch**: Earnings after close May 20. If beats+raises → hold, potentially add on post-earnings strength. If misses → stop at $212.89 may trigger; redeploy $22K cash to non-tech candidate.
-- **TXN watch**: Price pulling back from HWM; stop $288.57 is ~3% below. No action unless stop triggers.
-- **Next entry window**: May 21 open (post-NVDA reaction) — evaluate non-semis diversification if NVDA confirms strong.
-- Deployment gap ($16-27K needed): Accept temporarily; do not force trades into a sell-off with major earnings overhang.
-
----
-
-## 2026-05-21 — Pre-market Research (inline, market-open workflow)
-
-*Note: PERPLEXITY_API_KEY not set — WebSearch fallback.*
-
-### Account
-- Equity: $109,543.33
-- Cash: $45,153.15 (41.2%) — UNDERDEPLOYED vs 75-85% target
-- Buying power: $154,696.48
-- Long market value: $64,390.18 | Deployment: 58.8%
-- Daytrade count: 0 | PDT: false
-- Week trade count: 0/3 (fresh week — May 19–23)
-- Phase P&L: +$9,543.33 (+9.54%)
-
-### Open Positions
-| SYM  | Shares | Entry    | Live Ask  | P&L             | Stop (GTC, live)                        |
-|------|--------|----------|-----------|-----------------|-----------------------------------------|
-| AMZN | 78     | $260.30  | $261.79   | +$117 (+0.58%)  | 10% trail, HWM $278.56, stop $250.70   |
-| NVDA | 101    | $218.04  | $227.00   | +$839 (+3.81%)  | 10% trail, HWM $236.54, stop $212.89   |
-| TXN  | 70     | $267.28  | $302.28   | +$2,414 (+12.9%)| 7% trail, HWM $310.29, stop $288.57    |
-
-Deployment: $64,390 / $109,543 = 58.8% (target 75-85%)
-
-### Market Context
-- **NVDA Q1 FY27 (reported May 20 after close)**: Revenue $81.62B vs $79.18B est — BEAT; EPS $1.87 vs $1.77 est — BEAT; Q2 guide $91.0B — ABOVE est; $80B buyback authorization; dividend raised $0.01 → $0.25/quarter. Initial reaction: -2% sell-the-news; recovering +1.28% today.
-- **S&P 500**: ~7,423 (+0.94% today); closed May 20 at +1.08% (7,432.97); Nasdaq +1.54% to 26,270.36 yesterday.
-- **Iran**: Supreme leader directive to retain enriched uranium — peace talks complicated again; oil moving higher.
-- **WTI crude**: ~$105/barrel; Hormuz disruptions persist (energy sector +30.3% YTD).
-- **IBM**: +7.1% today on $1B CHIPS Act quantum grant (Anderon quantum chip foundry with Commerce Dept); quantum stocks broadly surging.
-- **VIX**: Moderate; market recovering after May 15 selloff.
-- **Earnings today**: WMT, DE, RL — no direct impact on held positions.
-
-### Held Ticker Thesis Check
-- **AMZN** $261.81 (-1.2% today): HWM $278.56, stop $250.70 (4.2% cushion). AWS AI thesis intact. INTACT — hold.
-- **NVDA** $226.34 (+1.28% today): Q1 massive beat ($81.6B +85% YoY, Datacenter $75.2B +92%). Q2 guide $91B. $80B buyback. Thesis fully intact and confirmed. Sell-the-news initial drop is typical for blow-out beats. HWM $236.54, stop $212.89. INTACT — hold.
-- **TXN** $301.77 (-1.0% today): HWM $310.29, stop $288.57 (4.3% cushion). 7% trail active. Q1 beat thesis intact; insider selling (CEO/SVPs) remains watch risk. INTACT — hold.
-
-### Stop Tighten Check
-- AMZN +0.58%: well below +15% threshold ($299.35) — no action
-- NVDA +3.81%: below +15% threshold ($250.75) — no action
-- TXN +12.9%: already on 7% trail (triggered at +15% = $307.37); need +20% = $320.74 for 5% tighten — not reached. No action.
-
-### Trade Ideas
-1. **IBM** — SKIP: +7.1% gap-up today on quantum grant; entering after a 7% move = chasing with poor R:R; HSBC PT $231 already exceeded; no pre-existing thesis documented.
-2. **XLE/Energy** — SKIP: XLE 10-day MA crossed below 50-day on May 13 (death cross — bearish technical); XOM analyst consensus $140-144 below current ~$155; Iran peace-deal risk could sharply reverse oil; weak R:R.
-3. **NVDA add** — SKIP: already hold 101 shares; adding would increase semiconductor concentration (AMD+NVDA+TXN = 3 semis-adjacent names); sell-the-news pattern = uncertain near-term path.
-
-### Risk Factors
-- NVDA stop at $212.89 (HWM $236.54): if sell-the-news continues, 4.3% to stop
-- TXN stop at $288.57: $301.77 current = 4.3% cushion; TXN CEO + 2 SVPs sold $17M in May = insider distribution pressure
-- AMZN near entry price ($261.81 vs $260.30 entry) — minimal unrealized gain buffer
-- Iran peace-talk collapse → oil spike + tech headwind (both effects at once)
-- Deployment persistently 58.8% — below 75-85% target, but no trade meets entry criteria today
-
-### Decision
-**HOLD all 3 positions.** No new trades today.
-- All gates fail for new entries (IBM — chasing gap; XLE — death cross; NVDA add — concentration risk).
-- No stop tightenings needed.
-- **NVDA confirmed beat+raise: thesis fully validated; hold.**
-- **TXN watch**: if price reaches $320.74 (+20% from entry), tighten trail to 5%.
-- **Next entry window**: Look for non-semis catalyst with clean technical setup — industrials (GEV, CAT) or utilities (NEE) if deployment gap persists into next week.
+**HOLD all 4 positions.** CPI hot on both headline and core — new position gate blocked per May 11 pre-plan.
+- XLE entry: BLOCKED (hot CPI = demand destruction risk for energy; energy premium may unwind)
+- AMD: Watch $477.19 — tighten to 7% trail if reached
+- TXN: Watch $307.37 — tighten to 7% trail if reached
+- Deployment at 78.2% — within target range; no urgency to add
+- Next catalyst: PPI Wednesday May 13; Fed Chair transition May 15; Trump-Xi summit May 14-15
