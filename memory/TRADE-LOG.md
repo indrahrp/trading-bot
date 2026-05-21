@@ -31,3 +31,21 @@ No positions yet. Bot launches tomorrow.
 - TXN: Q1 2026 beat (EPS $1.68 vs $1.37 est, rev $4.83B +18.6% YoY). Edge AI driving analog/embedded demand. KeyCorp PT $325, UBS PT $295. Entered ~9:41 ET Apr 28. Watch: CFO + exec insider selling Apr 24; consensus target $257.68 below entry (yellow flag, not a sell signal).
 
 **Midday Actions:** None — no losers to cut, no stop tightening triggered. Thesis intact on both positions.
+
+---
+
+### May 21 — Midday Scan (Thursday)
+**Portfolio:** ~$109,574 est | **Cash:** ~$45,153 | **Deployed:** ~58.8% ⚠️ | **Phase P&L:** ~+$9,574 (+9.57%)
+
+| Ticker | Shares | Entry    | Current  | Day Chg  | Unrealized P&L       | Stop                                  |
+|--------|--------|----------|----------|----------|----------------------|---------------------------------------|
+| AMZN   | 78     | $260.30  | $265.49  | +0.18%   | +$404.60 (+1.99%)    | 10% trail, HWM $278.56, stop $250.70 |
+| NVDA   | 101    | $218.04  | $219.85  | -1.62%   | +$183.27 (+0.83%)    | 10% trail, HWM $236.54, stop $212.89 |
+| TXN    | 70     | $267.28  | $297.31  | -2.48%   | +$2,102.26 (+11.24%) | 7% trail, HWM $310.29, stop $288.57  |
+
+**Midday Actions:** None.
+- No losers (all above -7%)
+- No stop tightening: AMZN +1.99% (need +15%), NVDA +0.83% (need +15%), TXN +11.24% already on 7% trail (need +20% = $320.74)
+- Thesis intact: NVDA post-earnings "sell the news" pullback (-1.62%) — AI dominance thesis unchanged, GTC stop tracking. TXN -2.48% intraday consolidation — edge AI demand thesis intact. AMZN flat.
+- WMT not entered (no position in account) — deployment remains 58.8%, below 75-85% target
+- PERPLEXITY_API_KEY not set — optional intraday research skipped
