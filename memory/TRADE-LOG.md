@@ -18,12 +18,28 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
-### Apr 29 — EOD Snapshot (Day 3, Wednesday)
-**Portfolio:** $102,772.02 | **Cash:** $62,910.07 (61.2%) | **Day P&L:** +$2,294.95 (+2.28%) | **Phase P&L:** +$2,772.02 (+2.77%)
+### Apr 28 — Trade Entries (reconstructed from Alpaca)
+**Note:** Entries executed intraday; pre-market research log entry absent — thesis not formally documented.
 
-| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
-|--------|--------|-------|-------|---------|----------------|------|
-| INTC | 225 | $81.69 | $94.25 | +11.51% | +$2,825.76 (+15.37%) | $85.46 (10% trail, HWM $94.95) |
-| TXN | 70 | $267.28 | $266.51 | +0.57% | -$53.74 (-0.29%) | $245.18 (10% trail, HWM $272.42) |
+| Ticker | Shares | Entry    | Cost Basis  | Stop              | Order ID     |
+|--------|--------|----------|-------------|-------------------|--------------|
+| INTC   | 225    | $81.6911 | $18,380.49  | 10% trailing GTC  | 94c61435     |
+| TXN    | 70     | $267.2777| $18,709.44  | 10% trailing GTC  | 863a0a75     |
 
-**Notes:** Strong day driven almost entirely by INTC (+11.51%), which added ~$2,189 intraday and accounts for the bulk of the +$2,295 day gain. TXN nudged up +0.57%, still slightly underwater on entry. No new trades today; 2 positions open, 2 trades placed this week (both Apr 28). Cash remains heavy at 61.2% — consider adding a 3rd position tomorrow if a clean setup emerges. CRITICAL: INTC is now +15.37% above entry — strategy rules require tightening the trailing stop from 10% to 7% (stop moves from $85.46 to ~$88.30 based on HWM $94.95); execute this adjustment at market open tomorrow. Apr 28 EOD snapshot was not logged; last_equity from Alpaca confirms Apr 28 close at $100,477.07.
+---
+
+### Apr 29 — Midday Scan
+**Portfolio:** $102,756.97 | **Cash:** $62,910.07 (61.2%) | **Day P&L:** +$2,279.90 (+2.27%) | **Phase P&L:** +$2,756.97 (+2.76%)
+**Daytrade count:** 0/3
+
+| Ticker | Shares | Entry     | Current  | Unrealized P&L        | Trail Stop         | HWM     |
+|--------|--------|-----------|----------|-----------------------|--------------------|---------|
+| INTC   | 225    | $81.69    | $93.045  | +$2,554.63 (+13.90%)  | 10% @ $84.69       | $94.10  |
+| TXN    | 70     | $267.28   | $270.245 | +$207.71 (+1.11%)     | 10% @ $245.178     | $272.42 |
+
+**Actions:**
+- No losers cut (INTC +13.9%, TXN +1.1% — both above -7% threshold)
+- No stops tightened: INTC at +13.9%, 1.1% below +15% trigger — watch next scan
+- No thesis breaks identified (no research log for today to compare)
+- PERPLEXITY_API_KEY missing — intraday research skipped
+- No ClickUp alert (no actions taken)
