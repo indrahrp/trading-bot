@@ -18,28 +18,16 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
-### Apr 28 — Trade Entries (reconstructed from Alpaca)
-**Note:** Entries executed intraday; pre-market research log entry absent — thesis not formally documented.
+### Apr 28 — Midday Scan (Day 2, Tuesday)
+**Portfolio:** ~$100,129.92 | **Cash:** ~$62,910.07 | **Deployed:** 37.2% | **Phase P&L:** +$129.92 (+0.13%)
 
-| Ticker | Shares | Entry    | Cost Basis  | Stop              | Order ID     |
-|--------|--------|----------|-------------|-------------------|--------------|
-| INTC   | 225    | $81.6911 | $18,380.49  | 10% trailing GTC  | 94c61435     |
-| TXN    | 70     | $267.2777| $18,709.44  | 10% trailing GTC  | 863a0a75     |
+| Ticker | Shares | Entry | Current | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|---------|---------|----------------|------|
+| INTC   | 225    | $81.69 | $82.38 | -3.07% | +$154.81 (+0.84%) | 10% trail @ $75.53 (hwm $83.92) |
+| TXN    | 70     | $267.28 | $266.92 | -0.96% | -$24.89 (-0.13%) | 10% trail @ $243.62 (hwm $270.69) |
 
----
+**Thesis:**
+- INTC: Q1 2026 earnings blowout (EPS $0.29 vs $0.01 est, rev $13.58B vs $12.42B est). AI/CPU renaissance; Data Center +22% YoY. Multiple upgrades (Evercore ISI, Citi, KeyBanc). Entered ~9:41 ET Apr 28. Today's -3.07% is post-earnings consolidation after 24% gap-up Apr 24. Thesis intact.
+- TXN: Q1 2026 beat (EPS $1.68 vs $1.37 est, rev $4.83B +18.6% YoY). Edge AI driving analog/embedded demand. KeyCorp PT $325, UBS PT $295. Entered ~9:41 ET Apr 28. Watch: CFO + exec insider selling Apr 24; consensus target $257.68 below entry (yellow flag, not a sell signal).
 
-### Apr 29 — Midday Scan
-**Portfolio:** $102,756.97 | **Cash:** $62,910.07 (61.2%) | **Day P&L:** +$2,279.90 (+2.27%) | **Phase P&L:** +$2,756.97 (+2.76%)
-**Daytrade count:** 0/3
-
-| Ticker | Shares | Entry     | Current  | Unrealized P&L        | Trail Stop         | HWM     |
-|--------|--------|-----------|----------|-----------------------|--------------------|---------|
-| INTC   | 225    | $81.69    | $93.045  | +$2,554.63 (+13.90%)  | 10% @ $84.69       | $94.10  |
-| TXN    | 70     | $267.28   | $270.245 | +$207.71 (+1.11%)     | 10% @ $245.178     | $272.42 |
-
-**Actions:**
-- No losers cut (INTC +13.9%, TXN +1.1% — both above -7% threshold)
-- No stops tightened: INTC at +13.9%, 1.1% below +15% trigger — watch next scan
-- No thesis breaks identified (no research log for today to compare)
-- PERPLEXITY_API_KEY missing — intraday research skipped
-- No ClickUp alert (no actions taken)
+**Midday Actions:** None — no losers to cut, no stop tightening triggered. Thesis intact on both positions.
