@@ -249,27 +249,13 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 
 ---
 
-### May 19–20 — AMD Stop-Out (automated trailing stop)
+### May 19 — EOD Snapshot (Day 16, Monday)
+**Portfolio:** $108,856.95 | **Cash:** $45,153.15 (41.5%) | **Day P&L:** -$451.60 (-0.41%) | **Phase P&L:** +$8,856.95 (+8.86%)
 
-#### Trade Exit — AMD
-| Field        | Value                                                         |
-|--------------|---------------------------------------------------------------|
-| Shares       | 50                                                            |
-| Entry        | $414.95                                                       |
-| Exit         | ~$422.29 (10% trail triggered; HWM $469.21)                  |
-| Realized P&L | **~+$367 (+1.77%)**                                          |
-| Reason       | 10% trailing stop triggered on pullback from $469.21 HWM     |
-| Stop sequence| 10% trail throughout (never hit +15% tighten threshold after entry; stop stayed at 10%) |
+| Ticker | Shares | Entry    | Close    | Day Chg  | Unrealized P&L          | Stop                                   |
+|--------|--------|----------|----------|----------|-------------------------|----------------------------------------|
+| AMZN   | 78     | $260.30  | $258.96  | -2.23%   | -$104.74 (-0.52%)       | 10% trail, HWM $278.56, stop $250.70  |
+| NVDA   | 101    | $218.04  | $221.22  | -0.49%   | +$321.64 (+1.46%)       | 10% trail, HWM $236.54, stop $212.89  |
+| TXN    | 70     | $267.28  | $302.31  | +0.57%   | +$2,452.26 (+13.11%)    | 7% trail, HWM $310.29, stop $288.57   |
 
-AMD entry-to-exit: $414.95 → HWM $469.21 (+13.1%) → stopped out ~$422.29 (+1.77%). Did not participate in prior AMD momentum after HWM; trail protected capital.
-
-### May 20 — Market-Open Snapshot
-**Portfolio:** $109,145.15 | **Cash:** $45,153.15 (41.4%) | **Deployment:** 58.6% | **Phase P&L:** +$9,145.15 (+9.15%)
-
-| Ticker | Shares | Entry   | Now     | Unrealized P&L    | Stop                                  |
-|--------|--------|---------|---------|-------------------|---------------------------------------|
-| AMZN   | 78     | $260.30 | $261.22 | +$72 (+0.35%)     | 10% trail, HWM $278.56, stop $250.70  |
-| NVDA   | 101    | $218.04 | $221.93 | +$393 (+1.78%)    | 10% trail, HWM $236.54, stop $212.89  |
-| TXN    | 70     | $267.28 | $302.87 | +$2,491 (+13.32%) | 7% trail, HWM $310.29, stop $288.57   |
-
-**Notes:** AMD stopped out automatically (May 15–19 window); stop at $422.29 triggered on continued pullback from $469.21 HWM. Small realized gain (+1.77%) — stop worked as designed, protecting capital from a deeper reversal. Deployment dropped from 78% to 58.6%. **NVDA reports Q1 FY2027 earnings tonight after close** — binary event; holding existing position with 10% trail stop at $212.89. No new trades today. Week trades: 0/3. Pre-market tomorrow: evaluate entries post-NVDA reaction to close deployment gap (58.6% → 75-85%).
+**Notes:** AMD stopped out over the weekend — confirmed absent from positions; last close $423.56 was only $1.27 above stop $422.29, triggered likely at open Monday. Portfolio dropped from 4 to 3 positions; deployment fell to 58.5% (well below 75-85% target, $45K cash). Mixed day: TXN +0.57% (holding near 13% gain, approaching +15% trail-tighten threshold at $307.37), NVDA -0.49%, AMZN -2.23% (now fractionally underwater at -0.52%). No trades today. 0/3 trades this week. Priority tomorrow: pre-market scan for 1-2 momentum entries to restore deployment; semis/AI and sector leaders in focus.
