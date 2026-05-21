@@ -593,4 +593,66 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 **HOLD all 4 positions.** No new trades today.
 - **TXN TIGHTEN ACTION**: If/when TXN hits $307.37 (+15% from entry), cancel order 863a0a75 (10% trail) and place 7% trailing stop GTC per strategy rules.
 - All stops live, all theses intact. No manual cuts needed.
+
+---
+
+## 2026-05-21 — Pre-market Research
+
+> Note: PERPLEXITY_API_KEY not set in environment — research via WebSearch fallback. ClickUp alert sent.
+
+### Account
+- Equity: $109,574.38 | Cash: $45,153.15 (41.2%)
+- Long market value: $64,421.23 | **Deployment: 58.8% ⚠️ (target 75-85% — BELOW)**
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (new week May 19-23)
+- Phase P&L: +$9,574.38 (+9.57%)
+
+### AMD Stop-Out (May 15–20)
+- AMD stopped out between May 15–20: last logged stop $422.29 vs close $423.56 on May 15 (only $1.27 cushion)
+- Stop triggered at ~$422 → estimated gain ~+$367 (+1.77%) — trailing stop win, not a failed trade
+- AMD bounced +8.10% on May 20 to ~$447; not a sector strike (strategy requires 2 consecutive failures)
+- Cash freed: ~$21,100 → current cash $45,153
+
+### Open Positions
+| SYM  | Shares | Entry    | Now     | Unrealized P&L       | Stop (GTC, live)                        |
+|------|--------|----------|---------|----------------------|-----------------------------------------|
+| AMZN | 78     | $260.30  | $265.15 | +$378 (+1.86%)       | 10% trail, HWM $278.56, stop $250.70    |
+| NVDA | 101    | $218.04  | $223.11 | +$513 (+2.33%)       | 10% trail, HWM $236.54, stop $212.89    |
+| TXN  | 70     | $267.28  | $303.05 | +$2,504 (+13.38%)    | 7% trail, HWM $310.29, stop $288.57     |
+
+### Stop Tighten Check
+- AMZN +1.86%: no tighten (threshold $299.35)
+- **NVDA: earnings gap-up today → watch for new HWM; +15% threshold $250.75; stop auto-updates via GTC trail**
+- TXN +13.38%: already on 7% trail (tightened at +15%); +20% threshold $320.74 — not yet triggered; stop $288.57 live
+
+### Market Context
+- **WTI**: ~$97.64/bbl (-0.63%) | **Brent**: ~$104.20/bbl (-0.78%) — Middle East diplomacy easing supply premium
+- **S&P 500 futures**: rising pre-open on NVDA earnings beat; Nasdaq leading
+- **VIX**: 17.44 (May 20 close, -3.4%) — trending lower, complacency building
+- **NVDA Q1 FY2026**: revenue $81.6B, net income $58.3B — both beat; $80B buyback added; dividend raised $0.01→$0.25/share; dominant catalyst today
+- **Earnings today before open**: WMT (retail bellwether), DE (Deere), RL, ROST
+- **Economic at 8:30 AM**: Initial jobless claims + Philadelphia Fed Manufacturing — market-moving; no CPI/PPI/FOMC today
+- **Sector momentum YTD**: Leaders: Materials (+22%), Staples, Industrials, Energy, Healthcare | Laggards: Technology, Consumer Disc, Comms
+- **AMZN**: AWS +28% YoY, stock +36% since March bottom, 79/83 analysts Buy, avg PT ~$313; capex risk ($200B+/yr)
+- **TXN**: Near 52-week high, Q1 EPS beat +23.5%; insider selling continues (CFO 47K shares, SVP 5K shares)
+
+### Trade Ideas
+1. **WMT long** — Consumer Staples leading sector YTD; WMT reporting Q1 today before open; if beat + strong guidance → entry at open (skip if gap >5%); stop: 10% trailing GTC; target: +20%; position: ~$20K (18.2% equity). Closes deployment gap to ~76%.
+2. **AMD re-entry** — AMD ~$447 (bounced +8.10% May 20); NVDA earnings catalyzing entire semis sector today; no sector penalty (stop-out was a win); entry $445-455 range, 10% trail, target +20% R:R 2:1. Secondary to WMT — only if WMT disappoints or after WMT confirmed.
+3. **NVDA add** — avoid; already 101 shares; adding concentrates semis exposure; NVDA gap-up today could be "buy the rumor sell the news."
+
+### Risk Factors
+- Deployment 58.8% creates urgency — resist forcing entries on bad setups
+- Jobless claims + Philly Fed at 8:30 AM: data surprise could gap market against us before WMT entry
+- NVDA gap-up today: "sell the news" risk; our existing 101 shares benefit either way
+- AMD bounce +8.10% in one day — possibly extended short-term
+- Tech/semis concentration remains (NVDA + TXN); WMT adds sector diversification
+- TXN insider selling (CFO + SVPs) ongoing — thesis intact but track
+
+### Decision
+**LEAN TRADE — target 1 new position today.**
+- **Priority**: WMT if Q1 earnings beat with guidance — enter at open, not pre-market
+- **Criteria**: Gap ≤5%, beat on EPS + revenue, positive FY guidance → buy at open, 10% trail GTC
+- **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
+- All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
