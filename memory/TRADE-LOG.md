@@ -18,13 +18,18 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
-### Apr 28 — Market-Open Trades (Day 2, Tuesday)
-**Portfolio:** $100,401.50 | **Cash:** $62,910.07 (62.7%) | **Deployed:** $37,491.43 (37.3%) | **Open Positions:** 2 | **Trades This Week:** 2/3
+### Apr 30 — Market Open Trades
 
-| Date    | Ticker | Side | Shares | Entry     | Stop (10% trail) | Target | R:R  | Thesis |
-|---------|--------|------|--------|-----------|------------------|--------|------|--------|
-| Apr 28  | INTC   | BUY  | 225    | $81.69    | $74.38 (trailing)| $100   | 2.2:1| Post-earnings momentum — 6th consecutive beat; agentic AI CPU demand; Tesla Terafab partnership; Q2 guide $13.8–14.8B vs $13.07B est |
-| Apr 28  | TXN    | BUY  | 70     | $267.28   | $242.59 (trailing)| $320  | 2.0:1| Post-earnings momentum — Q1 rev $4.83B +19% YoY; analog + datacenter recovery; Q2 guide $5.0–5.4B vs $4.87B est |
+**Portfolio:** $102,674.12 | **Cash:** $62,910.07 → ~$42,606 | **Deployed:** ~58.5% | **Daytrade count:** 0
 
-**Stop orders placed:** INTC trailing_stop 10% GTC (order 94c61435) | TXN trailing_stop 10% GTC (order 863a0a75)
-**Notes:** Both filled at market open. Trailing stops placed same session. Semis concentration 37% of equity — holding last weekly trade slot for diversified post-earnings opportunity (AAPL/META/AMZN earnings this week).
+#### New Trade
+
+| Date       | Ticker | Side | Shares | Entry    | Stop        | Thesis                                          | Target | R:R |
+|------------|--------|------|--------|----------|-------------|--------------------------------------------------|--------|-----|
+| 2026-04-30 | AMZN   | buy  | 78     | $260.30  | $233.55 10% trailing GTC | Q1 2026 earnings beat; AWS/cloud momentum; SPX futures +0.4%; separate sector from INTC/TXN | $312 (+20%) | 2:1 |
+
+#### Stop Adjustments
+
+| Ticker | Action | Old Stop | New Stop | Reason |
+|--------|--------|----------|----------|--------|
+| INTC   | Tighten trail 10% → 7% | $86.09 | $87.11 (7% GTC) | HWM $95.65 = +17.1% from entry, triggered ≥+15% tighten rule |
