@@ -666,3 +666,66 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **TXN watch**: Price pulling back from HWM; stop $288.57 is ~3% below. No action unless stop triggers.
 - **Next entry window**: May 21 open (post-NVDA reaction) — evaluate non-semis diversification if NVDA confirms strong.
 - Deployment gap ($16-27K needed): Accept temporarily; do not force trades into a sell-off with major earnings overhang.
+
+---
+
+## 2026-05-21 — Pre-market Research (inline, market-open workflow)
+
+*Note: PERPLEXITY_API_KEY not set — WebSearch fallback.*
+
+### Account
+- Equity: $109,543.33
+- Cash: $45,153.15 (41.2%) — UNDERDEPLOYED vs 75-85% target
+- Buying power: $154,696.48
+- Long market value: $64,390.18 | Deployment: 58.8%
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (fresh week — May 19–23)
+- Phase P&L: +$9,543.33 (+9.54%)
+
+### Open Positions
+| SYM  | Shares | Entry    | Live Ask  | P&L             | Stop (GTC, live)                        |
+|------|--------|----------|-----------|-----------------|-----------------------------------------|
+| AMZN | 78     | $260.30  | $261.79   | +$117 (+0.58%)  | 10% trail, HWM $278.56, stop $250.70   |
+| NVDA | 101    | $218.04  | $227.00   | +$839 (+3.81%)  | 10% trail, HWM $236.54, stop $212.89   |
+| TXN  | 70     | $267.28  | $302.28   | +$2,414 (+12.9%)| 7% trail, HWM $310.29, stop $288.57    |
+
+Deployment: $64,390 / $109,543 = 58.8% (target 75-85%)
+
+### Market Context
+- **NVDA Q1 FY27 (reported May 20 after close)**: Revenue $81.62B vs $79.18B est — BEAT; EPS $1.87 vs $1.77 est — BEAT; Q2 guide $91.0B — ABOVE est; $80B buyback authorization; dividend raised $0.01 → $0.25/quarter. Initial reaction: -2% sell-the-news; recovering +1.28% today.
+- **S&P 500**: ~7,423 (+0.94% today); closed May 20 at +1.08% (7,432.97); Nasdaq +1.54% to 26,270.36 yesterday.
+- **Iran**: Supreme leader directive to retain enriched uranium — peace talks complicated again; oil moving higher.
+- **WTI crude**: ~$105/barrel; Hormuz disruptions persist (energy sector +30.3% YTD).
+- **IBM**: +7.1% today on $1B CHIPS Act quantum grant (Anderon quantum chip foundry with Commerce Dept); quantum stocks broadly surging.
+- **VIX**: Moderate; market recovering after May 15 selloff.
+- **Earnings today**: WMT, DE, RL — no direct impact on held positions.
+
+### Held Ticker Thesis Check
+- **AMZN** $261.81 (-1.2% today): HWM $278.56, stop $250.70 (4.2% cushion). AWS AI thesis intact. INTACT — hold.
+- **NVDA** $226.34 (+1.28% today): Q1 massive beat ($81.6B +85% YoY, Datacenter $75.2B +92%). Q2 guide $91B. $80B buyback. Thesis fully intact and confirmed. Sell-the-news initial drop is typical for blow-out beats. HWM $236.54, stop $212.89. INTACT — hold.
+- **TXN** $301.77 (-1.0% today): HWM $310.29, stop $288.57 (4.3% cushion). 7% trail active. Q1 beat thesis intact; insider selling (CEO/SVPs) remains watch risk. INTACT — hold.
+
+### Stop Tighten Check
+- AMZN +0.58%: well below +15% threshold ($299.35) — no action
+- NVDA +3.81%: below +15% threshold ($250.75) — no action
+- TXN +12.9%: already on 7% trail (triggered at +15% = $307.37); need +20% = $320.74 for 5% tighten — not reached. No action.
+
+### Trade Ideas
+1. **IBM** — SKIP: +7.1% gap-up today on quantum grant; entering after a 7% move = chasing with poor R:R; HSBC PT $231 already exceeded; no pre-existing thesis documented.
+2. **XLE/Energy** — SKIP: XLE 10-day MA crossed below 50-day on May 13 (death cross — bearish technical); XOM analyst consensus $140-144 below current ~$155; Iran peace-deal risk could sharply reverse oil; weak R:R.
+3. **NVDA add** — SKIP: already hold 101 shares; adding would increase semiconductor concentration (AMD+NVDA+TXN = 3 semis-adjacent names); sell-the-news pattern = uncertain near-term path.
+
+### Risk Factors
+- NVDA stop at $212.89 (HWM $236.54): if sell-the-news continues, 4.3% to stop
+- TXN stop at $288.57: $301.77 current = 4.3% cushion; TXN CEO + 2 SVPs sold $17M in May = insider distribution pressure
+- AMZN near entry price ($261.81 vs $260.30 entry) — minimal unrealized gain buffer
+- Iran peace-talk collapse → oil spike + tech headwind (both effects at once)
+- Deployment persistently 58.8% — below 75-85% target, but no trade meets entry criteria today
+
+### Decision
+**HOLD all 3 positions.** No new trades today.
+- All gates fail for new entries (IBM — chasing gap; XLE — death cross; NVDA add — concentration risk).
+- No stop tightenings needed.
+- **NVDA confirmed beat+raise: thesis fully validated; hold.**
+- **TXN watch**: if price reaches $320.74 (+20% from entry), tighten trail to 5%.
+- **Next entry window**: Look for non-semis catalyst with clean technical setup — industrials (GEV, CAT) or utilities (NEE) if deployment gap persists into next week.
