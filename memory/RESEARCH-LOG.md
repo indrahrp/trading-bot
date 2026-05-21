@@ -394,6 +394,32 @@ Deployment: $41,295 / $108,140 = 38.2% (target 75-85%)
 - **AMD / AMZN / TXN: HOLD** — all stops live, theses intact. Monitor TXN insider selling.
 - **NEW POSITIONS: HOLD pending NFP** — await 8:30 AM jobs data; if positive reaction, evaluate NVDA entry (strongest catalyst, semis leadership). Maximum 1 new position today to stay at 2/3 weekly trades used.
 - **TXN watch**: If insider selling continues or stop approaches $263, prepare to exit early and redeploy to NVDA or energy.
+
+---
+
+## 2026-05-10 — Midday Scan (Weekend Check)
+
+*Market closed (Sunday). Reviewing Friday May 8 close.*
+
+### Portfolio
+- **Equity:** $110,271.78 | **Cash:** $46,097.24 | **Deployment:** 58.2%
+- **Phase P&L:** +$10,271.78 (+10.27%)
+
+### Positions
+| Ticker | Price   | Unrealized P&L | Stop                   | Status                        |
+|--------|---------|----------------|------------------------|-------------------------------|
+| AMD    | $455.19 | +9.70%         | $410.66 (HWM $456.29)  | Hold — AI/semis thesis intact |
+| AMZN   | $272.68 | +4.76%         | $250.70 (HWM $278.56)  | Hold — AWS thesis intact      |
+| TXN    | $287.80 | +7.68%         | $263.38 (HWM $292.64)  | Hold — watch insider selling  |
+
+### Actions Taken
+- None — no losers, no tighten thresholds hit, no thesis breaks, market closed
+
+### Monday Pre-market Focus
+- Deployment 58.2% vs 75-85% target — need 1-2 new positions
+- NVDA top candidate (AI datacenter catalyst, semis leadership)
+- XLE/energy as non-correlated diversifier
+- TXN: SVP insider selling ongoing — stop at $263.38 is key level
 - **Deployment target**: Need ~$19K-$28K more deployed. 1 position at ~$20K brings to ~75%.
 
 ---
