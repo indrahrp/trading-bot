@@ -18,26 +18,15 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
-### May 01 — EOD Snapshot (Day 5, Friday)
-**Portfolio:** $105,528.15 | **Cash:** $42,606.45 (40.4%) | **Day P&L:** +$1,313.42 (+1.26%) | **Phase P&L:** +$5,528.15 (+5.53%)
+### Apr 27 — Market-Open Orders (fills at Apr 28 open)
 
-| Ticker | Shares | Entry    | Close   | Day Chg | Unrealized P&L       | Stop     |
-|--------|--------|----------|---------|---------|----------------------|----------|
-| AMZN   | 78     | $260.30  | $267.43 | +0.89%  | +$555.92 (+2.74%)    | $245.98 (10% trail) |
-| INTC   | 225    | $81.69   | $99.80  | +5.63%  | +$4,074.67 (+22.17%) | $95.11 (5% trail)   |
-| TXN    | 70     | $267.28  | $280.10 | -0.35%  | +$897.56 (+4.80%)    | $253.73 (10% trail) |
+**Orders placed after regular hours; execute at Apr 28 09:30 ET open.**
 
-**Notes:** Strong Friday close led by INTC (+5.63% day, +22.17% from entry) on continued semis momentum. Portfolio up +5.53% phase after just 5 days. INTC stop correctly tightened to 5% trail per strategy rule (+20% threshold). TXN slightly red on the day but thesis intact. Weekly trade cap reached (3/3 — AMZN, INTC, TXN entered this week). Under-deployed at ~60% vs 75-85% target; 2-3 positions available to add Monday. No new trades today. Stops all live as GTC trailing orders.
+| Date | Ticker | Side | Shares | Est. Entry | Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-----------|------|--------|--------|-----|
+| 2026-04-27 | INTC | BUY | 225 | ~$87.75 | 10% trail (set at fill Apr 28) | Intel cracked 26-yr record; AI momentum breakout; analog/data-center demand | $105.25 | 2.0:1 |
+| 2026-04-27 | TXN | BUY | 70 | ~$285.52 | 10% trail (set at fill Apr 28) | Q1 earnings beat; rose most in 25 yrs; analog chips for AI data centers | $342.62 | 2.0:1 |
 
----
+**Stop note:** Trailing stops rejected 403 (positions unfilled at order time). **ACTION REQUIRED at Apr 28 open:** Place 10% trailing stop GTC for INTC (225 sh) and TXN (70 sh) immediately after fill confirmation.
 
-### May 03 — EOD Snapshot (Day 7, Sunday)
-**Portfolio:** $105,616.63 | **Cash:** $42,606.45 (40.3%) | **Day P&L:** +$88.48 (+0.08%) | **Phase P&L:** +$5,616.63 (+5.62%)
-
-| Ticker | Shares | Entry    | Close   | Day Chg | Unrealized P&L        | Stop                |
-|--------|--------|----------|---------|---------|-----------------------|---------------------|
-| AMZN   | 78     | $260.30  | $268.26 | +0.31%  | +$620.66 (+3.06%)     | $245.98 (10% trail) |
-| INTC   | 225    | $81.69   | $99.62  | -0.18%  | +$4,034.01 (+21.95%)  | $95.11 (5% trail)   |
-| TXN    | 70     | $267.28  | $281.02 | +0.33%  | +$961.96 (+5.14%)     | $253.73 (10% trail) |
-
-**Notes:** Weekend snapshot (Sunday, markets closed). Minor weekend price drift: AMZN +$0.83/sh, TXN +$0.92/sh partially offset by INTC -$0.18/sh. All three GTC trailing stops remain live and unchanged — HWMs: AMZN $273.32, INTC $100.12, TXN $281.92. Portfolio 40.3% cash vs 75-85% target — under-deployed. Weekly trade cap resets Monday (0/3 used for week of May 4). Pre-market scan needed Mon for 2-3 new entries in strong sectors.
+**Weekly trade count:** 2 of 3 used
