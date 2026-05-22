@@ -153,3 +153,63 @@ Template for each entry:
 - Resume daily EOD log discipline (Mon–Fri snapshots)
 
 ### Overall Grade: B+
+
+---
+
+## Week ending 2026-05-22
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $109,706.96 (May 15 EOD per trade log) |
+| Ending portfolio | $109,253.96 |
+| Week return | −$453 (−0.41%) |
+| S&P 500 week | ~+0.3% (7,426 → 7,446) |
+| Bot vs S&P | −0.71% |
+| Trades | 1 (W:1 / L:0 / open:3) |
+| Win rate | 100% (1 closed, AMD stop-out) |
+| Best trade | AMD +1.59% |
+| Worst trade | AMD +1.59% (only close) |
+| Profit factor | N/A (no losses) |
+
+**Phase-to-date (Apr 27 launch):** +$9,253.96 (+9.25%) over 4 weeks
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| AMD | $414.95 | ~$421.55 | +$330 (+1.59%) | 10% trail triggered May 19; gave back most of +12% peak gain |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| AMZN | $260.30 | $267.75 | +$581 (+2.86%) | 10% trail, HWM $278.56, stop $250.70 |
+| NVDA | $218.04 | $220.31 | +$230 (+1.04%) | 10% trail, HWM $236.54, stop $212.89 |
+| TXN  | $267.28 | $299.50 | +$2,256 (+12.06%) | 7% trail, HWM $310.29, stop $288.57 |
+
+### What Worked
+- AMD trailing stop executed cleanly — exited at +1.59% before potential deeper drawdown
+- TXN holding at +12.1% from entry; 7% trail locks in minimum +7.8% if triggered
+- NVDA held through earnings without stop-out; beat on revenue ($81.6B) and net income
+- Phase P&L +9.25% vs S&P 500 ~+5.4% since Apr 27 launch — still significantly outperforming on phase basis
+
+### What Didn't Work
+- Deployment 58.7% — 3rd consecutive week below 75-85% target; ~$45K idle all week
+- WMT entry planned May 21 not executed — entry criteria apparently not met (no log entry, no position)
+- NVDA failed to build on earnings beat: +1.0% from entry, HWM $236.54 remains unbroken since May 14
+- AMZN: HWM $278.56 frozen since Apr 30 (3+ weeks); position stagnating at +2.86%
+- Week return −0.41% vs S&P +0.3% — first week of clear underperformance
+
+### Key Lessons
+- Underdeployment is now a structural 3-week problem — every idle dollar compounds the opportunity cost
+- AMD gave back +12% peak to +1.59% exit: trailing stop did its job but tighter tightening criteria at +15% could have preserved more
+- AMZN and NVDA both under-earning their position slots; both near their entries vs 3+ week holds
+- "Sell the news" risk is real on earnings plays; NVDA beat strongly but stock barely moved post-print
+
+### Adjustments for Next Week
+- **Priority 1:** Deploy 1-2 new positions by Tuesday; targets: XLB (Materials +22% YTD, sector leader) or AMD re-entry (no sector strike; bounce confirmed)
+- **Priority 2:** AMZN audit — 3+ weeks with no new HWM and +2.86% unrealized; if no new HWM by Wed May 27, exit and redeploy to momentum name
+- **Priority 3:** Watch NVDA stop $212.89 (only 3.4% below $220.31); if stock drifts further, assess exit and redeploy
+- Watch TXN $320.74 (+20% trigger) → tighten to 5% trail
+- Resume daily EOD log discipline (skipped May 21–22)
+
+### Overall Grade: C+
