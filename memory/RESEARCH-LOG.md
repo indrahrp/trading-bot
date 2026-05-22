@@ -717,3 +717,46 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-05-22 — Pre-market Research (inline, market-open workflow)
+
+> Note: PERPLEXITY_API_KEY not set — market research limited to live Alpaca quotes. No fresh news data.
+
+### Account
+- Equity: $109,956.02 | Cash: $45,153.15 (41.1%)
+- Long market value: $64,802.87 | **Deployment: 58.9% ⚠️ (target 75-85% — BELOW)**
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (week May 19-23)
+- Phase P&L: +$9,956.02 (+9.96%)
+
+### Open Positions
+| SYM  | Shares | Entry    | Now     | Unrealized P&L       | Stop (GTC, live)                        |
+|------|--------|----------|---------|----------------------|-----------------------------------------|
+| AMZN | 78     | $260.30  | $269.60 | +$725 (+3.57%)       | 10% trail, HWM $278.56, stop $250.70    |
+| NVDA | 101    | $218.04  | $219.86 | +$184 (+0.83%)       | 10% trail, HWM $236.54, stop $212.89    |
+| TXN  | 70     | $267.28  | $308.10 | +$2,857 (+15.27%)    | 7% trail, HWM $310.29, stop $288.57     |
+
+### Stop Tighten Check
+- AMZN +3.57%: no tighten (threshold +15% = $299.35)
+- NVDA +0.83%: no tighten (threshold +15% = $250.75)
+- TXN +15.27%: already on 7% trail (tightened May 14); next tighten +20% = $320.74 — NOT triggered
+
+### Trade Ideas
+1. **WMT** — May 21 plan was to enter at May 21 open post-earnings. Window passed; no day-2 chase entry. No confirmed beat/guidance in today's log. **GATE FAIL: no documented catalyst for May 22.**
+2. **AMD** — ask $482.50; +6-8% above May 21 preferred entry range $445-455; opportunity missed. No fresh May 22 catalyst. **GATE FAIL: no documented catalyst, price extended from target range.**
+3. No other ideas — Perplexity unavailable; no fresh research possible.
+
+### Risk Factors
+- Friday entry = weekend gap risk on any new position
+- Deployment 58.9% — underdeployed but patience > forcing entries into stale setups
+- TXN CFO/SVP insider selling ongoing — thesis intact, monitor
+- NVDA HWM $236.54 not yet challenged; stop $212.89
+
+### Decision
+**HOLD all 3 positions.** No new trades today.
+- All theses intact; stops live and correctly set
+- WMT/AMD entry criteria not met for May 22 (windows passed or price extended)
+- Next opportunity: pre-market Monday May 25 — fresh research needed; WMT continuation thesis, AMD, or new momentum sector candidate
+- Deployment target remains 75-85%; 1-2 positions needed next week
