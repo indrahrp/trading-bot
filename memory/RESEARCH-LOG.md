@@ -717,3 +717,71 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-05-22 — Pre-market Research
+
+> Note: PERPLEXITY_API_KEY not set in environment — research via WebSearch fallback. ClickUp alert sent.
+
+### Account
+- Equity: $109,517.89 | Cash: $45,153.15 (41.2%)
+- Long market value: $64,364.74 | **Deployment: 58.8% ⚠️ (target 75-85% — BELOW, day 4 underdeployed)**
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (week May 19-23 — today is Friday, last chance this week)
+- Phase P&L: +$9,517.89 (+9.52%)
+
+### Open Positions
+| SYM  | Shares | Entry    | Now      | Unrealized P&L        | Stop (GTC, live)                         |
+|------|--------|----------|----------|-----------------------|------------------------------------------|
+| AMZN | 78     | $260.30  | $267.79  | +$583.92 (+2.88%)     | 10% trail, HWM $278.56, stop $250.70     |
+| NVDA | 101    | $218.04  | $220.26  | +$224.62 (+1.02%)     | 10% trail, HWM $236.54, stop $212.89     |
+| TXN  | 70     | $267.28  | $303.30  | +$2,521.56 (+13.48%)  | 7% trail, HWM $310.29, stop $288.57      |
+
+### Stop Tighten Check
+- AMZN +2.88%: no tighten (threshold $299.35 for 7% trail)
+- NVDA +1.02%: no tighten (threshold $250.75 for 7% trail); HWM $236.54 not updated (stock below HWM)
+- TXN +13.48%: already on 7% trail (tightened prior week); +20% threshold $320.74 — not triggered; stop $288.57 live ✓
+
+### Open GTC Orders — Confirmed
+- AMZN: 10% trail, HWM $278.56, stop $250.70 ✓
+- NVDA: 10% trail, HWM $236.54, stop $212.89 ✓
+- TXN: 7% trail, HWM $310.29, stop $288.57 ✓
+
+### WMT Update (yesterday's trade candidate)
+- WMT reported Q1 May 21 before open: EPS $0.66 (in-line), revenue $175.7B (+6.1% YoY, in-line), eCommerce +26%, comp sales +4.1%; FY guidance unchanged
+- **Verdict: in-line, not a beat — no entry catalyst; WMT thesis does not meet entry criteria**
+
+### Market Context
+- **WTI**: ~$97.63/bbl | **Brent**: ~$104.52/bbl — volatile; Iran peace deal "final stages" (Trump), crude fell ~$10 on diplomacy headlines
+- **S&P 500**: closed 7,445.72 (+0.17%) Thursday; futures +0.18-0.39% today; 78% probability market opens higher (Polymarket)
+- **VIX**: 16.76 (May 21 close, -3.9%) — low, risk-on environment
+- **Fed**: Kevin Warsh confirmed as next Fed chair (succeeds Powell); market digesting but stable
+- **Earnings today (May 22)**: WDAY, ZM (both after-hours yesterday); no major pre-open reports today
+- **Economic calendar**: University of Michigan Consumer Sentiment (final reading) — minor; no CPI/PPI/FOMC
+- **Sector momentum YTD**: Leading: Staples (+22%), Materials (+17.6%), Industrials (+12.3%), Energy (XLE). Lagging: Technology (XLK), Consumer Disc, Communications. Note: market broadening away from AI/tech.
+- **NVDA**: post-earnings reaction muted — reported $81.6B revenue, $80B buyback, dividend raised; stock at $220.26 vs HWM $236.54 (sell-the-news dynamic; stop intact $212.89)
+- **AMZN**: AWS capex at $200B+/yr; stock +2.88% from entry; thesis intact
+- **TXN**: analog recovery intact, +13.48% from entry; insider selling ongoing (track); stop auto-trailing
+
+### Trade Ideas
+1. **XLB (Materials ETF) LONG** — Leading sector YTD (+17.6%); Iran peace deal = global growth / risk-on catalyst; lower oil = input cost tailwind for materials cos; portfolio currently 0% Materials exposure; ~$20K entry (~408 shares at ~$49) → brings deployment to 76.6%. Stop: 10% trail GTC. Target: +20%. Entry criteria: gap ≤3% vs prior close ($49.04), sector green at open.
+2. **XLI (Industrials ETF) LONG** — Second-best momentum sector (+12.3% YTD); same Iran/global-growth narrative; slightly less extended than XLB. Fallback if XLB gaps >3%.
+3. **AMD re-entry** — AI/semis momentum, no sector penalty (prior stop-out was a win); but portfolio already tech-heavy (NVDA, AMZN); defer unless both XLB/XLI decline at open.
+
+### Risk Factors
+- **Friday entry risk**: no monitoring over weekend; geopolitical developments (Iran deal could stall)
+- **Deployment urgency vs patience**: 58.8% for 4 days — resist forcing entries on weak setups
+- **XLB already extended** +17.6% YTD — momentum vs valuation concern; ETF diversification helps
+- **VIX 16.76** — low complacency; any shock could spike volatility against new entries
+- **NVDA muted post-earnings** — "sell the news" dynamic in semis; existing position protected by stop $212.89 (3.35% below current)
+- **Iran deal fragility** — WTI volatile ±$10 intraday; oil spike = broad equity selloff risk
+- **TXN insider selling** — thesis intact but worth monitoring
+
+### Decision
+**LEAN TRADE — 1 new position target, XLB preferred.**
+- **XLB entry**: if gap ≤3% above prior close ($49.04 → max ~$50.51), sector confirms green at open → buy market, 10% trail GTC, ~$20K (~408 shares); brings deployment to 76.6%
+- **Fallback**: XLI if XLB gaps >3% or shows weakness at open
+- **No entry**: if broad market gaps down >1% or VIX spikes above 20 pre-open
+- **Existing positions**: HOLD all three. No stop changes needed today.
+- **Week trade count**: 0/3 — room for entry; this would be trade 1 of 3 this week
