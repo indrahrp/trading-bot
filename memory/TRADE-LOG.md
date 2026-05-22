@@ -317,3 +317,22 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### May 22 — Midday Scan
+**Portfolio:** $109,939.41 | **Cash:** $45,153.15 (41.1%) | **Deployment:** 58.9% ⚠️ | **Day P&L:** +$788.57 (+0.72%) | **Phase P&L:** +$9,939.41 (+9.94%)
+
+#### Open Positions (midday)
+| Ticker | Shares | Entry    | Now      | Unreal P&L           | Stop                                    |
+|--------|--------|----------|----------|----------------------|-----------------------------------------|
+| AMZN   | 78     | $260.30  | $268.97  | +$675 (+3.33%)       | 10% trail, HWM $278.56, stop $250.70   |
+| NVDA   | 101    | $218.04  | $216.89  | -$116 (-0.53%)       | 10% trail, HWM $236.54, stop $212.89   |
+| TXN    | 70     | $267.28  | $312.58  | +$3,171 (+16.95%)    | 7% trail, HWM $313.54, stop $291.59    |
+
+**Actions:**
+- Losers: None at -7%. NVDA -0.53% — well above threshold; stop $212.89 protects.
+- Stop tighten: None. TXN +16.95% already on 7% trail (tightened May 14); +20% threshold $320.74 not reached (current $312.58, gap $8.16). AMZN/NVDA below +15% threshold.
+- Thesis: TXN — Seaport Research upgrade (AI demand driving power analog for data centers) + Silicon Labs acquisition announced; +4.76% intraday move confirmed, thesis strengthened. NVDA — post-earnings pullback; expected "sell the news" pattern; stop $212.89 intact. AMZN — AWS thesis intact.
+- Research: PERPLEXITY_API_KEY not set; WebSearch fallback used for TXN catalyst (Seaport upgrade + SLAB acquisition confirmed).
+- **Deployment: 58.9% — underdeployed vs 75-85% target. Friday — no new entries today. Pre-market Monday: target 1-2 entries to close gap (~$18K needed).**
