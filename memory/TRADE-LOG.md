@@ -317,3 +317,16 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### May 22 — EOD Snapshot (Day 19, Friday)
+**Portfolio:** $109,326.80 | **Cash:** $45,153.15 (41.3%) | **Day P&L:** +$175.96 (+0.16%) | **Phase P&L:** +$9,326.80 (+9.33%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg  | Unrealized P&L          | Stop                                      |
+|--------|--------|----------|----------|----------|-------------------------|-------------------------------------------|
+| AMZN   | 78     | $260.30  | $266.58  | -0.70%   | +$489.71 (+2.41%)       | 10% trail, HWM $278.56, stop $250.70     |
+| NVDA   | 101    | $218.04  | $215.01  | -2.05%   | -$305.57 (-1.39%)       | 10% trail, HWM $236.54, stop $212.89     |
+| TXN    | 70     | $267.28  | $309.49  | +3.72%   | +$2,954.86 (+15.79%)    | 7% trail, HWM $315.57, stop $293.48      |
+
+**Notes:** Mixed Friday: TXN surged +3.72% to close at $309.49 (+15.79% unrealized), setting a new HWM of $315.57 and automatically ratcheting the 7% trail stop up to $293.48. NVDA pulled back -2.05% to $215.01, flipping unrealized slightly negative (-1.39%); well above the $212.89 stop and far from the -7% cut level ($202.78). AMZN slipped -0.70% to $266.58, still +2.41% unrealized; HWM $278.56 intact. No new trades this week (0/3). Portfolio ends the week at 58.7% deployed vs 75-85% target — $45K cash available. TXN needs to reach $320.74 (+20% from entry) to trigger 5% trail tighten. May 25 is Memorial Day (market closed); next trading day is Tuesday May 26 — pre-market scan for 1-2 new entries to close deployment gap.
