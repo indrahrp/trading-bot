@@ -317,3 +317,22 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### May 23 — Midday Scan (Saturday — market closed; prices = Friday May 22 close)
+**Portfolio:** $109,319.14 | **Cash:** $45,153.15 (41.3%) | **Deployment:** 58.7% ⚠️ | **Phase P&L:** +$9,319.14 (+9.32%)
+
+#### Open Positions
+| Ticker | Shares | Entry    | Fri Close | Unreal P&L          | Stop                                          |
+|--------|--------|----------|-----------|---------------------|-----------------------------------------------|
+| AMZN   | 78     | $260.30  | $266.32   | +$469 (+2.31%)      | 10% trail, HWM $278.56, stop $250.70          |
+| NVDA   | 101    | $218.04  | $215.33   | -$273 (-1.24%) ⚠️  | 10% trail, HWM $236.54, stop $212.89          |
+| TXN    | 70     | $267.28  | $309.21   | +$2,935 (+15.69%)   | 7% trail, HWM $315.57, stop $293.48 ✓         |
+
+**Actions:**
+- Losers: None at -7%. NVDA -1.24% — watch; stop $212.89 only $2.44 below current ($215.33). No cut.
+- Stop tighten: None. TXN already on 7% trail (HWM updated to $315.57, stop auto-tightened to $293.48); +20% tighten trigger = $320.74 not reached. AMZN/NVDA well below +15%.
+- Thesis: AMZN intact (AWS AI thesis); NVDA intact (AI inference supercycle — post-earnings consolidation, stop working as designed); TXN intact (Q1 beat, analog recovery — insider selling ongoing watch item, not a thesis break).
+- **No WMT or AMD entry executed this week (May 19–23).** Deployment remains 58.7% — below 75-85% target. 1-2 positions needed.
+- **Deployment: 58.7% — UNDERDEPLOYED. Pre-market Monday: evaluate WMT (Consumer Staples momentum) or AMD (semis rebound) to close gap.**
