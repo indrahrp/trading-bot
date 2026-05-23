@@ -717,3 +717,49 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-05-23 — Weekend Assessment (next trading day: Tue May 26; Mon May 25 = Memorial Day)
+
+*Note: Market closed (Saturday). PERPLEXITY_API_KEY not set. Research from Alpaca live data only.*
+
+### Account (as of May 22 close)
+- Equity: $109,319.14
+- Cash: $45,153.15 (41.3%) — UNDERDEPLOYED (target 75-85%)
+- Long market value: $64,165.99 | Deployment: 58.7%
+- Daytrade count: 0 | PDT: false
+- Week trades: 0/3 (May 19-23 — no new trades executed)
+- Phase P&L: +$9,319.14 (+9.32%)
+
+### Open Positions
+| SYM  | Shares | Entry   | Close   | Unrealized P&L        | Stop (GTC, live)                                   |
+|------|--------|---------|---------|-----------------------|----------------------------------------------------|
+| AMZN | 78     | $260.30 | $266.32 | +$469 (+2.31%)        | 10% trail, HWM $278.56, stop $250.70               |
+| NVDA | 101    | $218.04 | $215.33 | -$273 (-1.24%) ⚠️    | 10% trail, HWM $236.54, stop $212.89 ← $2.44 gap  |
+| TXN  | 70     | $267.28 | $309.21 | +$2,935 (+15.69%)     | 7% trail, HWM $315.57, stop $293.48                |
+
+### May 21-22 Outcome
+- WMT: No position opened — cash unchanged confirms no trade executed. Criteria (gap ≤5% + beat + guidance) not met or data uncertainty blocked entry.
+- 0 trades placed May 21-22.
+
+### Critical Alerts for Tue May 26
+- **NVDA ⚠️ NEAR STOP**: $215.33 vs stop $212.89 — 1.1% cushion. 3-day holiday gap = elevated risk. If Tue open < $212.89, stop triggers automatically. NVDA -1.24% from entry.
+- **TXN +20% tighten**: Entry $267.28 × 1.20 = $320.74. Live HWM $315.57. If TXN hits $320.74 → cancel 7% trail (order 79f4e463), place 5% trail GTC. Distance: +$5.17 (+1.7% from HWM).
+
+### Stop Tighten Check
+- AMZN +2.31%: no tighten (threshold $299.35)
+- NVDA -1.24%: no tighten; monitor stop proximity
+- TXN +15.69%: on 7% trail ✓ (tightened May 14); +20% threshold $320.74 not yet triggered
+
+### Trade Ideas for Tue May 26
+1. **WMT** — Re-evaluate if May 21-22 action confirms momentum (Staples sector leading YTD). Entry ~$100 area, 10% trail GTC, target +20%, R:R 2:1. Only if thesis catalyst still fresh.
+2. **XLB (Materials ETF)** — Materials #1 YTD (+22%); non-correlated to tech/AI; structural entry for deployment gap. Entry ~$95-98, stop $86-88, target $114-118, R:R 2:1.
+3. **AMD re-entry** — Semis momentum intact; AMD bounced from stop-out. But only if NVDA holds (avoid double semis risk if NVDA stopped out Tue).
+
+### Decision for Tue May 26
+**Default HOLD on open.** Assess:
+1. NVDA at open — if held above $212.89, evaluate new entry; if stopped out, cash +$21K freed, 1 position slot opens
+2. If NVDA holds: enter 1 new position (WMT or XLB) to reach ~75% deployment
+3. TXN: immediately cancel+replace stop at 5% trail if $320.74 hit at any point
+4. Max 1 new entry Tue (keep 1-2 slots for rest of week)
