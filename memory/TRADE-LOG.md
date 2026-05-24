@@ -317,3 +317,22 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### May 24 — Midday Scan (Sunday — market closed; prices = Fri May 23 close)
+**Portfolio:** $109,319.14 | **Cash:** $45,153.15 (41.3%) | **Deployment:** 58.7% ⚠️ | **Phase P&L:** +$9,319.14 (+9.32%)
+
+#### Open Positions
+| Ticker | Shares | Entry   | Fri Close | Unreal P&L          | Stop                                    |
+|--------|--------|---------|-----------|---------------------|-----------------------------------------|
+| AMZN   | 78     | $260.30 | $266.32   | +$469 (+2.31%)      | 10% trail, HWM $278.56, stop $250.70   |
+| NVDA   | 101    | $218.04 | $215.33   | -$273 (-1.24%)      | 10% trail, HWM $236.54, stop $212.89   |
+| TXN    | 70     | $267.28 | $309.21   | +$2,935 (+15.69%)   | 7% trail, HWM $315.57, stop $293.48    |
+
+**Actions:**
+- Losers: None at -7%. NVDA -1.24% — within normal variance, stop $212.89 intact.
+- Stop tighten: None. TXN already on 7% trail (tightened at +15%); HWM $315.57 (+18.1% from entry). Next tighten trigger: +20% = $320.74 → cancel and place 5% trail GTC. Not yet reached.
+- Thesis: AMZN (AWS AI) intact; NVDA (AI inference) intact — minor pullback from HWM; TXN (Q1 beat, analog recovery) intact; insider selling ongoing but stop provides risk control.
+- Research: PERPLEXITY_API_KEY not set — no live research.
+- **Deployment: 58.7% — underdeployed vs 75-85% target. 1-2 new positions needed. Pre-market Monday May 26: evaluate entries (Materials/Energy sector momentum, or semis re-entry).**
