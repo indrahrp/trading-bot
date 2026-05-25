@@ -657,6 +657,67 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 
 ---
 
+## 2026-05-25 — Pre-market Research (Memorial Day — Market CLOSED)
+
+> Note: PERPLEXITY_API_KEY not set in environment — research via WebSearch fallback. ClickUp alert sent.
+
+### Account
+- Equity: $109,319.14 | Cash: $45,153.15 (41.3%)
+- Long market value: $64,165.99 | **Deployment: 58.7% ⚠️ (target 75-85% — BELOW)**
+- Daytrade count: 0 | PDT: false
+- Phase P&L: +$9,319.14 (+9.32%)
+- Balance as-of: 2026-05-22 (last trading day before holiday)
+
+### Open Positions
+| SYM  | Shares | Entry   | Last     | Unrealized P&L           | Stop (GTC, live)                          |
+|------|--------|---------|----------|--------------------------|-------------------------------------------|
+| AMZN | 78     | $260.30 | $266.32  | +$469 (+2.31%)           | 10% trail, HWM $278.56, stop $250.70      |
+| NVDA | 101    | $218.04 | $215.33  | **-$273 (-1.24%) ⚠️**   | 10% trail, HWM $236.54, stop **$212.89** |
+| TXN  | 70     | $267.28 | $309.21  | +$2,935 (+15.69%)        | 7% trail, HWM $315.57, stop $293.48       |
+
+### Stop Tighten Check
+- AMZN +2.31%: no tighten (threshold $299.35 for 7%)
+- **NVDA: -1.24% below entry; current $215.33, stop $212.89 — only $2.44 cushion ⚠️ NEAR STOP. "Sell the news" post-earnings dip. Monitor Tuesday open.**
+- TXN +15.69%: already on 7% trail; +20% threshold $320.74 (not yet); HWM $315.57; stop $293.48 ✓
+
+### Market Context
+- **Calendar**: May 25 = Memorial Day — U.S. markets CLOSED. Next session: Tuesday May 26.
+- **WTI**: ~$98/bbl | **Brent**: ~$105/bbl — elevated; Iran enriched uranium news complicating peace talks, supply premium holding
+- **S&P 500**: Near all-time highs (Dow + S&P 500 Equal Weight hit ATH Friday); Iran negotiations + AI earnings driving sentiment
+- **VIX**: ~17.26 (complacency zone — low fear)
+- **Fed**: Kevin Warsh taking oath as new Fed chair; 30-yr bond yield near 19-yr high on Middle East inflation pressure
+- **NVDA post-earnings**: Q1 FY27 rev $81.6B (+85% YoY, beat); Q2 guidance $91B (+95% YoY, beat); $80B buyback; dividend raised — stock dipped on "sell the news" despite beats (margins/growth deceleration concerns)
+- **Sector momentum YTD**: Leaders: Materials (+22%), Staples, Industrials, Energy | Laggards: Tech, Comms, Consumer Disc (despite mega-cap TMT supplying ~85% of S&P 500 YTD return — concentrated in 10 names)
+- **S&P 500 YTD**: +10% through May 14
+- **Momentum concentration risk**: SPMO (momentum ETF) +30% over 7 weeks — Goldman flags potential reversal
+
+### Tuesday May 26 Preview
+- **Consumer confidence data** (AM release)
+- **Earnings before open**: AutoZone (AZO), Zscaler (ZS)
+- **No CPI/FOMC/jobs** data on May 26
+
+### Trade Ideas
+1. **WMT long** — Consumer Staples leading sector YTD; no fresh catalyst today (holiday); re-evaluate Tuesday AM if consumer confidence beats; entry at open if gap ≤5%, 10% trail, target +20% (~$22K position closes deployment to ~79%)
+2. **Materials/Industrials name** — Sector momentum leaders; screen Tuesday AM for best setup in XLB/XLI constituents with specific catalyst (DE, CAT, NUE, MLM)
+3. **NVDA watch** — Do NOT add; near stop-out risk. If $215.33 → $212.89 stop triggered Tuesday, cash jumps to ~$66.9K, deployment drops to ~38% → urgent to find 1-2 replacements
+
+### Risk Factors
+- NVDA stop $212.89 is $2.44 from current price — any gap-down Tuesday could trigger stop-out
+- Deployment 58.7% requires urgency but resist forcing bad entries
+- Iran/oil risk: Brent ~$105/bbl; any escalation spikes energy costs + inflation → Fed tightening concern
+- 30-yr yield near 19-yr high = cost of capital headwind for growth stocks (NVDA, AMZN)
+- Momentum concentration: market breadth is narrow; correction in top 10 names = outsized portfolio impact
+- Holiday-thin liquidity in futures over weekend may create gap risk Tuesday open
+
+### Decision
+**NO TRADE (market closed). HOLD ALL POSITIONS.**
+- Tuesday: evaluate NVDA risk first — if pre-market shows gap-down below $212.89, stop will execute at open
+- Priority for Tuesday: 1 new entry in Consumer Staples or Materials to close deployment gap
+- WMT remains top candidate pending consumer confidence print and clean gap setup
+- Week trades: 0/3 remaining
+
+---
+
 ## 2026-05-21 — Pre-market Research
 
 > Note: PERPLEXITY_API_KEY not set in environment — research via WebSearch fallback. ClickUp alert sent.
