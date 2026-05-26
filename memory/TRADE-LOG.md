@@ -317,3 +317,16 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### May 26 — EOD Snapshot (Day 21, Tuesday)
+**Portfolio:** $110,854.96 | **Cash:** $46,709.90 (42.1%) | **Day P&L:** +$1,535.82 (+1.40%) | **Phase P&L:** +$10,854.96 (+10.85%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg  | Unrealized P&L           | Stop                                              |
+|--------|--------|----------|----------|----------|--------------------------|---------------------------------------------------|
+| AMD    | 41     | $486.02  | $504.30  | +7.87%   | +$749.34 (+3.76%)        | 10% trail, HWM $506.96, stop $456.26             |
+| AMZN   | 78     | $260.30  | $264.97  | -0.51%   | +$364.04 (+1.79%)        | 10% trail, HWM $278.56, stop $250.70             |
+| TXN    | 70     | $267.28  | $325.73  | +5.34%   | +$4,091.66 (+21.87%)     | 5% trail (tightened today), HWM $326.42, stop $310.10 |
+
+**Notes:** First trading day after Memorial Day weekend. Day P&L vs May 22 last_equity ($109,319.14) from Alpaca. EOD snapshots May 21–25 are MISSING from this log (workflow gap — daily summaries not committed/pushed in prior sessions). Key changes since May 20 EOD: NVDA exited (exact date undocumented, proceeds ~$22K); AMD re-entered at avg $486.02, 41 shares (exact date undocumented). TXN stop tightened from 7% to 5% trail today (HWM $326.42 → stop $310.10) after breaching +20% threshold ($267.28 × 1.20 = $320.74; current +21.87%). Deployment 57.9% — underdeployed vs 75-85% target; ~$19K gap. Note: AMD GTC stop covers 40 of 41 shares (1 share uncovered). Confirmed trades today: none. Week trades: undocumented (NVDA exit + AMD re-entry occurred May 21–26 window). Tomorrow: pre-market scan for 1 new entry to close deployment gap.
