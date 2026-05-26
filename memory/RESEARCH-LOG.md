@@ -717,3 +717,59 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-05-26 — Pre-Market Research (inline, post-Memorial Day)
+
+> Note: PERPLEXITY_API_KEY not set — research via WebSearch fallback.
+
+### Account
+- Equity: $110,225.90 | Cash: $45,153.15 (40.9%)
+- Long market value: $65,072.75 | **Deployment: 59.0% ⚠️ (target 75-85% — BELOW)**
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (new week May 26-30)
+- Phase P&L: +$10,225.90 (+10.23%)
+
+### Open Positions
+| SYM  | Shares | Entry   | Now     | Unrealized P&L     | Stop (GTC, live)                       |
+|------|--------|---------|---------|--------------------|----------------------------------------|
+| AMZN | 78     | $260.30 | $267.82 | +$586 (+2.89%)     | 10% trail, HWM $278.56, stop $250.70  |
+| NVDA | 101    | $218.04 | $216.23 | -$182 (-0.83%)     | 10% trail, HWM $236.54, stop $212.89  |
+| TXN  | 70     | $267.28 | $319.49 | +$3,655 (+19.54%)  | 7% trail, HWM $319.79, stop $297.40   |
+
+### Stop Tighten Check
+- AMZN +2.89%: no tighten (threshold $299.35)
+- NVDA -0.83%: no tighten; stop $212.89 safe ($3.34 cushion at $216.23)
+- **TXN +19.54%: 7% trail already applied; +20% tighten threshold $320.74 — HWM $319.79, only $0.95 away. Watch for tighten to 5% trail intraday.**
+
+### WMT Follow-Up (May 21 plan)
+- WMT was the May 21 priority trade (Q1 earnings day); no WMT position in account → earnings catalyst has passed; WMT no longer qualifies (stale catalyst)
+- WMT current price: $118.90 — no entry today
+
+### Market Context
+- **Post-Memorial Day** (May 25 holiday — markets closed)
+- **S&P 500 futures**: +0.9% | **Nasdaq-100 futures**: +1.3% — risk-on open
+- **Iran talks**: Trump says negotiations "proceeding nicely" → geopolitical risk-off reversal → bullish chip stocks
+- **Chip stocks premarket**: MU +6%, AMD +3%+, QCOM +3%+ — broad semis rally
+- **TXN**: Up 4.69% May 22 on Seaport Research upgrade to Buy, PT $400; Q1 FY2026 beat (+19% YoY rev, +90% data center); price hike round 2 effective July 2026
+- **Sector leaders 2026 YTD**: Energy +34.5%, Tech +22.3%; Consumer Staples/Industrials/Energy leading quadrant; semis driving tech leg (NVDA, AVGO, AMD)
+- **VIX**: Trending lower on ceasefire optimism
+
+### Trade Ideas
+1. **AMD long** — Specific catalyst: Lisa Su "35% CPU growth/yr for 5 years" + NVDA earnings AI tailwind + Iran ceasefire risk-on chip rally today; sector (semis) in strong momentum; prior stop-out was profitable (no sector strike); entry at open ~$460-475; 10% trail GTC; target +20% R:R 2:1. Position: ~$20K (18.2% equity) → deployment 77% post-fill.
+2. **Energy (XOM)**: Leading sector YTD +34.5% but Iran ceasefire = potential oil supply increase → near-term oil pressure; skip today.
+3. **NVDA add**: Already 101 shares; avoid adding concentration.
+
+### Risk Factors
+- AMD at ~$460-480 — significant move since prior $421 stop-out; possibly extended short-term
+- Semis concentration after AMD: NVDA + TXN + AMD = 3/4 positions in semis; high but strategy follows sector momentum
+- Open-print wide spreads at 9:30-9:36 AM ET; AMD bid/ask $460.70/$491 — wait for spread to tighten
+- TXN tighten trigger ~$320.74 (GTC HWM $319.79, $0.95 away); may need stop update today
+
+### Decision
+**LEAN TRADE — 1 new position: AMD.**
+- **Catalyst**: Lisa Su CPU growth forecast + chip rally + Iran risk-on ✓
+- **Criteria**: All hard rules pass (positions 4/6, trades 1/3, cost <20% equity, daytrade 0/3) ✓
+- **Plan**: 42 shares AMD at market open (allow spread to settle, ~9:40 AM ET); stop: 10% trailing GTC
+- Existing positions: AMZN, NVDA, TXN — HOLD. Watch TXN for $320.74 tighten trigger.

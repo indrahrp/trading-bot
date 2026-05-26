@@ -317,3 +317,48 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### May 26 — Market-Open Snapshot (Day 20, Tuesday — post-Memorial Day)
+**Portfolio:** $110,553.31 | **Cash:** $25,716.68 (23.3%) | **Deployment:** 76.8% ✓ | **Phase P&L:** +$10,553.31 (+10.55%)
+
+| Ticker | Shares | Entry   | Now     | Unrealized P&L     | Stop (GTC, live)                       |
+|--------|---------|---------|---------|--------------------|----------------------------------------|
+| AMD    | 40      | $485.91 | $488.83 | +$117 (+0.06%)     | 10% trail, HWM $489.21, stop $440.29  |
+| AMZN   | 78      | $260.30 | $267.18 | +$536 (+2.64%)     | 10% trail, HWM $278.56, stop $250.70  |
+| NVDA   | 101     | $218.04 | $216.14 | -$192 (-0.87%)     | 10% trail, HWM $236.54, stop $212.89  |
+| TXN    | 70      | $267.28 | $322.17 | +$3,842 (+20.54%)  | 5% trail, HWM $323.23, stop $307.06   |
+
+**Note:** 1 AMD share still pending fill from original 41-share order (paper trading partial; stop covers 40 shares).
+
+---
+
+### May 26 — AMD Re-Entry (Day 20)
+
+| Field        | Value                                                                 |
+|--------------|-----------------------------------------------------------------------|
+| Date         | 2026-05-26                                                            |
+| Ticker       | AMD                                                                   |
+| Side         | BUY                                                                   |
+| Shares       | 40 (of 41 ordered; 1 share paper-fill delay)                         |
+| Entry Price  | $485.91 (avg fill)                                                    |
+| Stop Level   | $440.29 (10% trailing GTC, HWM $489.21)                              |
+| Thesis       | Lisa Su "35% CPU growth/yr for 5 yrs" catalyst; chip-sector rally on Iran peace talks progress; post-NVDA earnings AI infrastructure tailwind; semis sector in momentum (TXN +20%, NVDA holding) |
+| Target       | $583.09 (+20%)                                                        |
+| R:R          | ~2.1:1 (risk $45.62/sh, reward $97.18/sh)                            |
+
+---
+
+### May 26 — TXN Stop Tighten (+20% threshold crossed)
+
+| Field        | Value                                                                 |
+|--------------|-----------------------------------------------------------------------|
+| Date         | 2026-05-26                                                            |
+| Ticker       | TXN                                                                   |
+| Action       | Stop tightened 7% trail → 5% trail (+20% threshold triggered)       |
+| Entry Price  | $267.28                                                               |
+| +20% Level   | $320.74 (triggered; TXN hit $321+ intraday)                          |
+| Old Stop     | $300.26 (7% trail, HWM $322.86) — cancelled                         |
+| New Stop     | $307.06 (5% trail, HWM $323.23, GTC order e94699e5)                 |
+| Current      | $322.17 (+20.54% from entry)                                         |
