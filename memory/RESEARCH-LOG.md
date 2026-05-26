@@ -657,6 +657,72 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 
 ---
 
+## 2026-05-26 — Pre-market Research
+
+> Note: PERPLEXITY_API_KEY not set in environment — research via WebSearch fallback. ClickUp alert sent.
+
+### Account
+- Equity: $110,088 | Cash: $45,153.15 (41.0%)
+- Long market value: $64,934.85 | **Deployment: 59.0% ⚠️ (target 75-85% — BELOW)**
+- Daytrade count: 0 | PDT: false
+- Week trades: 0/3 (new week — Memorial Day Mon May 25 was holiday; first day of week May 26–30)
+- Phase P&L: +$10,088 (+10.09%)
+
+### Open Positions
+| SYM  | Shares | Entry   | Now      | Unrealized P&L       | Stop (GTC live)                         |
+|------|--------|---------|----------|----------------------|-----------------------------------------|
+| AMZN | 78     | $260.30 | $267.24  | +$541 (+2.66%)       | 10% trail, HWM $278.56, stop $250.70   |
+| NVDA | 101    | $218.04 | $218.25  | +$22 (+0.10%) ⚠️    | 10% trail, HWM $236.54, stop $212.89   |
+| TXN  | 70     | $267.28 | $314.96  | +$3,338 (+17.84%)    | 7% trail, HWM $315.57, stop $293.48    |
+
+### Stop Tighten Check
+- **AMZN**: +2.66% — no action (thresholds: +15%=$299.35, +20%=$312.36)
+- **NVDA**: +0.10% — ⚠️ only $5.36 above stop ($218.25 vs $212.89); 2.5% cushion; trailing stop working; no manual action needed
+- **TXN**: +17.84% — already on 7% trail (tightened previously); +20% tighten threshold $320.74; HWM $315.57 — not triggered yet; new HWM updated to $315.57 (was $310.29)
+
+### Market Context
+- **WTI**: ~$92/bbl (-4%+ intraday) — plunging on US-Iran ceasefire talks; Trump said negotiations "proceeding nicely"
+- **Brent**: ~$98.11/bbl (+0.89%) — mixed; futures complex
+- **S&P 500 futures**: +0.54% pre-open; Polymarket 91% odds of higher open; risk-on after 3-day weekend
+- **VIX**: 16.68 (calm; range 16.18–19.44 past month)
+- **Iran catalyst**: US-Iran peace talks → WTI -5-6%; lower oil eases inflation narrative; risk assets bid
+- **Semis/AI**: NVDA Q1 FY2027 beat (May 20) — $80B buyback, dividend raised; semis broadly lifted but NVDA retraced from HWM $236.54 to $218.25 (-7.7% off HWM)
+- **AZO** (AutoZone): Reporting Q3 FY2026 before open today; est. EPS $36.13, rev $4.86B
+- **ZS** (Zscaler): Reporting after close tonight; est. EPS $1.01, rev ~$836M — 40 upward EPS revisions, no downward
+- **Economic releases today**: No CPI/PPI/FOMC; check for weekly jobless claims timing
+- **Sector leaders YTD**: Semiconductors (Nvidia alone 20% of index return), Materials +22%, Energy, Defense, Industrials
+- **Sector laggards YTD**: REITs, rate-sensitive staples; energy mixed on Iran/oil dynamics
+
+### Holdings News
+- **AMZN**: No major catalyst today; AWS thesis intact; holding well above entry
+- **NVDA**: Retraced post-earnings from $236 HWM back near entry $218; GTC trail stop at $212.89; at risk of stop-out if oil/macro risk-off; no fundamental change — hold and let stop work
+- **TXN**: New HWM $315.57 (up from $310.29); GTC trail auto-updated stop to $293.48; insider selling ongoing but price action constructive; watch $320.74 for 5% trail tighten
+
+### Trade Ideas
+1. **AZO long** — Auto parts beat consumer staples with defensive characteristics; if Q3 beat + solid guidance, enter at open; lower oil costs boost consumer driving miles and parts demand; est. AZO price ~$3,500/share → ~$20K = ~5-6 shares; stop: 10% trail GTC; target: +20%. Closes deployment to ~77%. **Priority #1 — watch open reaction.**
+2. **ZS long (pre-earnings)** — 40 upward EPS revisions, no downward; cybersecurity tailwind; however entering before after-hours earnings = binary risk; defer until post-earnings confirmation tomorrow if beats.
+3. **AMD re-entry** — Semis sector supported by NVDA beat and Iran-driven risk-on rally; AMD bounced but NVDA's own trail stop near ($212.89) creates concentration risk in semis; only consider if AZO fails and deployment gap persists.
+
+### Risk Factors
+- NVDA 2.5% from stop-out — any broad selloff triggers it; acceptable (trail working as designed)
+- Oil plunge could reverse if Iran talks collapse — binary geopolitical risk
+- AZO earnings miss → gap down, skip entry
+- ZS pre-earnings entry is binary — defer
+- Deploying too aggressively into a post-holiday gap-up risks chasing momentum
+- Semis concentration (NVDA + TXN) already meaningful; adding AMD adds more; prefer AZO for sector diversification
+
+### Decision
+**LEAN TRADE — target 1 new position (AZO) if earnings beat.**
+- Watch AZO open: skip if gap >5% or if EPS/rev miss
+- Beat + flat/modest gap: buy at open, 10% trail GTC immediately
+- Hold AMZN/NVDA/TXN: all stops live and correct; no manual cuts needed
+- NVDA: trail stop at $212.89 — if triggered, it's a designed exit; no intervention
+- TXN: watch for $320.74 to trigger 5% trail tighten
+- ZS: monitor post-earnings tomorrow if beat
+- Week trades available: 3/3 — room to act if multiple setups confirm
+
+---
+
 ## 2026-05-21 — Pre-market Research
 
 > Note: PERPLEXITY_API_KEY not set in environment — research via WebSearch fallback. ClickUp alert sent.
