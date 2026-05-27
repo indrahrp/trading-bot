@@ -317,3 +317,59 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### May 21–26 — Period Summary (gap-fill)
+
+**Events:**
+- **NVDA stop-out (~May 21-26)**: 101sh @ $218.04 entry → stopped out ~$212.89 (10% trail, HWM $236.54). Realized P&L: ~-$520 (-2.36%). Stop managed risk correctly; stock continued declining to $211.
+- **WMT (May 21)**: Q1 beat but guidance slightly below consensus → NOT entered. Correct call (WMT not in positions).
+- **TXN stop tighten (May 26)**: TXN crossed +20% threshold ($320.74); 7% trail cancelled → 5% trail GTC placed. HWM $331.51, stop $314.93. Per strategy rule.
+- **Market closed May 25**: Memorial Day. First trading day of week = May 26.
+
+---
+
+### May 26 — New Trade Entry
+
+#### Buy: AMD (Re-entry)
+| Field        | Value                                                                                                  |
+|--------------|--------------------------------------------------------------------------------------------------------|
+| Date         | 2026-05-26                                                                                             |
+| Ticker       | AMD                                                                                                    |
+| Side         | BUY                                                                                                    |
+| Shares       | 41                                                                                                     |
+| Entry Price  | $486.02 (avg)                                                                                          |
+| Stop Level   | $459.06 (10% trailing GTC, HWM $510.07, order 44c27a1b)                                               |
+| Thesis       | Semiconductor sector momentum (PHLX at 12+ month outperformance); Q1 beat intact ($10.25B +38% YoY, DC +57%); AI GPU demand; prior stop-out was profitable (no sector failure penalty) |
+| Target       | $583.22 (+20%)                                                                                         |
+| R:R          | 2.0:1                                                                                                  |
+| Week Trades  | 1/3                                                                                                    |
+
+---
+
+### May 27 — New Trade Entry
+
+#### Buy: NVDA (Re-entry)
+| Field        | Value                                                                                                  |
+|--------------|--------------------------------------------------------------------------------------------------------|
+| Date         | 2026-05-27                                                                                             |
+| Ticker       | NVDA                                                                                                   |
+| Side         | BUY                                                                                                    |
+| Shares       | 94                                                                                                     |
+| Entry Price  | $211.60                                                                                                |
+| Stop Level   | $190.07 (10% trailing GTC, HWM $211.19, order f9d1f130)                                               |
+| Thesis       | AI inference supercycle (2/3 global AI compute = inference); 61 analysts Strong Buy, avg PT $295 (+37%); semis sector PHLX at 12+ month outperformance vs S&P; BofA $1.3T global semi market 2026; re-entry after stop-out, deployment gap closure |
+| Target       | $253.92 (+20%)                                                                                         |
+| R:R          | 2.0:1                                                                                                  |
+| Week Trades  | 2/3                                                                                                    |
+
+#### Portfolio After Trade
+**Equity:** $110,129 | **Cash:** $26,820 | **Deployment:** 75.6% ✓ (target 75-85%)
+
+| Ticker | Shares | Entry    | Now     | Unrealized P&L   | Stop                                     |
+|--------|--------|----------|---------|------------------|------------------------------------------|
+| AMD    | 41     | $486.02  | $498.31 | +$503 (+2.5%)    | 10% trail, HWM $510.07, stop $459.06    |
+| AMZN   | 78     | $260.30  | $266.32 | +$469 (+2.3%)    | 10% trail, HWM $278.56, stop $250.70    |
+| NVDA   | 94     | $211.60  | $211.53 | -$7 (-0.03%)     | 10% trail, HWM $211.19, stop $190.07    |
+| TXN    | 70     | $267.28  | $319.23 | +$3,637 (+19.4%) | 5% trail, HWM $331.51, stop $314.93     |

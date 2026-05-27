@@ -717,3 +717,63 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-05-27 — Pre-market Research (inline, market-open workflow)
+
+*Note: PERPLEXITY_API_KEY not set — WebSearch fallback. ClickUp alert to be sent.*
+
+### Account (post-trade)
+- Equity: $110,129.12 | Cash: $26,819.50 (24.4%)
+- Long market value: $83,309.62 | **Deployment: 75.6% ✓** (target 75-85%)
+- Daytrade count: 1 | PDT: false
+- Week trade count: 2/3 (AMD May 26, NVDA May 27)
+- Phase P&L: +$10,129.12 (+10.13%)
+
+### State Since Last Log (May 21)
+- **NVDA stop-out**: 101sh stopped out ~$212.89 (10% trail, HWM $236.54) between May 21-26; realized P&L: ~-$520 (-2.36%); stop worked as designed
+- **WMT**: Q1 beat ($175.7B rev) but FY guidance below consensus → NOT entered (correct call)
+- **AMD re-entry (May 26)**: 41sh @ $486.02 avg, 10% trail stop $459.06, HWM $510.07; semis sector momentum + Q1 beat thesis persists
+- **TXN stop tightened (May 26)**: 7% trail → 5% trail when TXN crossed +20% threshold ($320.74); HWM $331.51, stop $314.93
+
+### Open Positions (pre-trade)
+| SYM  | Shares | Entry    | Now     | Unrealized P&L       | Stop (GTC, live)                         |
+|------|--------|----------|---------|----------------------|------------------------------------------|
+| AMD  | 41     | $486.02  | $498.31 | +$503 (+2.5%)        | 10% trail, HWM $510.07, stop $459.06    |
+| AMZN | 78     | $260.30  | $266.32 | +$469 (+2.3%)        | 10% trail, HWM $278.56, stop $250.70    |
+| TXN  | 70     | $267.28  | $319.23 | +$3,637 (+19.4%)     | 5% trail, HWM $331.51, stop $314.93     |
+
+Deployment pre-trade: 57.7% — UNDERDEPLOYED
+
+### Market Context
+- S&P 500 futures: +0.37% | Nasdaq: +0.61% — mildly positive, fifth consecutive higher open
+- VIX: 17.01 (low-moderate, constructive)
+- WTI: ~$94 | Brent: ~$99 — declining; Iran diplomacy easing supply premium
+- **Fed hawkish risk**: Gov. Waller — "inflation not headed right direction; rate hikes as likely as cuts." 10-yr yield jumped to 4.56%.
+- Economic calendar: Quiet today; PCE inflation + Q1 GDP 2nd reading Thursday — major risk events
+- Semis sector: PHLX at 12+ month outperformance vs S&P 500; BofA raised global semi market to $1.3T for 2026
+- AMD: Motley Fool "will AMD be next trillion-dollar semiconductor company?" article today; Q1 beat intact
+- NVDA: 61 analysts Strong Buy, avg PT $295 (+37% from ~$211); AI inference structural demand (2/3 global AI compute = inference)
+
+### Stop Tighten Check
+- AMD +2.5%: below +15% threshold ($558.92) — no tighten ✓
+- AMZN +2.3%: well below +15% ($299.35) — no tighten ✓
+- TXN +19.4%: already on 5% trail (tightened May 26 at +20%) — no further action ✓
+
+### Trade Ideas
+1. **NVDA** — AI inference supercycle, 61 analysts Strong Buy, avg PT $295 (+37%), semis sector leading. NVDA at $211.60 (10% below HWM $236.54; consolidating post-earnings). Re-entry after stop-out. Entry ~$211.60, stop $190.07 (-10% trail), target $254 (+20%), R:R 2.0:1. **EXECUTE.**
+2. **Second position** — SKIP. Post-NVDA entry, deployment 75.6% (in range). Avoid overconcentration in semis. 1 trade remaining this week; save for better catalyst.
+
+### Risk Factors
+- Fed hawkish (Waller) → rate hike fear, multiple compression risk for growth stocks
+- TXN on 5% trail with only ~1.3% cushion above stop ($319.23 vs stop $314.93) → tight; broad selloff could trigger
+- PCE + GDP Thursday — binary macro risk events
+- AMD/NVDA both semis → correlated drawdown risk (50% of positions)
+- NVDA re-entering below old stop level — price still soft, not yet confirmed reversal
+
+### Decision
+**NVDA BOUGHT — 94 shares @ $211.60, 10% trail stop $190.07 (HWM $211.19).**
+Deployment closes to 75.6% — within target range.
+**AMD / AMZN / TXN: HOLD.** Stops live and correctly set.
+AMD coverage gap (1 uncovered share) fixed — trailing stop placed for 1 AMD share (stop $447.24, HWM $496.93).
