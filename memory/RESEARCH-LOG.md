@@ -717,3 +717,79 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-05-27 — Pre-market Research
+
+> Note: PERPLEXITY_API_KEY not set in environment — research via WebSearch fallback.
+
+### Account Snapshot
+- **Equity:** $111,952.33 | **Cash:** $46,709.90 (41.7%)
+- **Long market value:** $65,242.43 | **Deployment: 58.3% ⚠️ (target 75-85% — BELOW)**
+- **Daytrade count:** 0 | **PDT:** false
+- **Week trades:** AMD re-entry counted = 1/3 (week of May 25-29)
+- **Phase P&L:** +$11,952.33 (+11.95%)
+
+### Open Positions
+| SYM  | Shares | Entry    | Now      | Unrealized P&L         | Stop (GTC, live)                          |
+|------|--------|----------|----------|------------------------|-------------------------------------------|
+| AMD  | 41     | $486.02  | $514.55  | +$1,170 (+5.87%)       | 10% trail, HWM $506.96, stop $456.26      |
+| AMZN | 78     | $260.30  | $264.21  | +$305 (+1.50%)         | 10% trail, HWM $278.56, stop $250.70      |
+| TXN  | 70     | $267.28  | $336.25  | +$4,828 (+25.81%)      | 5% trail, HWM $326.42, stop $310.10       |
+
+### Stop Tighten / Flags
+- **AMD +5.87%:** no tighten needed (threshold +15% = $559.42); HWM $506.96 → current price above → stop auto-updates to ~$463.10 at open. **Flag: trailing stop covers only 40 of 41 shares — 1 share unprotected.**
+- **AMZN +1.50%:** no tighten (threshold $299.35); HWM $278.56 locked above current price — stop stays $250.70.
+- **TXN +25.81%:** already on 5% trail (correct for >+20%); today's price $336.25 → new HWM → stop auto-adjusts to ~$319.44 at market open. Run the trade.
+
+### Market Context
+- **WTI:** ~$94/bbl | **Brent:** ~$99.18/bbl — Iran peace deal optimism easing supply premium; oil softening
+- **S&P 500 futures:** +0.37% at 7,564 — S&P/Nasdaq at fresh record highs; tech leading
+- **VIX:** ~17.01 — declining trend, low-complacency zone; favorable for risk-on
+- **Iran:** US-Iran broadly agreed on peace outlines; residual uncertainty on final terms
+- **Earnings today (after close):** Salesforce, Marvell Technology (semis) — binary events for tech/semis sector tonight
+- **Economic today (minor):** New Residential Sales + Richmond Fed at 10:00 AM
+- **Economic TOMORROW May 28 (high impact):** Initial Claims + GDP 2nd Release + Durable Goods at 8:30 AM
+- **Economic Friday:** PCE Deflator — key inflation read for Fed
+
+### Ticker News
+- **AMD:** Q1 revenue $10.25B (+38% YoY), Data Center +57%; $10B Taiwan investment; 118% YTD; trending toward trillion-dollar market cap. Thesis intact and strengthening.
+- **AMZN:** AWS re-acceleration, net margin at 3-yr peak (12.2%), PT consensus $312.63 (+18% upside from $264). Thesis intact; slow grind higher.
+- **TXN:** +4.42% yesterday; BofA raised PT to $370; Q1 beat; strong industrial + AI data center analog demand; Silicon Labs acquisition adds embedded wireless. Thesis intact; 5% trail auto-tightening.
+
+### Sector Momentum (YTD)
+| Sector | Status | Notes |
+|--------|--------|-------|
+| Materials (XLB) | ✅ Leading | +22% YTD; top performer |
+| Industrials (XLI) | ✅ Leading | Defense, aerospace strong |
+| Consumer Staples (XLP) | ✅ Leading | Defensive + dividend |
+| Energy (XLE) | ✅ Leading | Iran deal = potential oil headwind |
+| Real Estate (XLRE) | ↗ Improving | |
+| Utilities (XLU) | ↗ Improving | |
+| Healthcare (XLV) | ↘ Weakening | |
+| Technology (XLK) | ❌ Lagging | Gains concentrated in 10 names |
+| Comm Services (XLC) | ❌ Lagging | |
+| Consumer Disc (XLY) | ❌ Lagging | |
+| Financials (XLF) | ❌ Lagging | |
+
+### Trade Ideas
+1. **FCX (Freeport-McMoRan) — Materials long:** Copper demand driven by AI data center buildout + grid upgrades; Materials sector +22% YTD and leading; FCX direct copper play. Entry ~$52-55 range; 10% trail GTC; target +20% (R:R 2:1). Position ~$18-20K (16-18% of equity). Would bring deployment to ~74-76%.
+2. **GE or RTX — Industrials long:** Defense/aerospace spending elevated; Industrial sector leading YTD. Fallback if FCX setup unclear. Entry at open, 10% trail GTC, ~$18K position.
+3. **HOLD and wait for tomorrow's GDP + Claims:** May 28 GDP 2nd release + jobless claims at 8:30 AM are high-impact. A miss → market pullback = better entry. Patience > activity.
+
+### Risk Factors
+- **Big data tomorrow (May 28):** GDP 2nd release + Initial Claims + Durable Goods at 8:30 AM — entering today before data is buying into uncertainty
+- **Salesforce + Marvell after close tonight:** Tech/semis binary; AMD could react to Marvell miss
+- **Iran deal uncertainty:** Finalization unclear; oil bounce risk if talks collapse
+- **Deployment urgency:** 58.3% — do NOT force a bad entry just to deploy capital
+- **TXN insider selling:** CFO/SVPs have been selling; thesis intact but watch for cracks
+- **AMD trailing stop gap:** Only 40 of 41 shares covered — fix if AMD adds to position or on next login
+
+### Decision
+**HOLD today. Scout FCX for entry tomorrow post-GDP/Claims data.**
+- All 3 positions: HOLD — all theses intact, stops in place, no cuts needed
+- No new trades today: big data tomorrow (8:30 AM), Salesforce/Marvell after-close risk, better entry clarity tomorrow
+- **Tomorrow morning:** If GDP 2nd release + Claims in-line or better → evaluate FCX entry to close deployment gap (58.3% → ~75%)
+- AMD trailing stop gap (1 share unprotected): low urgency, flag for midday review
+- Week trades remaining: 2/3 — plenty of runway
