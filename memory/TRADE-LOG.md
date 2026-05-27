@@ -317,3 +317,16 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### May 27 — EOD Snapshot (Day 21, Wednesday)
+**Portfolio:** $110,411.98 | **Cash:** $48,853.98 (44.2%) | **Day P&L:** -$392.33 (-0.35%) | **Phase P&L:** +$10,411.98 (+10.41%)**
+
+| Ticker | Shares | Entry   | Close   | Day Chg | Unrealized P&L     | Stop                                     |
+|--------|---------|---------|---------|---------|--------------------|------------------------------------------|
+| AMD    | 41      | $486.02 | $495.92 | -1.58%  | +$405.76 (+2.04%)  | 10% trail, HWM $510.07, stop $459.06    |
+| AMZN   | 78      | $260.30 | $272.56 | +2.74%  | +$956.06 (+4.71%)  | 10% trail, HWM $278.56, stop $250.70    |
+| NVDA   | 94      | $211.60 | $212.40 | -1.15%  | +$75.20 (+0.38%)   | 10% trail, HWM $213.32, stop $191.99    |
+
+**Notes:** Gap in EOD logs May 21-26 — changes since last snapshot: TXN exited (not in current positions), AMD re-entered (41 shares avg $486.02, built May 26-27 per trailing stop order timestamps), NVDA reduced from 101 to 94 shares (avg entry adjusted to $211.60). Today AMZN +2.74% was the bright spot; AMD -1.58% and NVDA -1.15% dragged portfolio to -0.35% on the day. Phase P&L holds at +10.41% (+$10.4K). Portfolio 55.8% deployed — below 75-85% target with $48.9K idle cash. No new confirmed fills today. Trades this week: AMD re-entry (May 26, 40 sh) + minor add (May 27, 1 sh). Tomorrow (Thu May 28): pre-market scan for 1-2 momentum entries to close deployment gap.
