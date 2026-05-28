@@ -317,3 +317,16 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### May 28 — EOD Snapshot (Day 22, Wednesday)
+**Portfolio:** $111,613.81 | **Cash:** $48,853.96 (43.8%) | **Day P&L:** +$1,254.01 (+1.14%) | **Phase P&L:** +$11,613.81 (+11.61%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg  | Unrealized P&L        | Stop                                      |
+|--------|--------|----------|----------|----------|-----------------------|-------------------------------------------|
+| AMD    | 41     | $486.02  | $519.65  | +4.87%   | +$1,378.69 (+6.92%)   | 10% trail, HWM $527.20, stop $474.48     |
+| AMZN   | 78     | $260.30  | $273.65  | +0.66%   | +$1,041.08 (+5.13%)   | 10% trail, HWM $278.56, stop $250.70     |
+| NVDA   | 94     | $211.60  | $213.93  | +0.63%   | +$219.10 (+1.10%)     | 10% trail, HWM $215.52, stop $193.97     |
+
+**Notes:** Strong day — AMD led with +4.87% on broad semis momentum, pushing unrealized gain to +6.92%. AMZN and NVDA both up modestly (+0.66%, +0.63%). Portfolio crossed +11.6% phase P&L. Note: TXN was closed and AMD re-entered (41 sh, avg $486.02) during May 21–27 period; NVDA trimmed from 101→94 shares — those transactions were not individually logged. Deployment remains low at 56.2% vs 75-85% target with $48.9K cash. No trades recorded today or this week (0/3). Stop tighten checks: AMD +6.9% (need $558.93 for +15%), AMZN +5.1% (need $299.35), NVDA +1.1% (need $243.34) — none eligible. Tomorrow: evaluate 1-2 new entries to close deployment gap.
