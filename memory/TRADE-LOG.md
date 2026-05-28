@@ -317,3 +317,32 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### May 21–27 — Reconciliation Note (reconstructed from live Alpaca data)
+Trade log gap May 21–27 detected during May 28 midday scan. Inferred from live positions and order history:
+
+- **TXN exited** (date unknown, May 21–27): No longer in positions or open orders. Had 7% trailing stop HWM $310.29, stop $288.57. Stopped out or manually closed — exit unconfirmed, exact price/P&L not recoverable from available data.
+- **AMD re-entered** (date unknown, May 21–27): New AMD position 41sh @ avg $486.02 with two GTC trailing stop orders (qty 40 created May 26, qty 1 created May 27; both 10% trail, HWM $527.20, stop $474.48). Prior AMD (50sh @ $414.95) was stopped out May 19.
+- **NVDA adjusted**: Position changed from 101sh @ $218.04 to 94sh @ $211.60. GTC trailing stop (qty 94) created May 27 (10% trail, HWM $214.29, stop $192.86). Likely partial stop-out of original position and re-entry, or position correction.
+
+---
+
+### May 28 — Midday Scan
+**Portfolio:** $111,064.36 | **Cash:** $48,853.96 (44.0%) | **Deployment:** 56.0% ⚠️ | **Day P&L:** +$704.56 (+0.64%) | **Phase P&L:** +$11,064.36 (+11.06%)
+
+#### Open Positions (midday)
+| Ticker | Shares | Entry    | Now      | Unreal P&L          | Stop                                        |
+|--------|--------|----------|----------|---------------------|---------------------------------------------|
+| AMD    | 41     | $486.02  | $516.81  | +$1,262 (+6.33%)    | 10% trail, HWM $527.20, stop $474.48        |
+| AMZN   | 78     | $260.30  | $269.87  | +$746 (+3.68%)      | 10% trail, HWM $278.56, stop $250.70        |
+| NVDA   | 94     | $211.60  | $212.30  | +$66 (+0.33%)       | 10% trail, HWM $214.29, stop $192.86        |
+
+**Actions:**
+- Losers: None — all positive. No cuts.
+- Stop tighten: None — AMD +6.33%, AMZN +3.68%, NVDA +0.33% (all below +15% threshold).
+- Thesis: AMD intact (semis momentum, +4.29% intraday); AMZN intact (AWS), -0.73% intraday minor; NVDA intact (AI inference), -0.14% intraday minor.
+- Research: PERPLEXITY_API_KEY not set — skipped.
+- **Deployment: 56.0% — underdeployed vs 75-85% target. ~$48.9K cash. Need 1-2 new entries to close gap.**
+- **Flag: AMD has split stop orders (qty 40 + qty 1 = 41 total) — same HWM/stop, functionally equivalent, no action needed.**
