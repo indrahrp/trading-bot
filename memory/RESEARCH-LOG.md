@@ -717,3 +717,70 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-05-28 — Pre-market Research (inline, market-open workflow)
+
+*Note: PERPLEXITY_API_KEY not set — WebSearch fallback. ClickUp alert sent.*
+
+### Account
+- Equity: $110,728.96
+- Cash: $48,853.96 (44.1%) — UNDERDEPLOYED vs 75-85% target
+- Buying power: $159,582.92
+- Daytrade count: 0 | PDT: false
+- Week trade count: 2/3 (AMD May 26, NVDA May 27)
+
+### Since-May-21 Summary
+- **WMT** (May 21 plan): Q1 EPS met ($0.66), revenue in-line ($175.7B +6.1% YoY), but guidance light (-0.5% below est) → stock -2.4%. WMT correctly skipped (gap criteria + weak guidance failed).
+- **TXN**: Trailing stop filled ~May 26/27 at $314.78 (7% trail, est. HWM ~$338.47). Realized P&L: +$3,325 (+17.8%). Position closed cleanly — stop worked.
+- **NVDA**: 10% trailing stop filled May 26 at $212.71 (HWM $236.54). Realized P&L: -$538 (-2.4%). Re-entered May 27: 94 shares @ $211.60, new 10% GTC trail placed.
+- **AMD**: Re-entered May 26: 41 shares @ $486.02. 10% GTC trailing stops placed (40sh + 1sh). HWM $510.07, stop $459.06.
+
+### Open Positions
+| SYM  | Shares | Entry   | Ask     | P&L              | Stop (GTC, live)                         |
+|------|--------|---------|---------|------------------|------------------------------------------|
+| AMD  | 41     | $486.02 | $503.80 | +$786 (+3.95%)   | 10% trail, HWM $510.07, stop $459.06    |
+| AMZN | 78     | $260.30 | $269.54 | +$743 (+3.66%)   | 10% trail, HWM $278.56, stop $250.70    |
+| NVDA | 94     | $211.60 | $214.14 | +$234 (+1.17%)   | 10% trail, HWM $214.22, stop $192.80    |
+
+Deployment: $61,875 / $110,729 = 55.9% (target 75-85% — 1-2 positions needed)
+
+### Market Context
+- PCE +3.8% YoY (Fed's preferred inflation gauge — HOT; rate hike odds spike, rate cut hopes eliminated)
+- S&P 500 futures: falling premarket on PCE data; near 7,500 psychological resistance
+- S&P 500 support: 7,340; next level 7,150
+- VIX: elevated (no exact reading — trending risk-off)
+- WTI $90.26 (+1.78%) / Brent $95.92 (+1.73%) — Iran tensions re-escalating, Strait of Hormuz risk
+- Goldman Sachs raised S&P 500 year-end target to 8,000 (long-term bullish but near-term uncertain)
+- Semis: AMD +114% YTD, Micron +19% on UBS upgrade; NVDA expanding into server CPUs ($20B est)
+
+### Stop Tighten Check
+- AMD +3.95%: threshold +15% = $559.12 — no tighten
+- AMZN +3.66%: threshold +15% = $299.35 — no tighten
+- NVDA +1.17%: threshold +15% = $243.34 — no tighten
+
+### Thesis Check
+- **AMD**: +3.95% from re-entry. Q1 beat (+38% YoY), AI demand accelerating per Jensen Huang. HWM $510.07. INTACT.
+- **AMZN**: +3.66% from entry. AWS AI thesis intact, avg PT $313. HWM $278.56. INTACT.
+- **NVDA**: +1.17% from re-entry (1 day old). Server CPU expansion, AI inference structural thesis. HWM $214.22. INTACT.
+
+### Trade Ideas
+1. **XLB (Materials ETF)** — #1 momentum sector YTD, non-correlated to semis. But today's macro (hot PCE + falling futures) fails gate. Defer to next week.
+2. **XLE (Energy ETF)** — Iran tensions supporting oil ($90.26). Energy momentum sector. But futures falling + PCE hawkish = poor entry tape. Defer.
+3. **No additional semis** — AMD + NVDA already create concentration; any new semis add correlated drawdown risk.
+
+### Risk Factors
+- Hot PCE 3.8% → Fed rate hike risk → growth stock headwind (AMD, NVDA, AMZN all impacted)
+- S&P futures falling premarket → weak open expected
+- Iran tensions re-escalating → oil spike + broad market pressure
+- NVDA entered yesterday at $211.60; stop $192.80 (9.6% below) — recent position, limited cushion
+- AMD stop $459.06 (9.1% below current) — recent re-entry, normal variance zone
+- AMZN HWM stuck at $278.56 — not making new highs; stop $250.70 only 6.7% below current
+
+### Decision
+**HOLD all 3 positions. No new trade today.**
+- Macro gate fails: hot PCE + falling futures = risk-off; forcing entry into poor tape violates patience rule
+- 1 trade remaining this week — preserve for better opportunity (next week or if tape reverses)
+- Deployment 55.9% suboptimal but patience > activity
+- All stops live, all theses intact
