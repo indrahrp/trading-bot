@@ -717,3 +717,66 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-05-28 — Pre-market Research
+
+> Note: PERPLEXITY_API_KEY not set in environment — all research via WebSearch fallback.
+
+### Account
+- Equity: $109,927.22 | Cash: $48,853.96 (44.5%)
+- Long market value: $61,073.26 | **Deployment: 55.6% ⚠️ (target 75-85% — BELOW)**
+- Daytrade count: 0 | PDT: false
+- Phase P&L: +$9,927.22 (+9.93%)
+
+### Position Changes Since Last Log (May 21)
+- **TXN**: No longer in positions — closed between May 21–27 (thesis/stop-out, not documented in this log)
+- **AMD**: Re-entered — 41 shares @ avg $486.02 (re-entry after May 19 stop-out)
+- **NVDA**: Trimmed from 101 → 94 shares (7 shares sold, reason not documented)
+
+### Open Positions
+| SYM  | Shares | Entry    | Now     | Unrealized P&L       | Stop (GTC, live)                           |
+|------|--------|----------|---------|----------------------|--------------------------------------------|
+| AMD  | 41     | $486.02  | $489.50 | +$143 (+0.72%)       | 10% trail, HWM $510.07/$502.94, stop $459.06/$452.65 |
+| AMZN | 78     | $260.30  | $272.07 | +$918 (+4.52%)       | 10% trail, HWM $278.56, stop $250.70       |
+| NVDA | 94     | $211.60  | $210.45 | -$108 (-0.54%)       | 10% trail, HWM $213.32, stop $191.99       |
+
+### Stop Tighten Check
+- AMD +0.72%: no tighten (threshold: +15% = $559.12)
+- AMZN +4.52%: no tighten (threshold: +15% = $299.35)
+- NVDA -0.54%: no tighten; watch — trading below avg entry; HWM only $1.72 above current → stop will not move until new HWM set
+
+### Market Context
+- **WTI**: ~$88–90/bbl (rebounding +1.8% pre-mkt on US military strikes in Iran)
+- **Brent**: ~$96.07–96.30/bbl (+2%)
+- **S&P 500 futures**: ES -0.2%, NQ -0.3% (oil rebound + PCE wait)
+- **VIX**: ~17.26 (moderate; up from recent lows)
+- **Today's catalysts**: PCE inflation (April, 8:30 AM) — Fed's preferred gauge; BofA forecasts core +0.3% MoM / 3.3% YoY; Q1 GDP 2nd estimate; durable goods; initial claims; personal income/spending
+- **Earnings today**: DELL, COST, BBY, DLTR, MDB, ADSK, GAP (mostly Wed close/Thu AM)
+- **Geopolitical**: US military strikes on Iran reported → oil spike; Strait of Hormuz risk resurfacing
+- **Sector momentum YTD**: Leading: Materials (+22%), Staples, Industrials, Energy | Lagging: Technology, Comms, Consumer Disc ⚠️ (our 3 holdings all in lagging sectors)
+
+### Ticker News
+- **AMD** ($489.50, -1.2% pre-mkt): Q1 revenue $10.3B (+38% YoY), FCF tripled; $10B Taiwan investment; Strong Buy (41/0). Avg analyst PT ~$472 — stock is ABOVE consensus target at $490. HWM $510.07; stop $459.06 (~-6.2% from current)
+- **AMZN** ($272.07, +0.08%): Q1 revenue $181.5B (+17%), AWS +28% (15-qtr high); Snowflake $6B AWS deal; ARK bought 24.2K shares May 27; consensus PT $305–312. Thesis intact.
+- **NVDA** ($210.45, -1.03% pre-mkt): FY2026 revenue $215.94B (+65%); trading just below avg entry ($211.60); analyst PT ~$297; strong fundamental but price soft today ahead of PCE
+
+### Trade Ideas
+1. **HOLD all — wait for PCE (8:30 AM)**: Core PCE expected +0.3% MoM, 3.3% YoY. Hot print (≥+0.4%) → risk-off, tech selloff, skip any new entries. In-line or cool → evaluate additions post-9:30 open.
+2. **Potential entry: Consumer Staples (post-PCE)**: Staples leading YTD; account lacks this sector exposure. Candidates after PCE clears: KO, PG, WMT (if revisited). Entry criteria: sector in momentum, clean technical, specific catalyst.
+3. **No semis add**: AMD/NVDA already represent two semis positions; concentration risk in lagging tech sector; avoid adding third semis name.
+
+### Risk Factors
+- **PCE binary at 8:30 AM**: hot print could gap market lower, hitting NVDA/AMD hardest (tech = lagging sector)
+- **Iran/oil**: fresh military strikes overnight; WTI bouncing back to $90 after earlier decline — energy risk premium not gone
+- **AMD above analyst consensus PT**: limited analyst upside at $490 vs PT ~$472; insider selling risk on any bad macro news
+- **NVDA HWM stall**: price just below entry, HWM barely above current — stop won't tighten; extended period without new HWM = accumulated risk
+- **Deployment gap urgency**: 55.6% vs 75-85% target creates pressure to add; resist forcing entries into bad macro
+
+### Decision
+**HOLD — no new entries pre-market. Wait for 8:30 AM PCE.**
+- If core PCE ≤ +0.3% MoM → evaluate 1 new entry at open; priority sector: Staples or Materials
+- If core PCE ≥ +0.4% MoM → stay in cash, monitor existing stops, no new positions today
+- All 3 positions: HOLD. No cuts (none at -7%). NVDA watch — if closes below $207 (entry -2.2%) on elevated volume, re-evaluate thesis.
+- Week trade count: unknown (TXN exit + AMD re-entry + NVDA trim occurred since last log — may be at or near 3/3 limit; verify before any new order)
