@@ -317,3 +317,17 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### May 29 — EOD Snapshot (Day 24, Friday)
+**Portfolio:** $110,957.42 | **Cash:** $26,769.16 (24.1%) | **Day P&L:** -$649.73 (-0.58%) | **Phase P&L:** +$10,957.42 (+10.96%)
+
+| Ticker | Shares | Entry   | Close   | Day Chg | Unrealized P&L        | Stop                                   |
+|--------|--------|---------|---------|---------|-----------------------|----------------------------------------|
+| AMD    | 41     | $486.02 | $515.08 | -0.58%  | +$1,191.32 (+5.98%)   | 10% trail, HWM $527.20, stop $474.48  |
+| AMZN   | 78     | $260.30 | $270.50 | -1.28%  | +$795.38 (+3.92%)     | 10% trail, HWM $278.56, stop $250.70  |
+| NVDA   | 94     | $211.60 | $212.47 | -0.83%  | +$81.78 (+0.41%)      | 10% trail, HWM $217.86, stop $196.07  |
+| XLB    | 430    | $51.36  | $51.16  | -0.39%  | -$86.00 (-0.39%)      | 10% trail, HWM $51.575, stop $46.42   |
+
+**Notes:** All four positions red intraday; portfolio -$649.73 on the day. Deployment back in target zone at 75.9% after XLB entry today (430 shares @ $51.36, materials sector ETF). AMD re-entered this week (41 shares @ $486.02, stop order created May 26–27). TXN and original NVDA position exited during the week (documented in prior sessions); NVDA re-entered at $211.60 (94 shares). Week trades: 2/3. All four GTC 10% trailing stops confirmed active. No position near -7% manual cut threshold. AMZN stop cushion: 7.3% ($270.50 vs $250.70). Monday: watch for continuation selling; evaluate deployment if any stop triggers over weekend.
