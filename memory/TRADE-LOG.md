@@ -317,3 +317,79 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### May 21–28 — Reconstructed Summary (no daily logs; inferred from live account data)
+
+**Events confirmed via Alpaca positions/orders as of May 29:**
+
+#### TXN Stop-Out (estimated May 21–28)
+| Field   | Value |
+|---------|-------|
+| Ticker  | TXN |
+| Side    | SELL (auto stop-out) |
+| Shares  | 70 |
+| Entry   | $267.28 |
+| Exit    | ~$288.57 (7% trail GTC, HWM $310.29) |
+| Est P&L | +$21.29/sh → ~+$1,490 (+7.97%) |
+| Notes   | Stop tightened to 7% at May 14 when +15% threshold hit. Stop eventually triggered on pullback from HWM. |
+
+#### NVDA Stop-Out and Re-Entry (estimated May 21–27)
+| Field   | Value |
+|---------|-------|
+| Ticker  | NVDA |
+| Side    | SELL (auto stop-out) then BUY (re-entry) |
+| Original | 101 sh @ $218.04, stop $212.89 (10% trail, HWM $236.54) |
+| Re-Entry | 94 sh @ $211.60 |
+| New Stop | 10% trail GTC, HWM $215.52, stop $193.97 (order f9d1f130, created May 27) |
+| Notes   | NVDA dipped below $212.89 stop post-earnings; re-entered on pullback at lower avg. Not a sector failure — re-entry same thesis. |
+
+#### AMD Re-Entry (May 26)
+| Field        | Value |
+|--------------|-------|
+| Date         | 2026-05-26 |
+| Ticker       | AMD |
+| Side         | BUY |
+| Shares       | 41 (40 + 1) |
+| Entry Price  | $486.02 avg |
+| Stop Level   | $474.48 (10% trail GTC, HWM $527.20, orders 44c27a1b + 213d2b25) |
+| Thesis       | Semis sector momentum; MI450/Helios product cycle H2 2026; AI data center demand; AMD +38% YoY Q1 |
+| Target       | $583.00 (+20%) |
+| R:R          | 2.0:1 |
+| Week Trades  | 1/3 (week May 25–29) |
+
+---
+
+### May 29 — Market-Open Snapshot
+**Portfolio:** $111,786 | **Cash:** $26,769 (23.9%) | **Deployment (pre-trade):** 56.2% | **Phase P&L:** +$11,786 (+11.79%)
+
+---
+
+### May 29 — New Trade Entry
+
+#### Buy: XLB (Materials Sector ETF)
+| Field        | Value |
+|--------------|-------|
+| Date         | 2026-05-29 |
+| Ticker       | XLB |
+| Side         | BUY |
+| Shares       | 430 |
+| Entry Price  | $51.36 |
+| Stop Level   | $46.22 (10% trailing GTC, HWM $51.36, order 1d015d52) |
+| Thesis       | Materials sector #1 YTD momentum (+22%); structural sector breakout; non-correlated to semis/tech; closes deployment gap; US-Iran tentative deal has muted effect on hard materials |
+| Target       | $61.63 (+20%) |
+| R:R          | 2.0:1 |
+| Week Trades  | 3/3 (weekly cap reached) |
+
+#### Portfolio After Trade
+**Equity:** $111,786 | **Cash:** $26,769 | **Deployment:** 76.1% ✓ (target 75-85%)
+
+| Ticker | Shares | Entry   | Now     | Unrealized P&L   | Stop                                   |
+|--------|--------|---------|---------|------------------|----------------------------------------|
+| AMD    | 41     | $486.02 | $517.77 | +$1,302 (+6.5%)  | 10% trail, HWM $527.20, stop $474.48  |
+| AMZN   | 78     | $260.30 | $274.42 | +$1,101 (+5.4%)  | 10% trail, HWM $278.56, stop $250.70  |
+| NVDA   | 94     | $211.60 | $215.44 | +$361 (+1.8%)    | 10% trail, HWM $215.52, stop $193.97  |
+| XLB    | 430    | $51.36  | $51.36  | $0 (0.0%)        | 10% trail, HWM $51.36, stop $46.22    |
+
+**AMD Watch:** +15% tighten trigger at $558.92 (currently $517.77, ~7.9% away). Tighten to 7% trail when reached.

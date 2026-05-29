@@ -717,3 +717,53 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-05-29 — Pre-market Research (inline, market-open workflow)
+
+### Account
+- Equity: $111,786 (post-trade)
+- Cash: $26,769 (23.9%)
+- Long market value: $85,017 | Deployment: 76.1% ✓ (target 75-85%)
+- Daytrade count: 1 | PDT: false
+- Week trade count: 3/3 (AMD May 26, NVDA re-entry ~May 27, XLB May 29)
+- Phase P&L: +$11,786 (+11.79%)
+
+### Open Positions
+| SYM  | Shares | Entry   | Now     | Unrealized P&L   | Stop (GTC, live)                        |
+|------|--------|---------|---------|------------------|-----------------------------------------|
+| AMD  | 41     | $486.02 | $517.77 | +$1,302 (+6.5%)  | 10% trail, HWM $527.20, stop $474.48   |
+| AMZN | 78     | $260.30 | $274.42 | +$1,101 (+5.4%)  | 10% trail, HWM $278.56, stop $250.70   |
+| NVDA | 94     | $211.60 | $215.44 | +$361 (+1.8%)    | 10% trail, HWM $215.52, stop $193.97   |
+| XLB  | 430    | $51.36  | $51.36  | $0 (0.0%)        | 10% trail, HWM $51.36, stop $46.22     |
+
+### Market Context
+- PERPLEXITY_API_KEY not set — WebSearch fallback
+- S&P 500: +0.16% at open; Nasdaq +0.20%; Dow +0.13%
+- US-Iran tentative deal → oil prices falling; energy sector headwind
+- VIX: moderate (declining from recent highs)
+- AMD: up ~5% premarket on MI450/Helios product cycle + semis wave; normalized to $517 at open
+- NVDA: ~$215, flat-to-up; Q1 FY2026 beat already digested; AI inference thesis intact
+- AMZN: ~$274, flat; AWS thesis intact
+- Sector momentum YTD leaders: Semiconductors, Materials (+22%), Industrials, Energy
+
+### Stop Tighten Check
+- AMD +6.5%: below +15% threshold ($558.92) — no tighten; **WATCH** ($558.92 = trigger)
+- AMZN +5.4%: below threshold — hold
+- NVDA +1.8%: below threshold — hold
+- XLB: new position — hold
+
+### Trade Decision
+**XLB BUY (executed)** — 430 shares @ $51.36; Materials sector #1 YTD momentum; diversifies away from semis; closes deployment gap to 76.1%.
+Weekly trade cap reached (3/3). No further trades this week.
+
+### Risk Factors
+- AMD approaching +15% tighten trigger at $558.92 — manual action required when hit
+- NVDA HWM only $215.52; stock near HWM at $215.44 — tight
+- Weekly cap exhausted; no new entries until next week
+- WMT dropped 10% on May 21 earnings → Consumer Staples weakened; XLB is Materials (different sector)
+- US-Iran deal risk: if deal collapses, oil spikes + broad equities dip
+
+### Decision
+**XLB: EXECUTED.** AMD/AMZN/NVDA: HOLD. Weekly cap reached. No further trades today.
