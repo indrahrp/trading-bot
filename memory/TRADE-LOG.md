@@ -317,3 +317,30 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### May 29 — Midday Scan
+**Portfolio:** $111,411.53 | **Cash:** $26,769.16 (24.0%) | **Deployment:** 76.0% ✓ | **Day P&L:** -$195.62 (-0.18%) | **Phase P&L:** +$11,411.53 (+11.41%)
+
+> Note: Logs have a gap from May 20 EOD through today May 29. Reconstructed from live API data.
+> Observed changes vs May 20 last log:
+> - **TXN**: No longer held (no position, no open stop order) — exit unlogged; was at +13.89% with 7% trail.
+> - **AMD**: Re-entered ~May 26-27 @ avg $486.02 (41 shares, two stop orders: 40 sh May 26 + 1 sh May 27).
+> - **NVDA**: Position reduced from 101 sh @ $218.04 to 94 sh @ $211.60 (new stop GTC placed May 27); reason unlogged.
+> - **XLB**: New position entered (430 sh @ $51.36); stop GTC placed today May 29. Aligns with May 20 pre-market XLB trade idea (Materials #1 YTD momentum sector).
+
+#### Open Positions (midday)
+| Ticker | Shares | Entry    | Now     | Unreal P&L        | Stop                                    |
+|--------|--------|----------|---------|-------------------|-----------------------------------------|
+| AMD    | 41     | $486.02  | $512.35 | +$1,079 (+5.42%)  | 10% trail, HWM $527.20, stop $474.48   |
+| AMZN   | 78     | $260.30  | $272.91 | +$983 (+4.84%)    | 10% trail, HWM $278.56, stop $250.70   |
+| NVDA   | 94     | $211.60  | $215.78 | +$393 (+1.98%)    | 10% trail, HWM $217.34, stop $195.61   |
+| XLB    | 430    | $51.36   | $51.34  | -$9 (-0.04%)      | 10% trail, HWM $51.575, stop $46.42    |
+
+**Actions:**
+- Losers: None — no position at -7% (worst: XLB -0.04%). No cuts.
+- Stop tighten: None — AMD +5.42% (need $558.92 for +15%), AMZN +4.84%, NVDA +1.98%, XLB -0.04%. All below thresholds.
+- Thesis: AMD intact (semis/data center); AMZN intact (AWS); NVDA intact (AI inference); XLB intact (Materials sector #1 YTD momentum).
+- Research: PERPLEXITY_API_KEY not set — skipped.
+- **Deployment: 76.0% — within 75-85% target ✓**
