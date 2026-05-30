@@ -717,3 +717,59 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-05-30 — Weekend Research (Next trading day: Monday June 2)
+
+*Note: Market closed (Saturday). PERPLEXITY_API_KEY not set — limited market context. Week 3/3 trades exhausted.*
+
+### Account (as of May 29 close)
+- Equity: $110,880.84
+- Cash: $26,769.16 (24.1%)
+- Long market value: $84,111.68 | Deployment: 75.9% ✓ (target 75-85%)
+- Buying power: $137,650
+- Daytrade count: 0 | PDT: false
+- Week trades: 3/3 EXHAUSTED (AMD May 26, NVDA May 27, XLB May 29)
+- Phase P&L: +$10,880.84 (+10.88%)
+
+### Exits Since Last Log (May 20)
+- **NVDA** (101 sh) stopped out May 26 @ $212.71 — P&L: -$538 (-2.44%) — 10% trailing stop
+- **TXN** (70 sh) stopped out May 27 @ $314.78 — P&L: +$3,326 (+17.77%) — 7% trailing stop (tightened at +15%)
+
+### Open Positions
+| SYM  | Shares | Entry   | Close   | Unrealized P&L    | Stop (GTC, live)                        |
+|------|--------|---------|---------|-------------------|-----------------------------------------|
+| AMD  | 41     | $486.02 | $516.10 | +$1,233 (+6.19%)  | 10% trail, HWM $527.20, stop $474.48   |
+| AMZN | 78     | $260.30 | $270.64 | +$806 (+3.97%)    | 10% trail, HWM $278.56, stop $250.70   |
+| NVDA | 94     | $211.60 | $211.14 | -$43 (-0.22%)     | 10% trail, HWM $217.86, stop $196.07   |
+| XLB  | 430    | $51.36  | $51.15  | -$90 (-0.41%)     | 10% trail, HWM $51.58, stop $46.42     |
+
+### Stop Tighten Check
+- AMD +6.19%: tighten threshold $558.92 (+15%) — no action
+- AMZN +3.97%: below threshold — no action
+- NVDA -0.22%: well below threshold — no action
+- XLB -0.41%: well below threshold — no action
+
+### Market Context
+- Market closed (Saturday May 30)
+- Sector rotation away from tech/semis noted in May; Materials +22% YTD (XLB thesis)
+- NVDA pulled back below entry ($211.14 vs $211.60 entry) — watching closely
+- AMD pulled back from HWM $527.20 to $516.10 — still +6.19% from entry
+
+### Trade Ideas (June 2 watch list)
+1. **No new positions** — deployment 75.9% ✓ (within 75-85% target); weekly cap exhausted; fresh cap June 2; no urgency to force entries
+
+### Risk Factors
+- NVDA -0.22% from entry; stop $196.07 (7.1% cushion); below entry but above -7% manual cut
+- XLB -0.41% new position; stop $46.42 (9.3% cushion); materials momentum must confirm
+- AMD pulled back from HWM — stop at $474.48 ($474 = 8.2% below $516)
+- Semiconductor concentration: AMD + NVDA both in semis
+
+### Decision
+**HOLD all 4.** Market closed. Week cap 3/3. Fresh cap June 2.
+- All GTC trailing stops live and confirmed active
+- No positions at -7% manual cut threshold
+- No tightenings needed (no position at +15% from entry)
+
+---
