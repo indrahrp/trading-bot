@@ -317,3 +317,25 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### May 31 — Midday Scan (Sunday — market closed; prices = Friday May 30 close)
+**Portfolio:** $110,880.84 | **Cash:** $26,769.16 (24.1%) | **Deployment:** 75.9% ✓ | **Phase P&L:** +$10,880.84 (+10.88%)
+
+#### Open Positions
+| Ticker | Shares | Entry   | Fri Close | Unreal P&L        | Stop                                  |
+|--------|--------|---------|-----------|-------------------|---------------------------------------|
+| AMD    | 41     | $486.02 | $516.10   | +$1,233 (+6.19%) | 10% trail, HWM $527.20, stop $474.48  |
+| AMZN   | 78     | $260.30 | $270.64   | +$806 (+3.97%)   | 10% trail, HWM $278.56, stop $250.70  |
+| NVDA   | 94     | $211.60 | $211.14   | -$43 (-0.22%)    | 10% trail, HWM $217.86, stop $196.07  |
+| XLB    | 430    | $51.36  | $51.15    | -$90 (-0.41%)    | 10% trail, HWM $51.58, stop $46.42    |
+
+**Actions:**
+- Losers: None at -7%. No cuts.
+- Stop tighten: None — AMD +6.2%, AMZN +4.0%, NVDA -0.2%, XLB -0.4% (all below +15% threshold)
+- Thesis: All intact — AMD semis momentum; AMZN AWS AI; NVDA AI inference; XLB Materials sector leadership
+- Research: PERPLEXITY_API_KEY not set — skipped. Market closed Sunday.
+- **Deployment: 75.9% — within 75-85% target ✓**
+
+**Gap note (May 21–30):** TXN exited (stop-out or rotation since last log); AMD re-entered at $486.02 avg (41 sh) on continued semis momentum; NVDA partially resized to 94 sh avg $211.60; XLB 430 sh entered (Materials sector +22% YTD — top momentum sector per May 21 research). Full trade details pending backfill from next session review.
