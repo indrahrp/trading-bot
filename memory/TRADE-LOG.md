@@ -317,3 +317,17 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### May 31 — EOD Snapshot (Day 24, Sunday — data as of Fri May 29)
+**Portfolio:** $110,880.84 | **Cash:** $26,769.16 (24.1%) | **Day P&L:** $0.00 (0.00%, markets closed) | **Phase P&L:** +$10,880.84 (+10.88%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg  | Unrealized P&L          | Stop                                      |
+|--------|--------|----------|----------|----------|-------------------------|-------------------------------------------|
+| AMD    | 41     | $486.02  | $516.10  | 0.00%    | +$1,233.14 (+6.19%)     | 10% trail, HWM $527.20, stop $474.48     |
+| AMZN   | 78     | $260.30  | $270.64  | 0.00%    | +$806.30 (+3.97%)       | 10% trail, HWM $278.56, stop $250.70     |
+| NVDA   | 94     | $211.60  | $211.14  | 0.00%    | -$43.24 (-0.22%)        | 10% trail, HWM $217.86, stop $196.07     |
+| XLB    | 430    | $51.36   | $51.15   | 0.00%    | -$90.30 (-0.41%)        | 10% trail, HWM $51.58, stop $46.42       |
+
+**Notes:** Weekend summary — markets closed Sun May 31; snapshot reflects close of business Fri May 29. Since last log (May 20 EOD, $109,523.30): portfolio up +$1,357.54 (+1.24%). Material changes in the interim: TXN exited (70sh, was at +13.81% with 7% trail stop $288.57 — likely stopped out or sold as deployment gap was filled); AMD re-entered (41sh @ $486.02, 10% trail GTC stop $474.48, HWM $527.20); NVDA position adjusted (101→94sh, avg entry revised to $211.60, new stop $196.07); XLB added (430sh @ $51.36, materials ETF for sector diversification, 10% trail stop $46.42). Deployment now 75.9% — squarely within 75-85% target. Three trades executed this week (May 26-29): AMD re-entry, NVDA adjustment, XLB entry — at weekly cap. AMZN stop ($250.70) is 7.4% below current price — monitor closely. Tomorrow (Mon Jun 1) opens new week: 3-trade cap resets. All GTC trailing stops active.
