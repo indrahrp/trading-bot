@@ -717,3 +717,55 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-01 — Pre-market Research (inline, market-open workflow)
+
+### Account
+- Equity: $110,191.55 | Cash: $26,769.16 (24.3%)
+- Long market value: $83,422.39 | Deployment: 75.7% ✓ (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (fresh week — last trades May 26-29)
+- Phase P&L: +$10,191.55 (+10.19%)
+
+### Open Positions (reconstructed — no log entries May 21–31)
+| SYM  | Shares | Avg Entry | Live Bid | Live Ask | Unreal P&L     | Stop (GTC)                               |
+|------|--------|-----------|----------|----------|----------------|------------------------------------------|
+| AMD  | 41     | $486.02   | $474.61  | $510     | +$455 (+2.3%)  | 10% trail, HWM $527.20, stop $474.48 ⚠️ |
+| AMZN | 78     | $260.30   | $265.58  | $266     | +$447 (+2.2%)  | 10% trail, HWM $278.56, stop $250.70    |
+| NVDA | 94     | $211.60   | $218.26  | $220     | +$674 (+3.4%)  | 10% trail, HWM $220.10, stop $198.09    |
+| XLB  | 430    | $51.36    | $50.48   | $50.49   | -$366 (-1.7%)  | 10% trail, HWM $51.58, stop $46.42      |
+
+*TXN exited and AMD/NVDA/XLB re-entered May 21–29; details unlogged from prior sessions.*
+
+### Market Context
+- PERPLEXITY_API_KEY not set — live Alpaca quotes only
+- AMD: -3.67% today from $516.10; bid $474.61 vs stop $474.48 — $0.13 cushion; **auto-stop imminent**
+- NVDA: +3.61% today from $211.14; HWM being challenged at $220.10 (ask = $220)
+- AMZN: -1.70% today from $270.64; AWS thesis intact; stop $250.70 (5.8% away)
+- XLB: -1.25% today; Materials ETF; stop $46.42 (8.1% away)
+- No macro data available (Perplexity unavailable); cannot evaluate new entry catalysts
+
+### Stop Tighten Check
+- AMD +2.3%: below +15% threshold ($558.92) — no tighten
+- AMZN +2.2%: below +15% threshold ($299.35) — no tighten
+- NVDA +3.4%: below +15% threshold ($243.34) — no tighten; HWM updating in real-time
+- XLB -1.7%: below entry — no tighten
+
+### Trade Ideas
+- None. Deployment at 75.7% (within 75-85% target); no validated catalyst available (Perplexity down).
+
+### Risk Factors
+- **AMD stop imminent**: bid $474.61 vs stop $474.48 — will auto-trigger; may free ~$20K cash
+- NVDA FOMC/macro sensitivity: if broad market sells, NVDA's thin HWM cushion ($220.10) could retrace
+- XLB at a loss (-1.7%); stop $46.42 provides adequate cushion but sector needs confirmation
+- Perplexity unavailable — blind to news catalysts; defensive posture appropriate
+
+### Decision
+**HOLD all 4 positions. No new trades today.**
+- AMD trailing stop will self-execute if price touches $474.48 — no manual action needed
+- NVDA stop auto-tracks new HWM; current +3.61% day is positive momentum
+- AMZN/XLB: theses intact (AWS AI + Materials YTD momentum), stops live
+- Deployment 75.7% already in target range — no urgency to force new entries
+- Patience > activity when no catalyst can be validated

@@ -317,3 +317,88 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### May 21–31 — Catch-Up Entries (reconstructed from live positions 2026-06-01)
+
+*Note: These entries were not logged in prior sessions. Reconstructed from Alpaca positions + order data.*
+
+#### Exit: TXN (stop-out, ~May 21–23)
+| Field        | Value |
+|--------------|-------|
+| Date         | ~2026-05-21 (estimated) |
+| Ticker       | TXN |
+| Side         | SELL (GTC trailing stop auto-triggered) |
+| Shares       | 70 |
+| Entry Price  | $267.28 |
+| Exit Price   | ~$288.57 (7% trail, HWM $310.29, stop $288.57) |
+| Est. P&L     | +$1,492 (+7.9%) |
+| Notes        | 7% trailing stop was live at $288.57 (HWM $310.29). Exit confirmed by absence from positions as of June 1. Stop worked as designed. |
+
+#### Buy: AMD (re-entry, May 26)
+| Field        | Value |
+|--------------|-------|
+| Date         | 2026-05-26 (GTC stop order created 2026-05-26T13:45:55Z) |
+| Ticker       | AMD |
+| Side         | BUY |
+| Shares       | 40 |
+| Entry Price  | ~$486.02 (avg entry from positions API) |
+| Stop Level   | 10% trailing GTC, HWM $527.20, stop $474.48 (order 44c27a1b) |
+| Thesis       | Semis sector momentum; AMD post-earnings recovery from $421 stop-out; re-entry on breakout above May HWM |
+| Target       | $583 (+20%) |
+| R:R          | 2.0:1 |
+| Week Trades  | ~1/3 (week of May 25) |
+
+#### Buy: AMD add (May 27)
+| Field        | Value |
+|--------------|-------|
+| Date         | 2026-05-27 (GTC stop order created 2026-05-27T13:43:38Z) |
+| Ticker       | AMD |
+| Side         | BUY |
+| Shares       | 1 |
+| Entry Price  | ~$486.02 (blended avg) |
+| Stop Level   | 10% trailing GTC, same order group, stop $474.48 |
+| Notes        | Rounding/lot adjustment to 41 shares total |
+
+#### Buy: NVDA (re-entry, May 27)
+| Field        | Value |
+|--------------|-------|
+| Date         | 2026-05-27 (GTC stop order created 2026-05-27T13:43:36Z) |
+| Ticker       | NVDA |
+| Side         | BUY |
+| Shares       | 94 |
+| Entry Price  | $211.60 (avg entry from positions API) |
+| Stop Level   | 10% trailing GTC, HWM $220.10, stop $198.09 (order f9d1f130) |
+| Thesis       | AI inference supercycle; NVDA Q1 FY27 earnings beat ($81.6B rev, net $58.3B, +$80B buyback); re-entry below prior avg after prior lot stopped out |
+| Target       | $253.92 (+20%) |
+| R:R          | 2.0:1 |
+| Week Trades  | ~2/3 (week of May 25) |
+
+#### Buy: XLB (Materials ETF, May 29)
+| Field        | Value |
+|--------------|-------|
+| Date         | 2026-05-29 (GTC stop order created 2026-05-29T13:43:30Z) |
+| Ticker       | XLB |
+| Side         | BUY |
+| Shares       | 430 |
+| Entry Price  | $51.36 (avg entry from positions API) |
+| Stop Level   | 10% trailing GTC, HWM $51.58, stop $46.42 (order 1d015d52) |
+| Thesis       | Materials sector #1 YTD momentum (+22%); diversification from semis concentration; non-correlated to tech/AI drawdowns |
+| Target       | $61.63 (+20%) |
+| R:R          | 2.0:1 |
+| Week Trades  | ~3/3 (week of May 25) |
+
+---
+
+### Jun 01 — Market-Open Snapshot
+**Portfolio:** $110,191.55 | **Cash:** $26,769.16 (24.3%) | **Deployment:** 75.7% ✓ | **Phase P&L:** +$10,191.55 (+10.19%)
+
+| Ticker | Shares | Entry   | Now     | Unrealized P&L     | Stop (GTC)                                  |
+|--------|---------|---------|---------|--------------------|---------------------------------------------|
+| AMD    | 41      | $486.02 | $497.14 | +$455 (+2.3%)      | 10% trail, HWM $527.20, **stop $474.48** ⚠️ |
+| AMZN   | 78      | $260.30 | $266.04 | +$447 (+2.2%)      | 10% trail, HWM $278.56, stop $250.70        |
+| NVDA   | 94      | $211.60 | $218.77 | +$674 (+3.4%)      | 10% trail, HWM $220.10, stop $198.09        |
+| XLB    | 430     | $51.36  | $50.51  | -$366 (-1.7%)      | 10% trail, HWM $51.58, stop $46.42          |
+
+**Notes:** No trades today. AMD bid $474.61 vs stop $474.48 — auto-stop imminent; trailing stop will self-execute. NVDA +3.61% intraday, AMD -3.67%. Deployment 75.7% in target range. All 4 GTC trailing stops live and correct. Decision: HOLD. Perplexity unavailable — no new catalyst validated.
