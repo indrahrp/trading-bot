@@ -317,3 +317,17 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 01 — EOD Snapshot (Day 25, Monday)
+**Portfolio:** $110,877.36 | **Cash:** $26,769.16 (24.1%) | **Day P&L:** -$3.48 (-0.003%) | **Phase P&L:** +$10,877.36 (+10.88%)
+
+| Ticker | Shares | Entry   | Close    | Day Chg | Unrealized P&L        | Stop                                    |
+|--------|--------|---------|----------|---------|-----------------------|-----------------------------------------|
+| AMD    | 41     | $486.02 | $508.55  | -1.46%  | +$923.59 (+4.63%)     | 10% trail, HWM $527.20, stop $474.48   |
+| AMZN   | 78     | $260.30 | $260.00  | -3.93%  | -$23.62 (-0.12%)      | 10% trail, HWM $278.56, stop $250.70   |
+| NVDA   | 94     | $211.60 | $224.35  | +6.26%  | +$1,198.33 (+6.03%)   | 10% trail, HWM $224.87, stop $202.38   |
+| XLB    | 430    | $51.36  | $50.91   | -0.47%  | -$193.50 (-0.88%)     | 10% trail, HWM $51.58, stop $46.42     |
+
+**Notes:** Essentially flat day (-$3.48) with mixed signals. NVDA surged +6.26% on continued AI momentum; AMZN dropped -3.93% (still well above -7% cut at $242.08 and stop at $250.70). AMD -1.46% intraday but +4.63% from entry. XLB flat. Deployment 75.9% — now within 75-85% target. Since May 20 last log: TXN exited (stopped out), AMD re-entered at $486.02 avg (41 sh), XLB added as new position (430 sh at $51.36), NVDA partially reduced 101→94 sh. No trades today, 0/3 this week. Tomorrow: monitor AMZN for continued weakness vs. stop $250.70; check NVDA tighten at +15% threshold ($243.34); XLB entry thesis intact but below entry — watch $47.76 cut level.
