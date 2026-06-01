@@ -317,3 +317,22 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 01 — Midday Scan
+**Portfolio:** $110,793.54 | **Cash:** $26,769.16 (24.2%) | **Deployment:** 75.8% ✓ | **Day P&L:** -$87.30 (-0.08%) | **Phase P&L:** +$10,793.54 (+10.79%)
+
+| Ticker | Shares | Entry    | Now     | Day Chg  | Unrealized P&L       | Stop                                     |
+|--------|--------|----------|---------|----------|----------------------|------------------------------------------|
+| AMD    | 41     | $486.02  | $511.31 | -0.93%   | +$1,037 (+5.20%)     | 10% trail, HWM $527.20, stop $474.48    |
+| AMZN   | 78     | $260.30  | $263.66 | -2.58% ⚠️| +$262 (+1.29%)      | 10% trail, HWM $278.56, stop $250.70    |
+| NVDA   | 94     | $211.60  | $220.41 | +4.39%   | +$828 (+4.16%)       | 10% trail, HWM $222.17, stop $199.95    |
+| XLB    | 430    | $51.36   | $50.63  | -1.02%   | -$314 (-1.42%)       | 10% trail, HWM $51.58, stop $46.42      |
+
+**Actions:**
+- Losers: None — all above -7% threshold. No cuts.
+- Stop tighten: None — AMD +5.2%, AMZN +1.3%, NVDA +4.2%, XLB -1.4% (all below +15% threshold)
+- Thesis: AMZN -2.58% intraday flagged — Perplexity unavailable (key not set), no catalyst confirmed; stop $250.70 is 4.9% below current price, not in danger. All other theses intact.
+- Research: PERPLEXITY_API_KEY not set — skipped.
+- **Deployment: 75.8% — within 75-85% target ✓**
