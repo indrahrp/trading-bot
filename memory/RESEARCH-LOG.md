@@ -717,3 +717,74 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-01 — Pre-market Research
+
+> Note: PERPLEXITY_API_KEY not set — research via WebSearch fallback.
+
+### Account Snapshot
+- **Equity**: $110,411.88 | **Cash**: $26,769.16 (24.2%)
+- **Long market value**: $83,642.72 | **Deployment**: 75.8% ✓ (target 75-85%)
+- **Daytrade count**: 0 | PDT: false
+- **Week trades**: 0/3 (new week, Jun 2–6)
+- **Phase P&L**: +$10,411.88 (+10.41%)
+
+### Open Positions
+| SYM  | Shares | Entry    | Now      | Unrealized P&L       | Stop (GTC trail)                          |
+|------|--------|----------|----------|----------------------|-------------------------------------------|
+| AMD  | 41     | $486.02  | $498.71  | +$520 (+2.61%)       | 10% trail, HWM $527.20, stop $474.48     |
+| AMZN | 78     | $260.30  | $268.39  | +$631 (+3.11%)       | 10% trail, HWM $278.56, stop $250.70     |
+| NVDA | 94     | $211.60  | $215.81  | +$396 (+1.99%)       | 10% trail, HWM $217.86, stop $196.07     |
+| XLB  | 430    | $51.36   | $51.13   | -$99 (-0.45%)        | 10% trail, HWM $51.58, stop $46.42       |
+
+**GTC orders confirmed**: AMD 40+1 shares (split orders, same params), AMZN 78, NVDA 94, XLB 430. All live.
+
+**Portfolio changes since May 21**:
+- TXN: exited (stopped out or manual); position gone
+- AMD: re-entered at avg $486.02 / 41 shares (Materials momentum, prior stop-out was a win)
+- XLB: new position 430 shares at $51.36 (Materials sector YTD leader play)
+- NVDA: adjusted from 101 → 94 shares (partial exit, new trail order May 27)
+
+### Stop Tighten Check
+- AMD +2.61%: no tighten (+15% threshold $558.92)
+- AMZN +3.11%: no tighten (+15% threshold $299.35)
+- NVDA +1.99%: no tighten (+15% threshold $243.34)
+- XLB -0.45%: no tighten; -7% cut threshold $47.76 — current $51.13 well above
+
+### Market Context
+- **WTI**: ~$87-88/bbl (-1.1% Fri); **Brent**: ~$91.20/bbl (-2% Fri) — US-Iran ceasefire/Strait of Hormuz easing supply premium
+- **S&P 500 futures**: +0.3% pre-open; extending record-setting May rally; Nasdaq leading on AI names
+- **VIX**: ~15.32 (May 29 close, -2.67%) — low fear; complacency building; no spike expected near-term
+- **ISM Manufacturing**: Released today 10 AM ET; prior 52.7 (May); expansion expected; miss could gap market lower
+- **Earnings today**: No major pre-open reports on June 1; week's earnings calendar light
+- **Sector momentum YTD 2026**: Leaders — Materials (+22%), Semis/AI chips, Energy, Industrials, Defense | Laggards — Financials, Real Estate, Utilities, IT (cooling after AI run)
+
+### Ticker News
+- **NVDA**: Jensen Huang COMPUTEX Taipei keynote today (11 AM Taipei = pre-market US). COMPUTEX 2024 drove +10.4% NVDA gain that week. Ex-div Jun 4 ($0.25/share — immaterial). FY2026 revenue $215.94B (+65% YoY). Strong Buy consensus, avg PT $296.81.
+- **AMD**: +130% YTD 2026. Q1 beat ($10.25B, +38% YoY); data center $5.8B (+57% YoY); $10B Taiwan investment announced May 21. Stock pulled back -3.37% today ($516 → $499). Our entry $486.02 — thesis intact, stop $474.48 holds.
+- **AMZN**: AWS +28% YoY. Record €14.5B euro bond issuance (AI capex signal). Prime Day moved to June 2026 (retail catalyst incoming). Stock +36% from March bottom. 79/83 analysts Buy; avg PT $313.
+- **XLB**: 1-yr total return +19.2%; avg analyst PT $56.67 (+10.8% upside vs $51.13). Copper/metals demand driven by AI infrastructure, energy transition, grid modernization. "Strong Hold" technical signal; no near-term directional conviction.
+
+### Trade Ideas
+1. **HOLD NVDA** — COMPUTEX keynote is live catalyst this week (Jun 1-5). Historical precedent: +10.4% during COMPUTEX 2024 week. Let 10% GTC trail track upside from HWM $217.86. No add — already 17.5% of equity; adding concentrates semis further.
+2. **HOLD AMD** — Pullback -3.37% today from $516 → $499. Entry $486.02, stop $474.48. Pullback normal after 130% YTD run; thesis (AI data center) intact. Monitor: if closes below $486 entry for 2 days, reassess thesis.
+3. **Watch CAT/Industrials** — Industrials sector momentum confirmed (backlogs 24+ months). Caterpillar reshoring beneficiary. If XLB stop tightens or AMD stops out, CAT is next sector momentum candidate. Entry criteria: 2:1 R:R, sector above 20-day MA. Not today — patience.
+
+### Risk Factors
+- AMD -3.37% today on no specific news — watch for continuation; stop $474.48 firm, entry $486.02 not yet threatened
+- NVDA "sell the news" post-COMPUTEX keynote risk after +2.21% premarket gap
+- VIX 15.32 = low fear; any surprise ISM miss or geopolitical shock amplified on low-liquidity complacency
+- AMZN record bond issuance — some may interpret as over-leveraged capex (monitor reaction)
+- June historically flat seasonality; May's momentum may stall
+- AMD split GTC stop (40+1 shares across two orders) — both at same params, no action needed but monitor fills
+
+### Decision
+**HOLD — patience > activity**
+- Deployment 75.8% — in target range, no urgency
+- All 4 positions: thesis intact, no cuts needed
+- NVDA: COMPUTEX week catalyst; let trail run
+- AMD: healthy pullback, stop firm, no action unless breaks below $486 entry
+- No new trades today; reassess mid-week if NVDA COMPUTEX reaction confirms continuation or XLB breaks to new highs
+- Week trades available: 3/3 — preserve for right setup
