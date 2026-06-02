@@ -717,3 +717,68 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-02 — Pre-market Research
+
+> Note: PERPLEXITY_API_KEY not set — research via WebSearch fallback.
+
+### Account
+- Equity: $110,776.95 | Cash: $26,769.16
+- Long market value: $84,007.79 | **Deployment: 75.8% ✅ (target 75-85%)**
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (new week June 2–6)
+- Phase P&L: +$10,776.95 (+10.78%)
+
+### Open Positions
+| SYM  | Shares | Entry    | Price    | Unrealized P&L      | Stop (GTC)                              |
+|------|--------|----------|----------|---------------------|-----------------------------------------|
+| AMD  | 41     | $486.02  | $503.85  | +$730 (+3.67%)      | 10% trail, HWM $527.20, stop $474.48   |
+| AMZN | 78     | $260.30  | $257.48  | -$220 (-1.08%) ⚠️  | 10% trail, HWM $278.56, stop $250.70   |
+| NVDA | 94     | $211.60  | $227.34  | +$1,480 (+7.44%)    | 10% trail, HWM $224.87*, stop $202.38  |
+| XLB  | 430    | $51.36   | $50.92   | -$189 (-0.86%)      | 10% trail, HWM $51.575, stop $46.42   |
+
+*NVDA HWM will auto-update during market hours; today's price $227.34 > last HWM $224.87.
+
+### Stop Tighten Check
+- AMD +3.67%: no tighten (+15% threshold $558.92)
+- AMZN -1.08%: below entry; stop $250.70 only **2.63% below current $257.48** — within 3% warning zone; thesis under pressure (EU AWS regs, ACCC legal case, stock -3.16% Jun 1)
+- NVDA +7.44%: no tighten (+15% threshold $243.34)
+- XLB -0.86%: no tighten
+
+### Market Context
+- **WTI**: ~$92–94/bbl | **Brent**: ~$94.58/bbl — both surged +5–7% Monday on Iran-Israel escalation; US-Iran talks stalled
+- **S&P 500 futures**: -0.07% to -0.1% pre-open; S&P 500 closed at all-time high June 1 on AI momentum
+- **VIX**: 16.05 (Jun 1 close, +4.77%) — moderate; oil spike adding geopolitical premium
+- **Today's catalysts**: NVDA +1.33% pre-mkt (Jensen Huang keynote at Computex, RTX Spark AI chip); HPE/MRVL leading AI names; PANW reports today after close; AVGO reports Wednesday after close
+- **Earnings today**: Palo Alto Networks (PANW) after close — semis/AI sector sentiment read
+- **Economic calendar**: JOLTS job openings Wednesday; NFP Friday June 6 — biggest macro week
+- **Sector momentum YTD**: Energy +22% (Iran risk adding); Materials +13%; Utilities/Healthcare defensive leaders; Tech cooling (+1.1%); Comm Services lagging (-1.8%)
+
+### Holdings News
+- **AMD**: -1.23% today; pressure from NVDA Computex superchip announcement; fundamentals strong (Q1 rev $10.25B, +38% YoY; data center $5.8B +57%); HWM $527.20 → stop $474.48 (5.8% below current); 36 Buy ratings, Street high $625
+- **AMZN**: -3.16% June 1 on EU cloud regulation (AWS gov contract risk) + Australian ACCC case + child safety lawsuit; Prime Day June 23–26 upcoming catalyst; -1.45% today; stop $250.70 is very close (2.63% buffer)
+- **NVDA**: +1.33% today; Computex keynote June 1–4; RTX Spark chip (AI for laptops); $0.25 dividend ex-date June 4; Strong Buy consensus, avg PT $296.81; FY2026 revenue $215.9B +65%
+- **XLB**: flat today; Materials +13% YTD; sector rotation toward cyclicals/value ongoing; geopolitical risk (oil spike) supports materials
+
+### Trade Ideas
+1. **AMZN exit watch** — stop $250.70 has only 2.63% buffer vs current $257.48; thesis weakening (EU regs, ACCC). If AMZN opens weak or breaks $255 intraday, consider proactive exit rather than waiting for auto-stop at $250.70. Loss at stop: ~-$736. Thesis still not technically broken but regulatory pressure is new headwind.
+2. **AVGO positioning (HOLD for now)** — Broadcom reports June 3 after close; beat could lift NVDA/AMD significantly; miss could pressure entire AI semi sector. No new entry ahead of this binary event. Evaluate post-AVGO reaction Thursday AM.
+3. **No new positions today** — deployment 75.8% is in target range; jobs data week (JOLTS/NFP) creates macro uncertainty; PANW + AVGO earnings are binary events this week.
+
+### Risk Factors
+- **AMZN stop proximity** (2.63% buffer) — routine volatility could auto-stop out; -$736 max loss at stop
+- **Iran-Israel escalation** — oil +5–7% Monday; sustained risk-off could pressure broad market
+- **AVGO earnings June 3** — binary for AI semi sector; NVDA/AMD both exposed
+- **Jobs data** — JOLTS tomorrow, NFP Friday; strong data = Fed hawkish = growth stock pressure
+- **NVDA dividend ex-date June 4** — small stock price adjustment (~$0.25); stop tracks HWM automatically
+- **AMD dual stop orders** (40+1 shares) — operationally valid; both GTC at same HWM/stop level
+
+### Decision
+**HOLD — all 4 positions. Deployment at target (75.8%). No new trades today.**
+- AMZN: watch closely; if breaks $255 or opens down >1%, consider proactive exit vs. stop-out at $250.70
+- NVDA: hold through AVGO; stop auto-tracks; evaluate trail tighten at +15% ($243.34)
+- AMD: hold; thesis intact; evaluate re-tighten if AMD reclaims $527 HWM
+- XLB: hold; materials sector momentum intact; Energy/geopolitical tailwind
+- Re-evaluate entries Thursday AM after PANW/AVGO reactions and JOLTS data
