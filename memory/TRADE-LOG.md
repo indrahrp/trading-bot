@@ -317,3 +317,17 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 02 — EOD Snapshot (Day 26, Tuesday)
+**Portfolio:** $111,282.19 | **Cash:** $26,769.16 (24.1%) | **Day P&L:** +$233.98 (+0.21%) | **Phase P&L:** +$11,282.19 (+11.28%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg  | Unrealized P&L          | Stop                                      |
+|--------|--------|----------|----------|----------|-------------------------|-------------------------------------------|
+| AMD    | 41     | $486.02  | $520.00  | +1.94%   | +$1,393.04 (+6.99%)     | 10% trail, HWM $527.20, stop $474.48     |
+| AMZN   | 78     | $260.30  | $256.46  | -1.84%   | -$299.74 (-1.48%)       | 10% trail, HWM $278.56, stop $250.70     |
+| NVDA   | 94     | $211.60  | $222.87  | -0.66%   | +$1,059.38 (+5.33%)     | 10% trail, HWM $232.28, stop $209.05     |
+| XLB    | 430    | $51.36   | $51.70   | +1.53%   | +$146.20 (+0.66%)       | 10% trail, HWM $51.67, stop $46.50       |
+
+**Notes:** Significant position changes since May 20 EOD (no intraday logs recorded for May 21 – Jun 1): TXN exited, AMD re-entered (41 shares @ $486.02), NVDA trimmed from 101 to 94 shares (avg cost now $211.60), and XLB (materials ETF) entered at $51.36. Deployment recovered from 58.8% to 75.9% — back within 75-85% target band. Mixed day: AMD +1.94% and XLB +1.53% offset AMZN -1.84% and NVDA -0.66% for a slim +0.21% net. AMZN is the key watch — stop at $250.70 with only $5.76 cushion (2.2%) vs close of $256.46; one bad session could trigger the GTC. No new trades this week (0/3). Tomorrow: monitor AMZN stop proximity; AMD approaching HWM $527.20 — no action needed yet.
