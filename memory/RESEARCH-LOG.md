@@ -717,3 +717,64 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-02 — Pre-market Research (inline, market-open workflow)
+
+*Note: PERPLEXITY_API_KEY not set — research via WebSearch fallback. Trade log gap May 21–Jun 1 (prior sessions undocumented).*
+
+### Account
+- Equity: $110,941.18
+- Cash: $26,769.16 (24.1%)
+- Long market value: $84,172.02 | **Deployment: 75.9% ✓ (target 75-85%)**
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (new week Jun 1–6)
+- Phase P&L: +$10,941.18 (+10.94%)
+
+### Open Positions
+| SYM  | Shares | Entry    | Now     | Unrealized P&L      | Stop (GTC, live)                        |
+|------|--------|----------|---------|---------------------|-----------------------------------------|
+| AMD  | 41     | $486.02  | $509.89 | +$978 (+4.91%)      | 10% trail, HWM $527.20, stop $474.48   |
+| AMZN | 78     | $260.30  | $255.76 | -$354 (-1.74%) ⚠️  | 10% trail, HWM $278.56, stop $250.70   |
+| NVDA | 94     | $211.60  | $226.51 | +$1,402 (+7.05%)    | 10% trail, HWM $227.50, stop $204.75   |
+| XLB  | 430    | $51.36   | $51.20  | -$69 (-0.31%)       | 10% trail, HWM $51.575, stop $46.42    |
+
+### Market Context
+- S&P 500 closed at record 7,599.96 on Jun 1 (+0.26%); 9 consecutive weekly gains
+- S&P 500 futures dipping slightly today (premarket); ~48% probability open higher
+- VIX: moderate, trending lower (complacency building in bull market)
+- **NVDA**: Jensen Huang keynote at Computex Taipei; MRVL +21% on NVDA endorsement; new superchips; NVDA +6.26% on Jun 1 (YTD +20.3%); dividend $0.25/sh ex-date Jun 4
+- **AMD**: ARK sold 110,207 shares Jun 1-2 (ARKK-led); ARK simultaneously bought 300,017 sh NVDA; AMD -1% today; China export restrictions tightening (~$440M impact in 2025; new case-by-case licensing Jan 2026)
+- **AMZN**: AWS AI capex $200B 2026; 79/83 analysts Buy; thesis intact; stock at lows vs prior months
+- **XLB**: Materials sector; no specific catalyst today
+
+### Stop Tighten Check
+- AMD +4.91%: below +15% threshold ($558.92) — no tighten
+- AMZN -1.74%: not applicable — underwater
+- NVDA +7.05%: below +15% threshold ($243.34) — no tighten
+- XLB -0.31%: underwater — no tighten
+
+### Thesis Check
+- **AMD**: Q1 2026 beat ($10.25B +38%, DC +57%) intact; but ARK selling is bearish institutional signal; China restrictions ongoing headwind. Stop $474.48 with 7.1% cushion. **INTACT — monitor.**
+- **AMZN**: AWS +28% YoY, AI infra spend; stock -1.74% from entry with stop $250.70 only 2.0% below current — tight. -7% manual cut at $242.08 — not triggered. **INTACT — WATCH CLOSELY.**
+- **NVDA**: Jensen Huang at Computex driving semis momentum; ARK buying NVDA; dividend ex-date Jun 4; AI inference supercycle intact. **STRONGLY INTACT — hold.**
+- **XLB**: Materials sector momentum. No catalyst today. Stop 9.4% below current. **INTACT — hold.**
+
+### Trade Ideas
+1. **No new positions** — deployment 75.9% already in target range; no clean setup without chasing gaps (HPE +26%, MRVL +21% premarket — too extended for market-order entry)
+
+### Risk Factors
+- AMZN approaching stop: $255.76 current vs $250.70 stop — 2.0% cushion; broad selloff could trigger
+- AMD China revenue headwind (~20% of revenue exposed); ARK institutional selling signal
+- NVDA ex-div Jun 4 ($0.25/sh) — minor but noted
+- S&P futures slightly negative; Mag-7 ETF (MAGS) down 0.72% premarket
+- Deployment tight at 75.9% — no room to add without either selling a position or letting another position's stop trigger
+
+### Decision
+**HOLD all 4 positions.** No new trades today.
+- Deployment in range; no clean new catalyst warranting a position at today's prices
+- AMZN: thesis intact; stop is the protection at $250.70 — do NOT manually cut
+- NVDA: strongest position; Computex tailwind; hold
+- AMD: hold; watch ARK selling and China export news for thesis break
+- XLB: hold; stop provides protection

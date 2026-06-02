@@ -317,3 +317,38 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### May 21 – Jun 1 — Gap Period (sessions not logged in real-time)
+
+*Reconstructed from live positions and GTC order timestamps as of Jun 2.*
+
+**Inferred events:**
+- **TXN exit** (date unknown, ~May 21–26): TXN no longer in positions; stopped out or manually closed. Last known: +13.81% unrealized, 7% trail, HWM $310.29, stop $288.57. Exit was either the 7% stop trigger or +20% tighten path. Estimated outcome: profitable exit.
+- **AMD re-entry** (~May 26–27): 41 shares @ avg $486.02; GTC trailing stop orders placed May 26 (40 sh) + May 27 (1 sh); HWM $527.20, stop $474.48.
+- **NVDA partial exit** (date unknown): 7 shares of original 101-share position exited; reduced to 94 shares. Avg entry updated to $211.60 (adjusted). Stop updated to HWM $227.50, stop $204.75.
+- **XLB entry** (~May 29): 430 shares @ $51.36 ($22,085 cost, ~19.9% of equity); GTC trailing stop placed May 29; HWM $51.575, stop $46.42.
+
+**Portfolio as of Jun 1 close (estimated):**
+- Equity: ~$111,048 | Cash: ~$26,769 | Deployment: ~75.9% ✓
+
+---
+
+### Jun 02 — Market-Open Snapshot (Day ~28, Monday)
+**Portfolio:** $110,941.18 | **Cash:** $26,769.16 (24.1%) | **Deployment:** 75.9% ✓ | **Phase P&L:** +$10,941.18 (+10.94%)
+
+| Ticker | Shares | Entry    | Open     | Day Chg   | Unrealized P&L       | Stop                                      |
+|--------|--------|----------|----------|-----------|----------------------|-------------------------------------------|
+| AMD    | 41     | $486.02  | $509.89  | -0.05%    | +$978 (+4.91%)       | 10% trail, HWM $527.20, stop $474.48     |
+| AMZN   | 78     | $260.30  | $255.76  | -2.11% ⚠️ | -$354 (-1.74%)      | 10% trail, HWM $278.56, stop $250.70     |
+| NVDA   | 94     | $211.60  | $226.51  | +0.96%    | +$1,402 (+7.05%)     | 10% trail, HWM $227.50, stop $204.75     |
+| XLB    | 430    | $51.36   | $51.20   | +0.55%    | -$69 (-0.31%)        | 10% trail, HWM $51.575, stop $46.42      |
+
+**Actions:**
+- Losers to cut: None — AMZN -1.74% (cut at -7% = $242.08, not triggered); XLB -0.31%
+- Stop tighten: None — all below +15% threshold
+- Thesis: NVDA intact + strengthening (Computex/Jensen Huang); AMD intact (watch ARK selling + China export restrictions); AMZN intact (AWS AI); XLB intact (materials momentum)
+- Research: Perplexity unavailable (key not set); WebSearch used
+- **No new trades today** — deployment 75.9% in target range; no clean new setups without chasing gaps
+- NVDA ex-dividend Jun 4: $0.25/sh × 94 sh = $23.50 income
