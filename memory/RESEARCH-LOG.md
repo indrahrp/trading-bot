@@ -717,3 +717,44 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-02 — Midday Scan
+
+*Note: Perplexity API key not accessible in subprocess — no external research. Log gap from May 21 to Jun 2; state reconstructed from live Alpaca data.*
+
+### Account
+- Equity: $111,423.91 | Cash: $26,769.16 (24.0%)
+- Long market value: $84,654.75 | **Deployment: 76.0% ✓ (target 75-85%)**
+- Daytrade count: 0 | PDT: false
+- Day P&L: +$375.70 (+0.34%) | Phase P&L: +$11,423.91 (+11.42%)
+
+### Open Positions (midday)
+| Ticker | Shares | Entry   | Now     | Unreal P&L        | Stop (GTC)                            |
+|--------|--------|---------|---------|-------------------|---------------------------------------|
+| AMD    | 41     | $486.02 | $516.43 | +$1,247 (+6.26%)  | 10% trail, HWM $527.20, stop $474.48  |
+| AMZN   | 78     | $260.30 | $258.90 | -$109 (-0.54%)    | 10% trail, HWM $278.56, stop $250.70  |
+| NVDA   | 94     | $211.60 | $225.47 | +$1,304 (+6.56%)  | 10% trail, HWM $232.28, stop $209.05  |
+| XLB    | 430    | $51.36  | $51.41  | +$22 (+0.10%)     | 10% trail, HWM $51.67, stop $46.50    |
+
+*AMD GTC stop split: 40sh (order 44c27a1b) + 1sh (order 213d2b25) = 41sh total, both stop $474.48.*
+
+### Stop Tighten Check
+- AMD +6.26%: +15% threshold $559.12 — not triggered
+- AMZN -0.54%: no tighten
+- NVDA +6.56%: +15% threshold $243.34 — not triggered
+- XLB +0.10%: +15% threshold $59.06 — not triggered
+
+### Intraday Moves
+- AMD +1.24% | NVDA +0.49% | XLB +0.96% — normal drift
+- AMZN -0.90% ($261.26 → $258.90) — mild weakness; stop $250.70 is 3.2% below current ⚠️
+
+### Research
+Perplexity unavailable. No sharp intraday movers requiring urgent research. AMZN softness noted but at -0.54% from entry and 3.2% above stop — within normal range.
+
+### Decision
+**HOLD all 4 positions.** No action today.
+- All 4 GTC trailing stops confirmed live and correctly set
+- Deployment 76.0% ✓ — no new entries needed
+- AMZN: monitor; stop at $250.70 is the line

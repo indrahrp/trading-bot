@@ -317,3 +317,25 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 02 — Midday Scan (Day ~30)
+**Portfolio:** $111,423.91 | **Cash:** $26,769.16 (24.0%) | **Deployment:** 76.0% ✓ | **Day P&L:** +$375.70 (+0.34%) | **Phase P&L:** +$11,423.91 (+11.42%)**
+
+*Note: Log gap May 20 → Jun 2. Reconstructed from live Alpaca data. Since May 20: TXN exited (stopped out or sold), AMD re-entered (41sh ~$486 avg, orders May 26–27), NVDA adjusted (94sh @ $211.60 avg, order May 27), XLB entered (430sh @ $51.36, order May 29).*
+
+#### Open Positions (midday)
+| Ticker | Shares | Entry   | Now     | Unreal P&L        | Stop                                      |
+|--------|--------|---------|---------|-------------------|-------------------------------------------|
+| AMD    | 41     | $486.02 | $516.43 | +$1,247 (+6.26%)  | 10% trail, HWM $527.20, stop $474.48     |
+| AMZN   | 78     | $260.30 | $258.90 | -$109 (-0.54%)    | 10% trail, HWM $278.56, stop $250.70     |
+| NVDA   | 94     | $211.60 | $225.47 | +$1,304 (+6.56%)  | 10% trail, HWM $232.28, stop $209.05     |
+| XLB    | 430    | $51.36  | $51.41  | +$22 (+0.10%)     | 10% trail, HWM $51.67, stop $46.50       |
+
+**Actions:**
+- Losers: None at -7%. AMZN -0.54% — well above cut level; stop $250.70 = 3.2% cushion ⚠️ watch.
+- Stop tighten: None — AMD +6.26% (need $559), AMZN neg, NVDA +6.56% (need $243), XLB +0.10% (need $59).
+- Thesis: All stops live and correctly set. No thesis breaks identified from available data.
+- Research: Perplexity API key not accessible in subprocess — skipped. No sharp movers today.
+- **Deployment: 76.0% — within 75-85% target ✓**
