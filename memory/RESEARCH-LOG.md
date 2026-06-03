@@ -717,3 +717,65 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-03 — Pre-market Research (inline, market-open workflow)
+
+*Note: PERPLEXITY_API_KEY not set — market research via WebSearch fallback.*
+
+### Account
+- Equity: $111,529.18
+- Cash: $26,769.16 (24.0%)
+- Long market value: $84,760.02 | Deployment: 76.0% ✓ (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (new week Jun 2–6)
+- Phase P&L: +$11,529.18 (+11.53%)
+
+### Open Positions
+| SYM  | Shares | Entry    | Live     | Unrealized P&L        | Stop (GTC, live)                          |
+|------|--------|----------|----------|-----------------------|-------------------------------------------|
+| AMD  | 41     | $486.02  | $533.84  | +$1,960 (+9.84%)      | 10% trail, HWM $542.63, stop $488.37     |
+| AMZN | 78     | $260.30  | $256.84  | -$270 (-1.33%) ⚠️    | 10% trail, HWM $278.56, stop $250.70     |
+| NVDA | 94     | $211.60  | $219.95  | +$784 (+3.94%)        | 10% trail, HWM $232.28, stop $209.05     |
+| XLB  | 430    | $51.36   | $51.535  | +$75 (+0.34%)         | 10% trail, HWM $51.665, stop $46.50      |
+
+### Market Context
+- S&P 500: Closed at record high 7,600+ on June 2; today futures slightly red (-0.14%)
+- Nasdaq: Essentially flat (+0.01%); chip boom continues
+- VIX: Moderate; geopolitical risk rising
+- WTI oil: Heading back toward $100/bbl after US-Iran heavy engagement overnight
+- ADP private payrolls: +122K May (above expectations) — labor market healthy
+- Polymarket: 47% chance of higher open (slight lean lower)
+- Computex 2026: NVDA unveiled new AI "superchip" — positive for NVDA, some pressure on AMD/INTC
+
+### Held Ticker News
+- **AMD** $533.84 (+2.36% today): Analyst upgrades June 1 — Barclays PT to $665 (from $500), Mizuho PT to $615 (from $515), TD Cowen PT to $600 (from $500). NVDA Computex superchip adds competitive pressure. ARK sold AMD, bought NVDA (minor). Thesis intact — semis AI demand cycle.
+- **AMZN** $256.84 (+0.12% today): No material news found. AWS AI thesis intact. At -1.33% from entry; stop $250.70 only 2.4% below current price. No cut trigger (-7% = $242.08).
+- **NVDA** $219.95 (-1.29% today): Computex 2026 superchip positive catalyst. ARK bought 300K shares June 1. Dividend raised to $0.25/share (payable June 26). Thesis very intact.
+- **XLB** $51.535 (+0.03% today): Materials sector. Oil heading to $100 on Iran = inflation/input costs risk. Sector was #1 YTD per May 21 research. Monitor for macro headwind from rate-hike repricing if oil stays elevated.
+
+### Stop Tighten Check
+- AMD +9.84%: threshold +15% = $559.12 — not triggered; keep 10% trail
+- AMZN -1.33%: no tighten; monitor stop proximity ($250.70, 2.4% away)
+- NVDA +3.94%: threshold +15% = $243.34 — not triggered; keep 10% trail
+- XLB +0.34%: no tighten
+
+### Risk Factors
+- Iran fighting resumed overnight → oil heading to $100 → inflation risk, macro headwind
+- AMZN close to stop ($250.70); any broad selloff could trigger
+- AMD: ARK rotation away; NVDA superchip competitive pressure; but analyst upgrades offset
+- Semis concentration (AMD + NVDA) — correlated drawdown if sector rotates
+- XLB: elevated oil = input cost pressure on materials producers
+- ADP +122K (strong jobs) — Fed hawkish bias sustained; rate-cut hopes limited
+
+### Trade Ideas
+- **No new trades** — deployment 76% already within 75-85% target; geopolitical/macro risk (Iran + oil) warrants patience; no fresh catalyst for untested tickers without Perplexity
+
+### Decision
+**HOLD all 4 positions.** No new trades today.
+- AMD: thesis intact; stops live; next tighten at $559.12 (+15%)
+- AMZN: watch stop proximity ($250.70); thesis intact; no manual cut needed
+- NVDA: Computex catalyst positive; stops live
+- XLB: thesis intact; monitor oil-driven macro risk
+Deployment 76% — in target range. Patience > forcing entries into uncertain geopolitical tape.
