@@ -317,3 +317,23 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 03 — Midday Scan
+**Portfolio:** $110,812.94 | **Cash:** $46,319.76 (41.8%) | **Deployment:** 58.2% ⚠️ | **Day P&L:** -$235.27 (-0.21%) | **Phase P&L:** +$10,812.94 (+10.81%)
+
+#### Open Positions (midday)
+| Ticker | Shares | Avg Entry | Current  | Unreal P&L           | Stop                                      |
+|--------|--------|-----------|----------|----------------------|-------------------------------------------|
+| AMD    | 41     | $486.02   | $531.70  | +$1,872.74 (+9.40%)  | 10% trail, HWM $544.00, stop $489.60     |
+| NVDA   | 94     | $211.60   | $216.83  | +$491.15 (+2.47%)    | 10% trail, HWM $232.28, stop $209.05 ⚠️  |
+| XLB    | 430    | $51.36    | $51.89   | +$227.90 (+1.03%)    | 10% trail, HWM $52.03, stop $46.82       |
+
+**Actions:**
+- Losers: None — all positive. No cuts.
+- Stop tighten: None — AMD +9.40% (need $558.92 for +15%), NVDA +2.47% (need $243.34), XLB +1.03%
+- Thesis: AMD intact (semis momentum, +1.95% today); XLB intact (materials #1 YTD momentum sector, +0.72% today)
+- NVDA watch: -2.69% intraday today; stop $209.05 only 3.6% below current $216.83 — tight. Perplexity unavailable to diagnose cause. Thesis intact pending news check.
+- Research: PERPLEXITY_API_KEY not set — skipped.
+- **Deployment: 58.2% — underdeployed vs 75-85% target. 1-2 new positions needed.**
