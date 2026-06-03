@@ -317,3 +317,16 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 03 — EOD Snapshot (Day 26, Wednesday)
+**Portfolio:** $110,768.50 | **Cash:** $46,319.76 (41.8%) | **Day P&L:** -$279.71 (-0.25%) | **Phase P&L:** +$10,768.50 (+10.77%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg  | Unrealized P&L        | Stop                                     |
+|--------|--------|----------|----------|----------|-----------------------|------------------------------------------|
+| AMD    | 41     | $486.02  | $535.50  | +2.68%   | +$2,028.54 (+10.18%)  | 10% trail, HWM $546.42, stop $491.78    |
+| NVDA   | 94     | $211.60  | $214.95  | -3.53%   | +$315.11 (+1.58%)     | 10% trail, HWM $232.28, stop $209.05    |
+| XLB    | 430    | $51.36   | $51.83   | +0.60%   | +$202.10 (+0.92%)     | 10% trail, HWM $52.03, stop $46.82      |
+
+**Notes:** Mixed day — AMD +2.68%, XLB +0.60%, NVDA -3.53%. Net portfolio -$279.71 (-0.25%). Since last logged EOD (May 20): AMZN and TXN exited; AMD re-entered at $486.02 (41sh, week of May 26); NVDA adjusted to 94sh at $211.60; XLB 430sh added May 29. Portfolio remains underdeployed at 58.2% vs 75-85% target with $46K cash idle. NVDA stop watch: $214.95 current vs $209.05 stop — only 2.7% cushion after today's -3.53% drop; monitor closely. AMD +10.18% unrealized, approaching +15% tighten threshold ($559.22). No trades today. Trades this week: 0/3. Pre-market Thursday: watch NVDA; evaluate 1-2 entries to close deployment gap.
