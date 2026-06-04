@@ -717,3 +717,52 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-04 — Midday Scan Research
+
+*Note: PERPLEXITY_API_KEY not set — WebSearch fallback used.*
+
+### Account
+- Equity: $110,374.39 | Cash: $46,319.73 (42.0%)
+- Long market value: $64,054.66 | **Deployment: 58.0% ⚠️ (target 75-85% — BELOW)**
+- Daytrade count: 0 | PDT: false
+- Day P&L: -$576.06 (-0.52%) | Phase P&L: +$10,374.39 (+10.37%)
+
+### Open Positions
+| SYM  | Shares | Entry   | Now     | Unrealized P&L       | Stop (GTC, live)                              |
+|------|--------|---------|---------|----------------------|-----------------------------------------------|
+| AMD  | 41     | $486.02 | $521.10 | +$1,438 (+7.22%)     | 10% trail, HWM $546.42, stop $491.78          |
+| NVDA | 94     | $211.60 | $217.64 | +$568 (+2.85%)       | 10% trail, HWM $232.28, stop $209.05          |
+| XLB  | 430    | $51.36  | $51.66  | +$129 (+0.58%)       | 10% trail, HWM $52.20, stop $46.98            |
+
+### AMD Intraday Research (-3.95%, $542.52 → $521.10)
+- **Primary driver**: Broadcom (AVGO) Q2 FY26 earnings beat on AI revenue (+143% YoY, $10.8B) but reiterated (didn't raise) $56B FY26 AI guide → AVGO -13-15% at open; Philly Semiconductor Index -5% sympathy selloff. AMD, Micron (-7%), Marvell (-6.6%), Intel all dragged down.
+- **ARK rotation**: ARK sold ~$56M AMD June 1 and ~$40.6M June 3; bought ~$67M+ NVDA. Two consecutive weeks of heavy AMD exits. Repositioning toward NVDA's RTX Spark Superchip (Grace-Blackwell, unveiled Computex 2026) targeting AMD/Intel x86 turf.
+- **Export controls**: BIS June 1 closed "overseas subsidiary" loophole — Chinese-owned entities outside China cannot buy AMD MI350 / NVDA Blackwell without licenses. AMD offered NO public comment on China AI revenue exposure (unlike NVDA). Unquantified downside risk.
+- **Computex underwhelm**: AMD AM5 platform extensions + Ryzen/Radeon updates perceived as insufficient vs NVDA Spark Superchip step-change.
+- **Macro**: US-Iran negotiation breakdown → Brent crude +6% (~$97). VIX elevated. PCE core services 3.5% YoY — Fed on hold. May payrolls Friday (est. 85K, from 115K April) — caution.
+
+### Stop Tighten Check
+- AMD +7.22%: below +15% threshold ($559.12) — no tighten
+- NVDA +2.85%: below +15% threshold ($243.34) — no tighten
+- XLB +0.58%: well below threshold — no tighten
+
+### Thesis Assessment
+- **AMD**: Proximate cause is AVGO contagion (sector event, not AMD-specific). Structural risks building: NVDA Spark competitive threat, China export uncertainty, ARK distribution pattern. Stop $491.78 is 5.6% below current ($521.10) — 4.7% below HWM $546.42. Not thesis-breaking today. **ELEVATED WATCH.** If AMD breaks below $510 on continued selling or specific AMD negative catalyst, reassess.
+- **NVDA**: UP +1.35% intraday. Benefiting from AMD→NVDA institutional rotation and Computex competitive wins. HWM $232.28, stop $209.05 (3.9% below current). Thesis intact and strengthened. **HOLD.**
+- **XLB**: Flat. Materials sector still in momentum. No adverse catalyst. Stop $46.98 is 9.1% below current. **HOLD.**
+
+### Deployment
+- 58.0% — underdeployed vs 75-85% target
+- Sector risk-off (AVGO contagion, macro uncertainty, payrolls Friday) blocks adding today
+- Reassess pre-market tomorrow for new entry opportunities post-payrolls clarity
+
+### Decision
+**NO ACTION today. HOLD all 3 positions.**
+- AMD: Hold, stop live; elevated watch on China exports + NVDA Spark competitive risk
+- NVDA: Hold; thesis strengthened by competitive positioning
+- XLB: Hold; materials momentum intact
+- No new entries until payrolls Friday + macro clarity
+- No ClickUp alert sent (no trade action taken)

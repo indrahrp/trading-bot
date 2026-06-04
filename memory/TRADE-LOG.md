@@ -317,3 +317,38 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### May 21–June 3 — Gap Note (logs not recorded in prior sessions)
+
+Based on live account state as of June 4, 2026, the following transitions occurred in the May 21–June 3 window. Exact exit prices for AMZN/TXN/original NVDA were not logged:
+
+- **AMZN (78 sh, entry $260.30)**: Position closed — not in current account. Stop $250.70 likely triggered or sold manually.
+- **TXN (70 sh, entry $267.28)**: Position closed — not in current account. Stop $288.57 (7% trail) likely triggered.
+- **NVDA (101 sh @ $218.04)**: Stopped out or sold; re-entered as 94 sh at avg $211.60 (order placed May 27).
+- **AMD re-entry**: 41 sh at avg $486.02 (orders placed May 26–27; two GTC trailing stops: 40 sh + 1 sh both at 10% trail).
+- **XLB new position**: 430 sh at $51.36 avg (order placed May 29, 10% trail GTC). Materials sector momentum thesis.
+
+Current account equity $110,374.39 (+$10,374.39 / +10.37% phase), confirming profitable exits on prior positions.
+
+---
+
+### June 4 — Midday Scan
+**Portfolio:** $110,374.39 | **Cash:** $46,319.73 (42.0%) | **Deployment:** 58.0% ⚠️ | **Day P&L:** -$576.06 (-0.52%) | **Phase P&L:** +$10,374.39 (+10.37%)
+
+#### Open Positions (midday)
+| Ticker | Shares | Entry   | Now     | Unreal P&L           | Stop                                          |
+|--------|--------|---------|---------|----------------------|-----------------------------------------------|
+| AMD    | 41     | $486.02 | $521.10 | +$1,438 (+7.22%)     | 10% trail, HWM $546.42, stop $491.78 ⚠️      |
+| NVDA   | 94     | $211.60 | $217.64 | +$568 (+2.85%)       | 10% trail, HWM $232.28, stop $209.05          |
+| XLB    | 430    | $51.36  | $51.66  | +$129 (+0.58%)       | 10% trail, HWM $52.20, stop $46.98            |
+
+**Actions:**
+- Losers: None at -7%. AMD -3.95% intraday (from $542.52) — watch. Stop $491.78 is 5.6% below current.
+- Stop tighten: None — AMD +7.22% (need $559.12 for +15%); NVDA +2.85% (need $243.34); XLB +0.58% (need $59.06).
+- Thesis: AMD flagged — AVGO Q2 miss triggered semis sector flush (-5% Philly Semi); ARK sold $96M+ AMD over 2 weeks rotating into NVDA; NVDA Spark Superchip announced at Computex competing on x86 turf; export control tightening on AMD MI350 in China (unquantified). Sector flush is proximate cause today; structural risks building but not thesis-breaking. HOLD with heightened watch.
+- NVDA: UP +1.35% intraday — benefiting from ARK AMD→NVDA rotation and Computex competitive wins. Thesis intact.
+- XLB: Flat. Materials sector thesis intact. No news.
+- Research: PERPLEXITY_API_KEY not set — WebSearch fallback used for AMD catalyst check.
+- **Deployment: 58.0% — underdeployed vs 75-85% target. Sector risk-off (AVGO contagion) blocks adding today.**
