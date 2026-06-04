@@ -717,3 +717,47 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-04 — Market-Open Inline Assessment
+
+> Note: PERPLEXITY_API_KEY not set. Research via live Alpaca data only. No WebSearch performed.
+> Note: Trade log gap May 21→Jun 4 — undocumented trades: AMZN+TXN exited, AMD re-entered (41sh @$486.02), XLB entered (430sh @$51.36), NVDA adjusted (101→94sh @$211.60 avg).
+
+### Account
+- Equity: $110,111.41 | Cash: $46,319.73 (42.1%)
+- Long market value: $63,791.68 | Deployment: 57.9% ⚠️ (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Week trades: 0/3 (week of Jun 2–6)
+- Phase P&L: +$10,111.41 (+10.11%)
+
+### Open Positions
+| SYM  | Shares | Avg Entry | Ask     | Unrealized P&L  | Stop (GTC, live)                       |
+|------|--------|-----------|---------|-----------------|----------------------------------------|
+| AMD  | 41     | $486.02   | $517.51 | +$1,250 (+6.3%) | 10% trail, HWM $546.42, stop $491.78  |
+| NVDA | 94     | $211.60   | $215.68 | +$371  (+1.9%)  | 10% trail, HWM $232.28, stop $209.05  |
+| XLB  | 430    | $51.36    | $51.96  | +$245  (+1.1%)  | 10% trail, HWM $52.025, stop $46.82   |
+
+### Stop Tighten Check
+- AMD +6.3%: threshold +15% = $558.92 — NO TIGHTEN
+- NVDA +1.9%: threshold +15% = $243.34 — NO TIGHTEN
+- XLB +1.1%: threshold +15% = $59.06 — NO TIGHTEN
+
+### Manual Cut Check
+- All positions positive. No position at -7%. No cuts.
+
+### Alert: AMD -4.8% today
+- AMD down from $542.52 (yesterday close) to $516.51 — semiconductor weakness
+- Stop $491.78 = ~4.8% below current; HWM $546.42. Stop not triggered.
+- NVDA +0.37%, XLB +0.58% — holding
+
+### Trade Ideas
+- None — no catalyst documented (Perplexity unavailable; WebSearch not run this session)
+- Deployment 57.9% remains below target; need 1-2 positions to close gap
+- Defer entries to pre-market research with confirmed catalyst
+
+### Decision
+**HOLD all 3 positions.** No new trades today — catalyst gate fails.
+- Monitor AMD: if drops below $492, stop triggers automatically
+- Pre-market tomorrow: research catalysts to close deployment gap (57.9% → 75-85%)
