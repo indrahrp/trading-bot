@@ -717,3 +717,64 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-04 — Pre-market Research
+
+> Note: PERPLEXITY_API_KEY not set in environment — research via WebSearch fallback.
+
+### Account Snapshot
+- **Equity:** $110,085.10 | **Cash:** $46,319.73 (42.1%)
+- **Long market value:** $63,765.37 | **Deployment: 57.9% ⚠️ (target 75-85% — BELOW)**
+- **Daytrade count:** 0 | **PDT:** false
+- **Phase P&L:** +$10,085.10 (+10.09%)
+
+### Open Positions
+| SYM  | Shares | Entry    | Last     | Unrealized P&L       | Stop (GTC, live)                          |
+|------|--------|----------|----------|----------------------|-------------------------------------------|
+| AMD  | 41     | $486.02  | $521.75  | +$1,465 (+7.35%)     | 10% trail, HWM $546.42, stop $491.78     |
+| NVDA | 94     | $211.60  | $212.60  | +$94 (+0.47%)        | 10% trail, HWM $232.28, stop $209.05     |
+| XLB  | 430    | $51.36   | $52.09   | +$314 (+1.42%)       | 10% trail, HWM $52.025, stop $46.82      |
+
+**Note:** AMD intraday -3.83% ($542.52 → $521.75 today) — pulling back from HWM. Stop $491.78 holds $30 cushion. NVDA intraday -1.00%; stop $209.05 only $3.55 below current — monitor.
+
+### Stop Tighten Check
+- AMD +7.35%: no tighten (threshold +15% = $558.93); below trigger
+- NVDA +0.47%: no tighten (threshold $243.34); far below trigger
+- XLB +1.42%: no tighten; below threshold
+
+### Market Context
+- **WTI:** ~$94.41/bbl (-0.5%) | **Brent:** ~$96.97/bbl (-0.86%) — declining on Iran diplomacy signals
+- **S&P 500 futures:** -0.44% at 7,538.50 premarket — red open expected (86% prediction market probability)
+- **VIX:** 16.06 (+1.84%) — rising on geopolitical anxiety, still moderate
+- **KEY CATALYST — Broadcom (AVGO):** -14% overnight after weak AI chip revenue forecast; dragging entire semis/AI sector; Nasdaq futures -0.5%
+- **Geopolitical:** US-Iran military exchanges escalating; House approved resolution limiting Trump's Iran war authority — market uncertainty elevated
+- **Earnings today BMO:** LULU (consumer discretionary), CIEN (networking), PL (Planet Labs)
+- **Economic today (8:30 AM):** Initial Claims, Continuing Claims, Productivity-Revised, Unit Labor Costs-Revised
+- **TOMORROW (Fri Jun 5): Non-Farm Payrolls** — major market-moving event; creates positioning risk
+- **Sector momentum:** XLB (Materials) outperforming +0.89% today on a down tape; analyst avg target $56.67 (+8.8% from current); AI/tech under pressure from AVGO read-through
+
+### Ticker News
+- **AMD:** Data center revenue +57% YoY; next earnings Aug 4; down ~3.8% today on semis contagion from AVGO; analyst Cowen bullish post-CEO meeting Jun 2; Wall St avg PT ~$657; geopolitical risk via TSMC/Taiwan dependency
+- **NVDA:** Down ~3.1% premarket per search (live API: -1.0% to $212.60); AVGO forecast miss creates "AI spend plateauing" narrative; analyst consensus still Buy (37 analysts); Vera Rubin rack solutions ramping at Computex 2026; stop $209.05 is key level to watch
+- **XLB:** +0.89% today outperforming; 20.24% total return past year; driven by copper demand (energy transition, AI infra buildout); Moderate Buy consensus; current $52.09 vs avg target $56.67
+
+### Trade Ideas
+1. **SKIP — no new positions today.** AVGO -14% + Iran escalation + NFP tomorrow = adverse conditions. Adding into down tape violates patience rule.
+2. **LULU** — if BMO earnings beat strongly, consumer disc entry possible, but sector not in momentum and thesis speculative; pass.
+3. **XLB add** — materials leading but position already ~20% of equity ($22,399 / $110,085); adding would breach 20% cap. Pass.
+
+### Risk Factors
+- AVGO -14% spreading to semis — NVDA stop $209.05 only $3.55 below $212.60; could trigger on continued gap-down
+- Iran escalation: geopolitical tail risk, oil spike possible; XLB and energy exposure could benefit or create volatility
+- NFP tomorrow: avoid new positions pre-data; could see reversal either direction
+- AMD pulled back -3.83% today from HWM $546.42 to $521.75; still +7.35% above entry; stop at $491.78 safe but tracking
+- Deployment 57.9% — underdeployed, but forcing entries in adverse conditions is worse than sitting in cash
+
+### Decision
+**HOLD — no new trades today.**
+- All 3 positions: HOLD with active GTC trailing stops
+- Watch NVDA closely: if opens near $209 zone, stop could trigger (acceptable — lock in small gain)
+- Re-evaluate Friday post-NFP or Monday if tape stabilizes and deployment < 75% persists
+- Week trade count: 0/3 (reset Monday)
