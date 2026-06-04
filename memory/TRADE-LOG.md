@@ -317,3 +317,16 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 04 — EOD Snapshot (Day 27, Wednesday)
+**Portfolio:** $109,762.82 | **Cash:** $46,319.73 (42.2%) | **Day P&L:** -$1,187.63 (-1.07%) | **Phase P&L:** +$9,762.82 (+9.76%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg  | Unrealized P&L       | Stop                                  |
+|--------|--------|----------|----------|----------|----------------------|---------------------------------------|
+| AMD    | 41     | $486.02  | $518.27  | -4.47%   | +$1,322.11 (+6.64%)  | 10% trail, HWM $546.42, stop $491.78 |
+| NVDA   | 94     | $211.60  | $217.13  | +1.11%   | +$519.82 (+2.61%)    | 10% trail, HWM $232.28, stop $209.05 |
+| XLB    | 430    | $51.36   | $50.66   | -1.88%   | -$301.00 (-1.36%)    | 10% trail, HWM $52.20, stop $46.98   |
+
+**Notes:** Red day led by AMD -4.47% (~-$994 intraday), XLB -1.88% (~-$417), partially offset by NVDA +1.11% (+$224). Day P&L -$1,187.63 (-1.07%); phase holds at +$9,762.82 (+9.76%). ⚠️ Log gap: AMZN/TXN exits, AMD re-entry (41sh @ $486.02), XLB entry (430sh @ $51.36), and NVDA adjustment (101→94sh @ $211.60) all occurred May 21–Jun 3 but are undocumented. No trades today; 0/3 this week. Deployment 57.8% — underdeployed vs 75-85% target. AMD stop at $491.78 (5.1% cushion from $518.27 close) — watch if downtrend continues.
