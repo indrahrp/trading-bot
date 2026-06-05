@@ -153,3 +153,78 @@ Template for each entry:
 - Resume daily EOD log discipline (Mon–Fri snapshots)
 
 ### Overall Grade: B+
+
+---
+
+## Week ending 2026-06-05
+
+> **Note:** Three weekly reviews were missed (May 22, May 29). This entry covers the current week (June 1–5) with phase-context notes. Trades from May 21–31 were not logged at time of execution; exits reconstructed from account equity reconciliation.
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | ~$107,500 (est. — Mon Jun 1 open; exact unlogged) |
+| Ending portfolio | $109,652.94 |
+| Week return | +$2,153 (+2.0%) |
+| S&P 500 week | +1.6% (9th straight weekly gain; first close above 7,600) |
+| Bot vs S&P | +0.4% |
+| Trades | 0 new / 0 closed (W:0 / L:0 / open:3) |
+| Win rate | N/A (no closed trades this week) |
+| Best trade | AMD +4.77% unrealized (+$950) |
+| Worst trade | XLB +0.51% unrealized (+$112) |
+| Profit factor | N/A |
+
+**Phase-to-date (Apr 27 launch):** +$9,652.94 (+9.65%) over 6 weeks
+
+**Reconstructed closed trades since last review (May 15–31, unlogged):**
+| Ticker | Entry | Est. Exit | Est. P&L | Notes |
+|--------|-------|-----------|----------|-------|
+| NVDA (orig.) | $218.04 | ~$212.89 | ~-$520 (-2.4%) | 10% trail stop triggered ~May 20–27 |
+| TXN | $267.28 | ~$288.57 | ~+$1,490 (+8.0%) | 7% trail stop triggered |
+| AMZN | $260.30 | ~$273.94 | ~+$1,064 (+5.2%) | Closed manually or on rally |
+
+*Estimates from equity reconciliation: realized P&L (all-time) = $8,222; known ($5,858 INTC + $330 AMD1) = $6,188; remainder = $2,034 from NVDA/TXN/AMZN. Full phase closed record: 4W:1L.*
+
+### Closed Trades This Week
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closes this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| AMD  | $486.02 | $509.19 | +$949.83 (+4.77%)  | 10% trail, HWM $546.37, stop $491.73 ⚠️ |
+| NVDA | $211.60 | $215.53 | +$369.42 (+1.86%)  | 10% trail, HWM $232.28, stop $209.05 ⚠️ |
+| XLB  | $51.36  | $51.62  | +$111.80 (+0.51%)  | 10% trail, HWM $52.20, stop $46.98    |
+
+**Deployment: 57.8%** ($63,333 / $109,653) — BELOW 75–85% target for 3+ consecutive weeks
+
+### What Worked
+- AI/chip boom Mon–Wed drove AMD to $546.37 HWM (+12.4% from entry), NVDA to $232.28 HWM (+9.8%)
+- XLB (Materials) added sector diversification; Materials sector +22% YTD
+- Portfolio +2.0% beat S&P +1.6% this week despite 42% cash drag
+- All trailing stops active and correctly sized (no rule violations)
+
+### What Didn't Work
+- AMD and NVDA gave back peak gains: AMD -6.8% from HWM ($546→$509), NVDA -7.2% ($232→$215)
+- Broadcom weak outlook (Jun 4 AH) hit chip names; AMD -2.7% and NVDA -1.4% on Jun 5
+- AMD stop $491.73 only 3.4% below current — one bad session away from stop-out
+- NVDA stop $209.05 only 3.0% below current — tightest cushion in portfolio
+- Deployment at 57.8% for 3+ weeks: estimated ~0.8% weekly performance drag vs fully-deployed benchmark
+- Three consecutive weeks of logging gaps (May 21–31): 3 exits and 3 entries went undocumented
+
+### Key Lessons
+- S&P 500 at ATH (7,600+) with 9-week win streak: fully-deployed portfolios outperforming cash-heavy ones; underdeployment is expensive in a bull run
+- HWM-based trailing stops worked exactly as designed: original INTC and AMD1 exited profitably; NVDA stopped for a small loss; TXN and AMZN closed with gains
+- Intraweek boom/bust on semis (AMD +12.4% peak then -6.8% giveback) shows concentration risk is real; trails protect but not perfectly
+- Logging discipline is non-negotiable — 3 weeks dark makes sizing decisions and pattern analysis impossible
+
+### Adjustments for Next Week
+- **LOGGING EMERGENCY**: EOD snapshot every day Mon–Fri, no exceptions; skip nothing
+- **Deploy to 75–85%**: Enter 1–2 new positions Monday; semis heavy — look for diversified catalyst (Industrials, Consumer Staples, or Health Care)
+- **AMD**: Watch closely at $500 support; stop $491.73 is real downside risk. Tighten threshold: $558.92 (+15%)
+- **NVDA**: Stop $209.05 is very tight; if semis rally resumes watch $243.34 (+15%) for tighten. Do not add — already 17% of equity
+- **XLB**: Well-buffered (stop 9% away); solid hold
+- **Phase target**: $100,000 → $110,000+ by end of June; currently $109,653 — need 1–2 more good weeks
+
+### Overall Grade: B
