@@ -717,3 +717,75 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-05 — Pre-market Research
+
+> Note: PERPLEXITY_API_KEY not set in environment — research via WebSearch fallback. ClickUp alert sent.
+
+### Account Snapshot
+| Field | Value |
+|-------|-------|
+| Equity | $109,522.04 |
+| Cash | $46,319.73 (42.3%) |
+| Long market value | $63,202.31 |
+| **Deployment** | **57.7% ⚠️ (target 75-85% — BELOW)** |
+| Daytrade count | 0 |
+| PDT | false |
+| Phase P&L | +$9,522.04 (+9.52%) |
+| Week trades | 0/3 |
+
+### Open Positions
+| Ticker | Shares | Entry | Now | Unrealized P&L | Day Chg | Stop (GTC) |
+|--------|--------|-------|-----|----------------|---------|------------|
+| AMD | 41 | $486.02 | $506.50 | +$839 (+4.21%) | -3.19% | 10% trail, HWM $546.42, stop $491.78 |
+| NVDA | 94 | $211.60 | $215.31 | +$349 (+1.75%) | -1.53% | 10% trail, HWM $232.28, stop $209.05 ⚠️ |
+| XLB | 430 | $51.36 | $51.62 | +$112 (+0.51%) | 0.00% | 10% trail, HWM $52.20, stop $46.98 |
+
+### Stop Tighten Check
+- AMD +4.21%: no action (threshold +15% → $558.92)
+- NVDA +1.75%: no action (threshold +15% → $243.34)
+- XLB +0.51%: no action (threshold +15% → $59.06)
+- **NVDA WARNING**: stop $209.05 only $6.26 (-2.9%) below current $215.31 — near trigger given semis sell-off
+
+### Market Context
+| Factor | Value |
+|--------|-------|
+| WTI crude | ~$92-96/bbl (elevated; Iran conflict, Strait of Hormuz tensions) |
+| Brent crude | ~$95.36/bbl; diplomatic pressure providing some relief |
+| S&P 500 futures | -0.61% premarket (S&P closed 7,584.31 +0.41% Thu) |
+| VIX | 16.59 (Jun 4 close); down from 30+ in March — complacency building |
+| **NFP May report** | **8:30 AM today — consensus 80-85K jobs, unemployment 4.3% (below trend)** |
+| CPI | June 10 |
+| FOMC | June 16-17 |
+
+### Ticker News
+- **AMD**: 52-week high $527.20 hit Jun 2; down -3.19% today dragged by Broadcom (AVGO) miss cascading through semis. Q1 rev $10.25B (+38% YoY), beat ests. CEO raised server CPU TAM to $120B. Barclays PT $665. Stop $491.78 — $14.72 cushion. Thesis intact.
+- **NVDA**: Ex-div Jun 4 ($0.25). Jensen Huang at Computex — RTX Spark, LG 10K GPU deal, Hyundai AI hub. Senate hearing Jun 11 (China/export controls). Analyst avg PT $296.81 (+38%). Down -1.53% today in semis sector rotation. Stop $209.05 — only $6.26 cushion, watch closely.
+- **XLB**: Materials ETF, flat today. XLB held $51.44-$52.20 range this week. Materials still #1 YTD sector (+22%). Stop $46.98 — wide at -8.1% from current; well-protected.
+
+### Sector Momentum YTD
+- **Leading**: Materials (+22%), Consumer Staples, Industrials, Energy, Healthcare (flight-to-safety)
+- **Lagging**: Technology, Consumer Discretionary, Communications, Financials
+- XLB positioned in top sector. AMD/NVDA in lagging semis — tailwind from AI demand but sector headwinds today.
+
+### Trade Ideas
+1. **HOLD existing — no new entries pre-NFP**: Futures -0.61%, semis sector under pressure from Broadcom miss, jobs data at 8:30 creates gap risk both directions. Wait for print.
+2. **Post-NFP (weak print ≤80K)**: If yields fall sharply → homebuilders (KBH, DHI, LEN) showing strength on Lebanon ceasefire + rate sensitivity. Could be 1 new entry to close deployment gap to ~76%. Entry only if market stabilizes post-data.
+3. **Post-NFP (strong print >100K)**: Risk-off likely; stay flat, protect stops. NVDA stop may trigger if broad selloff accelerates.
+
+### Risk Factors
+- NVDA $215.31 vs stop $209.05 — 2.9% cushion; a -3% tape day stops it out; no action (stop working as designed)
+- Semis sector rotation (Broadcom miss) adding pressure to AMD + NVDA
+- Oil $95/bbl on Iran tensions — stagflation risk if sustained
+- NFP miss (≤60K) → fear of recession + FOMC pressure; NFP beat (>120K) → rates higher → growth sell-off
+- FOMC Jun 16-17 uncertainty building; market priced for 1-2 cuts in 2026
+- AMD split trailing stop orders (2 GTC orders: 1+40 shares) — both active, no issue but monitor
+
+### Decision
+**HOLD — no new trades until NFP clears at 8:30 AM.**
+- All three positions: HOLD. No cuts needed. Stops working as designed.
+- NVDA closest to stop — watch; do NOT manually move stop down.
+- Post-NFP: if weak print + yield drop → evaluate homebuilder entry (1 position, ~$20K, ~18% equity) to close deployment gap.
+- Week budget: 0/3 trades used — full capacity available if setup materializes.
