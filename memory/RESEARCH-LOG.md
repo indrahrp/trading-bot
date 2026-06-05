@@ -717,3 +717,33 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-05 — Midday Scan
+
+### Account
+- Equity: $107,982.17 | Cash: $86,118.82 (79.8%)
+- Long market value: $21,863.35 | **Deployment: 20.2% ⚠️ (target 75-85% — SEVERELY BELOW)**
+- Daytrade count: 0 | PDT: false
+- Day P&L: -$2,539.40 (-2.30%) | Phase P&L: +$7,982.17 (+7.98%)
+
+### Open Positions
+| SYM | Shares | Entry   | Now     | Unrealized P&L  | Stop (GTC, live)                       |
+|-----|--------|---------|---------|-----------------|----------------------------------------|
+| XLB | 430    | $51.36  | $50.865 | -$213 (-0.96%)  | 10% trail, HWM $52.1999, stop $46.98  |
+
+### Stop Tighten Check
+- XLB -0.96%: underwater — no tighten threshold applies.
+
+### Thesis Check
+- **XLB**: Materials ETF — sector led YTD (+22% as of May). -0.96% from entry is within normal range; stop $46.98 provides 7.7% buffer. INTACT. No Perplexity available to check intraday news catalyst.
+
+### Actions
+- Losers: None at -7%. XLB -0.96% — hold.
+- Stop tighten: None applicable.
+- Research: PERPLEXITY_API_KEY not set — skipped.
+- No ClickUp notification (no action taken).
+
+### Note
+AMZN, NVDA, TXN exits undocumented between May 21–Jun 4 (see TRADE-LOG gap entry). XLB entered May 29. **Pre-market Monday: 2-3 new entries urgently needed to close deployment gap (~$65K available).**

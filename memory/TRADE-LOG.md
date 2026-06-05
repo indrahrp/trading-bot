@@ -317,3 +317,25 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### May 21–Jun 4 — Documentation Gap (reconstructed from Alpaca)
+AMZN, NVDA, and TXN were all exited during this period (stopped out or manually cut — exact exit dates/prices not captured in log). XLB entered May 29 @ $51.36 avg (430 sh, cost basis ~$22,085). Trailing stop placed same day: 10% GTC, HWM $52.1999, stop $46.98. Cash increased from $45,153 to $86,119 on exits.
+
+---
+
+### Jun 5 — Midday Scan (Friday)
+**Portfolio:** $107,982.17 | **Cash:** $86,118.82 (79.8%) | **Deployment:** 20.2% ⚠️ | **Day P&L:** -$2,539.40 (-2.30%) | **Phase P&L:** +$7,982.17 (+7.98%)**
+
+#### Open Positions (midday)
+| Ticker | Shares | Entry   | Now     | Unreal P&L      | Stop                                   |
+|--------|--------|---------|---------|-----------------|----------------------------------------|
+| XLB    | 430    | $51.36  | $50.865 | -$213 (-0.96%)  | 10% trail, HWM $52.1999, stop $46.98  |
+
+**Actions:**
+- Losers: XLB -0.96% — below -7% threshold. No cut.
+- Stop tighten: XLB underwater — no tightening applies.
+- Thesis: XLB (Materials ETF) — sector was leading YTD; -0.96% from entry is noise. Stop $46.98 is 7.7% below current price, intact.
+- Research: PERPLEXITY_API_KEY not set — skipped.
+- **Deployment: 20.2% — SEVERELY underdeployed vs 75-85% target. ~$65K+ available for 2-3 new entries. Address pre-market Monday.**
