@@ -717,3 +717,61 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-05 — Market-Open Research (inline; no pre-market log entry found)
+
+> Note: PERPLEXITY_API_KEY not set — research via WebSearch fallback. ClickUp alert sent.
+
+### Account
+- Equity: $108,991.29 | Cash: $46,319.73 (42.5%)
+- Long market value: $62,671.56 | **Deployment: 57.5% ⚠️ (target 75-85% — BELOW)**
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (week of Jun 2–6)
+- Phase P&L: +$8,991.29 (+8.99%)
+
+### Open Positions (live at market open)
+| SYM  | Shares | Avg Entry | Live Price | Unrealized P&L    | Stop (GTC, live)                              |
+|------|--------|-----------|------------|-------------------|-----------------------------------------------|
+| AMD  | 41     | $486.02   | $497.86    | +$485 (+2.44%)    | 10% trail, HWM $546.42, stop $491.78 ⚠️       |
+| NVDA | 94     | $211.60   | $213.81    | +$208 (+1.04%)    | 10% trail, HWM $232.28, stop $209.05          |
+| XLB  | 430    | $51.36    | $51.56     | +$86 (+0.39%)     | 10% trail, HWM $52.20, stop $46.98            |
+
+### Market Context
+- PERPLEXITY_API_KEY not set — WebSearch fallback
+- **S&P 500**: Down 0.63% today; chip stock weakness driving sell-off; S&P 500 up 10% YTD; Goldman raised year-end target to 8,000
+- **VIX**: Moderate; market down but not panic-level selling
+- **Sector catalyst**: Broadcom (BRCM) disappointing guidance triggering semiconductor sector-wide sell-off today
+- **AMD** ($497.86, -4.84%): Q1 beat intact ($10.3B +38% YoY, DC +57%); ARK Invest SOLD AMD shares recently; stop $491.78 is only 1.2% below current — stop-out imminent if selling continues
+- **NVDA** ($213.81, -2.22%): Q1 FY27 $81.6B +85% YoY, Data Center +92%; Q2 guide $91B; $80B buyback; dividend raised $0.01→$0.25. Thesis intact. Stop $209.05 = 2.2% cushion
+- **XLB** ($51.56, -0.12%): Materials ETF; minimal movement; stop $46.98 = 8.9% cushion
+
+### Stop Tighten Check
+- AMD +2.44%: far below +15% threshold ($558.92) — no tighten
+- NVDA +1.04%: well below threshold — no tighten
+- XLB +0.39%: well below threshold — no tighten
+
+### Losers Check
+- AMD +2.44%: no manual cut needed
+- NVDA +1.04%: no manual cut needed
+- XLB +0.39%: no manual cut needed
+
+### Trade Ideas
+1. **No new entries today** — Broadcom guidance miss caused sector-wide semis sell-off; AMD/NVDA already under pressure; no specific catalyst for any non-semis ticker documented
+2. **Post-Broadcom clarity**: If sell-off stabilizes and semis confirm support, re-evaluate AMD/NVDA add or new sector (Staples, Healthcare, Industrials) next session with fresh research
+
+### Risk Factors
+- AMD stop-out highly probable today (1.2% cushion; down 4.84%)
+- If both AMD and NVDA stop out, deployment drops to ~18% — critical
+- Semiconductor sector headwind from Broadcom miss (not AMD/NVDA specific, but sector contagion)
+- ARK selling AMD = institutional distribution signal
+- No specific catalyst documented for any new ticker today
+
+### Decision
+**HOLD all 3. NO NEW TRADES.**
+- AMD: let 10% trailing stop work; stop at $491.78 protects entry gains (+$236 if triggered)
+- NVDA: hold; stop $209.05 provides protection; thesis intact post Q1 beat
+- XLB: hold; adequate cushion; Materials sector momentum intact
+- Do NOT force entries into today's chip sell-off — patience > activity
+- **Next session**: research specific catalyst for 1 new non-semis position (Healthcare, Consumer Staples, Industrials) to rebuild deployment if AMD stops out

@@ -317,3 +317,38 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 05 — Market-Open Reconciliation Snapshot (live vs. log)
+**Portfolio:** $108,991.29 | **Cash:** $46,319.73 (42.5%) | **Deployment:** 57.5% ⚠️ | **Phase P&L:** +$8,991.29 (+8.99%)
+
+> Memory files were not updated between May 21 and Jun 05. The following reflects live Alpaca positions as of Jun 05 open.
+
+| Ticker | Shares | Avg Entry | Live Price | Unrealized P&L       | Stop (GTC, live)                              |
+|--------|--------|-----------|------------|----------------------|-----------------------------------------------|
+| AMD    | 41     | $486.02   | $497.86    | +$485 (+2.44%)       | 10% trail, HWM $546.42, stop $491.78 ⚠️ TIGHT |
+| NVDA   | 94     | $211.60   | $213.81    | +$208 (+1.04%)       | 10% trail, HWM $232.28, stop $209.05          |
+| XLB    | 430    | $51.36    | $51.56     | +$86 (+0.39%)        | 10% trail, HWM $52.20, stop $46.98            |
+
+**Events since May 20 (inferred from live state — full detail pending log recovery):**
+- AMZN: exited (no longer in portfolio — stop-out or thesis break between May 21–Jun 04)
+- TXN: exited (no longer in portfolio — stop-out or thesis break between May 21–Jun 04)
+- AMD: re-entered 41 shares @ $486.02 avg (new position after May 19 stop-out; GTC stop created May 26-27)
+- NVDA: position reduced from 101 sh @ $218.04 to 94 sh @ $211.60 (partial stop-out + re-entry or size adjustment; GTC stop created May 27)
+- XLB: new position entered 430 shares @ $51.36 avg (Materials ETF; GTC stop created May 29)
+
+**Jun 05 Market Context:**
+- S&P 500 down 0.63% — chip stock weakness from Broadcom guidance miss
+- AMD down -4.84% today ($523.20 → $497.86); stop $491.78 only $6.08 (1.2%) below current price — STOP-OUT RISK
+- NVDA down -2.22% today; stop $209.05 is 2.2% below current price
+- XLB down -0.12%; stop $46.98 is 8.9% below current — safe
+- daytrade_count: 0 | PDT: false | Week trades: 0/3
+
+**Jun 05 Decision: HOLD — NO NEW TRADES**
+- All stops live and protecting positions
+- AMD stop-out likely today; if triggered, cash rises ~$21K, deployment drops to ~39%
+- Semiconductor sector sell-off on Broadcom guidance miss; no new semis entries
+- No specific catalyst documented for any new ticker today
+- Patience > forcing entries into a sector rotation selloff
+- Next action: post-BRCM clarity + fresh research before next entry
