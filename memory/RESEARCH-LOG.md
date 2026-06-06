@@ -377,6 +377,75 @@ Deployment: $41,295 / $108,140 = 38.2% (target 75-85%)
 
 ---
 
+## 2026-06-06 — Weekend Research (Next trading day: Monday June 8)
+
+*Note: PERPLEXITY_API_KEY not set — research via WebSearch fallback.*
+
+### Account (live, as of Jun 5 close)
+- Equity: $107,889.68
+- Cash: $86,118.78 (79.8%) — CRITICALLY UNDERDEPLOYED
+- Long market value: $21,770.90 | Deployment: 20.2% (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Week trades (Jun 8+): 0/3 (fresh cap)
+- Phase P&L: +$7,889.68 (+7.89%)
+
+### Open Positions
+| SYM  | Shares | Entry   | Jun 5 Close | Unrealized P&L  | Stop (GTC, live)                         |
+|------|--------|---------|-------------|-----------------|------------------------------------------|
+| XLB  | 430    | $51.36  | $50.63      | -$314 (-1.42%)  | 10% trail, HWM $52.20, stop $46.98      |
+
+### Week-of-May-26 Recap (not previously logged)
+- May 26: NVDA (101sh) stopped at $212.71 (-2.44%); AMD re-entry 41sh @ $486.02
+- May 27: TXN (70sh) stopped at $314.78 (+17.76%); NVDA re-entry 94sh @ $211.60
+- May 29: XLB entry 430sh @ $51.36 (week cap 3/3 reached)
+- Jun 3: AMZN (78sh) stopped at $250.65 (-3.71%)
+- Jun 5: AMD re-entry stopped at $491.44 (+1.12%); NVDA re-entry stopped at $209.04 (-1.21%)
+
+### Market Context
+- S&P 500: ~7,584 (Jun 4 close); rally from April lows intact
+- VIX: ~15.40 (low vol); intraday spike to ~21 on Jun 5 — confirm at Monday open
+- WTI: ~$91-93/bbl (-3%+ on week) | Brent: ~$94-97/bbl — bearish near-term, Iran deal risk
+- **CPI (May) Wednesday June 10 at 8:30 AM ET** — major binary event; 95% chance YoY >4%; hot print = sell signal
+- PPI Thursday June 11 | UMich Sentiment Friday June 12
+- FOMC June 16-17 (next week); 65% hold at 3.50-3.75% — June 10 CPI sets the tone
+- No NFP this week
+
+### Sector Momentum YTD 2026
+| Sector | YTD | Notes |
+|--------|-----|-------|
+| Energy (XOP) | +37.8% | #1 leader; oil volatile on Iran |
+| Materials (XLB) | +20% (1yr) | Held position; thesis intact |
+| Semiconductors | Mixed | Broadcom -14% Jun 4 contagion hit NVDA -4.9%, AMD -6.5% on Jun 5 |
+| Tech (XLK) | Lagging | Broadcom guidance miss hurt sentiment |
+| Financials | -5% YTD | Avoid |
+
+### Held Position Thesis Check
+- **XLB** $50.63: Materials sector in momentum; AI data center construction + infrastructure demand tailwind. Stop $46.98 (10% trail, 7.2% below current). Analyst avg PT $56.67 (+9.7% upside). Thesis INTACT — hold.
+
+### Trade Ideas
+1. **NVDA re-entry** — At ~$209-218 after Jun 5 selloff (Broadcom contagion, not fundamental). Goldman Sachs Buy, PT $298. But semis sentiment fragile post-Broadcom. **GATE: wait for CPI June 10. Do NOT enter semis before CPI.**
+2. **AMD re-entry** — At ~$510 (fell -6.5% Jun 5, stopped out intraday at $491). Barclays PT $665. Catalyst intact (EPYC, MI450 GPUs, AI partnerships). HWM was $546; fresh entry $510 has 10% stop at $459, target $612 (+20%). **GATE: same as NVDA — wait for CPI.**
+3. **XLE (Energy ETF)** — Energy #1 sector, WTI $91+ still elevated. Entry ~$60-65 (check Monday), 10% trail, target +20%. Risk: Iran deal could drop oil sharply. **Only enter on Monday if energy sector holds and WTI ≥$90.** 1 position only (≤$22K).
+4. **XOP (Oil & Gas E&P)** — +37.8% YTD, higher beta than XLE. Same Iran risk. More aggressive alternative to XLE.
+
+### Risk Factors
+- **CPI June 10** — hot print (>3.7% headline) = rate-cut hopes evaporate; equities gap lower. Do NOT deploy aggressively before Wednesday.
+- Broadcom -14% Jun 4 — semiconductor sentiment fragile; NVDA/AMD momentum broken short-term
+- VIX intraday spike to ~21 on Jun 5 — vol regime may be shifting
+- XLB stop $46.98 only 7.2% below current — tight if vol regime spikes
+- Iran deal progress could crater energy sector trade quickly
+- Deployment 20.2% creates urgency — resist forcing entries into uncertain tape
+
+### Decision (for Monday June 8)
+**HOLD all pending until CPI (Wed June 10) — unless Monday open provides clean entry.**
+- **XLB**: Hold. Thesis intact. No action unless +15% tighten trigger reached.
+- **Energy (XLE or XOP)**: Watch Monday open. Enter 1 position (≤$22K) **only if** WTI ≥$90 AND energy sector opens green. Otherwise defer to post-CPI.
+- **Semis (NVDA/AMD)**: **HOLD OFF.** CPI risk too high; wait for Wednesday data to de-risk re-entry.
+- **Post-CPI plan (June 10-11)**: If benign (≤3.7% headline, ≤2.7% core) → aggressive deployment of 2-3 positions from best sectors. If hot → hold cash and wait.
+- **Max deployment urgency**: Need 3-4 entries at ~$20K each to reach 75-85% target. Patience — one bad forced entry into a CPI spike is worse than being underdeployed for 2 more days.
+
+---
+
 ## 2026-05-11 — Pre-market Research (inline, market-open workflow)
 
 ### Account
