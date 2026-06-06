@@ -317,3 +317,28 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### ⚠️ History Gap: May 21 – Jun 5
+TRADE-LOG entries missing for this period. Based on Alpaca live data as of Jun 6:
+- AMZN, NVDA, TXN positions all exited (stops triggered or closed — exact dates/prices unrecorded).
+- XLB (Materials ETF) entered ~2026-05-29 at avg $51.36 (430 shares); 10% trailing stop placed same day (GTC order 1d015d52, HWM $52.20, stop $46.98).
+- Portfolio drifted from +9.52% to +7.89% phase return over this window.
+
+---
+
+### Jun 06 — Midday Scan
+**Portfolio:** $107,889.68 | **Cash:** $86,118.78 (79.8%) | **Deployment: 20.2% ⚠️** | **Phase P&L:** +$7,889.68 (+7.89%)
+
+| Ticker | Shares | Entry   | Now     | Day Chg | Unrealized P&L    | Stop                                  |
+|--------|--------|---------|---------|---------|-------------------|---------------------------------------|
+| XLB    | 430    | $51.36  | $50.63  | 0.00%   | -$313.90 (-1.42%) | 10% trail, HWM $52.20, stop $46.98   |
+
+**Actions:**
+- Losers: None — XLB -1.42%, well above -7% cut threshold. Hold.
+- Stop tighten: None — XLB negative from entry; no tightening triggered.
+- Thesis: Materials sector momentum (entered May 29). -1.42% from entry, within normal range. HWM $52.20 (+1.63% above entry) then pullback. Thesis intact; no catalyst break detected.
+- Research: No sharp intraday moves (0% today) — no Perplexity needed.
+- Notification: No action taken — no ClickUp alert sent.
+- **Deployment: 20.2% — CRITICALLY UNDERDEPLOYED vs 75-85% target. $86K cash idle. Pre-market tomorrow: scan for 2-3 new entries across non-correlated sectors.**
