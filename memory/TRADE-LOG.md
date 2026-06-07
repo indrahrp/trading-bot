@@ -317,3 +317,42 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### May 21–28 — Documentation Gap
+AMZN, NVDA, and TXN positions were closed/stopped out between May 21–28. Exact exit prices and dates not captured in real-time. Account equity at Jun 7 midday scan ($107,889.68) vs May 20 EOD ($109,523.30) implies net losses on those exits of ~$1,634 combined.
+
+---
+
+### May 29 — New Trade Entry
+
+#### Buy: XLB
+| Field        | Value                                                                                   |
+|--------------|-----------------------------------------------------------------------------------------|
+| Date         | 2026-05-29                                                                              |
+| Ticker       | XLB (Materials Select Sector SPDR ETF)                                                  |
+| Side         | BUY                                                                                     |
+| Shares       | 430                                                                                     |
+| Entry Price  | $51.36 (avg)                                                                            |
+| Stop Level   | 10% trailing GTC, HWM $52.20, stop $46.98 (order 1d015d52)                             |
+| Thesis       | Materials sector #1 YTD momentum (+22%), non-correlated to tech/AI, diversification from semis concentration; sector momentum rule per strategy |
+| Target       | $61.63 (+20%)                                                                           |
+| R:R          | 2.0:1                                                                                   |
+
+---
+
+### Jun 07 — Midday Scan
+**Portfolio:** $107,889.68 | **Cash:** $86,118.78 (79.8%) | **Deployment:** 20.2% ⚠️ | **Phase P&L:** +$7,889.68 (+7.89%)
+
+#### Open Positions (midday)
+| Ticker | Shares | Entry   | Now     | Unreal P&L      | Stop                                |
+|--------|--------|---------|---------|-----------------|-------------------------------------|
+| XLB    | 430    | $51.36  | $50.63  | -$314 (-1.42%)  | 10% trail, HWM $52.20, stop $46.98  |
+
+**Actions:**
+- Losers: None — XLB -1.42%, far above -7% cut threshold. No action.
+- Stop tighten: None — XLB negative from entry, well below +15% trigger.
+- Thesis: Materials sector momentum entry; unable to verify intraday (PERPLEXITY_API_KEY not set).
+- Research: Skipped — Perplexity unavailable.
+- **Deployment: 20.2% — critically underdeployed vs 75-85% target. Prior positions (AMZN, NVDA, TXN) exited May 21–28. Need 3-4 new positions. Pre-market Mon Jun 8: scan for momentum entries.**
