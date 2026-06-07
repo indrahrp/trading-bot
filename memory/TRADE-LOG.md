@@ -317,3 +317,14 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 07 — EOD Snapshot (Day 29, Sat — covers Jun 6 close)
+**Portfolio:** $107,889.68 | **Cash:** $86,118.78 (79.8%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** +$7,889.68 (+7.89%)
+
+| Ticker | Shares | Entry   | Close   | Day Chg | Unrealized P&L       | Stop                                    |
+|--------|--------|---------|---------|---------|----------------------|-----------------------------------------|
+| XLB    | 430    | $51.36  | $50.63  | 0.00%   | -$313.90 (-1.42%)    | 10% trail, HWM $52.20, stop $46.98     |
+
+**Notes:** Significant gap in TRADE-LOG since May 20 — workflows did not run consistently. Portfolio completely restructured: AMZN, NVDA, TXN all exited (stops or manual); XLB (Materials Select Sector ETF) entered ~May 29 at $51.36 avg, 430 shares (~$22K, 20% position). Portfolio critically underdeployed at 20.2% vs 75-85% target — $86K idle cash. XLB down -1.42% from entry with 10% trailing stop at $46.98 (HWM $52.20); no stop tighten needed. No trades this week (0/3). Monday pre-market: priority is identifying 3-4 new momentum entries to deploy $65-70K and bring portfolio back to target deployment range.
