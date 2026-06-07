@@ -717,3 +717,69 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-07 — Pre-market Research (inline, market-open workflow)
+
+*Note: PERPLEXITY_API_KEY not set — market research via WebSearch fallback.*
+*Market CLOSED today (Sunday). This entry documents plan for Monday June 8 open.*
+
+### Account (as of June 5 close)
+- Equity: $107,889.68
+- Cash: $86,118.78 (79.8%) — CRITICALLY UNDERDEPLOYED
+- Long market value: $21,770.90 | Deployment: 20.2% (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (fresh cap — week of June 8–12)
+- Phase P&L: +$7,889.68 (+7.89%)
+
+### Open Positions
+| SYM | Shares | Entry   | Last    | P&L             | Stop (GTC)                            |
+|-----|--------|---------|---------|-----------------|---------------------------------------|
+| XLB | 430    | $51.36  | $50.63  | -$313 (-1.42%)  | 10% trail, HWM $52.20, stop $46.98   |
+
+Deployment gap: need ~$59K–$70K more to reach 75–85% target (~3 new positions of ~$20K each)
+
+### Market Context
+- S&P 500: ATH 7,609 (June 2); Nasdaq ATH 27,093 — AI/semis cycle dominant
+- May strong: Morningstar US Market +5.2%; momentum from AI infra buildout
+- VIX: moderate/declining; constructive for equities
+- Sector leaders: Technology/Semis, Materials; AI infra narrative dominant
+- **AVGO Q2 FY2026 (June 3)**: Revenue $22.2B +48% YoY (record); AI semiconductor $10.8B +143% YoY; bookings $30B+; Q3 guide $29.4B +84% YoY, AI Q3 guide $16.0B +200% YoY. Custom AI chips for Anthropic, Google, Meta, OpenAI.
+- **NVDA**: Q1 FY2027 beat (May 20) — $81.6B rev, $58.3B net income; $80B buyback. Post-report pullback to ~$217 (June 5) = better entry vs old $218.04. AI inference structural.
+- **AMZN**: ~$262 (June 5). AWS +28% YoY, $200B capex, custom Graviton/Trainium chips. 79/83 analysts Buy, avg PT ~$313 (+19.5% upside).
+- **XLB**: ~$50.63–$52.51 range; analyst PT $56.67 (+9.1% upside); Materials +13% YTD. Infrastructure, copper, AI-grid demand. Thesis intact.
+
+### Thesis Check on Held Positions
+- **XLB**: -1.42% from entry. 10% trail stop $46.98, HWM $52.20. Materials momentum, infrastructure demand intact. INTACT — hold.
+
+### Stop Tighten Check
+- XLB -1.42%: far below +15% threshold — no tighten
+
+### Trade Ideas (for Monday June 8 open)
+1. **AVGO** — PRIME: Q2 FY2026 beat June 3 (revenue $22.2B +48%, AI rev $10.8B +143%, Q3 guide $29.4B +84%); custom AI chips for hyperscalers; AI networking 40% of AI revenue. Entry ~$387 (Monday open; skip if gap >5%), stop 10% trail GTC, target $464 (+20%), R:R 2.0:1. ~52 shares (~$20K).
+2. **NVDA** — STRONG: AI inference structural demand (2/3 global AI compute); Q1 FY2027 beat; $80B buyback; AVGO Q2 confirms broader AI hardware cycle. Re-entry post-pullback from $236 HWM to ~$217. Entry ~$215–220, stop 10% trail GTC, target $260 (+20%), R:R 2.0:1. ~92 shares (~$20K).
+3. **AMZN** — SOLID: AWS AI infra (+28% YoY, $200B capex); prior stop-out was mechanical, thesis unchanged; 79/83 analysts Buy, PT $313. Entry ~$262, stop 10% trail GTC, target $314 (+20%), R:R 2.0:1. ~76 shares (~$20K).
+
+### Gate Check (all 3 combined)
+- Total positions: 1 (XLB) + 3 = 4 ≤ 6 ✓
+- Weekly trades: 0 → 3/3 (exhausts weekly cap) ✓
+- Position cost each ~$20K ≤ 20% equity ($21,578) ✓
+- Cash: $86,118 > $60K combined ✓
+- Catalysts documented ✓ | Daytrade count: 0 ✓ | Stocks only ✓
+
+### Risk Factors
+- Semis concentration: AVGO + NVDA correlated AI infra → sector pullback = double hit
+- AVGO gap risk: reported June 3; may gap on Monday open — skip if gap >5%
+- Exhausting 3/3 weekly trades = no flexibility rest of week if thesis breaks
+- XLB: -1.42% and stop only $3.65 below current ($46.98 vs $50.63); any materials selloff could stop out
+- Deployment urgency must not override patience > activity rule
+
+### Decision
+**PLANNED: 3 new positions for Monday June 8 open (market closed today — Sunday).**
+- **AVGO**: BUY ~52 shares at market open (highest priority — fresh beat+raise)
+- **NVDA**: BUY ~92 shares at market open (second priority — AI structural re-entry)
+- **AMZN**: BUY ~76 shares at market open (third priority — AWS thesis re-entry)
+- Execute in order; if any gap >5% at open, skip that ticker
+- All stops: 10% trailing GTC, placed immediately after fill confirmation
+- **XLB**: HOLD. Thesis intact, stop live.

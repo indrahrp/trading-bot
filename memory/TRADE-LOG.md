@@ -317,3 +317,81 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### May 21–28 — Gap Reconstruction (stops triggered; exact dates not logged)
+
+*Approximate stop-out reconstructed from June 7 account state. All exits via GTC trailing stop — mechanical, not thesis failures.*
+
+#### Stop-Out: TXN
+| Field       | Value                                                                  |
+|-------------|------------------------------------------------------------------------|
+| Date        | ~May 22–28 (estimated)                                                 |
+| Ticker      | TXN                                                                    |
+| Side        | SELL (GTC trailing stop)                                               |
+| Shares      | 70                                                                     |
+| Entry       | $267.28                                                                |
+| Exit        | ~$288.57 (7% trail, HWM $310.29)                                       |
+| P&L         | ~+$1,491 (+7.97%)                                                      |
+| Notes       | 7% trail stop triggered on pullback from HWM $310.29. Profitable exit. |
+
+#### Stop-Out: NVDA
+| Field       | Value                                                                  |
+|-------------|------------------------------------------------------------------------|
+| Date        | ~May 22–28 (estimated)                                                 |
+| Ticker      | NVDA                                                                   |
+| Side        | SELL (GTC trailing stop)                                               |
+| Shares      | 101                                                                    |
+| Entry       | $218.04                                                                |
+| Exit        | ~$212.89 (10% trail, HWM $236.54)                                      |
+| P&L         | ~-$520 (-2.36%)                                                        |
+| Notes       | 10% trail stop triggered; "sell the news" post-Q1 FY27 beat (May 20). Small loss; thesis intact for re-entry. |
+
+#### Stop-Out: AMZN
+| Field       | Value                                                                  |
+|-------------|------------------------------------------------------------------------|
+| Date        | ~May 22–28 (estimated)                                                 |
+| Ticker      | AMZN                                                                   |
+| Side        | SELL (GTC trailing stop)                                               |
+| Shares      | 78                                                                     |
+| Entry       | $260.30                                                                |
+| Exit        | ~$250.70 (10% trail, HWM $278.56)                                      |
+| P&L         | ~-$749 (-3.69%)                                                        |
+| Notes       | 10% trail stop triggered on broad market pullback. Below -7% manual cut threshold; stop worked as designed. |
+
+---
+
+### May 29 — New Trade Entry
+
+#### Buy: XLB
+| Field        | Value                                                                                        |
+|--------------|----------------------------------------------------------------------------------------------|
+| Date         | 2026-05-29                                                                                   |
+| Ticker       | XLB (Materials Select Sector SPDR ETF)                                                       |
+| Side         | BUY                                                                                          |
+| Shares       | 430                                                                                          |
+| Entry Price  | $51.36 (avg)                                                                                 |
+| Stop Level   | $46.98 (10% trailing GTC, HWM $52.20, order 1d015d52)                                       |
+| Thesis       | Materials sector #1 YTD momentum; copper/infrastructure demand from AI grid buildout and energy transition; diversification away from semis concentration; closes deployment gap |
+| Target       | $61.63 (+20%)                                                                                |
+| R:R          | 2.0:1                                                                                        |
+| Week Trades  | ~1/3 (week of May 26–30)                                                                     |
+
+#### Portfolio After Trade
+**Equity:** ~$108,000 | **Cash:** ~$86,119 | **Deployment:** ~20.2%
+
+| Ticker | Shares | Entry   | Now (Jun 5) | Unrealized P&L  | Stop (GTC)                           |
+|--------|--------|---------|-------------|-----------------|--------------------------------------|
+| XLB    | 430    | $51.36  | $50.63      | -$314 (-1.42%)  | 10% trail, HWM $52.20, stop $46.98  |
+
+---
+
+### June 7 — Market-Open Snapshot (Sunday — market closed)
+**Portfolio:** $107,889.68 | **Cash:** $86,118.78 (79.8%) | **Deployment:** 20.2% ⚠️ | **Phase P&L:** +$7,889.68 (+7.89%)
+
+| Ticker | Shares | Entry   | Last (Jun 5) | Unrealized P&L  | Stop (GTC)                           |
+|--------|--------|---------|--------------|-----------------|--------------------------------------|
+| XLB    | 430    | $51.36  | $50.63       | -$314 (-1.42%)  | 10% trail, HWM $52.20, stop $46.98  |
+
+**Notes:** AMZN, NVDA, TXN all stopped out mechanically between May 21–28 (dates unlogged — gap reconstruction above). XLB entered May 29 as Materials sector play. Deployment collapsed to 20.2% — critically below 75-85% target with $86K cash idle. XLB thesis intact (materials momentum, analyst PT $56.67). AVGO Q2 FY2026 earnings beat June 3 (rev $22.2B +48%, AI rev $10.8B +143%, Q3 guide $29.4B) identified as highest-priority catalyst for re-deployment. **Planned for Monday June 8 open:** AVGO (52 sh ~$20K), NVDA re-entry (92 sh ~$20K), AMZN re-entry (76 sh ~$20K). All gates pass. Uses 3/3 weekly trades. Target deployment: ~75.8%.
