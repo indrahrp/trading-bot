@@ -317,3 +317,23 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 08 — Midday Scan (2026-06-08)
+**Portfolio:** $107,589.31 | **Cash:** $22,023.79 (20.5%) | **Deployment:** 79.5% ✓ | **Day P&L:** -$300.37 (-0.28%) | **Phase P&L:** +$7,589.31 (+7.59%)
+
+#### Open Positions (midday)
+| Ticker | Shares | Avg Entry | Now      | Unreal P&L         | Stop                                     |
+|--------|--------|-----------|----------|--------------------|------------------------------------------|
+| NVDA   | 102    | $208.85   | $208.66  | -$19 (-0.09%)      | 10% trail, HWM $209.62, stop $188.66    |
+| XLB    | 430    | $51.36    | $50.155  | -$518 (-2.35%)     | 10% trail, HWM $52.20, stop $46.98      |
+| XLI    | 123    | $174.56   | $174.24  | -$40 (-0.19%)      | 10% trail, HWM $174.99, stop $157.49    |
+| XLV    | 139    | $153.39   | $153.04  | -$49 (-0.23%)      | 10% trail, HWM $154.47, stop $139.02    |
+
+**Actions:**
+- Losers: None at -7%. Worst is XLB -2.35% — well within range. No cuts.
+- Stop tighten: None — all positions negative from entry; no +15%/+20% threshold reached.
+- Thesis: No Perplexity (key not set); no sharp intraday moves warranting emergency research. ETF positions (XLB, XLI, XLV) align with sector momentum thesis from May research. NVDA AI inference thesis intact.
+- Research: PERPLEXITY_API_KEY not set — skipped.
+- **Deployment: 79.5% — within 75-85% target ✓**
