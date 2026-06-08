@@ -717,3 +717,62 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-08 — Pre-market Research (inline, market-open workflow)
+
+*Note: PERPLEXITY_API_KEY not set — research via WebSearch fallback.*
+
+### Account
+- Equity: $107,885.38 (pre-trade)
+- Cash: $86,118.78 (79.8%) — CRITICALLY UNDERDEPLOYED
+- Buying power: $194,004.16
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (fresh weekly cap)
+
+### Open Positions (pre-trade)
+| SYM  | Shares | Entry  | Now    | P&L             | Stop (GTC)                                  |
+|------|--------|--------|--------|-----------------|---------------------------------------------|
+| XLB  | 430    | $51.36 | $50.64 | -$313 (-1.42%)  | 10% trail, HWM $52.20, stop $46.98 (existing) |
+
+*AMZN, NVDA (101sh), TXN all stopped out between May 21–Jun 5. XLB entered ~May 29.*
+
+Deployment: $21,767 / $107,885 = 20.2% (target 75-85%)
+
+### Market Context
+- S&P 500: 7,383.74 (June 5 close), RSI 69 (near overbought — below 70 threshold, further gains possible)
+- Earnings growth forecast: 24% for 2026 (EPS $340), driven by AI and energy
+- Sector rotation: investors moving from expensive tech into healthcare and financials
+- VIX: moderate, declining — constructive for equities
+- June 2026 sector leaders: Industrials (avg +58% for top stocks), Healthcare (+15%), Technology (+28%)
+- Narrow market leadership in AI (NVDA, AMD) and energy; breadth concerns but bull market intact
+
+### Held Position Thesis Check
+- **XLB**: $50.63, entry $51.36, P&L -1.42%. Materials sector had +20% total return past year. Analyst avg PT $56.67 (+12% from current). Stop $46.98 (10% trail, HWM $52.20). **INTACT — hold.**
+
+### Trade Ideas
+1. **NVDA** — Jensen Huang announced new super chip; $1T hyperscaler capex 2027; AI inference supercycle; 85% growth rate; Goldman Sachs Buy. Entry ~$209, stop ~$188 (10%), target $251 (+20%), R:R 2.0:1. **EXECUTE.**
+2. **XLV** — Healthcare #3 sector June 2026; GLP-1 Medicare $50/mo coverage (Jan 2027); Merck Phase 3 data; sector rotation from tech; catalyst-rich month per analysts. Entry ~$154, stop ~$138 (10%), target $184 (+20%), R:R 2.0:1. **EXECUTE.**
+3. **XLI** — Industrials #1 sector June 2026; non-correlated to semis; portfolio diversification; ETF mitigates single-stock risk. Entry ~$175, stop ~$157 (10%), target $209 (+20%), R:R 2.0:1. **EXECUTE.**
+4. **AMD** — Up 141% YTD; agentic AI catalyst; gaining today per Benzinga. **SKIP**: $509 ask with wide open spread; high concentration with NVDA; weekly cap would be reached at trade 3.
+
+### Gate Checks — All 3 Passed
+- Positions after all 3: 4 ≤ 6 ✓
+- Week trades after all 3: 3 ≤ 3 ✓ (cap reached)
+- Each position cost ≤ 20% equity ✓
+- Catalysts documented ✓
+- Daytrade count: 0 ✓
+
+### Risk Factors
+- S&P RSI 69 — near overbought; any macro shock hits harder
+- NVDA + XLB both in correlated sectors if AI/growth reverses
+- XLB still -1.78% from entry; stop $46.98 provides protection
+- Weekly trade cap exhausted after today (3/3) — no new entries until next week
+- PERPLEXITY unavailable — limited intraday news awareness
+
+### Decision
+**EXECUTED — 3 new positions entered at market open.**
+- NVDA: 102sh @ $208.85 | XLV: 139sh @ $153.39 | XLI: 123sh @ $174.56
+- All 10% trailing stops placed GTC immediately post-fill
+- Deployment: 20.2% → 79.6% ✓ (target 75-85% achieved)

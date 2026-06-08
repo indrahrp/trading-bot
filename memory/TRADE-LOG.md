@@ -317,3 +317,59 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 08 — New Trade Entries (3 of 3 this week)
+
+#### Buy: NVDA
+| Field        | Value                                                                                     |
+|--------------|-------------------------------------------------------------------------------------------|
+| Date         | 2026-06-08                                                                                |
+| Ticker       | NVDA                                                                                      |
+| Side         | BUY                                                                                       |
+| Shares       | 102                                                                                       |
+| Entry Price  | $208.85                                                                                   |
+| Stop Level   | $188.16 (10% trailing GTC, HWM $209.07, order 7b684bdf)                                  |
+| Thesis       | Jensen Huang new super chip announcement; $1T hyperscaler capex 2027; AI inference supercycle; semis leadership; Goldman Sachs Buy |
+| Target       | $250.62 (+20%)                                                                            |
+| R:R          | 2.0:1                                                                                     |
+| Week Trades  | 1/3                                                                                       |
+
+#### Buy: XLV
+| Field        | Value                                                                                     |
+|--------------|-------------------------------------------------------------------------------------------|
+| Date         | 2026-06-08                                                                                |
+| Ticker       | XLV (Healthcare Select Sector SPDR ETF)                                                   |
+| Side         | BUY                                                                                       |
+| Shares       | 139                                                                                       |
+| Entry Price  | $153.39                                                                                   |
+| Stop Level   | $138.11 (10% trailing GTC, HWM $153.46, order a7fa88df)                                  |
+| Thesis       | June 2026 catalyst-rich month for healthcare; GLP-1 Medicare coverage ($50/mo from Jan 2027); sector rotation from stretched tech into healthcare; Merck lung cancer Phase 3 data; analyst avg PT $56.67 (+9%); YTD momentum |
+| Target       | $184.07 (+20%)                                                                            |
+| R:R          | 2.0:1                                                                                     |
+| Week Trades  | 2/3                                                                                       |
+
+#### Buy: XLI
+| Field        | Value                                                                                     |
+|--------------|-------------------------------------------------------------------------------------------|
+| Date         | 2026-06-08                                                                                |
+| Ticker       | XLI (Industrials Select Sector SPDR ETF)                                                  |
+| Side         | BUY                                                                                       |
+| Shares       | 123                                                                                       |
+| Entry Price  | $174.56                                                                                   |
+| Stop Level   | $157.08 (10% trailing GTC, HWM $174.53, order 637caf61)                                  |
+| Thesis       | Industrials #1 June 2026 sector momentum; non-correlated to semis (portfolio diversification); YTD sector leadership; low single-stock risk via ETF |
+| Target       | $209.47 (+20%)                                                                            |
+| R:R          | 2.0:1                                                                                     |
+| Week Trades  | 3/3                                                                                       |
+
+#### Portfolio After All 3 Trades
+**Equity:** $107,841 | **Cash:** $22,024 | **Deployment:** 79.6% ✓ (target 75-85%) | **Phase P&L:** +$7,841 (+7.84%)
+
+| Ticker | Shares | Entry    | Now     | Unrealized P&L     | Stop (GTC)                                  |
+|--------|--------|----------|---------|--------------------|---------------------------------------------|
+| NVDA   | 102    | $208.85  | $209.32 | +$48 (+0.22%)      | 10% trail, HWM $209.07, stop $188.16        |
+| XLV    | 139    | $153.39  | $153.39 | ≈$0 (just entered) | 10% trail, HWM $153.46, stop $138.11        |
+| XLI    | 123    | $174.56  | $174.51 | -$6 (-0.03%)       | 10% trail, HWM $174.53, stop $157.08        |
+| XLB    | 430    | $51.36   | $50.45  | -$393 (-1.78%)     | 10% trail, HWM $52.20, stop $46.98 (existing) |
