@@ -317,3 +317,17 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 08 — EOD Snapshot (Day 30, Monday)
+**Portfolio:** $107,415.92 | **Cash:** $22,023.79 (20.5%) | **Day P&L:** -$473.76 (-0.44%) | **Phase P&L:** +$7,415.92 (+7.42%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg | Unrealized P&L        | Stop                                      |
+|--------|--------|----------|----------|---------|-----------------------|-------------------------------------------|
+| NVDA   | 102    | $208.85  | $208.18  | +1.50%  | -$68.34 (-0.32%)      | 10% trail, HWM $209.75, stop $188.77     |
+| XLB    | 430    | $51.36   | $50.14   | -0.97%  | -$524.60 (-2.38%)     | 10% trail, HWM $52.20, stop $46.98       |
+| XLI    | 123    | $174.56  | $173.63  | -0.32%  | -$114.39 (-0.53%)     | 10% trail, HWM $174.99, stop $157.49     |
+| XLV    | 139    | $153.39  | $152.81  | -0.13%  | -$80.33 (-0.38%)      | 10% trail, HWM $154.47, stop $139.02     |
+
+**Notes:** Portfolio closed slightly red on a mild broad pullback — sector ETFs (XLB, XLI, XLV) dragged while NVDA held up with +1.50% gain. All four positions are marginally underwater on an unrealized basis but well above their respective -7% cut thresholds and 10% trailing stops. Deployment at 79.5% — within the 75-85% target band. No trades today or this week (0/3). XLB carries the largest unrealized loss at -2.38%; worth monitoring but thesis (materials recovery) not broken. Tomorrow: standard pre-market scan; watch XLB for further deterioration and NVDA for continuation above HWM $209.75 to ratchet stop higher.
