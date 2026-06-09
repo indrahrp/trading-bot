@@ -717,3 +717,33 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-09 — Midday Scan Note
+
+*Note: PERPLEXITY_API_KEY not set — no live market research. Logging gap May 21–Jun 08 (trades occurred but not logged).*
+
+### Account
+- Equity: $106,913.72
+- Cash: $22,023.78 (20.6%)
+- Long market value: $84,889.94
+- Deployment: 79.4% ✓ (within 75-85% target)
+- Daytrade count: 0 | Phase P&L: +$6,913.72 (+6.91%)
+
+### Open Positions
+| SYM  | Shares | Avg Entry | Now     | Unreal P&L    | Stop (GTC live)                      |
+|------|--------|-----------|---------|---------------|--------------------------------------|
+| NVDA | 102    | $208.85   | $203.04 | -$593 (-2.78%) | 10% trail, HWM $211.40, stop $190.26 |
+| XLB  | 430    | $51.36    | $50.10  | -$542 (-2.45%) | 10% trail, HWM $52.20, stop $46.98   |
+| XLI  | 123    | $174.56   | $173.12 | -$177 (-0.83%) | 10% trail, HWM $176.58, stop $158.92 |
+| XLV  | 139    | $153.39   | $154.01 | +$86 (+0.40%)  | 10% trail, HWM $154.47, stop $139.02 |
+
+### Midday Assessment
+- No losers (all above -7% cut threshold)
+- No stop tightening (all below +15% threshold)
+- Thesis check: positions within normal intraday variance; no obvious breaks
+- Research: Perplexity unavailable (key not set) — cannot verify news-driven moves
+
+### Decision
+**HOLD all 4 positions.** No action taken. All stops live and correctly set.

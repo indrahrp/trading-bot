@@ -317,3 +317,36 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### ⚠️ Logging Gap: May 21 – Jun 08
+Trades occurred in this window but were not logged in real-time. Inferred from Alpaca positions snapshot (Jun 9):
+- **AMZN exited** (was open May 20 at $265.02; no longer in positions)
+- **TXN exited** (was open May 20 at $304.18; no longer in positions)
+- **NVDA closed & re-entered** (101 sh @ $218.04 → 102 sh @ $208.85 avg; likely sold near stop and re-bought lower)
+- **XLB entered**: 430 sh @ $51.36 avg (Materials sector ETF — was flagged as "Trade Idea #1" in May 20 research)
+- **XLI entered**: 123 sh @ $174.56 avg (Industrials sector ETF)
+- **XLV entered**: 139 sh @ $153.391 avg (Healthcare sector ETF)
+
+Exact entry dates, prices, and order IDs for AMZN/TXN exits and new entries are not recoverable without broker history. Logging resumes Jun 9.
+
+---
+
+### Jun 09 — Midday Scan
+**Portfolio:** $106,913.72 | **Cash:** $22,023.78 (20.6%) | **Deployed:** 79.4% ✓ | **Day P&L:** -$448.98 (-0.42%) | **Phase P&L:** +$6,913.72 (+6.91%)**
+
+#### Open Positions (midday)
+| Ticker | Shares | Avg Entry | Now      | Unreal P&L          | Stop                                   |
+|--------|--------|-----------|----------|---------------------|----------------------------------------|
+| NVDA   | 102    | $208.85   | $203.035 | -$593 (-2.78%)      | 10% trail, HWM $211.40, stop $190.26  |
+| XLB    | 430    | $51.36    | $50.10   | -$542 (-2.45%)      | 10% trail, HWM $52.20, stop $46.98    |
+| XLI    | 123    | $174.56   | $173.12  | -$177 (-0.83%)      | 10% trail, HWM $176.58, stop $158.92  |
+| XLV    | 139    | $153.391  | $154.01  | +$86 (+0.40%)       | 10% trail, HWM $154.47, stop $139.02  |
+
+**Actions:**
+- Losers: None — no position at -7%. NVDA -2.78%, XLB -2.45%, XLI -0.83%, XLV +0.40%. No cuts.
+- Stop tighten: None — all positions below +15% threshold. No action.
+- Thesis: NVDA (AI inference/datacenter), XLB (Materials momentum), XLI (Industrials), XLV (Healthcare) — all within normal variance; no known thesis breaks (Perplexity unavailable to verify)
+- Research: PERPLEXITY_API_KEY not set — no live news check.
+- **Deployment: 79.4% — within 75-85% target ✓. All GTC trailing stops confirmed live.**
