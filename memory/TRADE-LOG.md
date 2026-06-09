@@ -317,3 +317,17 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 09 — EOD Snapshot (Day 30, Monday)
+**Portfolio:** $108,132.09 | **Cash:** $22,023.78 (20.4%) | **Day P&L:** +$769.39 (+0.72%) | **Phase P&L:** +$8,132.09 (+8.13%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg  | Unrealized P&L        | Stop                                    |
+|--------|--------|----------|----------|----------|-----------------------|-----------------------------------------|
+| NVDA   | 102    | $208.85  | $207.45  | -0.57%   | -$142.80 (-0.67%)     | 10% trail, HWM $211.40, stop $190.26   |
+| XLB    | 430    | $51.36   | $50.69   | +1.46%   | -$288.10 (-1.31%)     | 10% trail, HWM $52.20, stop $46.98     |
+| XLI    | 123    | $174.56  | $175.80  | +1.25%   | +$152.52 (+0.71%)     | 10% trail, HWM $176.58, stop $158.92   |
+| XLV    | 139    | $153.39  | $154.88  | +1.46%   | +$206.90 (+0.97%)     | 10% trail, HWM $154.98, stop $139.48   |
+
+**Notes:** Portfolio rotated significantly since last log (May 20) — AMZN and TXN exited, XLB/XLI/XLV sector ETFs entered, NVDA re-entered at lower avg cost ($208.85 vs $218.04). Deployment at 79.6%, squarely in 75-85% target. Day was broadly positive: XLB/XLV +1.46%, XLI +1.25%, only NVDA slightly down (-0.57%). Two positions modestly underwater (NVDA -0.67%, XLB -1.31%) — both well above -7% cut threshold. No stop tighten needed (none near +15% from entry). No trades today. Week trades: 0/3. Tomorrow: watch NVDA and XLB for continued softness; sector ETF thesis (materials/industrials/healthcare rotation) intact.
