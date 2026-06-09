@@ -657,6 +657,53 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 
 ---
 
+## 2026-06-09 — Pre-market Research (inline, market-open workflow)
+
+### Account
+- Equity: $108,191.39
+- Cash: $22,023.78 (20.4%)
+- Buying power: $329,364.43
+- Long market value: $86,167.61 | Deployment: 79.6% ✓ (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Week trade count: 3/3 (NVDA + XLI + XLV entered June 8) — **WEEKLY CAP REACHED**
+
+### Open Positions
+| SYM  | Shares | Entry    | Ask     | P&L from Entry | Stop (GTC)                            |
+|------|--------|----------|---------|----------------|---------------------------------------|
+| NVDA | 102    | $208.85  | $210.42 | +0.75%         | 10% trail, HWM $211.40, stop $190.26  |
+| XLB  | 430    | $51.36   | $50.54  | -1.60% ⚠️     | 10% trail, HWM $52.20, stop $46.98    |
+| XLI  | 123    | $174.56  | $175.27 | +0.41%         | 10% trail, HWM $175.44, stop $157.90  |
+| XLV  | 139    | $153.39  | $153.67 | +0.18%         | 10% trail, HWM $154.47, stop $139.02  |
+
+### Market Context
+- PERPLEXITY_API_KEY not set — ClickUp alert sent; limited to Alpaca live data
+- All 4 positions green on the day (NVDA +0.94%, XLB +1.23%, XLI +0.96%, XLV +0.73%)
+- Balance note: AMZN and TXN closed since May 20; XLB entered ~May 29; NVDA/XLI/XLV entered June 8
+
+### Stop Tighten Check
+- NVDA +0.75%: below +15% threshold ($240.18) — no action
+- XLB -1.60%: below threshold — no action
+- XLI +0.41%: below +15% threshold ($200.74) — no action
+- XLV +0.18%: below +15% threshold ($176.40) — no action
+
+### Manual Cut Check
+- XLB -1.60%: above -7% threshold — hold; stop $46.98 = 7.0% below current price
+
+### Trade Ideas
+- **BLOCKED**: weekly trade cap 3/3 exhausted; no new entries possible
+
+### Risk Factors
+- XLB only position in the red; stop at $46.98 (7.0% below $50.54)
+- All stops confirmed live and active as GTC trailing orders
+- No Perplexity for news/catalyst research
+- Memory files (trade log, research log) not updated since May 20 — gap exists
+
+### Decision
+**HOLD all 4 positions.** Weekly cap 3/3 used. No new trades today.
+All stops live, no tightenings or cuts needed. Pre-market Wednesday: evaluate if any new entries available (fresh weekly cap).
+
+---
+
 ## 2026-05-21 — Pre-market Research
 
 > Note: PERPLEXITY_API_KEY not set in environment — research via WebSearch fallback. ClickUp alert sent.
