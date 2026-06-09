@@ -717,3 +717,70 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-09 — Pre-market Research
+
+> Note: PERPLEXITY_API_KEY not set in environment — research via WebSearch fallback. No .env file found.
+
+### Account Snapshot
+- **Equity:** $107,594.38 | **Cash:** $22,023.78 (20.5%)
+- **Long market value:** $85,570.60 | **Deployment:** 79.5% ✅ (within 75-85% target)
+- **Daytrade count:** 0 | PDT: false
+- **Phase P&L:** +$7,594.38 (+7.59% vs $100k baseline)
+
+### Open Positions
+| Ticker | Shares | Avg Entry | Now     | Unrealized P&L      | Stop (GTC)                              |
+|--------|--------|-----------|---------|---------------------|-----------------------------------------|
+| NVDA   | 102    | $208.85   | $209.22 | +$37.74 (+0.18%)    | 10% trail, HWM $209.75, stop $188.77   |
+| XLB    | 430    | $51.36    | $50.23  | -$485.90 (-2.20%)   | 10% trail, HWM $52.20, stop $46.98     |
+| XLI    | 123    | $174.56   | $173.90 | -$81.18 (-0.38%)    | 10% trail, HWM $174.99, stop $157.49   |
+| XLV    | 139    | $153.39   | $152.82 | -$79.85 (-0.37%)    | 10% trail, HWM $154.47, stop $139.02   |
+
+### Stop Tighten Check
+- NVDA +0.18%: no tighten (threshold +15% = $240.18)
+- XLB -2.20%, XLI -0.38%, XLV -0.37%: all negative, no action
+- All 4 GTC trailing stops confirmed live from orders feed
+
+### Portfolio Notes
+- AMZN and TXN positions exited since May 21 (not logged in current window)
+- NVDA rebuilt at lower avg $208.85 (vs prior $218.04); 1 extra share (102 vs 101)
+- Three new sector ETF positions added: XLB (Materials), XLI (Industrials), XLV (Healthcare)
+- Deployment 79.5% is healthy; no urgency to add
+
+### Market Context
+- **WTI:** ~$91–95/bbl | **Brent:** ~$94.48 (Jun 8) — geopolitical premium; Iran ceasefire talks ongoing
+- **S&P 500 futures:** ES +0.71%, NQ +1.40% premarket — chip rebound from Friday's -2.6% selloff
+- **VIX:** 18.92 (Jun 8 close, -12.04%); range 15–22 past month — moderate, trending down
+- **Friday context:** S&P -2.6% on May jobs +172k (vs 86k expected) → rate hike fear spiked; 9-week win streak broken
+- **Today's catalyst:** Chip stocks rebounding; Trump says Iran deal possible "within days"; Apple WWDC kicked off with Siri AI
+- **This week's data:** CPI Wednesday 6/10 ⚠️, PPI Thursday 6/11 ⚠️, U of M Sentiment Friday 6/12 — rate-sensitive week
+- **No FOMC today**; SpaceX IPO trading begins next Friday (liquidity event)
+- **Earnings today (22 reports):** No marquee S&P 500 names confirmed before open; bulk of Q1 season complete
+- **Sector YTD 2026:** Industrials and Healthcare outperform; Materials attracted $4.8B inflows; Tech recovering after Jan-Apr drag
+
+### Held Ticker News
+- **NVDA:** Jensen Huang announced LG Group partnership (humanoid robots + data center architecture) on Jun 8 — incremental positive. Q1 FY27 beat already priced in ($81.6B rev, +85% YoY). Current ~$208–209.
+- **XLB:** No specific catalyst; elevated oil/commodities support materials but rate hike fear headwind
+- **XLI:** Rotation narrative away from AI into industrials (CAT, Rockwell cited); positive backdrop
+- **XLV:** Outperform rating maintained; Eli Lilly GLP-1 dominance ongoing
+
+### Trade Ideas
+1. **HOLD all 4 positions** — deployment 79.5% is within target; no urgency to add risk before CPI (Wed)
+2. **Watch XLB** — at -2.2%; far from -7% cut but lagging peers; if rate hike fear intensifies post-CPI, may drag further. Re-evaluate after Wednesday data.
+3. **Potential add post-CPI** — if CPI prints soft (inflation cooling) → rate fear eases → risk-on; consider adding 5th position in momentum sector (XLE or individual industrial/healthcare name). Budget: ~$20k available within limits.
+
+### Risk Factors
+- Rate hike risk: May jobs +172k doubled consensus → market pricing in Fed action; CPI Wed is binary
+- Iran: ceasefire "days away" but Israel escalating in Lebanon — oil spike risk remains
+- SpaceX IPO next Friday: liquidity suck from momentum stocks
+- XLB underperforming: commodity demand uncertainty + strong USD headwind
+- Four positions all slightly underwater (ex NVDA flat): portfolio sensitive to broad selloff
+
+### Decision
+**HOLD — no new trades today.**
+- Pre-CPI tape is too uncertain; adding risk 1 day before inflation print violates patience discipline
+- All 4 stops in place; no manual cuts needed (none near -7%)
+- Re-evaluate Thursday post-PPI for potential 5th position entry if data favorable
+- Week trades: 0/3 available
