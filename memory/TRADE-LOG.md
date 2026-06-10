@@ -317,3 +317,25 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 10 — Midday Scan
+**Portfolio:** $106,450.49 | **Cash:** $22,023.78 (20.7%) | **Deployment:** 79.3% ✓ | **Day P&L:** -$1,723.80 (-1.59%) | **Phase P&L:** +$6,450.49 (+6.45%)
+
+> Note: AMZN and TXN positions exited between May 21–Jun 10 (stops triggered; intermediate exits not individually logged due to log gap). NVDA re-entered at lower avg ($208.85 vs prior $218.04). Sector ETFs XLB, XLI, XLV added to diversify away from semis per sector momentum strategy.
+
+#### Open Positions (midday)
+| Ticker | Shares | Entry    | Now      | Unreal P&L          | Stop                                     |
+|--------|--------|----------|----------|---------------------|------------------------------------------|
+| NVDA   | 102    | $208.85  | $202.51  | -$647 (-3.04%)      | 10% trail, HWM $211.40, stop $190.26    |
+| XLB    | 430    | $51.36   | $50.04   | -$570 (-2.58%)      | 10% trail, HWM $52.20, stop $46.98      |
+| XLI    | 123    | $174.56  | $170.95  | -$444 (-2.07%)      | 10% trail, HWM $176.58, stop $158.92    |
+| XLV    | 139    | $153.39  | $153.36  | -$4 (-0.02%)        | 10% trail, HWM $155.11, stop $139.60    |
+
+**Actions:**
+- Losers (≤-7%): None — deepest drawdown NVDA -3.04%. No cuts.
+- Stop tighten: None — all positions below entry, no +15%/+20% threshold reached.
+- Thesis: All 4 intact per strategy sector rules. Perplexity unavailable (key not set) — no intraday catalyst check.
+- No sharp moves requiring emergency research.
+- **Deployment: 79.3% — within 75-85% target ✓**
