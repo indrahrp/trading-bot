@@ -3,6 +3,68 @@
 Daily pre-market research entries will be appended here.
 Format each entry:
 
+---
+
+## 2026-06-10 — Pre-market Research
+
+> Note: PERPLEXITY_API_KEY not set — research via WebSearch fallback. ClickUp alert sent.
+
+### Account Snapshot
+- **Equity:** $107,310.59 | **Cash:** $22,023.78 (20.5%)
+- **Long market value:** $85,286.81 | **Deployment: 79.5%** ✓ (within 75-85% target)
+- **Daytrade count:** 0 | **PDT:** false
+- **Phase P&L:** +$7,310.59 (+7.3%) vs starting ~$100K
+
+### Open Positions
+
+| SYM  | Shares | Avg Entry | Last Price | Unrealized P&L        | Stop (GTC, live)                          |
+|------|--------|-----------|------------|-----------------------|-------------------------------------------|
+| NVDA | 102    | $208.85   | $203.68    | -$527 (-2.48%) ⚠️    | 10% trail, HWM $211.40, stop $190.26      |
+| XLB  | 430    | $51.36    | $50.41     | -$409 (-1.85%) ⚠️    | 10% trail, HWM $52.20, stop $46.98        |
+| XLI  | 123    | $174.56   | $174.00    | -$69 (-0.32%)         | 10% trail, HWM $176.58, stop $158.92      |
+| XLV  | 139    | $153.39   | $154.19    | +$112 (+0.52%)        | 10% trail, HWM $154.975, stop $139.48     |
+
+*Note: AMZN and TXN gone from prior log — replaced by XLB/XLI/XLV (undocumented in trade log; NVDA avg entry shifted to $208.85 from $218.04 — likely added shares).*
+
+### Stop Tighten Check
+- NVDA: -2.48% from entry — well below +15% tighten threshold ($240.18); no action
+- XLB: -1.85% from entry — no action
+- XLI: -0.32% from entry — no action
+- XLV: +0.52% from entry — no action
+
+### Market Context
+- **WTI:** ~$86–$91 | **Brent:** ~$90–$94 — elevated; US-Iran Hormuz disruption ongoing
+- **S&P 500 futures:** **DOWN ~0.47%** premarket — risk-off; Iran escalation + CPI uncertainty
+- **VIX:** ~20.45 (up +8.1% on June 9) — fear elevated; was 18.92 on June 8
+- **Iran-US conflict:** Ceasefire MOU reached (60-day), awaiting Trump approval; Strait of Hormuz partially disrupted; oil ghost fleet tanker seized by US Navy. Risk of escalation before deal is signed.
+- **CPI (May) at 8:30 AM:** Headline expected +0.5% MoM / +4.2% YoY (HOT); core +0.3% MoM / +2.9% YoY. April CPI was +3.8% — trend accelerating. CRITICAL event today.
+- **NVDA premarket:** -2.10% — broad tech selloff; Broadcom guidance miss (-20%) weighing on AI infra sector
+- **Sector YTD (approx):** XLB +13%, XLI +12%, XLV ~-3% — our ETF mix reflects momentum sectors
+
+### Earnings Today
+- **ORCL (Oracle):** Reports after close — AI cloud catalyst; no immediate impact pre-open
+- **CHWY (Chewy):** Possible pre-open — consumer discretionary; not held
+
+### Risk Factors
+1. **CPI hot print** (8:30 AM): headline 4.2% or higher → Fed stays hawkish longer → equity selloff, NVDA most exposed
+2. **Iran escalation**: If ceasefire collapses, oil spikes further, VIX jumps — broad selloff
+3. **NVDA -2.48% + premarket -2.10%**: Combined exposure ~-4.5% from entry; stop at $190.26 provides cushion but narrowing
+4. **Tech concentration**: NVDA is our only individual stock; XLB/XLI commodity-linked which partially hedge Iran risk
+5. **XLV thesis weak**: Healthcare YTD -3%, defensive but underperforming; keep monitoring
+
+### Trade Ideas
+1. **No new entries** — deployment 79.5% is in-band; CPI print at 8:30 must settle before any order. Forcing entry on a risk-off day violates the patience rule.
+2. **Post-CPI watch (XLE or energy ETF)**: If CPI hot AND Iran stays tense → energy inflation trade; XLE would benefit. Only valid if CPI > 4.2% and market digests within 30 min of open. Entry at open gap ≤3%, 10% trail GTC, target +15%.
+3. **NVDA monitor**: If NVDA breaches $196 at open (stop $190.26 = ~6.6% cushion), flag thesis review. Cut manually at -7% = $194.23. Current premarket ~$204 — cushion ~$3.74 above manual cut.
+
+### Decision
+**HOLD all positions. No new trades today.**
+- CPI at 8:30 AM is a binary risk event; enter nothing before the print
+- All 4 stops are active GTC trailing stops — downside protected
+- Deployment 79.5% is within target — no urgency to deploy
+- Post-CPI: if data benign AND oil/geopolitics stable → reassess XLE energy trade
+- Week trade count: 0/3 (new week) — budget preserved for better setups
+
 ## YYYY-MM-DD — Pre-market Research
 
 ### Account
