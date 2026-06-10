@@ -317,3 +317,17 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 10 — EOD Snapshot (Day 32, Wednesday)
+**Portfolio:** $105,777.89 | **Cash:** $22,023.78 (20.8%) | **Day P&L:** -$2,396.40 (-2.22%) | **Phase P&L:** +$5,777.89 (+5.78%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg  | Unrealized P&L          | Stop                                      |
+|--------|--------|----------|----------|----------|-------------------------|-------------------------------------------|
+| NVDA   | 102    | $208.85  | $200.06  | -3.91%   | -$896.58 (-4.21%)  ⚠️  | 10% trail, HWM $211.40, stop $190.26     |
+| XLB    | 430    | $51.36   | $49.51   | -2.49%   | -$796.10 (-3.61%)  ⚠️  | 10% trail, HWM $52.20, stop $46.98       |
+| XLI    | 123    | $174.56  | $169.57  | -3.43%   | -$613.77 (-2.86%)  ⚠️  | 10% trail, HWM $176.58, stop $158.92     |
+| XLV    | 139    | $153.39  | $152.56  | -1.30%   | -$115.57 (-0.54%)       | 10% trail, HWM $155.11, stop $139.60     |
+
+**Notes:** Broad red day — all four positions down. Portfolio rotated significantly since May 20 EOD: AMZN and TXN are gone, replaced by sector ETFs XLB (materials), XLI (industrials), and XLV (healthcare), plus an add/re-entry on NVDA (102 shares at $208.85 avg). Deployment is 79.2%, within the 75–85% target. NVDA at -4.21% from entry — approaching watch territory but not yet at the -7% manual cut. All trailing stops are in place. No trades today. Tomorrow: monitor NVDA closely; if it breaks toward $193 consider whether thesis still holds before stop triggers at $190.26.
