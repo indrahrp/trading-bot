@@ -717,3 +717,51 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-10 — Pre-market Research (inline, market-open workflow)
+
+*Note: PERPLEXITY_API_KEY not set — live Alpaca data only. ClickUp alert sent.*
+
+### Account
+- Equity: $107,527.12
+- Cash: $22,023.78 (20.5%)
+- Long market value: $85,503.34 | Deployment: 79.5% ✓ (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Week trade count: 3/3 (NVDA + XLI + XLV entered June 8 — cap exhausted)
+- Phase P&L: +$7,527.12 (+7.53%)
+
+### Open Positions
+| SYM  | Shares | Avg Entry | Ask    | Bid    | Unrealized P&L    | Stop (GTC, live)                           |
+|------|--------|-----------|--------|--------|-------------------|--------------------------------------------|
+| NVDA | 102    | $208.85   | $207.90| $205.67| -$330 (-1.55%)    | 10% trail, HWM $211.40, stop $190.26       |
+| XLB  | 430    | $51.36    | $50.57 | $50.55 | -$361 (-1.64%)    | 10% trail, HWM $52.20, stop $46.98         |
+| XLI  | 123    | $174.56   | $173.71| $173.58| -$92  (-0.43%)    | 10% trail, HWM $176.58, stop $158.92       |
+| XLV  | 139    | $153.39   | $154.23| $154.20| +$108 (+0.51%)    | 10% trail, HWM $155.11, stop $139.60       |
+
+### Thesis Check
+- **NVDA**: AI inference demand thesis intact; re-entered June 8 post-prior stop-out. HWM $211.40. Hold.
+- **XLB**: Materials ETF; sector diversification; entered May 29. HWM $52.20. Hold.
+- **XLI**: Industrials ETF; sector diversification; entered June 8. HWM $176.58. Hold.
+- **XLV**: Healthcare ETF; entered June 8; only green position today. HWM $155.11. Hold.
+
+### Stop Tighten Check
+- NVDA +15% threshold: $240.18 — current $205.61, not triggered
+- XLB +15% threshold: $59.06 — current $50.52, not triggered
+- XLI +15% threshold: $200.74 — current $173.81, not triggered
+- XLV +15% threshold: $176.40 — current $154.17, not triggered
+
+### Manual Cut Check (-7%)
+- All positions between -1.64% and +0.51% — no manual cuts required.
+
+### Trade Ideas
+- None. Weekly cap 3/3 used (NVDA + XLI + XLV June 8). No new entries eligible until June 16 (new week).
+
+### Risk Factors
+- All 4 positions slightly red on day — broad market mild selloff
+- PERPLEXITY unavailable — no macro/catalyst context
+- NVDA stop HWM $211.40; current $205.61 is 2.7% below HWM — within normal pullback range
+
+### Decision
+**HOLD all 4 positions.** Weekly cap exhausted. All stops live and correctly set. No tightenings needed. No manual cuts needed. Resume new entry evaluation June 16 (new week).
