@@ -317,3 +317,23 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 11 — Midday Scan
+**Portfolio:** $106,844.87 | **Cash:** $22,023.78 (20.6%) | **Deployment:** 79.4% ✓ | **Day P&L:** +$935.92 (+0.88%) | **Phase P&L:** +$6,844.87 (+6.84%)
+
+#### Open Positions (midday)
+| Ticker | Shares | Entry    | Now     | Unreal P&L          | Stop                                  |
+|--------|--------|----------|---------|---------------------|---------------------------------------|
+| NVDA   | 102    | $208.85  | $201.43 | -$757 (-3.55%) ⚠️   | 10% trail, HWM $211.40, stop $190.26  |
+| XLB    | 430    | $51.36   | $50.35  | -$436 (-1.98%)      | 10% trail, HWM $52.20, stop $46.98    |
+| XLI    | 123    | $174.56  | $172.32 | -$276 (-1.29%)      | 10% trail, HWM $176.58, stop $158.92  |
+| XLV    | 139    | $153.39  | $154.06 | +$93 (+0.44%)       | 10% trail, HWM $155.11, stop $139.60  |
+
+**Actions:**
+- Losers: None at -7%. NVDA -3.55% is largest drawdown — watch, but stop ($190.26) provides ~5.5% cushion from current ($201.43).
+- Stop tighten: None — no position at +15% threshold.
+- Thesis: NVDA intact (AI inference demand); XLB intact (materials sector momentum); XLI intact (industrials sector momentum); XLV intact (healthcare sector momentum). All four GTC trailing stops confirmed live.
+- Research: PERPLEXITY_API_KEY not set — no live news check. All 4 positions green on the day (+0.50% to +1.57% intraday); no sharp moves requiring investigation.
+- **Deployment: 79.4% — within 75-85% target ✓**
