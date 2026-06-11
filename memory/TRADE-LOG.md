@@ -317,3 +317,17 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 11 — EOD Snapshot (Day 32, Thursday)
+**Portfolio:** $107,843.64 | **Cash:** $22,023.78 (20.4%) | **Day P&L:** +$1,934.69 (+1.83%) | **Phase P&L:** +$7,843.64 (+7.84%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg  | Unrealized P&L        | Stop                                     |
+|--------|--------|----------|----------|----------|-----------------------|------------------------------------------|
+| NVDA   | 102    | $208.85  | $205.12  | +2.35%   | -$380.04 (-1.78%)     | 10% trail, HWM $211.40, stop $190.26    |
+| XLB    | 430    | $51.36   | $51.17   | +3.17%   | -$81.70 (-0.37%)      | 10% trail, HWM $52.20, stop $46.98      |
+| XLI    | 123    | $174.56  | $174.70  | +2.97%   | +$17.22 (+0.08%)      | 10% trail, HWM $176.58, stop $158.92    |
+| XLV    | 139    | $153.39  | $154.00  | +0.75%   | +$84.59 (+0.40%)      | 10% trail, HWM $155.15, stop $139.64    |
+
+**Notes:** Strong broad-market session: all four positions up intraday. Portfolio composition has rotated since last logged EOD (May 20, Day 17) — AMZN and TXN were exited, replaced with sector ETFs XLB (materials), XLI (industrials), XLV (healthcare) opened late May/early June; NVDA position adjusted to 102 shares. Deployment now 79.6%, within 75-85% target. No trades today. No positions near stop-tighten thresholds (none above +15% from entry). NVDA and XLB fractionally below entry but well above their 10% trail stops. Phase P&L pulled back from May 20 peak (+9.52%) to +7.84% — rotation drag from exiting TXN/AMZN gains. Tomorrow: monitor sector momentum; no new trades needed unless thesis breaks.
