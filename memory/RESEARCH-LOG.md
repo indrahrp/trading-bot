@@ -717,3 +717,62 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-11 — Pre-market Research
+
+> Note: PERPLEXITY_API_KEY not set in environment — research via WebSearch fallback. ClickUp alert sent.
+
+### Account Snapshot
+- **Equity:** $106,666.93 | **Cash:** $22,023.78 (20.6%)
+- **Long market value:** $84,643.15 | **Deployment: 79.4% ✓** (target 75-85%)
+- **Daytrade count:** 0 | PDT: false
+- **Phase P&L:** +$6,666.93 (+6.67%) from $100K start
+
+### Open Positions
+| SYM  | Shares | Entry   | Now     | Unrealized P&L  | Stop (GTC, live)                      |
+|------|--------|---------|---------|-----------------|---------------------------------------|
+| NVDA | 102    | $208.85 | $202.81 | -$617 (-2.89%)  | 10% trail, HWM $211.40, stop $190.26  |
+| XLB  | 430    | $51.36  | $50.00  | -$585 (-2.65%)  | 10% trail, HWM $52.20, stop $46.98    |
+| XLI  | 123    | $174.56 | $171.96 | -$320 (-1.49%)  | 10% trail, HWM $176.58, stop $158.92  |
+| XLV  | 139    | $153.39 | $153.28 | -$15 (-0.07%)   | 10% trail, HWM $155.11, stop $139.60  |
+
+**Stop-tighten check:** All positions below +15% threshold — no tightening needed.
+**Cut-loser check:** No position at -7% from entry — no manual cuts.
+
+### Market Context
+- **WTI:** ~$89-92/bbl | **Brent:** ~$92-95/bbl — US military strikes on Iran (Day 2, near Strait of Hormuz); supply premium elevated
+- **S&P 500 futures:** +0.78% pre-market; S&P 500 closed -1.62% yesterday at 7,266.99
+- **VIX:** 22.22 (+11.83% from prior close 18.92) — elevated; fear building on Iran escalation
+- **PPI May 2026:** Released **today at 8:30 AM ET** — April was +1.4% YoY; hot print = rate cut expectations reset
+- **Earnings today:** Adobe (ADBE), Lennar (LEN) — after close
+- **Oracle (ORCL):** Beat Q4 estimates but announced ~$40B capital raise for AI expansion → fell 9.4% pre-market on dilution concern
+- **AI chips:** NVDA, AMD, DELL, SMCI rising pre-market on Oracle $70B data center capex signal → AI demand intact narrative
+- **Sector YTD:** Leaders: Materials (+22%), Industrials (+12%), Energy, Staples | Laggards: Healthcare (-3%), Tech, Consumer Disc
+
+### Position Thesis Check
+- **NVDA:** -2.89% from entry; AI tailwind from Oracle capex intact; geopolitical/VIX headwind; stop $190.26 well below current; thesis intact
+- **XLB:** -2.65%; Materials leading sector YTD (+22%); slight pullback from HWM $52.20; thesis intact
+- **XLI:** -1.49%; Industrials strong YTD (+12%); thesis intact
+- **XLV:** -0.07%; Healthcare lagging YTD (-3%); barely below entry; watch — no breach yet
+
+### Trade Ideas
+1. **NVDA hold / no add** — pre-market AI tailwind but Iran risk + Oracle dilution overhang; let existing 10% trail manage
+2. **XLE (Energy) on watchlist** — Iran escalation + oil spike structurally benefits Energy; XLV underperforming; if XLV slips -3%+ next week, consider rotating to XLE (week permitting)
+3. **No new entry today** — Iran Day 2 + PPI unknown = binary risk; deployment 79.4% already in target range
+
+### Risk Factors
+- **Iran escalation (Day 2):** US strikes near Strait of Hormuz → oil spike risk, broad equity selloff; dominant macro risk today
+- **PPI at 8:30 AM ET:** Hot print (>Apr +1.4% YoY) → 10-yr yield spike → pressure on all 4 positions
+- **VIX 22.22:** Elevated; further escalation could push toward 25-30 range; all GTC trails provide backstop
+- **Oracle dilution contagion:** $40B capital raise spooks AI capex narrative; NVDA pre-market gains may fade
+- **All positions slightly underwater:** Broad selloff could approach -7% cut thresholds; stops are the net
+
+### Decision
+**HOLD all 4 positions. No new trades today.**
+- Wait for PPI 8:30 AM reaction before any trade consideration
+- Iran situation = binary; let stops protect capital
+- Deployment 79.4% = within target; no urgency to add
+- Review XLV and XLE rotation opportunity next week
+- Week trades: unknown (June 8 portfolio changes likely consumed most/all 3-trade weekly limit — assume 3/3)
