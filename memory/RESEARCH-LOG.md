@@ -717,3 +717,70 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-11 — Pre-market Research (inline, market-open workflow)
+
+*Note: PERPLEXITY_API_KEY not set — research via WebSearch fallback.*
+
+### Account
+- Equity: $106,543.36
+- Cash: $22,023.78 (20.7%)
+- Long market value: $84,519.58 | Deployment: 79.3% ✓ (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Week trade count: 3/3 **EXHAUSTED** (NVDA re-entry + XLI + XLV entered June 8)
+- Phase P&L: +$6,543.36 (+6.54%)
+
+### Open Positions
+| SYM  | Shares | Avg Entry | Now      | Unrealized P&L       | Stop (GTC, live)                      |
+|------|--------|-----------|----------|----------------------|---------------------------------------|
+| NVDA | 102    | $208.85   | $201.54  | -$745 (-3.50%)       | 10% trail, HWM $211.40, stop $190.26  |
+| XLB  | 430    | $51.36    | $50.14   | -$525 (-2.38%)       | 10% trail, HWM $52.20, stop $46.98    |
+| XLI  | 123    | $174.56   | $171.32  | -$399 (-1.86%)       | 10% trail, HWM $176.58, stop $158.92  |
+| XLV  | 139    | $153.39   | $153.47  | +$11 (+0.05%)        | 10% trail, HWM $155.11, stop $139.60  |
+
+### Market Context
+- S&P 500 futures: ~+1% (Polymarket 95% up open); rebounding from -1.62% Wednesday close (7,266.99)
+- Iran: US signaled conclusion of strikes — geopolitical fear subsiding; oil premium easing
+- **PPI (May) due today 8:30 AM ET**: consensus +0.7% MoM (vs April +1.4%) — expected cooling
+- NVDA Q1 FY27 (May 20): revenue $81.6B (+85% YoY), DC +92%, Q2 guide $91B; $80B buyback — thesis intact
+- XLV: moved above 50-day MA on June 3 (bullish technical signal); demographic + AI drug dev tailwinds
+- XLI: sector had +19.99% 1-year return; mixed recent sentiment on tariff/trade dynamics
+- XLB: no specific catalyst — monitoring sector momentum
+
+### Stop Tighten Check
+- NVDA -3.5%: no tighten (need +15% = $240.18)
+- XLB -2.4%: no tighten
+- XLI -1.9%: no tighten
+- XLV +0.05%: no tighten
+
+### Thesis Check
+- **NVDA**: Q1 FY27 massive beat; DC revenue $75.2B +92% YoY; Q2 guide $91B; $80B buyback. Current -3.5% from entry — within normal variance; stop at $190.26 (5.6% below current). INTACT.
+- **XLB**: Materials sector momentum (was +22% YTD in May); stop at $46.98 (6.3% below current). INTACT — monitor.
+- **XLI**: Industrials in YTD momentum; stop at $158.92 (7.2% below current). INTACT.
+- **XLV**: Healthcare structural tailwinds (aging population, AI drug dev); above 50-day MA. Stop at $139.60. INTACT.
+
+### Manual Cut Check
+- NVDA -3.5%: above -7% threshold ✓
+- XLB -2.4%: above -7% ✓
+- XLI -1.9%: above -7% ✓
+- XLV +0.05%: above -7% ✓
+- No manual cuts required.
+
+### Trade Ideas
+1. **None** — weekly trade cap at 3/3; no new entries permitted this week.
+
+### Risk Factors
+- Weekly cap exhausted — cannot add positions until next week (June 16+)
+- PPI data today: hot print could reprice rate expectations → equities lower after open gap-up
+- NVDA down from HWM $211.40; if market sells off post-PPI, stop at $190.26 (5.6% cushion) is reachable
+- All 4 positions slightly below entry — portfolio in mild drawdown; depend on stops for protection
+- US-Iran situation fluid — any re-escalation reverses today's futures gap-up
+
+### Decision
+**HOLD all 4 positions.** No new trades — weekly cap 3/3 exhausted.
+- All stops live and correct per GTC trailing orders.
+- No manual cuts needed (all above -7%).
+- No stop tightenings needed (none at +15%).
+- Next trade window: week of June 16. Evaluate new entries if deployment drops below 75% (stop-out risk) or fresh catalyst emerges.
