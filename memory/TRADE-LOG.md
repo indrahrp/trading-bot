@@ -317,3 +317,25 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 12 — Market-Open Snapshot (Day ~35, Friday)
+**Portfolio:** $108,297.18 | **Cash:** $22,023.78 (20.3%) | **Deployment:** 79.7% ✅ | **Phase P&L:** +$8,297.18 (+8.30%)**
+
+> Note: TRADE-LOG gap May 21–Jun 11 (log not committed during that period). Positions reconstructed from live Alpaca data. PERPLEXITY_API_KEY not set — no new research today.
+
+| Ticker | Shares | Entry    | Now      | Unrealized P&L     | Stop (GTC, live)                           |
+|--------|--------|----------|----------|--------------------|--------------------------------------------|
+| NVDA   | 102    | $208.85  | $203.85  | -$509 (-2.39%)     | 10% trail, HWM $211.40, stop $190.26       |
+| XLB    | 430    | $51.36   | $51.96   | +$258 (+1.17%)     | 10% trail, HWM $52.20, stop $46.98         |
+| XLI    | 123    | $174.56  | $176.25  | +$213 (+0.99%)     | 10% trail, HWM $176.58, stop $158.92       |
+| XLV    | 139    | $153.39  | $154.43  | +$143 (+0.67%)     | 10% trail, HWM $155.16, stop $139.64       |
+
+**Actions:**
+- Cuts: None — NVDA -2.39% (cut threshold $194.26); all others positive.
+- Stop tighten: None — NVDA/XLB/XLI/XLV all below +15% trigger thresholds.
+- New trades: **BLOCKED — 3/3 this week** (NVDA re-entry + XLI + XLV entered Jun 8; XLB entered May 29).
+- All 4 GTC trailing stops confirmed live and correctly calculated (qty_available=0 on all positions).
+- Deployment 79.7% — within 75-85% target; no urgency.
+- **No trades executed today.**
