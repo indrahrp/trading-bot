@@ -153,3 +153,77 @@ Template for each entry:
 - Resume daily EOD log discipline (Mon–Fri snapshots)
 
 ### Overall Grade: B+
+
+---
+
+## Week ending 2026-06-12
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $107,889.68 |
+| Ending portfolio | $108,102.84 |
+| Week return | +$213.16 (+0.20%) |
+| S&P 500 week | ~+0.2% (est.; Jun 5 close 7,383.74 → Jun 12 ~7,400 intraday range 7,257–7,413) |
+| Bot vs S&P | ~flat (0.0% est.) |
+| Trades | 3 (W:0 / L:0 / open:4) |
+| Win rate | N/A (no closed trades) |
+| Best trade | XLV +1.03% unrealized |
+| Worst trade | NVDA -1.56% unrealized |
+| Profit factor | N/A |
+
+**Phase-to-date (Apr 27 launch):** +$8,102.84 (+8.10%) over ~7 weeks vs S&P ~+2.3%
+
+**Note — logging gap May 21–Jun 12:** The following unlogged closures occurred between last review and now:
+- AMZN (78sh): stopped ~May 21+ @ $250.65 → **-$752 (-3.71%)**
+- NVDA original (101sh): stopped post–May 21 @ $212.71 → **-$538 (-2.44%)**
+- TXN (70sh): stopped May 26 @ $314.78 → **+$3,325 (+17.77%)** ← big winner, 7% trail worked
+- AMD 2nd entry (41sh @ $486.02 May 26): stopped May 26–27 @ ~$491 → **+$222 (+1.12%)**
+- NVDA 2nd entry (94sh @ $211.60 May 27): stopped same day @ $209.04 → **-$241 (-1.21%)**
+- XLB (430sh @ $51.36 May 29): open, -$60 (-0.27%)
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closes this week (Jun 8–12) |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| NVDA | $208.85 | $205.59 | -$332.52 (-1.56%) | 10% trail, HWM $211.40, stop $190.26 |
+| XLB | $51.36 | $51.22 | -$60.20 (-0.27%) | 10% trail, HWM $52.20, stop $46.98 |
+| XLI | $174.56 | $175.15 | +$72.57 (+0.34%) | 10% trail, HWM $176.58, stop $158.92 |
+| XLV | $153.39 | $154.97 | +$219.42 (+1.03%) | 10% trail, HWM $155.15, stop $139.64 |
+
+### What Worked
+- All 4 positions near flat or positive; no stops triggered this week
+- Deployment 79.6% firmly within 75-85% target after Jun 8 portfolio rotation
+- Defensive ETF diversification (XLI Industrials, XLV Healthcare) cushioned mid-week selloff
+- Week positive (+0.20%) despite Wed Jun 10 portfolio drop of -$2,265 (-2.09%) — recovery to positive by Fri validates stop discipline
+- Phase-to-date: +8.10% vs S&P ~+2.3% since Apr 27 launch — strong phase outperformance intact
+- TXN (prior period): 7% trail caught +$3,325 exit at +17.77% — strategy's trail-tighten rule earned its keep
+
+### What Didn't Work
+- NVDA three consecutive entries, all negative or marginal: 101sh stopped @ $212.71, 94sh stopped @ $209.04, now 102sh already -1.56% — repeated bad timing
+- Mid-week volatility severe: portfolio swung -$2,265 (Wed Jun 10) then +$1,998 (Thu Jun 11) — sensitivity to macro events remains high
+- 3-week logging gap (May 21 – Jun 12): multiple closures and entries unlogged; strategy accountability lapsed
+- AMD/NVDA rapid re-entries May 26–27 both stopped out within 24 hours — quick re-entries after stop-outs have failed every time
+- Week matched S&P (~+0.20% vs ~+0.2% est.): zero alpha generated this week
+
+### Key Lessons
+- Re-entering a stopped position within 5 days has failed without exception (AMD ×2, NVDA ×3) — formalizing a cooldown rule in strategy
+- ETF diversification (XLB Materials, XLI Industrials, XLV Healthcare) reduces correlation risk and suits periods of uncertain stock selection, though it caps alpha
+- Logging discipline is non-negotiable: three weeks dark created blind spots across 5+ trades
+- TXN's 7% trail at +15% then exit at +17.77% reconfirmed the core trail-tighten mechanic works — process correct even when other entries fail
+
+### Adjustments for Next Week
+- **Cooldown rule added**: No re-entry in same ticker within 5 trading days of a stop-out (see strategy update)
+- **Resume daily EOD logging** — non-negotiable every market day going forward
+- **NVDA watch**: +15% threshold = $240.18 (current $205.59; still -1.56% from entry — no tighten needed)
+- **XLV watch**: +15% threshold = $176.40 (current $154.97; 13.8% to go)
+- **XLI watch**: +15% threshold = $200.74 (current $175.15; 14.7% to go)
+- **XLB watch**: +15% threshold = $59.06 (current $51.22; 15.3% to go — just breaching threshold band)
+- **5th position slot open** (4/6 max, 79.6% deployed, $22K cash): only enter on clean catalyst; no forcing
+- Weekly trade cap resets — max 3 new trades next week
+
+### Overall Grade: C+

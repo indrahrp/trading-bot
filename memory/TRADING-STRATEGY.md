@@ -21,6 +21,7 @@ Beat the S&P 500 over the challenge window. Stocks only — no options, ever.
 9. Follow sector momentum
 10. Exit a sector after 2 consecutive failed trades
 11. Patience > activity
+12. No re-entry in same ticker within 5 trading days of a stop-out
 
 ## Entry Checklist
 - Specific catalyst?
