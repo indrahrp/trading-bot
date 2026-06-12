@@ -317,3 +317,25 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 12 — Midday Scan
+**Portfolio:** $108,181.97 | **Cash:** $22,023.78 (20.4%) | **Deployment:** 79.6% ✓ | **Day P&L:** +$274.89 (+0.25%) | **Phase P&L:** +$8,181.97 (+8.18%)
+
+> ⚠️ **Record gap**: Trade log last updated May 20. Positions changed significantly May 21–Jun 11 (AMZN/TXN closed, NVDA averaged/added to, XLB/XLI/XLV opened). Entries for that window were not committed; documenting live state now.
+
+#### Open Positions (midday)
+| Ticker | Shares | Avg Entry | Now     | Unreal P&L           | Stop                                     |
+|--------|--------|-----------|---------|----------------------|------------------------------------------|
+| NVDA   | 102    | $208.85   | $204.345 | -$459.51 (-2.16%)  | 10% trail, HWM $211.40, stop $190.26    |
+| XLB    | 430    | $51.36    | $51.99  | +$270.90 (+1.23%)   | 10% trail, HWM $52.22, stop $46.998     |
+| XLI    | 123    | $174.56   | $175.40 | +$103.32 (+0.48%)   | 10% trail, HWM $176.61, stop $158.949   |
+| XLV    | 139    | $153.391  | $153.60 | +$28.99 (+0.14%)    | 10% trail, HWM $155.155, stop $139.6395 |
+
+**Actions:**
+- Losers: None at -7%. NVDA -2.16% — watch; stop $190.26 well below current $204.35 (6.9% cushion).
+- Stop tighten: None — all positions below +15% threshold. No tightenings needed.
+- Thesis: No recent research in log; PERPLEXITY_API_KEY not set. ETF positions (XLB/XLI/XLV) on sector momentum thesis (Materials/Industrials/Healthcare); NVDA on AI inference demand thesis. No obvious intraday thesis break.
+- Research: Perplexity unavailable (key not set). No sharp moves requiring investigation.
+- **Deployment: 79.6% — within 75-85% target ✓**

@@ -657,6 +657,33 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 
 ---
 
+## 2026-06-12 — Midday Addendum
+
+### Account
+- Equity: $108,181.97 | Cash: $22,023.78 (20.4%) | Deployment: 79.6% ✓
+- Daytrade count: 0 | PDT: false
+- Phase P&L: +$8,181.97 (+8.18%) | Day P&L: +$274.89 (+0.25%)
+
+### Open Positions
+| SYM  | Shares | Entry    | Now     | P&L              | Stop                                       |
+|------|--------|----------|---------|------------------|--------------------------------------------|
+| NVDA | 102    | $208.85  | $204.345| -2.16%           | 10% trail, HWM $211.40, stop $190.26       |
+| XLB  | 430    | $51.36   | $51.99  | +1.23%           | 10% trail, HWM $52.22, stop $46.998        |
+| XLI  | 123    | $174.56  | $175.40 | +0.48%           | 10% trail, HWM $176.61, stop $158.949      |
+| XLV  | 139    | $153.391 | $153.60 | +0.14%           | 10% trail, HWM $155.155, stop $139.6395    |
+
+### Midday Assessment
+- No losers (threshold -7%). NVDA -2.16% is largest drag; stop $190.26 = 6.9% cushion.
+- No stop tightenings needed (all below +15% from entry).
+- Perplexity unavailable (key not set) — no live news check.
+- Sector ETF theses (XLB/XLI/XLV) and NVDA AI inference thesis assumed intact absent Perplexity data.
+- ⚠️ Record gap May 21–Jun 11: trades made in that window not yet documented.
+
+### Decision
+**HOLD all 4 positions.** No cuts, no tightenings, no new trades.
+
+---
+
 ## 2026-05-21 — Pre-market Research
 
 > Note: PERPLEXITY_API_KEY not set in environment — research via WebSearch fallback. ClickUp alert sent.
