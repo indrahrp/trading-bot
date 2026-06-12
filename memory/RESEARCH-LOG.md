@@ -717,3 +717,67 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-12 — Pre-market Research
+
+> Note: PERPLEXITY_API_KEY and PERPLEXITY_MODEL not set in environment — research via WebSearch fallback. ClickUp alert sent.
+
+### Account
+- Equity: $108,264.55 | Cash: $22,023.78 (20.3%)
+- Long market value: $86,240.77 | **Deployment: 79.7% ✓ (target 75-85%)**
+- Daytrade count: 0 | PDT: false
+- Phase P&L: +$8,264.55 (+8.26%) vs $100K base
+
+### Open Positions
+| SYM  | Shares | Avg Entry | Now     | Unrealized P&L     | Stop (GTC trail)                        |
+|------|--------|-----------|---------|--------------------|-----------------------------------------|
+| NVDA | 102    | $208.85   | $206.05 | -$285.60 (-1.34%) ⚠️ | 10% trail, HWM $211.40, stop $190.26  |
+| XLB  | 430    | $51.36    | $51.45  | +$37.93 (+0.17%)   | 10% trail, HWM $52.20, stop $46.98     |
+| XLI  | 123    | $174.56   | $176.02 | +$179.58 (+0.84%)  | 10% trail, HWM $176.58, stop $158.92   |
+| XLV  | 139    | $153.39   | $154.32 | +$129.07 (+0.61%)  | 10% trail, HWM $155.15, stop $139.64   |
+
+### Stop Tighten Check
+- NVDA: -1.34% — no tighten; -7% cut threshold $194.23; current $206.05 well above. Monitor.
+- XLB/XLI/XLV: all positive <1% — no tighten thresholds met (+15% @ $59.06/$200.74/$176.40)
+- No position near +15% or +20% thresholds
+
+### Market Context
+- **WTI**: ~$86/bbl (dropping, 2-month low) | **Brent**: ~$89.38 (-$1.00 from $90.38)
+  - Driver: Trump announced Iran peace deal possible this weekend; geopolitical risk premium unwinding
+- **S&P 500 futures**: +0.18% premarket — muted; SpaceX IPO today dominating investor attention
+- **VIX**: 19.44 (Jun 11 close, -12.5%); intraday spike ~21.38 → borderline caution zone (>20)
+- **SpaceX IPO**: $135/share, raising ~$75B, implied valuation $1.78T — largest IPO in history; liquidity drain risk
+- **Catalysts today**: Mich Consumer Sentiment (10 AM); SpaceX trading debut; Iran deal headline risk
+- **Earnings today**: FRHC, DXYZ + ~7 minor names — no major market-movers; earnings season winding down
+- **Economic (this week)**: May CPI released — core +0.2% MoM / +2.9% YoY (cooler than April's +0.4%); PPI also released this week. Rate hike odds: 70% chance one 0.25% hike by Dec 2026 (CME FedWatch Jun 9)
+- **Sector momentum**: XLI +20% past year (leading); XLV outperform/defensive (low beta 0.58); XLB double-digit YTD but MACD turned negative Jun 8 ⚠️; Tech lagging
+
+### Current Holdings News
+- **NVDA**: 4th consecutive week of losses; Vera AI chips push to China customers ongoing; KKR/NVDA/Vistra/Kuwait $10B Helix Digital Infrastructure deal — AI data center demand intact; analyst consensus Strong Buy, avg PT $298.42 (+49% upside). Thesis intact but price action weak.
+- **XLB**: MACD turned negative Jun 8 — momentum signal deteriorating; traded $50.20-$50.82 past week. Top holdings: LIN, NEM, FCX, SHW. Iran deal mildly negative for commodity complex short-term.
+- **XLI**: Strong industrials narrative; CAT + GE Aerospace leading. Infrastructure/AI buildout structural tailwind. Positive.
+- **XLV**: Defensive rotation play; LLY/JNJ/ABBV/UNH top holdings solid. Policy uncertainty remains but XLV low-beta offers stability if VIX stays elevated. Positive.
+
+### Trade Ideas
+1. **NVDA monitor** — If price recovers above HWM $211.40 on volume, thesis re-affirming; do NOT add here. If drops toward $198-200 with continued sector weakness, watch for stop trigger at $190.26 — let it work. No action needed today.
+2. **XLE short-term avoid** — Oil falling on Iran deal; we hold no energy exposure. Do not add XLE in this environment.
+3. **XLU/XLP defensive add** — If VIX holds >20 and rate hike risk builds, adding a 5th position in XLU (Utilities) or XLP (Staples) could provide defensive hedge. Position ~$20K (18.5% equity). Currently at 4 positions (room for 1-2 more per rules). Wait for clearer VIX signal — defer to next week.
+
+### Risk Factors
+- NVDA -1.34% from entry, 4 weeks of losses — stop at $190.26 ($15.79 below current); thesis intact but patience required
+- XLB MACD negative since Jun 8 — momentum fading; watch $50 support level
+- SpaceX IPO liquidity drain: large investors rotating cash into SPCE could pressure existing holdings
+- VIX ~21 intraday — above 20 = elevated uncertainty; rate hike odds building (70% by Dec)
+- Iran peace deal: oil drop broadly deflationary signal; check XLB commodity exposure (LIN, NEM, FCX)
+- Bond yield spike noted in market commentary — headwind for growth/valuation multiples (NVDA P/E at risk)
+
+### Decision
+**HOLD — all 4 positions. No new trades today.**
+- Deployment 79.7% ✓ — in target range; no urgency to add
+- NVDA: thesis intact (analyst PT +49%); stop $190.26 protecting downside; let trailing stop work
+- XLB: MACD warning noted; stop $46.98 live — if triggered, reassess Materials sector exposure
+- XLI/XLV: positive momentum, stops in place, no action needed
+- New entry criteria not met: no clear catalyst + VIX elevated + SpaceX IPO disruption today
+- Next window: Monday June 15 pre-market; reassess XLB momentum; evaluate XLU/XLP if VIX >20 persists
