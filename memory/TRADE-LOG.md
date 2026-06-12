@@ -317,3 +317,17 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 12 — EOD Snapshot (Day 33, Thursday)
+**Portfolio:** $108,537.75 | **Cash:** $22,023.78 (20.3%) | **Day P&L:** +$630.67 (+0.58%) | **Phase P&L:** +$8,537.75 (+8.54%)
+
+| Ticker | Shares | Entry    | Close   | Day Chg  | Unrealized P&L        | Stop                                      |
+|--------|--------|----------|---------|----------|-----------------------|-------------------------------------------|
+| NVDA   | 102    | $208.85  | $205.32 | +0.22%   | -$360.06 (-1.69%)     | 10% trail, HWM $211.40, stop $190.26     |
+| XLB    | 430    | $51.36   | $52.29  | +2.09%   | +$399.90 (+1.81%)     | 10% trail, HWM $52.36, stop $47.12       |
+| XLI    | 123    | $174.56  | $176.48 | +0.76%   | +$236.16 (+1.10%)     | 10% trail, HWM $176.61, stop $158.95     |
+| XLV    | 139    | $153.39  | $153.81 | -0.18%   | +$58.18 (+0.27%)      | 10% trail, HWM $155.16, stop $139.64     |
+
+**Notes:** Log gap since May 20 — portfolio rotated from AMZN/TXN (exited) and added sector ETFs XLB (May 29), XLI/XLV (Jun 8); NVDA position adjusted to 102sh avg $208.85 (was 101sh @ $218.04). Today modest green: XLB led at +2.09% on materials strength, XLI +0.76%, XLV -0.18%, NVDA +0.22%. NVDA remains slightly underwater (-1.69% from avg) but well above stop $190.26. XLI HWM $176.61 vs close $176.48 — nearly equal, stop safely at $158.95. Deployment 79.7% within 75-85% target. No trades today; 0/3 trades this week. Tomorrow (Friday): hold all four, no new entries needed. Watch NVDA for continued weakness; Juneteenth holiday Jun 19.
