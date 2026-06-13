@@ -317,3 +317,20 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 13 — Weekend Portfolio Snapshot (3-week gap recovery)
+
+**Portfolio:** $108,440.29 | **Cash:** $22,023.78 (20.3%) | **Deployment:** 79.7% ✓ | **Phase P&L:** +$8,440.29 (+8.44%)
+
+*Note: RESEARCH-LOG and TRADE-LOG have a 3-week gap (May 21→Jun 13). AMZN and TXN closed during this period — exact dates/prices not recovered from available data. XLB entered ~May 29; XLI and XLV entered ~Jun 8. NVDA position adjusted (avg entry revised to $208.85, 102 shares).*
+
+| Ticker | Shares | Avg Entry | Jun 12 Close | Unrealized P&L       | Stop (GTC, live)                       |
+|--------|--------|-----------|--------------|----------------------|----------------------------------------|
+| NVDA   | 102    | $208.85   | $205.19      | -$373 (-1.75%) ⚠️   | 10% trail, HWM $211.40, stop $190.26  |
+| XLB    | 430    | $51.36    | $52.18       | +$353 (+1.60%)       | 10% trail, HWM $52.355, stop $47.12   |
+| XLI    | 123    | $174.56   | $176.18      | +$199 (+0.93%)       | 10% trail, HWM $176.61, stop $158.95  |
+| XLV    | 139    | $153.39   | $153.81      | +$58 (+0.27%)        | 10% trail, HWM $155.155, stop $139.64 |
+
+**All trailing stops confirmed live as of Jun 12 close.** No tightenings needed (none near +15% threshold). Market closed Saturday — no action. Monitor NVDA at open Monday: manual cut if price approaches -7% from avg entry ($194.23).

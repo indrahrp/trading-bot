@@ -717,3 +717,56 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-13 — Weekend Portfolio Snapshot (market closed)
+
+*Note: PERPLEXITY_API_KEY not set. Today is Saturday — no trades possible. Logging 3-week gap since last entry (May 21).*
+
+### Account (as of June 12 close)
+- Equity: $108,440.29
+- Cash: $22,023.78 (20.3%)
+- Long market value: $86,416.51
+- Deployment: 79.7% ✓ (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (fresh week starting Mon Jun 16)
+- Phase P&L: +$8,440.29 (+8.44%)
+
+### Portfolio Restructure (May 21 → June 13, undocumented period)
+Since last RESEARCH-LOG entry (May 21), portfolio completely restructured:
+- **AMZN**: closed (stopped out or sold — exact date/price undocumented)
+- **TXN**: closed (stopped out or sold — exact date/price undocumented)
+- **NVDA**: held and re-entered or basis adjusted; avg entry changed $218.04→$208.85, qty 101→102 sh
+- **NEW — XLB (430 sh @ $51.36)**: Materials ETF; entered ~May 29 per GTC stop creation date
+- **NEW — XLI (123 sh @ $174.56)**: Industrials ETF; entered ~June 8
+- **NEW — XLV (139 sh @ $153.39)**: Healthcare ETF; entered ~June 8
+
+### Open Positions
+| SYM  | Shares | Avg Entry | Jun 12 Close | Unrealized P&L      | Stop (GTC, live)                        |
+|------|--------|-----------|--------------|---------------------|-----------------------------------------|
+| NVDA | 102    | $208.85   | $205.19      | -$373 (-1.75%) ⚠️  | 10% trail, HWM $211.40, stop $190.26   |
+| XLB  | 430    | $51.36    | $52.18       | +$353 (+1.60%)      | 10% trail, HWM $52.355, stop $47.12    |
+| XLI  | 123    | $174.56   | $176.18      | +$199 (+0.93%)      | 10% trail, HWM $176.61, stop $158.95   |
+| XLV  | 139    | $153.39   | $153.81      | +$58 (+0.27%)       | 10% trail, HWM $155.155, stop $139.64  |
+
+### Stop Tighten Check (Saturday)
+- NVDA: -1.75% from entry — far below +15% threshold ($240.18)
+- XLB: +1.60% — far below +15% threshold ($59.06)
+- XLI: +0.93% — far below +15% threshold ($200.74)
+- XLV: +0.27% — far below +15% threshold ($176.40)
+- **No tightenings needed**
+
+### Risk Flags
+- **NVDA at -1.75%**: Below avg entry; HWM $211.40 (Jun 9 peak); price has drifted -2.9% off HWM. Stop $190.26 = 7.3% below current price. NOT at -7% manual cut threshold ($194.23) — hold per rules.
+- **Logging gap**: No RESEARCH-LOG, TRADE-LOG, or WEEKLY-REVIEW entries from May 21 → Jun 13. Exact exit prices/dates for AMZN and TXN not recovered.
+- **PERPLEXITY_API_KEY missing**: Limits catalyst research capability each session.
+- All 4 GTC trailing stops confirmed live and current as of Jun 12 close.
+
+### Decision
+**HOLD — market closed (Saturday).** No trades possible.
+**Monday June 16 priorities:**
+1. Verify NVDA thesis still intact; if price approaches -7% ($194.23), cut manually
+2. Research XLB/XLI/XLV sector momentum for week — confirm theses
+3. Week trade count: 0/3 available if strong catalyst identified
+4. Deployment 79.7% in range — no urgency to add unless opportunity emerges
