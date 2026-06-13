@@ -317,3 +317,35 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### May 21 – Jun 12 — LOG GAP (reconstructed from Alpaca state)
+Memory files not updated during this period. Positions reconstructed from live Alpaca data (June 13):
+- AMZN and TXN positions closed (not in current account) — dates/prices unknown
+- NVDA position restructured: 101 sh @ $218.04 closed; re-entered as 102 sh @ $208.85 (avg, ~June 8 based on stop order timestamp)
+- XLB entered ~May 29: 430 sh @ $51.36 ($22,085 cost)
+- XLI entered ~June 8: 123 sh @ $174.56 ($21,471 cost)
+- XLV entered ~June 8: 139 sh @ $153.39 ($21,321 cost)
+All trailing stops placed as GTC 10% trail at entry.
+
+---
+
+### Jun 13 — Midday Scan (Friday)
+**Portfolio:** ~$110K est | **Deployment:** ~78% est | **Phase P&L:** est. +10-12%
+
+#### Open Positions (midday — change_today=0; prices = prior close)
+| Ticker | Shares | Avg Entry | Current | Unrealized P&L    | Stop (GTC, 10% trail)                  |
+|--------|--------|-----------|---------|-------------------|----------------------------------------|
+| NVDA   | 102    | $208.85   | $205.19 | -$373 (-1.75%)    | HWM $211.40, stop $190.26              |
+| XLB    | 430    | $51.36    | $52.18  | +$353 (+1.60%)    | HWM $52.355, stop $47.12               |
+| XLI    | 123    | $174.56   | $176.18 | +$199 (+0.93%)    | HWM $176.61, stop $158.95              |
+| XLV    | 139    | $153.39   | $153.81 | +$58 (+0.27%)     | HWM $155.155, stop $139.64             |
+
+**Actions:**
+- Losers: None at -7%. NVDA -1.75% — within normal variance. No cut.
+- Stop tighten: None — all positions below +15% threshold. No tightenings.
+- Thesis: All positions have intact stops; no sharp intraday moves requiring research. Perplexity unavailable (key not set).
+- Research: PERPLEXITY_API_KEY not set — skipped.
+- ClickUp: No action taken — no notification sent.
+- Deployment: ~78% est — within 75-85% target ✓
