@@ -717,3 +717,50 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-14 — Sunday Assessment (market closed; next trading day Monday June 15)
+
+*Note: PERPLEXITY_API_KEY not set — no live research. ClickUp alert sent.*
+
+### Account (Friday June 12 close)
+- Equity: $108,440.29
+- Cash: $22,023.78 (20.3%)
+- Long market value: $86,416.51 | Deployment: 79.7% ✓ (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Week trades: 0/3 (fresh weekly cap — week of June 15-19)
+- Phase P&L: +$8,440.29 (+8.44%)
+
+### Open Positions
+| SYM  | Shares | Avg Entry | June 12 Close | Unrealized P&L   | Stop (GTC, live)                      |
+|------|--------|-----------|---------------|------------------|---------------------------------------|
+| NVDA | 102    | $208.85   | $205.19       | -$373 (-1.75%)   | 10% trail, HWM $211.40, stop $190.26  |
+| XLB  | 430    | $51.36    | $52.18        | +$353 (+1.60%)   | 10% trail, HWM $52.355, stop $47.12   |
+| XLI  | 123    | $174.56   | $176.18       | +$199 (+0.93%)   | 10% trail, HWM $176.61, stop $158.95  |
+| XLV  | 139    | $153.39   | $153.81       | +$58 (+0.27%)    | 10% trail, HWM $155.155, stop $139.64 |
+
+### Stop Tighten Check
+- NVDA: -1.75% from entry — far below +15% threshold. No tighten.
+- XLB: +1.60% — no tighten.
+- XLI: +0.93% — no tighten.
+- XLV: +0.27% — no tighten.
+- Manual cut check: NVDA -7% floor = $194.23; current $205.19 — safe ✓
+
+### Market Context
+- Market closed Sunday; no catalyst data available
+- PERPLEXITY_API_KEY missing — no live research capability
+
+### Trade Ideas
+- None — deployment 79.7% within 75-85% target; no urgency
+- Position count: 4/6 max; 0/3 weekly trades available Monday
+
+### Risk Factors
+- NVDA -1.75% from entry; stop $190.26 (7.3% cushion from June 12 close $205.19). Monday gap-down risk.
+- Sector diversification: NVDA (semis) + XLB (materials) + XLI (industrials) + XLV (healthcare) — well diversified
+- All stops active and correctly placed
+
+### Decision
+**HOLD all 4 — market closed Sunday.** All GTC trailing stops live.
+Monday open: Watch NVDA closely (closest to stop, below entry). No planned new entries.
+If any stop triggers Monday → evaluate 1 replacement to maintain 75-85% deployment.
