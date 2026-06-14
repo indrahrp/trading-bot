@@ -317,3 +317,25 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 14 — Midday Scan (Sunday — market closed; prices = Friday Jun 13 close)
+**Portfolio:** $108,440.29 | **Cash:** $22,023.78 (20.3%) | **Deployment:** 79.7% ✓ | **Phase P&L:** +$8,440.29 (+8.44%)
+
+⚠️ **Log gap May 21–Jun 13**: AMZN and TXN (held May 20) were stopped out at unknown dates between May 21–Jun 13. Three new sector ETF positions entered (XLB ~May 29, XLI ~Jun 8, XLV ~Jun 8). NVDA position reset: old 101 sh @ $218.04 likely stopped out and re-entered 102 sh @ $208.85 (stop created Jun 8, HWM $211.40). Full entry records for these positions were not logged in real-time.
+
+#### Open Positions (Friday Jun 13 close)
+| Ticker | Shares | Entry    | Fri Close | Unreal P&L          | Stop                                   |
+|--------|--------|----------|-----------|---------------------|----------------------------------------|
+| NVDA   | 102    | $208.85  | $205.19   | -$373 (-1.75%)      | 10% trail, HWM $211.40, stop $190.26  |
+| XLB    | 430    | $51.36   | $52.18    | +$353 (+1.60%)      | 10% trail, HWM $52.36, stop $47.12    |
+| XLI    | 123    | $174.56  | $176.18   | +$199 (+0.93%)      | 10% trail, HWM $176.61, stop $158.95  |
+| XLV    | 139    | $153.39  | $153.81   | +$58 (+0.27%)       | 10% trail, HWM $155.16, stop $139.64  |
+
+**Actions:**
+- Losers: None — NVDA -1.75% is well above -7% cut threshold. No manual cuts.
+- Stop tighten: None — all positions below +15% threshold (need: NVDA $240.18, XLB $59.06, XLI $200.74, XLV $176.40).
+- Thesis: NVDA (AI inference supercycle — intact); XLB/XLI/XLV (sector momentum ETFs — no thesis breaks visible, market closed).
+- Research: PERPLEXITY_API_KEY not set; market closed Sunday — skipping intraday research.
+- Deployment: 79.7% ✓ within 75-85% target. No deployment action needed.
