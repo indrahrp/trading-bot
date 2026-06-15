@@ -317,3 +317,17 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 15 — EOD Snapshot (Day 34, Monday)
+**Portfolio:** $109,459.59 | **Cash:** $22,023.78 (20.1%) | **Day P&L:** +$1,019.30 (+0.94%) | **Phase P&L:** +$9,459.59 (+9.46%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg | Unrealized P&L       | Stop                                      |
+|--------|--------|----------|----------|---------|----------------------|-------------------------------------------|
+| NVDA   | 102    | $208.85  | $212.04  | +3.34%  | +$325.38 (+1.53%)    | 10% trail, HWM $212.71, stop $191.44     |
+| XLB    | 430    | $51.36   | $52.59   | +0.79%  | +$528.90 (+2.40%)    | 10% trail, HWM $53.195, stop $47.88      |
+| XLI    | 123    | $174.56  | $178.68  | +1.42%  | +$506.76 (+2.36%)    | 10% trail, HWM $179.98, stop $161.98     |
+| XLV    | 139    | $153.39  | $152.64  | -0.76%  | -$105.02 (-0.49%)    | 10% trail, HWM $155.155, stop $139.64    |
+
+**Notes:** Log gap May 20 → Jun 15 (14 trading days) — push failures broke continuity. Portfolio has rotated: AMZN and TXN exited sometime after May 20; new positions in sector ETFs XLB (materials), XLI (industrials), XLV (healthcare) plus NVDA (102sh, avg entry lowered to $208.85 from 101sh at $218.04 — likely averaged down). Broad green day: NVDA +3.34%, XLI +1.42%, XLB +0.79%; XLV red -0.76% but stop well clear ($139.64 vs $152.64 current). Deployment 79.9% — within 75-85% target ✓. All GTC trailing stops live. No trades today. Trades this week: 0/3. Tomorrow: no tighten triggers in range (NVDA needs $240+ for 15%; ETFs all need 12–15% more gains). Watch XLV for continued weakness.
