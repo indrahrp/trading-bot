@@ -717,3 +717,77 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-15 — Pre-market Research
+
+> Note: PERPLEXITY_API_KEY not set in environment — research via WebSearch fallback. ClickUp alert sent.
+
+### Account
+- **Equity:** $109,332.83 | **Cash:** $22,023.78 (20.1%)
+- **Long MV:** $87,309.05 | **Deployment: 79.9% ✓** (target 75-85%)
+- Daytrade count: 0 | PDT: false | Week trades: 0/3
+- Phase P&L: +$9,332.83 (+9.33%)
+
+### Open Positions
+| SYM  | Shares | Entry    | Now      | Unrealized P&L      | Stop (GTC, live)                         |
+|------|--------|----------|----------|---------------------|------------------------------------------|
+| NVDA | 102    | $208.85  | $208.83  | -$2 (-0.01%)        | 10% trail, HWM $211.40, stop $190.26     |
+| XLB  | 430    | $51.36   | $52.78   | +$611 (+2.77%)      | 10% trail, HWM $52.355, stop $47.12      |
+| XLI  | 123    | $174.56  | $178.30  | +$460 (+2.14%)      | 10% trail, HWM $176.61, stop $158.95 *   |
+| XLV  | 139    | $153.39  | $153.85  | +$64 (+0.30%)       | 10% trail, HWM $155.155, stop $139.64   |
+
+*XLI current $178.30 > HWM $176.61 — Alpaca trailing stop auto-updating HWM
+
+### Stop Tighten Check
+- NVDA: -0.01% — no action (need +15% → $240.18)
+- XLB: +2.77% — no action (need +15% → $59.06)
+- XLI: +2.14% — no action (need +15% → $200.74)
+- XLV: +0.30% — no action (need +15% → $176.40)
+
+### Market Context
+- **WTI:** ~$80.14/bbl (-5.59%) | **Brent:** low $80s (-4%) — US-Iran peace deal triggering supply surge fears; lowest since March
+- **S&P 500 futures:** Rising sharply pre-open; Nasdaq leading on Iran deal risk-on sentiment
+- **VIX:** ~19.44 (Jun 11 close; trending down from 30+ in March); moderate fear
+- **CPI:** 4.2% (Jun 10 data) — sticky inflation, Fed constrained
+- **Key catalyst today:** US-Iran peace deal confirmed → oil down hard, equities up, shipping routes reopening
+- **SpaceX IPO:** Nasdaq debut $135 → $160.95 (+19%) last week; risk appetite elevated
+- **Fed:** 77% probability of ≥1 rate cut in 2026; but **FOMC meeting starts TOMORROW June 16-17** — binary event
+- **Economic releases today (June 15):** Empire State Index (AM), Industrial Production & Capacity Utilization at 9:15 AM (G.17), NAHB Housing Market Index — no CPI/PPI/FOMC today
+- **Earnings today:** No major holdings reporting; light calendar
+
+### Sector Momentum YTD
+| Sector     | ETF | YTD Status         | Our Exposure |
+|------------|-----|--------------------|--------------|
+| Materials  | XLB | +22% — Leading ✓   | 430 sh ✓     |
+| Industrials| XLI | Leading, positive ✓| 123 sh ✓     |
+| Healthcare | XLV | Weakening ⚠️       | 139 sh — at risk |
+| Tech/AI    | —   | Mixed (semis recovering) | NVDA 102 sh |
+
+### Holding-Specific News
+- **NVDA:** $205.42 Jun 14 → $208.83 pre-mkt today (+1.6%). AI infra deals: SharonAI 72MW collab, KKR+Vistra $10B Helix data center, Abridge healthcare AI. Annual meeting June 24. Thesis intact.
+- **XLB:** Materials sector leading YTD; Iran oil drop = lower input costs for industrials/materials
+- **XLI:** Caterpillar, Rockwell Automation flagged as promising; Iran deal supports infrastructure spending thesis
+- **XLV:** Sector "weakening" in momentum screens. +0.30% unrealized — barely above cost. Monitor closely.
+
+### Trade Ideas
+1. **HOLD — no new entry today**: Deployment 79.9% within target. FOMC starts tomorrow = binary event; entering new positions now adds unnecessary rate-decision risk.
+2. **XLV watch**: Healthcare momentum weakening YTD; if XLV breaks below entry ($153.39) or shows -3% intraday without sector bounce, consider closing to redeploy into leading sector (XLB add or XLI add).
+3. **Deferred — post-FOMC opportunity** (Jun 18): If FOMC is dovish/in-line → scan XLB add or energy sector rotation trade if Iran deal stabilizes oil.
+
+### Risk Factors
+- **FOMC June 16-17**: Highest risk event this week; hawkish surprise could reverse today's rally; NO new positions until after June 17 decision
+- **XLV momentum lagging**: Healthcare weakening; +0.30% gain thin; stop $139.64 is 9.2% away — no manual cut yet but on watch
+- **Oil -5.6%**: Hurts energy sector (no exposure); benefits consumer/industrial — neutral to positive for XLB, XLI
+- **CPI 4.2% sticky**: Fed may disappoint rate-cut hopes post-FOMC → growth/tech vulnerable
+- **NVDA flat from entry**: 102 shares essentially at cost; needs catalyst to move; AI capex narrative intact but stock rangebound
+- **4 positions (max 6)**: Room for 2 more if compelling setups emerge post-FOMC
+
+### Decision
+**HOLD all 4 positions. No new trades today.**
+- Deployment 79.9% — on target, no urgency
+- FOMC tomorrow blocks new entries (wait for June 17 decision + reaction)
+- All stops live: NVDA $190.26, XLB $47.12, XLI $158.95 (auto-updating), XLV $139.64
+- Watch XLV: if sector momentum continues weakening, exit post-FOMC and redeploy
+- Resume trade scanning Wed June 18 post-FOMC with focus on leading sectors (XLB add, XLI add, or post-Iran energy recovery play)
