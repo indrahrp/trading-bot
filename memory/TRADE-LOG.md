@@ -317,3 +317,24 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 15 — Midday Scan (Day ~37)
+**Portfolio:** $109,724.17 | **Cash:** $22,023.78 (20.1%) | **Day P&L:** +$1,283.88 (+1.18%) | **Phase P&L:** +$9,724.17 (+9.72%)
+
+⚠️ **Memory gap: TRADE-LOG and RESEARCH-LOG have no entries from May 21 → Jun 15.** Positions restructured between those dates (AMZN + TXN exited; XLB, XLI, XLV entered; NVDA re-entered/adjusted to 102 sh avg $208.85). Full reconstruction not available without prior session transcripts.
+
+| Ticker | Shares | Avg Entry | Now     | Day Chg  | Unrealized P&L    | Stop                                  |
+|--------|--------|-----------|---------|----------|-------------------|---------------------------------------|
+| NVDA   | 102    | $208.85   | $212.52 | +3.57%   | +$374 (+1.76%)    | 10% trail, HWM $212.71, stop $191.44 |
+| XLB    | 430    | $51.36    | $52.65  | +0.89%   | +$553 (+2.50%)    | 10% trail, HWM $53.195, stop $47.88  |
+| XLI    | 123    | $174.56   | $179.41 | +1.83%   | +$597 (+2.78%)    | 10% trail, HWM $179.98, stop $161.98 |
+| XLV    | 139    | $153.39   | $153.26 | -0.36%   | -$18 (-0.09%)     | 10% trail, HWM $155.155, stop $139.64|
+
+**Actions:**
+- Losers: None — XLV -0.09% (far above -7% cut). No cuts.
+- Stop tighten: None — all below +15% threshold. No action.
+- Thesis: Sector ETFs (XLB=Materials, XLI=Industrials, XLV=Healthcare) — all sector leaders per prior research. NVDA AI inference thesis intact. No intraday breaks.
+- Research: PERPLEXITY_API_KEY not set — skipped.
+- Deployment: 79.9% ✓ (within 75-85% target). All 4 GTC trailing stops live.
