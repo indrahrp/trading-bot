@@ -717,3 +717,66 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-15 — Pre-market Research (inline, market-open workflow)
+
+*Note: PERPLEXITY_API_KEY not set — research via WebSearch fallback. ClickUp alert sent. 25-day log gap (May 21 → Jun 15); positions changed materially — see live Alpaca data below.*
+
+### Account
+- Equity: $109,634.03
+- Cash: $22,023.78 (20.1%)
+- Long market value: $87,610.25 | Deployment: 79.9% ✓ (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (new week Jun 15–19)
+- Phase P&L: +$9,634.03 (+9.63%)
+
+### Open Positions
+| SYM  | Shares | Avg Entry  | Bid/Ask       | P&L               | Stop (GTC, live)                          |
+|------|--------|------------|---------------|-------------------|-------------------------------------------|
+| NVDA | 102    | $208.85    | $210.89/$214.50 | +$200 (+0.94%)  | 10% trail, HWM $211.40, stop $190.26     |
+| XLB  | 430    | $51.36     | $53.07/$53.09 | +$735 (+3.33%)    | 10% trail, HWM $53.09, stop $47.78       |
+| XLI  | 123    | $174.56    | $179.76/$179.87 | +$627 (+2.92%) | 10% trail, HWM $179.745, stop $161.77    |
+| XLV  | 139    | $153.39    | $152.47/$152.50 | -$121 (-0.57%) | 10% trail, HWM $155.155, stop $139.64    |
+
+*AMZN/TXN stopped out between May 21–Jun 8; NVDA added (now 102sh at avg $208.85 vs prior 101sh @ $218.04); XLB entered May 29; XLI/XLV entered Jun 8.*
+
+### Market Context
+- **US-Iran peace deal reached** — oil falling; Asia equity markets rallying; geopolitical risk premium unwinding
+- **S&P 500 futures**: 59% implied probability of up close (modestly bullish tilt)
+- **VIX**: ~19.23 (moderate; elevated vs May lows; manageable)
+- **PHLX Chip index**: -10% on June 5 (worst since Mar 2020) — Broadcom Q3 AI revenue guide $16B vs $17.2B est; dragged entire AI chip complex lower; NVDA pulled back from HWM $211.40
+- **NVDA Q1 FY27 (May 20)**: Revenue $81.6B (+85% YoY), EPS $1.87 vs $1.77 est — strong beat; confirmed AI thesis
+- **XLB**: Copper demand firm (AI infra + energy transition + grid modernization); Iran deal = reduced supply chain disruption
+- **XLI**: MACD positive since Jun 2; infrastructure renewal + defense + reshoring themes intact
+- **XLV**: Healthcare M&A activity positive; limited June-specific catalyst
+
+### Thesis Check
+- **NVDA** $210.82 (+0.94%): Q1 beat intact. Semis sector sold off on Broadcom miss June 5; NVDA stop at $190.26 (10% below HWM $211.40). Avg PT $298.93 from 62 analysts ("Strong Buy"). **INTACT — hold, monitor stop.**
+- **XLB** $53.07 (+3.33%): Materials sector leading YTD; Iran deal positive (supply chains). Stop $47.78 live. **INTACT — hold.**
+- **XLI** $179.81 (+2.92%): Industrials sector momentum; MACD positive Jun 2. Stop $161.77 live. **INTACT — hold.**
+- **XLV** $152.47 (-0.57%): Healthcare thesis intact (M&A activity); stop $139.64 = 8.4% below current. Manual cut at -7% = $142.65 — current $152.47 is well above. **INTACT — hold, watch.**
+
+### Stop Tighten Check
+- NVDA +0.94%: no tighten (need +15% = $240.18 | +20% = $250.62)
+- XLB +3.33%: no tighten (need +15% = $59.06)
+- XLI +2.92%: no tighten (need +15% = $200.74)
+- XLV -0.57%: no tighten needed; above manual cut threshold
+
+### Trade Ideas
+1. **No new positions** — deployment 79.9% (in target range); Iran deal read-through still settling; no specific catalyst gate met for new entry; XLV slight loss warrants monitoring before adding risk.
+
+### Risk Factors
+- NVDA: semis sector pressure from Broadcom miss (June 5); stop $190.26 = -9.9% below current; AI thesis intact but sector headwind real
+- XLV -0.57% unrealized loss; if broad healthcare selloff, stop $139.64 provides protection but thesis is weakest of 4 positions
+- VIX elevated (~19) vs May levels — moderate volatility environment
+- Iran peace deal: swift oil decline could briefly disrupt XLB thesis (oil = energy sector; but XLB = materials, separate exposure)
+- No Perplexity — limited news depth
+
+### Decision
+**HOLD all 4 positions.** No new trades.
+- All stops confirmed live and correctly set.
+- Deployment 79.9% (within 75-85% target) — no urgency to add positions.
+- NVDA: thesis intact despite semis sector pullback; stop $190.26 provides 10% protection.
+- XLV: weakest position (-0.57%); above -7% manual cut and far from stop. Monitor.
