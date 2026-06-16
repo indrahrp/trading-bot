@@ -717,3 +717,29 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-16 — Midday Addendum
+
+### Account
+- Equity: $109,696.53 | Cash: $22,023.78 (20.1%) | Deployment: 79.9% ✓
+- Daytrade count: 0 | PDT: false
+- Phase P&L: +$9,696.53 (+9.70%)
+
+### Open Positions
+| SYM  | P&L from Entry | Day Chg  | Action                          |
+|------|----------------|----------|---------------------------------|
+| NVDA | +0.34%         | -1.37%   | Hold — AI inference thesis intact |
+| XLB  | +2.94%         | +0.71%   | Hold — Materials sector momentum |
+| XLI  | +3.53%         | +1.14%   | Hold — Industrials sector momentum |
+| XLV  | -0.14%         | +0.19%   | Hold — Healthcare thesis intact, well above -7% cut |
+
+### Assessment
+- No cuts. No stop tightenings. All theses intact based on last research.
+- Perplexity unavailable (PERPLEXITY_API_KEY not set) — no live intraday news check.
+- Deployment 79.9% — within 75-85% target. No new positions needed.
+- NVDA down -1.37% intraday; no sharp moves warranting immediate action without Perplexity confirmation.
+
+### Decision
+**HOLD all 4 positions.** No intraday action required.

@@ -317,3 +317,24 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 16 — Midday Scan
+**Portfolio:** $109,696.53 | **Cash:** $22,023.78 (20.1%) | **Deployment:** 79.9% ✓ | **Phase P&L:** +$9,696.53 (+9.70%)
+
+> Note: AMZN and TXN exited (stopped out) between May 21 and Jun 16 (exact dates unlogged). NVDA position adjusted (avg cost down to $208.85, 102 shares — likely partial close + re-entry or additional purchase during pullback). XLB, XLI, XLV entered after May 21 per May 21 research plan (XLB = Materials, XLI = Industrials, XLV = Healthcare — sector diversification away from semis).
+
+#### Open Positions (midday)
+| Ticker | Shares | Entry   | Now     | Unreal P&L        | Stop                                   |
+|--------|--------|---------|---------|-------------------|----------------------------------------|
+| NVDA   | 102    | $208.85 | $209.55 | +$71 (+0.34%)     | 10% trail, HWM $212.71, stop $191.44  |
+| XLB    | 430    | $51.36  | $52.87  | +$649 (+2.94%)    | 10% trail, HWM $53.195, stop $47.88   |
+| XLI    | 123    | $174.56 | $180.72 | +$758 (+3.53%)    | 10% trail, HWM $181.10, stop $162.99  |
+| XLV    | 139    | $153.39 | $153.18 | -$29 (-0.14%)     | 10% trail, HWM $155.16, stop $139.64  |
+
+**Actions:**
+- Losers: None — no position at -7%. XLV -0.14% is nominal; well above cut threshold.
+- Stop tighten: None — NVDA +0.34%, XLB +2.94%, XLI +3.53%, XLV -0.14% (all far below +15% threshold)
+- Thesis: Perplexity unavailable (key not set). No sharp intraday moves. No thesis breaks identified.
+- **Deployment: 79.9% — within 75-85% target ✓**
