@@ -717,3 +717,66 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-16 — Pre-market Research
+
+> Note: PERPLEXITY_API_KEY not set in environment — research via WebSearch fallback.
+
+### Account
+- Equity: $109,526.25 | Cash: $22,023.78 (20.1%)
+- Long market value: $87,502.47 | **Deployment: 79.9% ✅ (target 75-85%)**
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (new week June 16-20)
+- Phase P&L: +$9,526.25 (+9.53%)
+
+### Open Positions
+| SYM  | Shares | Entry    | Now      | Unrealized P&L      | Stop (GTC, live)                        |
+|------|--------|----------|----------|---------------------|-----------------------------------------|
+| NVDA | 102    | $208.85  | $212.01  | +$322 (+1.51%)      | 10% trail, HWM $212.71, stop $191.44   |
+| XLB  | 430    | $51.36   | $52.69   | +$572 (+2.59%)      | 10% trail, HWM $53.195, stop $47.88    |
+| XLI  | 123    | $174.56  | $178.49  | +$483 (+2.25%)      | 10% trail, HWM $179.98, stop $161.98   |
+| XLV  | 139    | $153.39  | $153.00  | -$54 (-0.26%) ⚠️   | 10% trail, HWM $155.155, stop $139.64  |
+
+**Total unrealized: +$1,323**
+
+### Stop Tighten Check
+- NVDA +1.51%: no action (+15% threshold $240.18)
+- XLB +2.59%: no action (+15% threshold $59.06)
+- XLI +2.25%: no action (+15% threshold $200.74)
+- XLV -0.26%: **watch** — manual cut at -7% = $142.65; stop $139.64 live
+
+### Market Context
+- **WTI**: ~$80.47/bbl (-0.35%) | **Brent**: ~$82-84/bbl — oil down 5%+ since US-Iran peace deal Monday; sustained suppression
+- **S&P 500 futures**: ES +1.22%, NQ +1.99% premarket — extending Monday's +1.65% close
+- **VIX**: ~16.20 — low vol, risk-on environment
+- **FOMC**: 2-day meeting June 16-17; Kevin Warsh's first meeting as chair; **rate hold near-certain (97.4%)** at 3.50-3.75%; dot plot + press conference June 17 at 2:30 PM ET — MAIN EVENT TOMORROW
+- **Earnings today** (before open): 8 reports scheduled; no marquee names identified
+- **Economic**: No major data today; FOMC is the sole driver
+- **Sector YTD**: XLK +32-33% | XLB +13% | XLI +12% | XLV -3% (lagging)
+- **US-Iran deal**: Positive for risk assets, industrials (supply chain), materials (lower energy input costs); negative for energy sector
+
+### Position-Specific News
+- **NVDA**: $20B investment-grade bond offering to fund AI chip capex; analyst consensus Strong Buy, avg PT $303.71 (+48% upside); stockholders meeting June 24; thesis intact
+- **XLB**: Benefiting from energy transition demand (copper, metals for AI/grid infrastructure); lower oil = lower input costs; outperforming at +13% YTD
+- **XLI**: Infrastructure spending, supply chain normalization; +12% YTD momentum intact; oil drop bullish (lower transport costs)
+- **XLV**: YTD -3% — sector lagging; price marginally below entry; healthcare under policy headwinds; **thesis weakening**
+
+### Trade Ideas
+1. **HOLD existing — no new entries**: Deployment 79.9% is on target; FOMC uncertainty tomorrow makes initiating new positions inadvisable
+2. **XLV thesis review**: Sector YTD -3%, price barely at entry — if Warsh press conference June 17 signals hawkish or healthcare names sell off, consider early exit; do not add
+3. **Post-FOMC scan** (June 17 EOD): If dot plot is market-friendly (fewer cuts), XLB/XLI may extend; revisit stop tighten thresholds after any run-up
+
+### Risk Factors
+- FOMC press conference June 17 (2:30 PM ET): Warsh is unknown quantity — tone/dot plot could surprise; largest near-term binary event
+- XLV in sector downtrend (YTD -3%); -0.26% unrealized; monitor for -7% manual cut ($142.65)
+- Market already rallied +1.65% Monday on Iran deal; some consolidation today is normal
+- Oil suppression from Iran deal could pressure XLE/energy names — not held but shifts sector momentum
+
+### Decision
+**HOLD — no new trades. Wait for FOMC clarity tomorrow.**
+- All 4 positions have live GTC trailing stops; no manual action needed today
+- Watch XLV at $142.65 (-7% from entry) for emergency cut
+- Post-FOMC June 17: re-evaluate XLV thesis and scan for XLB/XLI tighten opportunities
+- Week trades: 0/3 available but patience required through Fed event
