@@ -717,3 +717,58 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-16 — Pre-market Research (inline, market-open workflow)
+
+*Note: PERPLEXITY_API_KEY not set — WebSearch fallback unavailable in scheduled context. Live data via Alpaca only.*
+
+### Account
+- Equity: $109,726.25
+- Cash: $22,023.78 (20.1%)
+- Long market value: $87,702.47 | Deployment: 79.9% ✓ (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (new week Jun 16–20)
+- Phase P&L: +$9,726.25 (+9.73%)
+
+### Open Positions
+| SYM  | Shares | Avg Entry | Current | Unrealized P&L       | Stop (GTC, live)                        |
+|------|--------|-----------|---------|----------------------|-----------------------------------------|
+| NVDA | 102    | $208.85   | $210.04 | +$121 (+0.57%)       | 10% trail, HWM $212.71, stop $191.44   |
+| XLB  | 430    | $51.36    | $52.92  | +$671 (+3.04%)       | 10% trail, HWM $53.20, stop $47.88     |
+| XLI  | 123    | $174.56   | $180.54 | +$736 (+3.43%)       | 10% trail, HWM $180.58, stop $162.52   |
+| XLV  | 139    | $153.39   | $153.51 | +$16 (+0.08%)        | 10% trail, HWM $155.16, stop $139.64   |
+
+*(Note: Portfolio composition changed significantly since May 21 last log entry. AMZN and TXN stopped out; XLB, XLI, XLV added and NVDA re-positioned. Stops all confirmed live via open orders API.)*
+
+### Stop Tighten Check
+- NVDA +0.57%: below +15% threshold ($240.18) — no tighten
+- XLB +3.04%: below +15% threshold ($59.06) — no tighten
+- XLI +3.43%: below +15% threshold ($200.74) — no tighten
+- XLV +0.08%: below +15% threshold ($176.40) — no tighten
+
+### Losers Check
+- None at −7%. All 4 positions positive. No manual cuts required.
+
+### Market Context
+- NVDA: −1.14% today ($212.45 → $210.04); HWM $212.71, stop $191.44 (9.1% cushion from current)
+- XLB: +0.80% today; Materials sector; stop tracking HWM $53.20 (just above current $52.92)
+- XLI: +1.04% today; Industrials sector; HWM $180.58 ≈ current $180.54 — stop will update if new HWM set
+- XLV: +0.41% today; Healthcare sector; modest position near breakeven
+
+### Trade Ideas
+- **No new trades** — deployment 79.9% within 75-85% target; adding 5th position ($20K) would push to ~98% (over-leveraged). Cash $22K insufficient for a 20%-of-equity position (~$21.9K minimum).
+
+### Risk Factors
+- NVDA today −1.14%, well below HWM; stop at $191.44 = 8.9% below current → monitor if broad tech selling resumes
+- XLB HWM $53.20 ≈ current $52.92; XLI HWM $180.58 ≈ current $180.54 — both near resistance
+- XLV barely positive; stop at $139.64 = 9.1% below — thesis check needed if Perplexity becomes available
+- Research gap (May 21–Jun 16): 26 days without logged entries; recommend daily runs to keep log current
+
+### Decision
+**HOLD all 4 positions.** No new trades today.
+- All stops live and correctly set per strategy rules.
+- Deployment 79.9% — within target; no urgency to add or reduce.
+- No catalysts identified without Perplexity for news research.
+- Next action: if NVDA drops toward $191 stop or XLB/XLI break recent HWMs, review theses.
