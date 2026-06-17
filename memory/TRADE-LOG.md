@@ -317,3 +317,23 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 17 — Midday Scan (2026-06-17)
+**Portfolio:** $109,584.19 | **Cash:** $22,023.78 (20.1%) | **Day P&L:** +$354.78 (+0.32%) | **Phase P&L:** +$9,584.19 (+9.58%) | **Deployment:** 79.9% ✓
+
+#### Open Positions (midday)
+| Ticker | Shares | Entry    | Now      | Day Chg  | Unrealized P&L        | Stop                                        |
+|--------|--------|----------|----------|----------|-----------------------|---------------------------------------------|
+| NVDA   | 102    | $208.85  | $207.10  | -0.15%   | -$178.49 (-0.84%)     | 10% trail, HWM $212.71, stop $191.44 (order 7b684bdf) |
+| XLB    | 430    | $51.36   | $53.20   | +0.91%   | +$791.20 (+3.58%)     | 10% trail, HWM $53.31, stop $47.98 (order 1d015d52) |
+| XLI    | 123    | $174.56  | $182.12  | +1.26%   | +$929.88 (+4.33%)     | 10% trail, HWM $182.33, stop $164.10 (order 637caf61) |
+| XLV    | 139    | $153.39  | $152.29  | -0.43%   | -$153.10 (-0.72%)     | 10% trail, HWM $155.16, stop $139.64 (order a7fa88df) |
+
+**Actions:**
+- Losers: None — all positions well above -7%. No cuts.
+- Stop tighten: None — NVDA -0.84%, XLB +3.58%, XLI +4.33%, XLV -0.72% (all below +15% threshold)
+- Thesis: NVDA intact (AI inference); XLB intact (materials sector momentum); XLI intact (industrials momentum); XLV intact (healthcare diversification)
+- Research: PERPLEXITY_API_KEY not set — no live news check; no sharp intraday moves requiring investigation
+- Deployment: 79.9% ✓ — within 75-85% target
