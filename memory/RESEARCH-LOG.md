@@ -717,3 +717,62 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-17 — Pre-market Research (inline, market-open workflow)
+
+*Note: PERPLEXITY_API_KEY not set — market research via WebSearch fallback.*
+
+### Account
+- Equity: $109,111.89
+- Cash: $22,023.78 (20.2%)
+- Long market value: $87,088.11 | Deployment: 79.8% ✓ (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (new week; last buys June 8)
+- Phase P&L: +$9,111.89 (+9.11%)
+
+### Open Positions
+| SYM  | Shares | Avg Entry | Live Bid  | Unrealized P&L     | Stop (GTC, live)                       |
+|------|--------|-----------|-----------|--------------------|----------------------------------------|
+| NVDA | 102    | $208.85   | $207.94   | -$92 (-0.44%)      | 10% trail, HWM $212.71, stop $191.44  |
+| XLB  | 430    | $51.36    | $52.69    | +$572 (+2.59%)     | 10% trail, HWM $53.195, stop $47.88   |
+| XLI  | 123    | $174.56   | $180.06   | +$668 (+3.15%)     | 10% trail, HWM $181.10, stop $162.99  |
+| XLV  | 139    | $153.39   | $151.73   | -$231 (-1.13%)     | 10% trail, HWM $155.155, stop $139.64 |
+
+### Market Context
+- S&P 500: ~7,536 (+0.33%) — constructive open
+- VIX: 16.42 (-0.56%) — low vol, calm; down from >23 during chip sell-off
+- **FOMC decision TODAY at 2 PM ET; Warsh press conference 2:30 PM** — market-moving binary event
+- Basic Materials, Energy, Communication Services leading in June 2026
+- NVDA: Morgan Stanley top chip pick; analyst avg target $298.93 (+44% vs current ~$208)
+
+### Stop Tighten Check
+- NVDA -0.44%: no tighten (need +15% = $240.18, +20% = $250.62)
+- XLB +2.59%: no tighten (need +15% = $59.06)
+- XLI +3.15%: no tighten (need +15% = $200.74)
+- XLV -1.13%: no tighten; WATCH (below entry, thesis under review)
+
+### -7% Cut Check
+- All positions above -7% threshold — no manual cuts needed
+
+### Thesis Check
+- **NVDA**: AI inference demand supercycle; Morgan Stanley top pick; $298.93 avg target. INTACT.
+- **XLB**: Materials sector #1 monthly performer June 2026. INTACT.
+- **XLI**: Industrials 16.26% 1-year return; rotation catalyst from AI to industrials noted. INTACT.
+- **XLV**: Crossed 50-day MA June 3 (bullish); currently -1.13% from entry. WATCH — monitor if thesis weakens.
+
+### Trade Ideas
+1. **No new positions** — deployment 79.8% (in target); cash $22K insufficient to add without exceeding 85% cap; Fed decision today creates binary risk → no entries before 2 PM.
+
+### Risk Factors
+- **FOMC today at 2 PM**: Hawkish tone from Warsh → rate spike, equity selloff; dovish = relief rally
+- XLV -1.13% from entry — closest to potential -7% cut level; stop at $139.64 (8.5% below current) provides cushion
+- NVDA -0.44% from avg entry; stop $191.44 (8% below current) — holds thesis
+- Cash $22K limits new entries without over-deploying above 85%
+
+### Decision
+**HOLD all 4 positions.** No new trades today.
+- Wait for post-Fed reaction before evaluating any changes
+- If any position hits -7% from entry → cut immediately (none currently at risk)
+- Next opportunity window: post-FOMC tomorrow if market reaction is constructive
