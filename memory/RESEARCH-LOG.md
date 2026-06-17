@@ -717,3 +717,80 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-17 — Pre-market Research
+
+> Note: PERPLEXITY_API_KEY not set in environment — all research via WebSearch fallback. ClickUp alert sent.
+
+### Account
+- Equity: $109,284.28 | Cash: $22,023.78 (20.1%)
+- Long market value: $87,260.50 | **Deployment: 79.8% ✓ (target 75-85%)**
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (week Jun 16–20; no new entries yet)
+- Phase P&L: +$9,284.28 (+9.28%) from $100,000 baseline
+
+### Portfolio Context (since last log May 21)
+- AMZN and TXN exited between May 21–June 8 (not logged — stop-outs or manual closes)
+- XLB entered ~May 29 (430 sh @ $51.36 avg); XLI and XLV entered ~June 8 (123 sh @ $174.56; 139 sh @ $153.39)
+- NVDA rebuilt to 102 sh @ $208.85 avg (originally 101 sh @ $218.04 — likely averaged down)
+- Portfolio now diversified: 1 tech (NVDA) + 3 sector ETFs (XLB, XLI, XLV)
+
+### Open Positions
+| SYM  | Shares | Avg Entry | Current | Unrealized P&L       | Stop (GTC, live)                     |
+|------|--------|-----------|---------|----------------------|--------------------------------------|
+| NVDA | 102    | $208.85   | $207.80 | -$107 (-0.50%)       | 10% trail, HWM $212.71, stop $191.44 |
+| XLB  | 430    | $51.36    | $52.75  | +$598 (+2.71%)       | 10% trail, HWM $53.20, stop $47.88  |
+| XLI  | 123    | $174.56   | $179.80 | +$645 (+3.00%)       | 10% trail, HWM $181.10, stop $162.99 |
+| XLV  | 139    | $153.39   | $153.00 | -$54 (-0.26%)        | 10% trail, HWM $155.16, stop $139.64 |
+
+### Stop Tighten Check
+- NVDA -0.50%: no tighten (threshold +15% = $240.18)
+- XLB +2.71%: no tighten (threshold = $59.06)
+- XLI +3.00%: no tighten (threshold = $200.74)
+- XLV -0.26%: no tighten
+
+### Market Context
+- **WTI / Brent**: WTI ~$75 / Brent ~$78.45-$79.45 — oil down ~4% on US-Iran peace deal; formal signing June 19 in Switzerland; Brent briefly below $80 first time since March
+- **S&P 500 futures**: +0.28% — mildly positive; 78% Polymarket probability of up open
+- **VIX**: ~15.77 — low volatility; constructive risk environment
+- **FOMC TODAY (2PM ET)**: Fed decision + updated dot plot + Warsh debut as Chair. Rate expected HOLD at 3.50-3.75% (97% CME probability). Key watch: dot plot path, Warsh tone (market pricing rate hike risk vs prior cut expectations). 70% of market warning signals "flashing" per one source.
+- **Iran Deal**: US-Iran agreement reached; oil supply restriction lifted; Strait of Hormuz reopening. Net positive for industrials/materials (lower input costs).
+- **Tech**: SpaceX acquires Cursor AI ($60B deal). NVDA raised $25B high-grade bond offering June 15 (+3.5% that day; -2.37% June 16 on overhang).
+- **Earnings before open**: ~8 companies reporting June 17; no major direct-impact names on held positions identified.
+- **Economic calendar**: FOMC decision 2:00 PM ET; Warsh press conference 2:30 PM ET. No morning macro releases (CPI/PPI/NFP) today.
+
+### Sector Momentum YTD (June 2026)
+- **Leading**: Materials (XLB +13%), Industrials (XLI +12%), Consumer Staples, Energy
+- **Lagging**: Technology, Communications, Consumer Discretionary, Financials
+- **Weakening**: Healthcare (XLV -3% YTD) ⚠️
+- **Improving**: Real Estate, Utilities
+
+### Held Ticker News
+- **NVDA** $207.80: 38-analyst Strong Buy consensus; PT $298.87 (+44% upside). $25B bond offering June 15 (debt increase = overhang). Closed -2.37% June 16. AI inference supercycle thesis intact. Stop $191.44 (7.8% cushion).
+- **XLB** $52.75: Materials sector +13% YTD, leading momentum. Iran deal → lower oil costs = positive for materials processing margins. XLB at HWM $53.20 — modest cushion.
+- **XLI** $179.80: Industrials +12% YTD. MACD turned positive June 2. Reshoring/defense/infrastructure themes intact. Near HWM $181.10 — momentum intact.
+- **XLV** $153.00: Healthcare weakening sector (-3% YTD). Position only -0.26% from entry but sector fundamentals deteriorating. Monitor closely. Not at -7% cut threshold yet.
+
+### Trade Ideas
+1. **Post-FOMC positioning** — If Warsh is neutral/dovish (hold + no rate hike signal), consider adding 1 position in leading sector. XLB or XLI add (average up) or new Industrials name. Wait until after 2:30 PM press conference.
+2. **XLV exit watch** — Healthcare is weakening sector (-3% YTD). Position at -0.26% from entry. If sector deteriorates further or position hits -7%, exit and redeploy into XLB/XLI (leading sectors). Not actionable today — wait for post-FOMC clarity.
+3. **NVDA hold** — PT $298.87 (+44% upside from current); AI thesis intact; bond offering overhang is near-term drag. Stop $191.44 protects. Hold.
+
+### Risk Factors
+- **FOMC at 2PM ET** — Warsh debut; hawkish dot plot = rate hike fears → tech/growth selloff → NVDA and XLV most exposed
+- **XLV weakening** — healthcare sector -3% YTD, our position flat/negative; sector momentum turning against thesis
+- **NVDA bond overhang** — $25B new debt weighs short-term; -2.37% yesterday despite strong AI fundamentals
+- **Oil at $78** — below $80; energy sector bearish (we're not exposed) but signal of demand concerns
+- **70% of market warning signals flashing** — broad caution flags per one market technician
+- **Deployment at 79.8%** — within target; no urgency to add but cash $22K available for 1 position
+
+### Decision
+**HOLD all 4 positions.** No new trades today.
+- **Rationale**: FOMC at 2PM ET is too large a binary event; Warsh debut + dot plot = significant volatility risk
+- **NVDA**: Hold; thesis intact; stop $191.44 active; bond overhang is temporary
+- **XLB / XLI**: Hold; both in leading momentum sectors; theses intact; stop live
+- **XLV**: WATCH — weakening sector (-3% YTD); if -7% from entry or sector thesis breaks, exit pre-empt stop
+- **Post-FOMC**: If neutral/dovish → evaluate XLV exit + redeploy to XLB add OR new XLI individual name; if hawkish → protect cash, no new entries
+- **Week cap**: 0/3 trades used this week — capacity available but patience preferred over forcing into FOMC day
