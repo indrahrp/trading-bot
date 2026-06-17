@@ -317,3 +317,17 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 17 — EOD Snapshot (Day 36, Tuesday)
+**Portfolio:** $108,438.13 | **Cash:** $22,023.78 (20.3%) | **Day P&L:** -$791.28 (-0.72%) | **Phase P&L:** +$8,438.13 (+8.44%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg  | Unrealized P&L        | Stop                                     |
+|--------|--------|----------|----------|----------|-----------------------|------------------------------------------|
+| NVDA   | 102    | $208.85  | $205.15  | -1.09%   | -$377.40 (-1.77%)     | 10% trail, HWM $212.71, stop $191.44    |
+| XLB    | 430    | $51.36   | $52.14   | -1.10%   | +$335.40 (+1.52%)     | 10% trail, HWM $53.31, stop $47.98      |
+| XLI    | 123    | $174.56  | $179.85  |  0.00%   | +$650.67 (+3.03%)     | 10% trail, HWM $182.33, stop $164.10   |
+| XLV    | 139    | $153.39  | $150.70  | -1.47%   | -$374.11 (-1.75%)     | 10% trail, HWM $155.16, stop $139.64   |
+
+**Notes:** Red day on 3 of 4 positions (NVDA -1.09%, XLB -1.10%, XLV -1.47%); XLI flat. Portfolio shed $791 (-0.72%) to $108,438. Phase P&L at +8.44%. Deployment 79.7% — within 75-85% target. No stop triggers threatened: worst position (XLV) at -1.75% unrealized vs -7% cut threshold. All GTC trailing stops intact. No trades today; 0/3 weekly allotment used. Note: EOD snapshots gap May 20–Jun 16; current positions reflect rotation out of AMZN/TXN into XLB/XLI/XLV sector ETFs during that window.
