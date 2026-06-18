@@ -717,3 +717,79 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-18 — Pre-market Research (inline, market-open workflow)
+
+*Note: PERPLEXITY_API_KEY not set — WebSearch fallback. Alpaca data live.*
+
+### Account
+- Equity: $109,039.36
+- Cash: $22,023.78 (20.2%)
+- Long market value: $87,015.58 | Deployment: 79.8% ✓ (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (new week June 16–20)
+- Phase P&L: +$9,039.36 (+9.04%)
+
+### Portfolio Evolution Since May 21 (gap note)
+Since the last logged entry (May 21), the portfolio changed significantly:
+- AMZN and TXN exited (stop-outs or thesis exits — exact dates not logged here)
+- NVDA rebuilt: 102 shares at $208.85 avg (original 101 sh at $218.04 stopped out; re-entered around Jun 8)
+- XLB entered May 29 (430 sh at $51.36 avg)
+- XLI entered June 8 (123 sh at $174.56 avg)
+- XLV entered June 8 (139 sh at $153.39 avg)
+
+### Open Positions
+| SYM  | Shares | Entry    | Live     | Unrealized P&L      | Stop (GTC, live)                      |
+|------|--------|----------|----------|---------------------|---------------------------------------|
+| NVDA | 102    | $208.85  | $207.31  | -$157 (-0.74%)      | 10% trail, HWM $212.71, stop $191.44  |
+| XLB  | 430    | $51.36   | $52.17   | +$348 (+1.58%)      | 10% trail, HWM $53.31, stop $47.98    |
+| XLI  | 123    | $174.56  | $182.43  | +$968 (+4.51%)      | 10% trail, HWM $182.54, stop $164.29  |
+| XLV  | 139    | $153.39  | $151.05  | -$325 (-1.53%)      | 10% trail, HWM $155.155, stop $139.64 |
+
+### Market Context
+- S&P 500 (Jun 17 close): 7,420.10 (-1.21%) — sold off on Fed hawkish signals
+- Nasdaq (Jun 17 close): 26,021.66 (-1.34%) — tech led losses
+- Dow (Jun 17 close): 51,492.55 (-0.98%)
+- **Fed decision (Jun 17)**: Held rates unchanged; Kevin Warsh (new Fed chair) signaled possible rate hike late 2026 → yields surged, equities fell
+- **Today (Jun 18)**: Nasdaq futures rising — recovery bounce after yesterday's selloff
+- VIX: Elevated (market-moving Fed language yesterday)
+- Sector context: Materials (+22% YTD peak), Industrials recovering; Healthcare "outperform" thesis; Tech/semis recovering
+
+### Held Ticker Thesis Check
+- **NVDA** $207.31 (+1.30% today): Analyst consensus Strong Buy, avg PT $298.93 (+46% upside). AI inference demand structural thesis intact. Yesterday down on tech selloff; today bouncing. Stop $191.44 (10% trail, HWM $212.71). **INTACT — HOLD.**
+- **XLB** $52.17 (+0.29% today): Materials ETF. HWM $53.31; stop $47.98. Fed hawkish = headwind for materials (stronger USD, slower growth). Entry thesis (sector momentum) weakening somewhat; thesis still alive at +1.58% from entry. **INTACT — HOLD. Watch for sector trend change.**
+- **XLI** $182.43 (+1.58% today): Industrials ETF, near HWM $182.54. Stop $164.29. Strong performer +4.51% from entry; stop auto-tracking today as price approaches HWM. **INTACT — HOLD.**
+- **XLV** $151.05 (+0.23% today): Healthcare ETF. Entry $153.39, current -1.53%. Stop $139.64. "Outperform" sector rating per analyst consensus. P&L negative but well above -7% cut level ($142.65). **INTACT — HOLD.**
+
+### Stop Tighten Check
+- NVDA -0.74% from entry: no tighten
+- XLB +1.58%: no tighten (threshold: +15% = $59.06)
+- XLI +4.51%: no tighten (threshold: +15% = $200.74)
+- XLV -1.53%: no tighten
+- **None triggered.**
+
+### -7% Manual Cut Check
+- NVDA cut level: $194.23 → current $207.31 → CLEAR
+- XLB cut level: $47.76 → current $52.17 → CLEAR
+- XLI cut level: $162.34 → current $182.43 → CLEAR
+- XLV cut level: $142.65 → current $151.05 → CLEAR
+- **No cuts needed.**
+
+### Trade Ideas
+- None. Deployment 79.8% (within 75-85% range). Fed hawkish backdrop = unfavorable for new entries. No fresh catalyst documented. Patience > activity.
+
+### Risk Factors
+- Fed late-2026 rate hike signal: sustained headwind for growth stocks (NVDA) and materials (XLB)
+- XLI at HWM — if rejection, stop at $164.29 is 9.9% away; broad industrials reversal possible
+- XLV negative P&L (-1.53%) — watch for -7% approach; healthcare vol on drug pricing policy risk
+- NVDA slightly below entry (-0.74%) — if tech selloff resumes, stop $191.44 is 7.6% below current
+- No Perplexity for real-time news
+
+### Decision
+**HOLD all 4 positions.** No new trades today.
+- Deployment 79.8% (in target range — no urgency)
+- No tightenings, no cuts, no new entries
+- All GTC stops confirmed live and correctly placed
+- Watch XLI: approaching HWM $182.54 — break above = stop auto-updates further; rejection = monitor closely
