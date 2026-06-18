@@ -317,3 +317,26 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 18 — Midday Scan
+**Portfolio:** $108,758.23 | **Cash:** $22,023.78 (20.3%) | **Day P&L:** +$452.06 (+0.42%) | **Phase P&L:** +$8,758.23 (+8.76%)**
+**Deployment:** 79.8% ✓ (within 75-85% target) | **Daytrade count:** 0 | **PDT:** false
+
+#### Open Positions (midday)
+| Ticker | Shares | Entry    | Now      | Unreal P&L           | Stop                                     |
+|--------|--------|----------|----------|----------------------|------------------------------------------|
+| NVDA   | 102    | $208.85  | $209.24  | +$39.78 (+0.19%)     | 10% trail, HWM $212.71, stop $191.44    |
+| XLB    | 430    | $51.36   | $52.04   | +$292.40 (+1.32%)    | 10% trail, HWM $53.31, stop $47.98      |
+| XLI    | 123    | $174.56  | $181.35  | +$834.56 (+3.89%)    | 10% trail, HWM $182.92, stop $164.63    |
+| XLV    | 139    | $153.39  | $148.86  | -$629.87 (-2.95%) ⚠️ | 10% trail, HWM $155.155, stop $139.64   |
+
+**Actions:**
+- Losers: XLV -2.95% — below -7% cut threshold; no action. Stop $139.64 provides 6.2% buffer from current $148.86.
+- Stop tighten: None — NVDA +0.19%, XLB +1.32%, XLI +3.89% all below +15% threshold; XLV negative.
+- Thesis: Perplexity unavailable (key not set) — no intraday news check. Positions within normal variance.
+- Research: PERPLEXITY_API_KEY not set — skipped Step 6.
+- **No trades taken today.**
+
+**Watch:** XLV -2.95%, 4.1% below HWM $155.155. Stop at $139.64 is the safety net; monitor for thesis break or approach to -7% manual cut level ($142.65).
