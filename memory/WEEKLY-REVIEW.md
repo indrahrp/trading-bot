@@ -153,3 +153,82 @@ Template for each entry:
 - Resume daily EOD log discipline (Mon–Fri snapshots)
 
 ### Overall Grade: B+
+
+---
+
+## Week ending 2026-06-19
+
+> Note: Jun 19 = Juneteenth (market closed). Last trading day of week was Thu Jun 18.
+> Trade log and research log have gaps since May 21 — catching up inline below.
+> Phase P&L since Apr 26 launch: +$8,811 (+8.81%) across 7 closed trades (W:4 / L:3).
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $108,442 (Jun 13 close, estimated from bar data) |
+| Ending portfolio | $108,810.99 (Jun 18 close, authoritative) |
+| Week return | +$369 (+0.34%) |
+| S&P 500 week | +1.1% (4-day week) |
+| Bot vs S&P | −0.76% |
+| Trades | 0 (W:0 / L:0 / open:4) |
+| Win rate | N/A (no closed trades) |
+| Best trade | XLI +3.64% unrealized |
+| Worst trade | XLV −2.60% unrealized |
+| Profit factor | N/A (no closed trades) |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closes this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| NVDA | $208.85 | $210.69 | +$187.68 (+0.88%) | 10% trail, HWM $212.71, stop $191.44 |
+| XLB  | $51.36  | $51.81  | +$193.50 (+0.88%) | 10% trail, HWM $53.31, stop $47.98 |
+| XLI  | $174.56 | $180.91 | +$781.05 (+3.64%) | 10% trail, HWM $182.92, stop $164.63 |
+| XLV  | $153.39 | $149.40 | −$554.81 (−2.60%) | 10% trail, HWM $155.16, stop $139.64 ⚠️ |
+
+### Phase Closed Trade Summary (since Apr 26)
+| Ticker | Entry | Exit | P&L | Result |
+|--------|-------|------|-----|--------|
+| INTC | $81.69 (Apr 28) | $107.73 (May 6) | +$5,858 (+31.87%) | W |
+| TXN | $267.28 (Apr 28) | $314.78 (May 27) | +$3,325 (+17.77%) | W |
+| AMZN | $260.30 (Apr 30) | $250.65 (Jun 3) | −$753 (−3.71%) | L |
+| AMD | $414.95 (May 7) | $421.55 (May 18) | +$330 (+1.59%) | W |
+| NVDA | $218.04 (May 11) | $212.71 (May 26) | −$538 (−2.44%) | L |
+| AMD | $486.02 (May 26) | $491.45 (Jun 5) | +$222 (+1.12%) | W |
+| NVDA | $211.60 (May 27) | $209.04 (Jun 5) | −$241 (−1.21%) | L |
+
+Phase win rate: 4/7 = 57.1% | Profit factor: $9,735 / $1,532 = 6.36
+
+### What Worked
+- XLI: Industrials ETF responding to Iran peace deal (Jun 15); +3.64% from entry, top position
+- No stops triggered during volatile week (Fed scare Jun 17 → recovery Jun 18)
+- Diversification into ETFs (XLB, XLI, XLV) reduced single-stock gap risk
+- Portfolio held steady through Fed rate hike warning — no panic trades
+
+### What Didn't Work
+- XLV: Healthcare ETF underperforming; −2.60% from entry, only losing position; thesis weakening
+- Underperformed S&P 500 by 0.76% for the week
+- NVDA: HWM stalled at $212.71; whipsawed by Fed news; no progress toward +15% tighten threshold
+- XLB: Materials sector slightly negative on the week (−0.75%); momentum may be cooling
+- Trade log and research log gaps since May 21 — critical discipline failure; resuming today
+
+### Key Lessons
+- Iran peace deal (Jun 15) was the primary catalyst; Industrials benefited most; should have had a plan for this catalyst
+- Fed rate hike signal (Jun 17) hit NVDA hardest; ETF positions cushioned portfolio drawdown
+- Healthcare (XLV) entered the watch zone; sector momentum check required every session
+- 4-day weeks compress opportunity but also risk; patience held us in range
+- ETF rotation (XLB/XLI/XLV) as diversification is working — less concentrated single-name risk vs prior weeks
+
+### Adjustments for Next Week
+- **XLV**: Watch closely; manual cut at −7% = $142.65; if healthcare sector fails to recover or 2nd failed trade occurs → exit sector
+- **NVDA**: Must clear HWM $212.71 to remain conviction hold; stop $191.44 provides cushion
+- **XLI**: Best performer; let it run; +15% tighten trigger at $200.74
+- **XLB**: Monitor sector momentum; Materials showing softness
+- **New positions**: Slots 5–6 open; wait for clean catalyst and confirmed sector momentum; do NOT force
+- **Weekly cap reset**: 0/3 trades available for week of Jun 22
+- **Logging discipline**: Resume daily EOD log every session — no more gaps
+
+### Overall Grade: B−
