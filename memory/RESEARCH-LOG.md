@@ -717,3 +717,55 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-19 — Market Closed (Juneteenth Holiday)
+
+*Note: PERPLEXITY_API_KEY not set — WebSearch fallback. ClickUp alert sent.*
+
+### Account
+- Equity: $108,810.99
+- Cash: $22,023.78 (20.2%)
+- Long market value: $86,787.21 | Deployment: 79.8% ✓ (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (est — no trades detected June 16-19)
+- Phase P&L: +$8,810.99 (+8.81%)
+
+### Market Status
+- **MARKET CLOSED — Juneteenth National Independence Day**
+- Next open: Monday June 22, 9:30 AM ET
+- S&P 500 closed June 18 at ~7,500.58; week mixed; Fed meeting signaled rate hike in late 2026
+- VIX: moderate
+
+### Open Positions
+| SYM  | Shares | Avg Entry | Last Close | Unreal P&L        | Stop (GTC, 10% trail)                         |
+|------|--------|-----------|------------|-------------------|-----------------------------------------------|
+| NVDA | 102    | $208.85   | $210.69    | +$187 (+0.88%)    | HWM $212.71, stop $191.44 (10% trail)         |
+| XLB  | 430    | $51.36    | $51.81     | +$194 (+0.88%)    | HWM $53.31, stop $47.98 (10% trail)           |
+| XLI  | 123    | $174.56   | $180.91    | +$781 (+3.64%)    | HWM $182.92, stop $164.63 (10% trail)         |
+| XLV  | 139    | $153.39   | $149.40    | -$555 (-2.60%) ⚠️ | HWM $155.155, stop $139.64 (10% trail)        |
+
+Entries: XLB entered ~May 29; NVDA/XLI/XLV entered ~June 8 (inferred from stop order creation dates)
+
+### Alerts
+- **NVDA after-hours ask (June 18):** $231.80 vs close $210.69 — +10% premium. Potential gap-up Monday. Catalyst: NVIDIA $25B debt offering (June 18), Vera Rubin AI chip platform in production, next earnings Aug 26.
+- **XLV at -2.60%:** Below entry but above -7% manual cut ($142.65). Healthcare ETF — thesis check needed Monday before open. If thesis broken or approaching -7%, cut at open.
+- **All 4 GTC trailing stops confirmed active** via live order check.
+
+### Stop Tighten Check
+- NVDA +0.88%: threshold +15% = $240.18 — no tighten
+- XLB +0.88%: threshold +15% = $59.06 — no tighten
+- XLI +3.64%: threshold +15% = $200.74 — no tighten
+- XLV -2.60%: below entry — no tighten (watch for -7% cut at $142.65)
+
+### Trade Ideas
+- None today (market closed). Deployment 79.8% within target.
+
+### Decision
+**HOLD all 4. No trades possible (holiday).** All stops active.
+**Monday June 22 priorities:**
+1. Check XLV pre-market — if healthcare thesis broken or approaching -7%, exit at open
+2. Watch NVDA at open — if gap-up holds above $212.71 HWM, trail stop auto-updates upward
+3. Deployment 79.8% is within target; no urgency to add new positions
+4. Max 3 new trades available this week (June 22-26)
