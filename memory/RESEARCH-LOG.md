@@ -717,3 +717,80 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-19 — Pre-market Research (Juneteenth — Market CLOSED)
+
+> Note: PERPLEXITY_API_KEY not set in environment — research via WebSearch fallback. ClickUp alert sent.
+> Market closed today for Juneteenth federal holiday. Reopen Monday June 22. This entry is a weekend/Monday positioning review.
+
+### Account Snapshot (as of 2026-06-18 close)
+- **Equity:** $108,810.99 | **Cash:** $22,023.78 (20.2%)
+- **Long MV:** $86,787.21 | **Deployment:** 79.8% ✓ (within 75-85% target)
+- **Daytrade count:** 0 | **PDT:** false
+- **Phase P&L:** +$8,810.99 (+8.81%)
+
+### Open Positions
+| Ticker | Shares | Entry      | Last Close | Unrealized P&L     | GTC Stop                             |
+|--------|--------|------------|------------|--------------------|--------------------------------------|
+| NVDA   | 102    | $208.85    | $210.69    | +$187.68 (+0.88%)  | 10% trail, HWM $212.71, stop $191.44 |
+| XLB    | 430    | $51.36     | $51.81     | +$193.50 (+0.88%)  | 10% trail, HWM $53.31, stop $47.98   |
+| XLI    | 123    | $174.56    | $180.91    | +$781.05 (+3.64%)  | 10% trail, HWM $182.92, stop $164.63 |
+| XLV    | 139    | $153.39    | $149.40    | -$554.81 (-2.60%)  | 10% trail, HWM $155.16, stop $139.64 |
+
+### Stop Tighten Check
+- NVDA +0.88%: no tighten (threshold $240.18)
+- XLB +0.88%: no tighten (threshold $59.06)
+- XLI +3.64%: no tighten (threshold $200.74) — on watch as approaches +15%
+- XLV -2.60%: no tighten; manual cut if reaches -7% from entry = $142.65; current $149.40 has $6.75 buffer
+
+### Market Context
+- **S&P 500 (June 18 close):** +1.08% to 26,517.93 — recovery after FOMC-driven Thursday selloff
+- **FOMC signal:** Hawkish lean; Fed officials hinting at possible rate hikes later 2026 → caused Thursday selloff, partially reversed Friday
+- **WTI:** ~$74.60–79.93 range | **Brent:** $79.95 — down ~10% this week on US-Iran interim peace agreement easing Strait of Hormuz tensions
+- **VIX:** 16.41 (June 16) — down sharply from 31.05 peak in late March; easing toward long-term average; brief spike to 22.22 on June 10
+- **Chip sector:** PHLX index dropped 10% on June 5 (worst single-day loss since March 2020); partially recovered by June 18
+- **NVDA:** $25B multi-tranche debt offering completed June 18 (debt, not equity — no share dilution); signals confidence in growth but adds leverage. Analysts consensus PT $298.
+
+### Sector Momentum (YTD Leaders → Laggards)
+| Rank | Sector      | ETF  | Status    |
+|------|-------------|------|-----------|
+| 1    | Materials   | XLB  | Leading   |
+| 2    | Industrials | XLI  | Leading   |
+| 3    | Staples     | XLP  | Leading   |
+| 4    | Energy      | XLE  | Leading   |
+| 5    | Healthcare  | XLV  | Improving |
+| —    | Technology  | XLK  | Lagging   |
+| —    | Comms       | XLC  | Lagging   |
+| —    | Financials  | XLF  | Lagging   |
+
+XLB (Materials) up ~22% YTD — dominant leader; XLI (Industrials) up ~12% YTD; XLV (Healthcare) slightly negative YTD (~-3%).
+
+### Week of June 22 Catalysts
+- **Monday June 22:** No major economic releases; first day after Juneteenth holiday
+- **Key event:** May PCE inflation data expected this week — primary market mover; if hotter than expected → Fed rate hike narrative strengthens → risk-off
+- **Earnings:** Light calendar for early-week; no major names identified before June 22 open
+- **Iran peace deal:** Oil supply premium easing — positive for energy-importing sectors (XLI, XLV) but headwind for XLE
+
+### Risk Factors
+- **FOMC hawkish pivot:** Rate hike risk later 2026; weighs on rate-sensitive and growth names (NVDA most exposed)
+- **PCE data this week:** Hotter print = risk-off across all 4 positions
+- **XLV at -2.60%:** Weakest position; healthcare underperforming YTD (~-3%); thesis is defensive but holding it in a rally means opportunity cost; monitor closely
+- **NVDA chip sector volatility:** PHLX -10% single day June 5 shows sector fragility; NVDA $25B debt adds balance sheet risk perception
+- **Oil collapse -10% this week:** Macro signal of demand concerns or geopolitical resolution — could rotate flows from Materials/Industrials
+
+### Trade Ideas for Monday June 22
+1. **No new entry — hold current 4 positions.** Deployment at 79.8% is squarely in 75-85% target. Only $22K cash; adding a 5th position at ~$20K each would bring cash to ~$2K (dangerously low). Wait for a stop-out to free capital.
+2. **XLE (Energy) — watching but NOT entering.** Sector momentum strong but oil -10% this week is a thesis break signal. Wait to see if oil stabilizes post-Iran deal before committing.
+3. **XLP (Staples) — secondary watchlist.** Leading sector, defensive, would add diversification vs current cyclical tilt. Entry only if XLV gets stopped out and frees ~$21K.
+
+### Decision
+**HOLD — market closed today (Juneteenth). No trades possible.**
+- All 4 positions: HOLD into Monday open
+- **XLV flag:** -2.60% from entry; watch for -7% ($142.65) for manual cut on Monday; current stop $139.64 is ~6.5% below current price
+- **NVDA:** Thesis intact (AI infra); debt offering = neutral-to-negative short term; hold with stop $191.44
+- **XLI/XLB:** Both in leading sectors; theses intact; ride trailing stops
+- **Monday morning:** Check PCE release date; set alert for -5% on XLV as early warning; no new buys unless forced by stop-out + strong replacement catalyst
+- **Max 3 trades/week reset Monday** — week 0/3
+
