@@ -717,3 +717,64 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-20 — Weekend Status Review (market-open routine, market CLOSED)
+
+> Market closed: Saturday + Juneteenth holiday (June 19). Last trading day: Thursday June 18.
+> PERPLEXITY_API_KEY not set — no live research. ClickUp alert sent.
+
+### Account (as of June 18 close)
+- Equity: $108,810.99
+- Cash: $22,023.78 (20.2%)
+- Long market value: $86,787.21 | Deployment: 79.8% ✓ (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Week trades (June 16–20): 0/3
+
+### Open Positions
+| SYM  | Shares | Entry     | Close Jun 18 | P&L              | Stop (GTC)                               |
+|------|--------|-----------|--------------|------------------|------------------------------------------|
+| NVDA | 102    | $208.85   | $210.69      | +$187 (+0.88%)   | 10% trail, HWM $212.71, stop $191.44    |
+| XLB  | 430    | $51.36    | $51.81       | +$194 (+0.88%)   | 10% trail, HWM $53.31, stop $47.98      |
+| XLI  | 123    | $174.56   | $180.91      | +$781 (+3.64%)   | 10% trail, HWM $182.92, stop $164.63    |
+| XLV  | 139    | $153.39   | $149.40      | -$555 (-2.60%)⚠️ | 10% trail, HWM $155.16, stop $139.64    |
+
+Phase P&L: portfolio equity $108,810.99 vs $100,000 baseline = **+$8,810.99 (+8.81%)**
+
+### Stop Tighten Check
+- NVDA +0.88%: below +15% threshold ($240.18) — no tighten
+- XLB +0.88%: below +15% threshold ($59.06) — no tighten
+- XLI +3.64%: below +15% threshold ($200.74) — no tighten
+- XLV -2.60%: no tighten; manual cut threshold at -7% = $142.65 — **watch Monday**
+
+### Portfolio Context (gap recap May 21 – Jun 18)
+Key events not previously logged (captured from order history):
+- May 26: NVDA 101sh stopped at $212.71 (-2.45%); AMD re-entered 41sh @$486.02
+- May 27: TXN 70sh stopped at $314.78 (+17.78%); NVDA re-entered 94sh @$211.60
+- May 29: XLB 430sh entered @$51.36 (Materials sector momentum #1 YTD)
+- Jun 3: AMZN 78sh stopped at $250.65 (-3.71%)
+- Jun 5: AMD 41sh stopped at $491.43 (+1.11%); NVDA 94sh stopped at $209.04 (-1.21%)
+- Jun 8: NVDA 102sh re-entered @$208.85; XLI 123sh @$174.56; XLV 139sh @$153.39
+
+### Market Context (from last available data)
+- Juneteenth holiday June 19 — no market data
+- No Perplexity available
+- Sector diversification achieved: NVDA (semis/AI), XLB (Materials), XLI (Industrials), XLV (Healthcare)
+
+### Trade Ideas
+- No trades possible today (market closed)
+- Monday June 23: evaluate XLV (-2.60%) for thesis check; watch NVDA for +15% tighten at $240.18
+- Deployment 79.8% — within target range, no urgency to add positions
+
+### Risk Factors
+- XLV -2.60% and approaching manual cut threshold (-7% = $142.65)
+- NVDA after-hours quote Jun 18 showed ask $231.80 (vs $210.69 close) — potential +10% gap-up Monday
+- No Perplexity for sector news validation
+
+### Decision
+**HOLD all 4 positions. Market closed — no trades possible.**
+Monday June 23 priorities:
+1. Check XLV thesis (Healthcare sector news?) — if below $142.65 or thesis broken, cut manually
+2. Watch NVDA: if opens above $240.18 (+15%), tighten stop to 7% trail immediately
+3. Watch XLI: if hits $200.74 (+15%), tighten to 7% trail

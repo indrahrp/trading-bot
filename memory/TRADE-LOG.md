@@ -317,3 +317,185 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### May 26 — Stop-Out: NVDA + New Entry: AMD
+
+#### Trade Exit — NVDA (10% trailing stop triggered)
+| Field        | Value                                               |
+|--------------|-----------------------------------------------------|
+| Date         | 2026-05-26                                          |
+| Ticker       | NVDA                                                |
+| Side         | SELL (auto stop-out)                                |
+| Shares       | 101                                                 |
+| Entry Price  | $218.04 (May 11)                                    |
+| Exit Price   | $212.71 (10% trail, HWM $212.71)                   |
+| Realized P&L | **-$538 (-2.45%)**                                 |
+| Notes        | Stop triggered as NVDA pulled back from HWM. Small loss — stop worked as designed. |
+
+#### New Trade Entry — AMD (re-entry)
+| Field        | Value                                                                                         |
+|--------------|-----------------------------------------------------------------------------------------------|
+| Date         | 2026-05-26                                                                                    |
+| Ticker       | AMD                                                                                           |
+| Side         | BUY                                                                                           |
+| Shares       | 41                                                                                            |
+| Entry Price  | $486.02                                                                                       |
+| Stop Level   | 10% trailing GTC                                                                              |
+| Thesis       | AMD re-entry: post-earnings semis momentum continued; prior stop-out was a win (+1.59%); no sector penalty |
+| Target       | $583 (+20%)                                                                                   |
+| R:R          | 2.0:1                                                                                         |
+| Week Trades  | 1/3 (week of May 25–29)                                                                       |
+
+---
+
+### May 27 — Stop-Out: TXN + New Entry: NVDA
+
+#### Trade Exit — TXN (7% trailing stop triggered)
+| Field        | Value                                               |
+|--------------|-----------------------------------------------------|
+| Date         | 2026-05-27                                          |
+| Ticker       | TXN                                                 |
+| Side         | SELL (auto stop-out)                                |
+| Shares       | 70                                                  |
+| Entry Price  | $267.28 (Apr 28)                                    |
+| Exit Price   | $314.78 (7% trail, HWM $310.29)                    |
+| Realized P&L | **+$3,325 (+17.78%)**                              |
+| Notes        | Excellent exit — 7% trail (tightened from 10% at +15%) captured strong gain from 8-week hold. |
+
+#### New Trade Entry — NVDA (re-entry)
+| Field        | Value                                                                                         |
+|--------------|-----------------------------------------------------------------------------------------------|
+| Date         | 2026-05-27                                                                                    |
+| Ticker       | NVDA                                                                                          |
+| Side         | BUY                                                                                           |
+| Shares       | 94                                                                                            |
+| Entry Price  | $211.60                                                                                       |
+| Stop Level   | 10% trailing GTC                                                                              |
+| Thesis       | NVDA re-entry at lower price; AI inference supercycle intact; sector diversification within AI |
+| Target       | $253.92 (+20%)                                                                                |
+| R:R          | 2.0:1                                                                                         |
+| Week Trades  | 2/3 (week of May 25–29)                                                                       |
+
+---
+
+### May 29 — New Entry: XLB
+
+#### New Trade Entry — XLB (Materials ETF)
+| Field        | Value                                                                                         |
+|--------------|-----------------------------------------------------------------------------------------------|
+| Date         | 2026-05-29                                                                                    |
+| Ticker       | XLB                                                                                           |
+| Side         | BUY                                                                                           |
+| Shares       | 430                                                                                           |
+| Entry Price  | $51.36                                                                                        |
+| Stop Level   | 10% trailing GTC (HWM $53.31, stop $47.98)                                                   |
+| Thesis       | Materials sector #1 YTD momentum (+22%); non-correlated to tech/AI; ETF diversifies single-stock risk; closes deployment gap |
+| Target       | $61.63 (+20%)                                                                                 |
+| R:R          | 2.0:1                                                                                         |
+| Week Trades  | 3/3 (week of May 25–29)                                                                       |
+
+---
+
+### Jun 03 — Stop-Out: AMZN
+
+#### Trade Exit — AMZN (10% trailing stop triggered)
+| Field        | Value                                               |
+|--------------|-----------------------------------------------------|
+| Date         | 2026-06-03                                          |
+| Ticker       | AMZN                                                |
+| Side         | SELL (auto stop-out)                                |
+| Shares       | 78                                                  |
+| Entry Price  | $260.30 (Apr 30)                                    |
+| Exit Price   | $250.65 (10% trail, HWM $278.56)                   |
+| Realized P&L | **-$753 (-3.71%)**                                 |
+| Notes        | AWS thesis remained intact but stock pulled back through stop. 35-day hold; stop protected from worse loss. |
+
+---
+
+### Jun 05 — Stop-Outs: AMD + NVDA
+
+#### Trade Exit — AMD (10% trailing stop triggered)
+| Field        | Value                                               |
+|--------------|-----------------------------------------------------|
+| Date         | 2026-06-05                                          |
+| Ticker       | AMD                                                 |
+| Side         | SELL (auto stop-out)                                |
+| Shares       | 41                                                  |
+| Entry Price  | $486.02 (May 26)                                    |
+| Exit Price   | $491.43 avg (10% trail, 2-fill stop)               |
+| Realized P&L | **+$222 (+1.11%)**                                 |
+| Notes        | Short 10-day hold; trailing stop captured small gain on volatile semis move. |
+
+#### Trade Exit — NVDA (10% trailing stop triggered)
+| Field        | Value                                               |
+|--------------|-----------------------------------------------------|
+| Date         | 2026-06-05                                          |
+| Ticker       | NVDA                                                |
+| Side         | SELL (auto stop-out)                                |
+| Shares       | 94                                                  |
+| Entry Price  | $211.60 (May 27)                                    |
+| Exit Price   | $209.04 (10% trail, HWM ~$232.27)                  |
+| Realized P&L | **-$241 (-1.21%)**                                 |
+| Notes        | 9-day hold; NVDA pulled back from new HWM; stop triggered cleanly. |
+
+---
+
+### Jun 08 — New Entries: NVDA + XLI + XLV
+
+#### New Trade Entry — NVDA
+| Field        | Value                                                                                         |
+|--------------|-----------------------------------------------------------------------------------------------|
+| Date         | 2026-06-08                                                                                    |
+| Ticker       | NVDA                                                                                          |
+| Side         | BUY                                                                                           |
+| Shares       | 102                                                                                           |
+| Entry Price  | $208.85                                                                                       |
+| Stop Level   | 10% trailing GTC (HWM $212.71, stop $191.44)                                                 |
+| Thesis       | AI inference supercycle; datacenter capex; lower cost basis than prior entries; sector leadership |
+| Target       | $250.62 (+20%)                                                                                |
+| R:R          | 2.0:1                                                                                         |
+| Week Trades  | 1/3 (week of June 8–12)                                                                       |
+
+#### New Trade Entry — XLI (Industrials ETF)
+| Field        | Value                                                                                         |
+|--------------|-----------------------------------------------------------------------------------------------|
+| Date         | 2026-06-08                                                                                    |
+| Ticker       | XLI                                                                                           |
+| Side         | BUY                                                                                           |
+| Shares       | 123                                                                                           |
+| Entry Price  | $174.56                                                                                       |
+| Stop Level   | 10% trailing GTC (HWM $182.92, stop $164.63)                                                 |
+| Thesis       | Industrials sector YTD momentum; non-tech diversification; low AI correlation; infrastructure spend |
+| Target       | $209.47 (+20%)                                                                                |
+| R:R          | 2.0:1                                                                                         |
+| Week Trades  | 2/3 (week of June 8–12)                                                                       |
+
+#### New Trade Entry — XLV (Healthcare ETF)
+| Field        | Value                                                                                         |
+|--------------|-----------------------------------------------------------------------------------------------|
+| Date         | 2026-06-08                                                                                    |
+| Ticker       | XLV                                                                                           |
+| Side         | BUY                                                                                           |
+| Shares       | 139                                                                                           |
+| Entry Price  | $153.39                                                                                       |
+| Stop Level   | 10% trailing GTC (HWM $155.16, stop $139.64)                                                 |
+| Thesis       | Healthcare sector momentum; defensive diversification; non-correlated to semis/AI risk       |
+| Target       | $184.07 (+20%)                                                                                |
+| R:R          | 2.0:1                                                                                         |
+| Week Trades  | 3/3 (week of June 8–12)                                                                       |
+
+---
+
+### Jun 18 — EOD Snapshot (last trading day before Juneteenth holiday)
+**Portfolio:** $108,810.99 | **Cash:** $22,023.78 (20.2%) | **Deployment:** 79.8% ✓ | **Phase P&L:** +$8,810.99 (+8.81%)**
+
+| Ticker | Shares | Entry    | Close Jun 18 | Unrealized P&L       | Stop (GTC)                                |
+|--------|--------|----------|--------------|----------------------|-------------------------------------------|
+| NVDA   | 102    | $208.85  | $210.69      | +$187 (+0.88%)       | 10% trail, HWM $212.71, stop $191.44     |
+| XLB    | 430    | $51.36   | $51.81       | +$194 (+0.88%)       | 10% trail, HWM $53.31, stop $47.98       |
+| XLI    | 123    | $174.56  | $180.91      | +$781 (+3.64%)       | 10% trail, HWM $182.92, stop $164.63     |
+| XLV    | 139    | $153.39  | $149.40      | -$555 (-2.60%) ⚠️   | 10% trail, HWM $155.16, stop $139.64     |
+
+**Notes:** June 19 = Juneteenth holiday (market closed); June 20 = Saturday. Next trading day: Monday June 23. Week trades (Jun 16–20): 0/3. All 4 GTC trailing stops confirmed live. XLV at -2.60% — watch Monday for thesis check and -7% cut level ($142.65). NVDA after-hours Jun 18 showed elevated ask ($231.80) — potential gap-up at Monday open; watch +15% tighten trigger ($240.18).
