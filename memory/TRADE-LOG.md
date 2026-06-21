@@ -316,4 +316,25 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | NVDA   | 101    | $218.04  | $221.84  | +0.56%   | +$384.41 (+1.75%)       | 10% trail, HWM $236.54, stop $212.89    |
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
+---
+
+### Jun 21 — Midday Scan (Sunday — market closed; prices = Fri Jun 20 close)
+**Portfolio:** $108,810.99 | **Cash:** $22,023.78 (20.2%) | **Deployment:** 79.8% ✓ | **Phase P&L:** +$8,810.99 (+8.81%)
+
+#### Open Positions (midday)
+| Ticker | Shares | Entry    | Last Close | Unreal P&L        | Stop                                      |
+|--------|--------|----------|------------|-------------------|-------------------------------------------|
+| NVDA   | 102    | $208.85  | $210.69    | +$188 (+0.88%)    | 10% trail, HWM $212.71, stop $191.44     |
+| XLB    | 430    | $51.36   | $51.81     | +$194 (+0.88%)    | 10% trail, HWM $53.31, stop $47.98       |
+| XLI    | 123    | $174.56  | $180.91    | +$781 (+3.64%)    | 10% trail, HWM $182.92, stop $164.63     |
+| XLV    | 139    | $153.39  | $149.40    | -$555 (-2.60%)    | 10% trail, HWM $155.16, stop $139.64     |
+
+**Actions:**
+- Losers: None at -7%. XLV -2.60% — within stop range ($139.64), no cut.
+- Stop tighten: None. All positions below +15% threshold.
+- Thesis: NVDA (AI inference), XLB (Materials momentum), XLI (Industrials momentum), XLV (Healthcare defensive) — theses intact per prior research; no intraday data (market closed).
+- Research: PERPLEXITY_API_KEY not set — skipped. Market closed Sunday.
+- **Deployment: 79.8% — within 75-85% target ✓**
+- **Note: Memory logs have gap May 21–Jun 20. Portfolio rotated from AMZN/TXN/NVDA to XLB/XLI/XLV/NVDA; prior exits/entries undocumented in this log.**
+
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.

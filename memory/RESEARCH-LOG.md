@@ -717,3 +717,45 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-21 — Midday Scan (Sunday, market closed)
+
+*Note: PERPLEXITY_API_KEY not set. Market closed — prices are Fri Jun 20 close. No intraday data.*
+
+### Account
+- Equity: $108,810.99 | Cash: $22,023.78 (20.2%)
+- Long market value: $86,787.21 | Deployment: 79.8% ✓ (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Phase P&L: +$8,810.99 (+8.81%)
+
+### Open Positions
+| SYM  | Shares | Entry    | Last Close | Unrealized P&L    | Stop (GTC, live)                         |
+|------|--------|----------|------------|-------------------|------------------------------------------|
+| NVDA | 102    | $208.85  | $210.69    | +$188 (+0.88%)    | 10% trail, HWM $212.71, stop $191.44    |
+| XLB  | 430    | $51.36   | $51.81     | +$194 (+0.88%)    | 10% trail, HWM $53.31, stop $47.98      |
+| XLI  | 123    | $174.56  | $180.91    | +$781 (+3.64%)    | 10% trail, HWM $182.92, stop $164.63    |
+| XLV  | 139    | $153.39  | $149.40    | -$555 (-2.60%)    | 10% trail, HWM $155.16, stop $139.64    |
+
+### Stop Tighten Check
+- NVDA +0.88%: below +15% — no tighten
+- XLB +0.88%: below +15% — no tighten
+- XLI +3.64%: below +15% — no tighten
+- XLV -2.60%: negative — no tighten
+
+### Thesis Check
+- **NVDA**: AI inference demand supercycle intact. 10% trail active. HOLD.
+- **XLB**: Materials sector momentum (XLB entered ~May 29). Trail active. HOLD.
+- **XLI**: Industrials sector position (entered ~Jun 8). Trail active. HOLD.
+- **XLV**: Healthcare defensive (entered ~Jun 8). Down 2.60% from entry; stop $139.64 (9.1% below last close $149.40). Thesis: defensive positioning. HOLD — stop manages risk.
+
+### Actions
+- No losers at -7% cut threshold
+- No stop tighten triggered
+- No intraday thesis breaks (market closed)
+
+### Decision
+**HOLD all 4 positions.** No trades. Market opens Monday Jun 23.
+- XLV watch: if continues to weaken toward stop $139.64, let stop manage exit
+- Deployment 79.8% — within target; no urgency to add positions
