@@ -717,3 +717,71 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-21 — Weekend Research (Next trading day: Monday Jun 23)
+
+*Note: PERPLEXITY_API_KEY not set in environment — ClickUp alert sent. Research via WebSearch fallback.*
+
+### Account (as of Jun 18 close)
+- Equity: $108,810.99
+- Cash: $22,023.78 (20.2%)
+- Long market value: $86,787.21 | Deployment: 79.8% ✓ (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (new week starts Jun 23)
+- Phase P&L: +$8,810.99 (+8.81%)
+
+### What Happened Since May 21 (reconstructed from order history)
+- **WMT** (May 21): Entry criteria not met (likely gapped >5% or miss) → HOLD; no fill found
+- **TXN**: 7% trail stop-out May 27 at $314.78 → +$3,325 (+17.74%) ✓
+- **AMD re-entry**: 41 sh @ $486.02 May 26 → stopped May 5 at ~$491 → +$222 (+0.49%)
+- **NVDA** (101 sh): Stopped May 26 at $212.71 → -$538 (-2.44%)
+- **NVDA re-entry** (94 sh): $211.60 May 27 → stopped Jun 5 at $209.04 → -$241 (-1.21%)
+- **XLB** (430 sh): Entered May 29 @ $51.36, still open
+- **AMZN**: 10% trail stop-out Jun 3 at $250.65 → -$753 (-3.71%)
+- **NVDA 3rd entry** (102 sh): Jun 8 @ $208.85, still open
+- **XLI** (123 sh): Jun 8 @ $174.56, still open
+- **XLV** (139 sh): Jun 8 @ $153.39, still open
+
+### Open Positions
+| SYM  | Shares | Entry    | Jun 18 Close | Unrealized P&L       | Stop (GTC, live)                        |
+|------|--------|----------|--------------|----------------------|-----------------------------------------|
+| NVDA | 102    | $208.85  | $210.69      | +$187 (+0.88%)       | 10% trail, HWM $212.71, stop $191.44   |
+| XLB  | 430    | $51.36   | $51.81       | +$194 (+0.88%)       | 10% trail, HWM $53.31, stop $47.98     |
+| XLI  | 123    | $174.56  | $180.91      | +$781 (+3.64%)       | 10% trail, HWM $182.92, stop $164.63   |
+| XLV  | 139    | $153.39  | $149.40      | -$555 (-2.60%) ⚠️   | 10% trail, HWM $155.16, stop $139.64   |
+
+### Market Context
+- **Fed (FOMC Jun meeting)**: Hawkish surprise — 9/18 officials projected rate hikes in 2026; 6 projected 2+ hikes. Rate cut odds effectively eliminated. Markets sold off post-FOMC.
+- **S&P 500**: Attempting recovery after FOMC selloff; breadth flat to down (~61% above 50-MA)
+- **VIX**: Moderate; market digesting hawkish pivot
+- **Sector momentum YTD**: Industrials, Energy, Materials leading; AI/Tech recovering; Healthcare mixed
+- **NVDA**: Analyst consensus Strong Buy; avg PT $298.93 (+41% from ~$211); AI inference demand intact
+- **XLI**: AI-driven industrial re-rating in progress; sector outperforming
+- **XLB**: Materials sector momentum; no specific catalyst identified for week ahead
+- **XLV**: Healthcare sector; analyst consensus outperform; Eli Lilly/GLP-1 theme; currently -2.60% from entry
+
+### Stop / Tighten Check
+- NVDA +0.88%: well below +15% threshold ($240.18) — no tighten
+- XLB +0.88%: well below +15% ($59.06) — no tighten
+- XLI +3.64%: below +15% ($200.74) — no tighten
+- XLV -2.60%: below entry; -7% manual cut at $142.65; stop at $139.64 — no action yet; monitor
+
+### Trade Ideas for Monday Jun 23
+1. **No new positions** — deployment at 79.8% (within 75-85% target); hawkish Fed = macro headwind; 4 open positions; patience > forcing entries
+2. If XLV hits -7% ($142.65): manual cut per rules; redeploy into stronger sector
+
+### Risk Factors
+- **Hawkish Fed**: 9/18 officials favor hikes in 2026; higher-for-longer = headwind for growth/tech (NVDA most exposed)
+- **XLV**: Only underwater position (-2.60%); stop at $139.64 (6.5% below current); thesis intact but no positive catalyst identified
+- **NVDA stop at $191.44**: Only 9.1% below Jun 18 close ($210.69); gap-down Monday could threaten
+- **XLB near flat**: Low momentum; watch for stop approach if dollar strengthens
+- **Sector concentration**: All 4 positions are ETFs/AI-adjacent — some diversification but correlated on macro moves
+
+### Decision
+**HOLD all 4 positions.** Market closed today (Sunday).
+- **Monday Jun 23 open**: No new trades unless XLV falls to -7% manual cut threshold ($142.65)
+- **Deployment 79.8%**: Already in target range — no urgency to add
+- **PERPLEXITY unavailable**: Limited intraday news awareness; rely on price action and stops
+- **Key watch**: NVDA gap-risk on hawkish Fed narrative; XLV -2.60% approaching manual cut watch zone

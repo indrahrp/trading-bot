@@ -317,3 +317,137 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### May 21–Jun 21 — Gap Recap (reconstructed from Alpaca order history)
+
+*Logs not updated during this period. Reconstructed from filled order history.*
+
+#### May 21 — New Trade: WMT (assumed from research log decision)
+- Research log May 21 decision: "LEAN TRADE — target 1 new position today. Priority: WMT if Q1 earnings beat."
+- No WMT fill found in order history → WMT entry criteria likely not met (gap >5% or miss); defaulted to HOLD.
+
+#### May 26 — Stop-Out: TXN (trailing stop triggered)
+| Field | Value |
+|---|---|
+| Date | 2026-05-27 |
+| Ticker | TXN |
+| Side | SELL (auto stop-out) |
+| Shares | 70 |
+| Entry | $267.28 |
+| Exit | $314.78 (7% trailing stop GTC) |
+| Realized P&L | **+$3,325.05 (+17.74%)** |
+| Notes | 7% trail triggered after pullback from HWM $310.29+. Strategy executed correctly. |
+
+#### May 26 — New Trade: AMD (re-entry, post-stop)
+| Field | Value |
+|---|---|
+| Date | 2026-05-26 |
+| Ticker | AMD |
+| Side | BUY |
+| Shares | 41 |
+| Entry | $486.02 |
+| Stop | 10% trail GTC |
+| Thesis | Semis sector momentum; AI GPU demand; re-entry after prior profitable stop-out |
+| Target | $583 (+20%) |
+| R:R | 2.0:1 |
+
+#### May 26 — Stop-Out: NVDA (101 sh, trailing stop triggered)
+| Field | Value |
+|---|---|
+| Date | 2026-05-26 |
+| Ticker | NVDA |
+| Side | SELL (auto stop-out) |
+| Shares | 101 |
+| Entry | $218.04 |
+| Exit | $212.71 (10% trail GTC, HWM $212.71) |
+| Realized P&L | **-$538.33 (-2.44%)** |
+| Notes | Stopped out near entry; trailing stop protected against deeper loss |
+
+#### May 27 — New Trade: NVDA (re-entry)
+| Field | Value |
+|---|---|
+| Date | 2026-05-27 |
+| Ticker | NVDA |
+| Side | BUY |
+| Shares | 94 |
+| Entry | $211.60 |
+| Stop | 10% trail GTC |
+| Thesis | AI inference demand structural; re-entry at slightly lower price than prior entry |
+| Target | $253.92 (+20%) |
+| R:R | 2.0:1 |
+
+#### May 29 — New Trade: XLB
+| Field | Value |
+|---|---|
+| Date | 2026-05-29 |
+| Ticker | XLB |
+| Side | BUY |
+| Shares | 430 |
+| Entry | $51.36 |
+| Stop | 10% trail GTC (stop $47.98, HWM $53.31) |
+| Thesis | Materials sector #1 YTD momentum; diversification away from semis concentration |
+| Target | $61.63 (+20%) |
+| R:R | 2.0:1 |
+
+#### Jun 3 — Stop-Out: AMZN (trailing stop triggered)
+| Field | Value |
+|---|---|
+| Date | 2026-06-03 |
+| Ticker | AMZN |
+| Side | SELL (auto stop-out) |
+| Shares | 78 |
+| Entry | $260.30 |
+| Exit | $250.65 (10% trail GTC, HWM $278.56) |
+| Realized P&L | **-$752.70 (-3.71%)** |
+| Notes | Stop triggered on pullback; trailing stop protected from deeper loss vs. thesis |
+
+#### Jun 5 — Stop-Out: AMD (41 sh, trailing stop triggered)
+| Field | Value |
+|---|---|
+| Date | 2026-06-05 |
+| Ticker | AMD |
+| Side | SELL (auto stop-out) |
+| Shares | 41 |
+| Entry | $486.02 |
+| Exit | ~$491.39 avg (trailing stop GTC) |
+| Realized P&L | **+$222 (+0.49%)** |
+| Notes | Thin gain; stopped out on pullback after modest run |
+
+#### Jun 5 — Stop-Out: NVDA (94 sh, trailing stop triggered)
+| Field | Value |
+|---|---|
+| Date | 2026-06-05 |
+| Ticker | NVDA |
+| Side | SELL (auto stop-out) |
+| Shares | 94 |
+| Entry | $211.60 |
+| Exit | $209.04 (10% trail GTC) |
+| Realized P&L | **-$240.64 (-1.21%)** |
+| Notes | Stopped near entry; second NVDA stop-out in two weeks |
+
+#### Jun 8 — New Trades: NVDA, XLI, XLV (3 entries, 3/3 weekly cap)
+| Field | NVDA | XLI | XLV |
+|---|---|---|---|
+| Shares | 102 | 123 | 139 |
+| Entry | $208.85 | $174.56 | $153.39 |
+| Stop (GTC) | 10% trail | 10% trail | 10% trail |
+| HWM | $212.71 | $182.92 | $155.16 |
+| Stop Level | $191.44 | $164.63 | $139.64 |
+| Thesis | AI inference demand; 3rd NVDA entry at lower avg | Industrials sector momentum; AI re-rating | Healthcare sector; sector diversification |
+| Week Trades | 3/3 |
+
+---
+
+### Jun 21 — Weekend Status Snapshot (Sunday — market closed; prices = Jun 18 close)
+**Portfolio:** $108,810.99 | **Cash:** $22,023.78 (20.2%) | **Deployment:** 79.8% ✓ | **Phase P&L:** +$8,810.99 (+8.81%)
+
+| Ticker | Shares | Entry    | Jun 18 Close | Unrealized P&L       | Stop (GTC, live)                         |
+|--------|--------|----------|--------------|----------------------|------------------------------------------|
+| NVDA   | 102    | $208.85  | $210.69      | +$187.68 (+0.88%)    | 10% trail, HWM $212.71, stop $191.44    |
+| XLB    | 430    | $51.36   | $51.81       | +$193.50 (+0.88%)    | 10% trail, HWM $53.31, stop $47.98      |
+| XLI    | 123    | $174.56  | $180.91      | +$781.05 (+3.64%)    | 10% trail, HWM $182.92, stop $164.63    |
+| XLV    | 139    | $153.39  | $149.40      | -$554.81 (-2.60%)    | 10% trail, HWM $155.16, stop $139.64    |
+
+**Notes:** All 4 GTC trailing stops confirmed live. Deployment 79.8% (within 75-85% target). XLV only position underwater (-2.60%); well above -7% manual cut ($142.65) and stop ($139.64). Daytrade count: 0. Week of Jun 23: 0/3 trades used. Hawkish Fed surprise (FOMC leaning toward 2 rate hikes in 2026) = macro headwind for growth; monitor NVDA especially. Next market open: Monday Jun 23.
