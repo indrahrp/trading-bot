@@ -317,3 +317,17 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 21 — EOD Snapshot (Day 39, Sunday — reflects Jun 20 close)
+**Portfolio:** $108,810.99 | **Cash:** $22,023.78 (20.2%) | **Day P&L:** $0.00 (0.00% — market closed) | **Phase P&L:** +$8,810.99 (+8.81%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg | Unrealized P&L       | Stop                                      |
+|--------|--------|----------|----------|---------|----------------------|-------------------------------------------|
+| NVDA   | 102    | $208.85  | $210.69  | 0.00%   | +$187.68 (+0.88%)    | 10% trail, HWM $212.71, stop $191.44     |
+| XLB    | 430    | $51.36   | $51.81   | 0.00%   | +$193.50 (+0.88%)    | 10% trail, HWM $53.31, stop $47.98       |
+| XLI    | 123    | $174.56  | $180.91  | 0.00%   | +$781.05 (+3.64%)    | 10% trail, HWM $182.92, stop $164.63     |
+| XLV    | 139    | $153.39  | $149.40  | 0.00%   | -$554.81 (-2.60%)    | 10% trail, HWM $155.16, stop $139.64     |
+
+**Notes:** Log gap from May 20 to Jun 21 — portfolio was fully restructured during that period. Exited AMZN and TXN (details not logged); replaced NVDA lot (101→102 shares at $208.85 avg vs $218.04 prior); added sector ETFs XLB (materials, May 29), XLI (industrials, Jun 8), and XLV (healthcare, Jun 8). Portfolio now 79.8% deployed — within 75-85% target. XLV is the only loser at -2.60%, still well above -7% cut threshold; all others modestly positive. No trades this week (0/3). No stop tighten actions needed — no position above +15%. Monday: watch XLV (-2.60%, $149.40, stop $139.64); monitor XLI near HWM ($180.91 vs $182.92 HWM).
