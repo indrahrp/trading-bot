@@ -717,3 +717,82 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-22 — Pre-market Research
+
+> Note: PERPLEXITY_API_KEY not set in environment — research via WebSearch fallback. ClickUp alert sent.
+
+### Account Snapshot
+- **Equity**: $108,486.12 | **Cash**: $22,023.78 (20.3%)
+- **Long market value**: $86,462.34 | **Deployment**: 79.7% ✓ (target 75-85%)
+- **Daytrade count**: 0 | **PDT**: false
+- **Week trades**: 0/3 (new week Jun 22-26)
+- **Phase P&L**: +$8,486.12 (+8.49%)
+- **Day P&L (prior close)**: -$324.87 (-0.30%)
+
+### Open Positions
+| SYM  | Shares | Entry    | Now      | Unrealized P&L       | Stop (GTC, live)                       |
+|------|--------|----------|----------|----------------------|----------------------------------------|
+| NVDA | 102    | $208.85  | $210.15  | +$132.60 (+0.62%)    | 10% trail, HWM $212.71, stop $191.44  |
+| XLB  | 430    | $51.36   | $51.41   | +$21.50 (+0.10%)     | 10% trail, HWM $53.31, stop $47.98    |
+| XLI  | 123    | $174.56  | $180.68  | +$752.76 (+3.51%)    | 10% trail, HWM $182.91, stop $164.63  |
+| XLV  | 139    | $153.39  | $148.90  | -$624.31 (-2.93%)    | 10% trail, HWM $155.16, stop $139.64  |
+
+### Stop Tighten Check
+- NVDA +0.62%: no tighten (threshold +15% = $240.18)
+- XLB +0.10%: no tighten (threshold +15% = $59.06)
+- XLI +3.51%: no tighten (threshold +15% = $200.74)
+- XLV -2.93%: no tighten; **manual cut threshold -7% = $142.65 — current $148.90, cushion $6.25 (4.1%)** — WATCH
+
+### Market Context
+- **WTI**: ~$77.54/bbl (+0.27%) | **Brent**: below $80/bbl — U.S.-Iran 60-day peace roadmap agreed, easing supply premium
+- **S&P 500 futures**: -0.1% premarket (little changed); market assessing Iran deal and awaiting PCE Thursday
+- **VIX**: ~22 (peaked 31.05 in late March; rebounded from mid-teens lows; still elevated above calm zone)
+- **Key catalyst today**: U.S.-Iran peace roadmap → crude lower → inflation relief expectation
+- **Memory chip sector**: SK Hynix +5.6%, WDC +5.2%, STX +4.0%, MU +3% premarket; Micron Q3 earnings Jun 24 AH (EPS est. $19.95, +942% YoY; revenue est. $34.66B; 81% gross margin expected — all-time record)
+- **SMCI**: +2.94% premarket on $7B AI server financing package
+- **Earnings today**: No major pre-open reports; FDX reports after close Tuesday (Jun 23)
+- **Economic calendar this week**:
+  - Mon Jun 22: No data
+  - Thu Jun 25: May PCE (Fed preferred) — Wells Fargo est. +0.5% MoM, 4.1% YoY; core PCE +0.3% MoM, 3.4% YoY — still above target, rate-sensitive event
+
+### Sector Momentum YTD
+| Sector           | ETF  | YTD     | Status    |
+|------------------|------|---------|-----------|
+| Materials        | XLB  | +22%    | Leader ✓  |
+| Healthcare       | XLV  | strong  | Leader ✓  |
+| Industrials      | XLI  | strong  | Leader ✓  |
+| Energy           | XLE  | strong  | Leader    |
+| Technology       | XLK  | cooling | Lagging   |
+| Consumer Disc    | XLY  | lagging | Lagging   |
+
+*Positions in XLB, XLI, XLV all aligned with leading sectors per strategy.*
+
+### Position Thesis Check
+- **NVDA**: AI inference demand intact; HWM $212.71 (Jun 15); Micron earnings Jun 24 AH = semis read-through. Below HWM by 1.2%. Watch for MU catalyst to push NVDA back toward HWM.
+- **XLB**: Materials sector #1 YTD. Mild pullback today (-0.77%) likely on Iran oil deal (lower input costs for downstream vs. mining/chemicals mixed). HWM $53.31, stop $47.98 — price $51.41 is 7.2% above stop. Thesis intact.
+- **XLI**: Industrials momentum strong. Only -0.13% today. HWM $182.91, current $180.68 — 1.2% off HWM. On track. Thesis intact.
+- **XLV**: Healthcare "flight to safety" thesis but -2.93% from entry. HWM $155.16 (from entry), current $148.90. Stop at $139.64. -7% manual cut = $142.65. Thesis under moderate stress — monitor. No cut yet.
+
+### Trade Ideas
+1. **MU (Micron) long — WATCH, not today** — Memory sector on fire; MU Q3 earnings Jun 24 AH could be historic; HBM AI memory demand; 942% YoY EPS growth expected. But: (a) NVDA already gives semis exposure; (b) earnings binary risk on Jun 24; (c) better entry post-earnings if MU beats. **Set alert: MU > $120 post-earnings gap-up on Jun 25 AM = potential entry with 10% trail.** Position size ~$20K (18.4% equity).
+2. **SMCI long — low priority** — $7B AI server capex, premarket +2.94%. Speculative; no ETF sector alignment; avoid.
+3. **No urgency** — Deployment at 79.7% is within 75-85% target range. Capacity for 1 more position (slot 5 of 6) but no compelling entry today.
+
+### Risk Factors
+- **PCE Thursday Jun 25**: Wells Fargo forecasts 4.1% YoY — if above 4%, re-ignites rate-hike fear; pressure on growth (NVDA) and rate-sensitive (XLV)
+- **Iran peace deal uncertainty**: 60-day roadmap ≠ deal done; breakdown = crude spike = inflation/rate risk
+- **NVDA below HWM**: if $210 fails and retests $191 stop, auto stop-out possible
+- **XLV thesis risk**: -2.93% in a "top sector" is a yellow flag; if XLV breaches $142.65, cut manually at -7%
+- **XLB Iran tail**: materials sector — iron ore / chemical input costs affected both ways by Iran deal; watch for sector rotation out of materials
+- **Micron binary event Jun 24 AH**: any MU long initiated before Jun 24 carries earnings gap risk
+
+### Decision
+**HOLD — all 4 positions. No new trades today.**
+- Deployment 79.7% within target. Patience > activity.
+- XLV at -2.93%: watch daily. Set mental alert at $142.65 for manual cut.
+- Micron earnings Jun 24 AH: re-evaluate MU long entry for Jun 25 pre-market based on results.
+- PCE Thursday: if core PCE benign (≤0.3% MoM), market relief rally may lift all positions; if hot, tighten risk monitoring.
+- Week trades available: 3/3 — preserve for MU post-earnings entry or tactical add.
