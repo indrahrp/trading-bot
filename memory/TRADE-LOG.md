@@ -317,3 +317,17 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 22 — EOD Snapshot (Day 38, Monday)
+**Portfolio:** $108,745.70 | **Cash:** $22,023.78 (20.3%) | **Day P&L:** -$65.29 (-0.06%) | **Phase P&L:** +$8,745.70 (+8.75%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg  | Unrealized P&L          | Stop                                      |
+|--------|--------|----------|----------|----------|-------------------------|-------------------------------------------|
+| NVDA   | 102    | $208.85  | $208.05  | -1.25%   | -$81.60 (-0.38%)        | 10% trail, HWM $213.99, stop $192.59     |
+| XLB    | 430    | $51.36   | $51.63   | -0.35%   | +$116.70 (+0.53%)       | 10% trail, HWM $53.31, stop $47.98       |
+| XLI    | 123    | $174.56  | $181.90  | +0.55%   | +$902.82 (+4.21%)       | 10% trail, HWM $182.92, stop $164.63     |
+| XLV    | 139    | $153.39  | $150.54  | +0.77%   | -$395.79 (-1.86%)       | 10% trail, HWM $155.155, stop $139.64    |
+
+**Notes:** First trading day back after Juneteenth long weekend. Portfolio has rotated from individual stocks (AMZN, TXN sold between May 20–Jun 8) into sector ETFs (XLB Materials, XLI Industrials, XLV Healthcare) with NVDA position slightly adjusted (102 shares, avg $208.85). Deployment now healthy at 79.7% vs 75-85% target. Day P&L essentially flat -$65 on light volume post-holiday. XLI leading with +4.21% unrealized; XLV the laggard at -1.86% but well above -7% cut level. No trades today (0/3 this week). All four GTC trailing stops confirmed live. Tomorrow: monitor XLV thesis; watch XLI stop HWM $182.92 (currently trading at $181.90, just below HWM).
