@@ -717,3 +717,54 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-22 — Pre-market Research (inline, market-open workflow)
+
+*Note: PERPLEXITY_API_KEY not set — research limited to live Alpaca data. Research log gap: May 21 → Jun 22 (positions changed significantly via undocumented sessions).*
+
+### Account
+- Equity: $108,818.58 | Cash: $22,023.78 (20.2%)
+- Long market value: $86,794.80 | **Deployment: 79.8% ✓ (target 75-85%)**
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (new week — last trade June 8)
+- Phase P&L: +$8,818.58 (+8.82%)
+
+### Open Positions
+| SYM  | Shares | Avg Entry | Now     | Unrealized P&L     | Stop (GTC)                            |
+|------|--------|-----------|---------|--------------------|---------------------------------------|
+| NVDA | 102    | $208.85   | $211.26 | +$246 (+1.15%)     | 10% trail, HWM $212.71, stop $191.44 |
+| XLB  | 430    | $51.36    | $51.36  | $0 (0.00%)         | 10% trail, HWM $53.31, stop $47.98   |
+| XLI  | 123    | $174.56   | $181.50 | +$854 (+3.98%)     | 10% trail, HWM $182.92, stop $164.63 |
+| XLV  | 139    | $153.39   | $149.90 | -$485 (-2.28%)     | 10% trail, HWM $155.155, stop $139.64|
+
+*Note: AMZN and TXN exited (not logged) between May 21–Jun 8. NVDA re-entered Jun 8 @ $208.85 (102 sh, vs original 101 sh @ $218.04). XLB entered May 29. XLI + XLV entered Jun 8.*
+
+### Thesis Check (live prices only — Perplexity unavailable)
+- **NVDA** +1.15%: AI inference thesis. Stop $191.44 (HWM $212.71). Well above -7% cut ($194.23). INTACT.
+- **XLB** 0.00%: Materials sector momentum thesis. HWM was $53.31, now back at entry ($51.36). Stop $47.98. INTACT.
+- **XLI** +3.98%: Industrials sector momentum. HWM $182.92, approaching prior high. Stop $164.63. INTACT.
+- **XLV** -2.28%: Healthcare sector thesis. Stop $139.64 (HWM $155.155). Distance to -7% cut ($142.65): $7.25. INTACT — not at cut level, stop protects downside.
+
+### Stop Tighten Check
+- NVDA +1.15%: below +15% threshold ($240.18) — no tighten
+- XLB 0.00%: far below +15% threshold ($59.06) — no tighten
+- XLI +3.98%: below +15% threshold ($200.74) — no tighten
+- XLV -2.28%: below +15% threshold ($176.40) — no tighten
+
+### Trade Ideas
+1. **No new positions** — deployment 79.8% (within target); Perplexity unavailable for catalyst research; no documented catalyst in today's log. Gate: catalyst required before any new entry.
+
+### Risk Factors
+- XLV -2.28%: approaching loss territory; stop $139.64 active; watch for -7% cut at $142.65
+- XLB flat from entry (0%): pulled back from HWM $53.31 to $51.36 (-3.67% from HWM); stop $47.98 (-6.6% from current) — tight buffer
+- PERPLEXITY_API_KEY missing: no news/catalyst research capability
+- Research log gap (May 21 → Jun 22): undocumented position changes reduce context
+
+### Decision
+**HOLD all 4 positions.** No new trades today.
+- All stops live and correct per strategy rules.
+- No thresholds breached (no -7% cuts, no +15%/+20% tightenings).
+- Deployment 79.8% within target — no urgency to add.
+- Next catalyst opportunity: restore Perplexity key and run proper pre-market research before any new entry.
