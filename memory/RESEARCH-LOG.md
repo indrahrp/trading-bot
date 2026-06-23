@@ -717,3 +717,65 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-23 — Pre-market Research
+
+> Note: PERPLEXITY_API_KEY not set in environment — research via WebSearch fallback.
+
+### Account Snapshot
+- **Equity:** $108,104.29 | **Cash:** $22,023.78 (20.4%)
+- **Long market value:** $86,080.51 | **Deployment: 79.6%** ✓ (target 75-85%)
+- **Daytrade count:** 0 | **PDT:** false
+- **Phase P&L vs May baseline (~$100K):** ~+$8,104 (+8.1%)
+
+### Open Positions
+| SYM  | Shares | Entry    | Now     | Unrealized P&L       | Stop (GTC trail)                        |
+|------|--------|----------|---------|----------------------|-----------------------------------------|
+| NVDA | 102    | $208.85  | $203.87 | -$508 (-2.38%)       | 10% trail, HWM $213.99, stop $192.59   |
+| XLB  | 430    | $51.36   | $51.45  | +$39 (+0.18%)        | 10% trail, HWM $53.31, stop $47.98     |
+| XLI  | 123    | $174.56  | $180.44 | +$723 (+3.37%)       | 10% trail, HWM $182.92, stop $164.63   |
+| XLV  | 139    | $153.39  | $150.85 | -$353 (-1.66%)       | 10% trail, HWM $155.155, stop $139.64  |
+
+### Stop Tighten Check
+- NVDA -2.38%: no tighten (loss)
+- XLB +0.18%: no tighten
+- XLI +3.37%: no tighten (threshold +15% → $200.74)
+- XLV -1.66%: no tighten (loss)
+
+### Manual Cut Check (-7% rule)
+- NVDA: -7% threshold = $194.23; current $203.87 → **not triggered** (stop at $192.59 provides backstop)
+- XLV: -7% threshold = $142.65; current $150.85 → not triggered
+- ⚠️ **NVDA watch**: only 5.5% cushion to stop ($192.59); Nasdaq futures -2.6% premarket
+
+### Market Context
+- **WTI:** ~$73.67/bbl (-0.26%) | **Brent:** ~$76.68/bbl — US-Iran talks easing supply premium
+- **S&P 500 futures:** -1.31% to -1.43% premarket — broad risk-off
+- **Nasdaq 100 futures:** -2.60% — tech/chip sector leading lower
+- **VIX:** ~17.28 (+2.98%) — elevated but below panic territory
+- **Asian markets:** KOSPI -10%, Nikkei -3.6%, Hang Seng -2.1% — chip/tech selloff
+- **Catalyst:** SpaceX tech/chip sentiment contagion; Iran IAEA nuclear inspections in doubt (FM contradicts VP Vance), eroding "deal" optimism
+- **NVDA:** AI chip prices declining — B200 spot rates fell $6.11 → $4.22/hr (Jun 21); NVDA +12% YTD vs semis ETF +85% (underperforming); Vera Rubin platform announced Mon at ISC HPC 2026
+- **Sector YTD momentum:** XLB (Materials) +22% Leading ✓ | XLI (Industrials) Leading ✓ | XLV (Healthcare) Weakening ⚠️ | Tech lagging
+- **Earnings today:** FedEx (FDX) after close; Micron (MU) after close Wed — no significant pre-market movers today
+- **Economic data:** PMI and housing-related releases expected today; no CPI/PPI/FOMC
+
+### Trade Ideas
+1. **HOLD all — no new entries.** Risk-off session; forcing buys into falling tech/global selloff violates patience > activity rule. Deployment at 79.6% is within target — no gap to close.
+2. **NVDA monitor:** If NVDA falls to ~$196-198 intraday, stop at $192.59 becomes vulnerable. Watch closely. If thesis broken (AI chip demand structural decline vs cyclical dip), consider manual exit before stop. Current thesis: Vera Rubin cycle intact; chip price softness temporary.
+3. **XLV watch:** Healthcare weakening in momentum rank. At -1.66% unrealized — far from -7% cut. Hold unless sector rolls over further.
+
+### Risk Factors
+- NVDA stop at $192.59 only 5.5% below current price; Nasdaq -2.6% premarket = elevated stop-out risk today
+- Iran deal uncertainty could persist all week — geopolitical risk premium not fully priced
+- Chip sector broadly under pressure — NVDA, Korea/Samsung exposure in XLI
+- XLV momentum weakening; two consecutive losses in healthcare = sector exit rule triggers
+- No high-conviction entry ideas on a risk-off day — any new trade would be low-quality
+
+### Decision
+**HOLD — no new trades.**
+- All 4 positions within stop discipline; let GTC trails manage downside
+- NVDA is the live risk: monitor for stop trigger or -7% manual cut at $194.23
+- Re-evaluate Wednesday post-Micron earnings reaction for semis direction
+- Week trade count: 0/3
