@@ -317,3 +317,28 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+> ⚠️ **LOG GAP: May 21 – Jun 22** — Reconstructed from live API state. AMZN and TXN exited (dates/prices unknown), XLB entered ~May 29, NVDA averaged down to 102sh @ $208.85 avg, XLI and XLV entered Jun 8. Exact entry prices, P&L, and thesis notes for those trades not captured.
+
+---
+
+### Jun 23 — Midday Scan
+**Portfolio:** $107,796 | **Cash:** $22,024 (20.4%) | **Deployment:** 79.6% ✓ | **Day P&L:** -$926 (-0.85%) | **Phase P&L:** +$7,796 (+7.80%)
+
+#### Open Positions (midday)
+| Ticker | Shares | Entry    | Now      | Unreal P&L         | Stop                                       |
+|--------|--------|----------|----------|--------------------|--------------------------------------------|
+| NVDA   | 102    | $208.85  | $202.40  | -$658 (-3.09%)     | 10% trail, HWM $213.99, stop $192.59      |
+| XLB    | 430    | $51.36   | $51.30   | -$28 (-0.13%)      | 10% trail, HWM $53.31, stop $47.98        |
+| XLI    | 123    | $174.56  | $179.20  | +$571 (+2.66%)     | 10% trail, HWM $182.92, stop $164.63      |
+| XLV    | 139    | $153.39  | $151.32  | -$288 (-1.35%)     | 10% trail, HWM $155.16, stop $139.64      |
+
+**Actions:**
+- Losers: None at -7%. NVDA -3.09% — within tolerance; stop $192.59 well below current $202.40.
+- Stop tighten: None. No position at +15% threshold.
+- Thesis: ETF sector positions (Materials/Industrials/Healthcare) intact; sector momentum strategy. NVDA AI inference thesis intact — intraday pullback -3.0% is noise vs stop cushion.
+- Research: PERPLEXITY_API_KEY not set — Step 6 skipped.
+- All 4 GTC trailing stops confirmed live per orders API.
+- **No action taken this session.**
