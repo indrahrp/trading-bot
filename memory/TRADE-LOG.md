@@ -317,3 +317,40 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### May 21 → Jun 7 — Catch-Up (positions from order history; logs missing)
+
+**Exits (automated stops):**
+| Date   | Ticker | Shares | Exit Price | P&L est.    | Notes                                    |
+|--------|--------|--------|------------|-------------|------------------------------------------|
+| May 26 | NVDA   | 101    | $212.71    | -$5.34 (-0.2%) | 10% trail, HWM $236.54                |
+| May 27 | TXN    | 70     | $314.78    | +$3,305 (+17.8%) | 5% trail, HWM $331.51               |
+| Jun 5  | NVDA   | 94     | $209.04    | -$238 (-1.1%) | 10% trail, HWM $232.28 (re-entry)     |
+| Jun 5  | AMD    | 41     | $491.45    | +$220 (+1.1%) | 10% trail, HWM $546.42 (re-entry)     |
+| Jun 8  | AMZN   | 78     | $250.65    | -$765 (-3.7%) | 10% trail, HWM $278.56               |
+
+**Entries:**
+| Date   | Ticker | Shares | Entry      | Stop (GTC)       | Thesis                       |
+|--------|--------|--------|------------|------------------|------------------------------|
+| May 26 | AMD    | 41     | $486.02    | 10% trail GTC    | Re-entry; semis momentum     |
+| May 27 | NVDA   | 94     | $211.60    | 10% trail GTC    | Re-entry; AI inference       |
+| May 29 | XLB    | 430    | $51.36     | 10% trail GTC    | Materials #1 YTD sector      |
+| Jun 8  | NVDA   | 102    | $208.85    | 10% trail GTC    | Re-entry post-stop; AI inf.  |
+| Jun 8  | XLI    | 123    | $174.56    | 10% trail GTC    | Industrials sector momentum  |
+| Jun 8  | XLV    | 139    | $153.39    | 10% trail GTC    | Healthcare; sector rotation  |
+
+---
+
+### Jun 23 — Market-Open Snapshot (Day ~42, Tuesday)
+**Portfolio:** $107,504.84 | **Cash:** $22,023.78 (20.5%) | **Day P&L:** -$1,217.58 (-1.12%) | **Phase P&L:** +$7,504.84 (+7.50%)**
+
+| Ticker | Shares | Entry    | Open    | Day Chg  | Unrealized P&L         | Stop                                      |
+|--------|--------|----------|---------|----------|------------------------|-------------------------------------------|
+| NVDA   | 102    | $208.85  | $200.32 | -3.99%   | -$870.06 (-4.08%)      | 10% trail, HWM $213.99, stop $192.59     |
+| XLB    | 430    | $51.36   | $51.05  | -1.10%   | -$133.30 (-0.60%)      | 10% trail, HWM $53.31, stop $47.98       |
+| XLI    | 123    | $174.56  | $178.91 | -1.59%   | +$535.05 (+2.49%)      | 10% trail, HWM $182.92, stop $164.63     |
+| XLV    | 139    | $153.39  | $151.73 | +1.11%   | -$230.94 (-1.08%)      | 10% trail, HWM $155.16, stop $139.64     |
+
+**Notes:** Global AI stock sell-off hitting chip sector today (NVDA -4%). Portfolio -$1,217.58 on day. Deployment 79.5% within target — no new trades (adding would push above 85% cap with only $22K cash). No manual cuts needed (all above -7% threshold). No stop tightenings triggered. Week trades: 0/3. All 4 GTC trailing stops active. NVDA watch: manual cut threshold at $194.24; stop backstop at $192.59.

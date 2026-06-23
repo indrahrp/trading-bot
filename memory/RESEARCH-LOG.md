@@ -717,3 +717,68 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-23 — Pre-market Research (inline, market-open workflow)
+
+*Note: PERPLEXITY_API_KEY not set — research via WebSearch fallback.*
+
+### Account
+- Equity: $107,504.84 | Cash: $22,023.78 (20.5%)
+- Long market value: $85,481.06 | **Deployment: 79.5% ✓ (target 75-85%)**
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (week of Jun 22–26)
+- Phase P&L: +$7,504.84 (+7.50%)
+
+### Portfolio Catch-Up (May 21 → Jun 23)
+Key events since last log:
+- **NVDA (101 sh)**: stopped out May 26 @ $212.71 (HWM $236.54); re-bought May 27 @ $211.60 (94 sh); stopped out Jun 5 @ $209.04; re-bought Jun 8 @ $208.85 (102 sh) — currently held
+- **TXN (70 sh)**: stopped out May 27 @ $314.78 (5% trail, HWM $331.51, realized gain +17.8%)
+- **AMD (50 sh)**: re-entered May 26 @ $486.02 (41 sh); stopped out Jun 5 @ $491.45 (small gain)
+- **AMZN (78 sh)**: stopped out Jun 8 @ $250.65 (10% trail, HWM $278.56, near-breakeven)
+- **XLB (430 sh)**: entered May 29 @ $51.36 — currently held
+- **XLI (123 sh)**: entered Jun 8 @ $174.56 — currently held
+- **XLV (139 sh)**: entered Jun 8 @ $153.39 — currently held
+
+### Open Positions
+| SYM  | Shares | Entry    | Live Ask  | P&L               | Stop (GTC, live)                         |
+|------|--------|----------|-----------|-------------------|------------------------------------------|
+| NVDA | 102    | $208.85  | $200.65   | -$870 (-4.08%)    | 10% trail, HWM $213.99, stop $192.59    |
+| XLB  | 430    | $51.36   | $51.06    | -$133 (-0.60%)    | 10% trail, HWM $53.31, stop $47.98      |
+| XLI  | 123    | $174.56  | $178.83   | +$535 (+2.49%)    | 10% trail, HWM $182.92, stop $164.63    |
+| XLV  | 139    | $153.39  | $151.71   | -$231 (-1.08%)    | 10% trail, HWM $155.16, stop $139.64    |
+
+### Market Context
+- **S&P 500**: $7,456.9 (~2.1% below Jun 2 ATH $7,616.2); +week last week
+- **VIX**: ~16.41 (Jun 16 read); spiked to 22.22 on Jun 10 on tech/semis profit-taking and Fed Chair transition uncertainty; now easing
+- **AI chip sell-off today**: NVDA, AMD, MU, INTC all declining on global AI stock selloff; Bernstein maintains Buy on NVDA
+- **Sector YTD**: Healthcare (XLV) and Financials expected to outperform 2026; XLI in momentum; Materials (XLB) holding
+
+### Stop Tighten Check
+- NVDA -4.08%: far below +15% threshold — no tighten
+- XLB -0.60%: no tighten
+- XLI +2.49%: no tighten (threshold +15%)
+- XLV -1.08%: no tighten
+
+### Manual Cut Check (−7% rule)
+- NVDA −7% from $208.85 = $194.24. Current $200.32 > $194.24 → **no cut**
+- XLB −7% from $51.36 = $47.76. Current $51.05 > $47.76 → **no cut**
+- XLI +2.49% → no concern
+- XLV −7% from $153.39 = $142.65. Current $151.73 > $142.65 → **no cut**
+
+### Trade Ideas
+1. **No new positions** — deployment 79.5% (within 75-85% ✓); cash $22K barely covers one max position (~$21.5K) which would push deployment to ~98%, above 85% cap. AI chip sell-off = unfavorable entry environment. Patience > forcing.
+
+### Risk Factors
+- NVDA approaching -7% manual cut zone from entry ($194.24); stop $192.59 provides backstop
+- Global AI sell-off (NVDA/AMD/MU/INTC all red) — correlated drawdown risk on NVDA
+- VIX elevated (spiked to 22 on Jun 10); macro uncertainty from Fed Chair transition
+- Cash only $22K — limited flexibility; can't add without violating 85% deployment cap
+
+### Decision
+**HOLD all 4 positions.** No new trades today.
+- All stops active (GTC trailing, 10% each)
+- No tightenings or manual cuts triggered
+- Deployment within target; adding would violate 85% cap
+- Watch NVDA closely: if price approaches $194.24 (−7% from entry), evaluate closing manually
