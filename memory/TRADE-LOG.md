@@ -317,3 +317,17 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 23 — EOD Snapshot (Day 40, Monday)
+**Portfolio:** $107,365.51 | **Cash:** $22,023.78 (20.5%) | **Day P&L:** -$1,356.91 (-1.25%) | **Phase P&L:** +$7,365.51 (+7.37%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg  | Unrealized P&L        | Stop                                    |
+|--------|--------|----------|----------|----------|-----------------------|-----------------------------------------|
+| NVDA   | 102    | $208.85  | $200.50  | -3.91%   | -$851.70 (-4.00%)     | 10% trail, HWM $213.99, stop $192.59   |
+| XLB    | 430    | $51.36   | $50.81   | -1.57%   | -$236.50 (-1.07%)     | 10% trail, HWM $53.31, stop $47.98     |
+| XLI    | 123    | $174.56  | $178.20  | -1.98%   | +$447.72 (+2.09%)     | 10% trail, HWM $182.92, stop $164.63   |
+| XLV    | 139    | $153.39  | $151.97  | +1.27%   | -$197.58 (-0.93%)     | 10% trail, HWM $155.155, stop $139.64  |
+
+**Notes:** Red day across the board — NVDA -3.91%, XLI -1.98%, XLB -1.57%; only XLV green (+1.27%). Day P&L -$1,356.91 (-1.25%) drags phase gains to +$7,365.51 (+7.37%). NVDA now -4.0% unrealized (entered Jun 8 @ $208.85, HWM $213.99); no stop risk yet — cushion $7.91 to stop $192.59. All 3 sector ETFs (XLB, XLI, XLV) well within 10% trail stops; no tighten candidates (none near +15%). Deployment 79.5% — within 75-85% target. No trades today. 0/3 trades this week. Note: TRADE-LOG gap May 21–Jun 22 (missed EOD commits — prior sessions did not push). Key exits during gap: AMZN stopped out Jun 3 @ $250.65, AMD (re-entry) stopped out Jun 5 @ ~$491, NVDA stopped out May 26 @ $212.71 then re-entered May 27 @ $211.60 (stopped again), TXN stopped out May 27 @ $314.78. New entries: XLB May 29, NVDA/XLI/XLV Jun 8 (sector rotation into materials/industrials/healthcare). Tomorrow: watch NVDA — approaching prior entry zone; no new trades needed (deployment on target).
