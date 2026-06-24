@@ -717,3 +717,60 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-24 — Pre-market Research
+
+> Note: PERPLEXITY_API_KEY not set — research via WebSearch fallback. ClickUp alert sent.
+> Portfolio has evolved significantly since last log (May 21): AMZN/TXN exited, XLB/XLI/XLV added, NVDA position expanded. Resuming log.
+
+### Account
+- Equity: $107,342.71 | Phase P&L: +$7,342.71 (+7.34%) vs $100K start
+- Cash: $22,023.78 (20.5%)
+- Long market value: $85,318.93 | Deployment: 79.5% ✓ (target 75-85%)
+- Daytrade count: 0 | PDT: false
+
+### Open Positions
+| SYM  | Shares | Avg Entry | Current  | Unrealized P&L     | Stop (GTC, 10% trail)                  |
+|------|--------|-----------|----------|--------------------|----------------------------------------|
+| NVDA | 102    | $208.85   | $201.36  | -$764 (-3.59%) ⚠️ | HWM $213.99, stop $192.59 (4.4% away) |
+| XLB  | 430    | $51.36    | $50.45   | -$391 (-1.77%) ⚠️ | HWM $53.31, stop $47.98 (4.9% away)   |
+| XLI  | 123    | $174.56   | $178.50  | +$485 (+2.26%)     | HWM $182.92, stop $164.63 (7.8% away) |
+| XLV  | 139    | $153.39   | $152.02  | -$191 (-0.89%)     | HWM $155.16, stop $139.64 (8.1% away) |
+
+### Market Context
+- WTI / Brent: $72.02 / $75.81 — falling -1.6%/-1.7%; Iran granted 60-day oil sale license → supply glut; Brent lowest since pre-Iran-war (Feb 27)
+- S&P 500 futures: -1.31% premarket — continued tech/AI selloff; S&P -1.44% yesterday, at 1.5-week low
+- VIX: ~19.49 (prev close) — rising from 16-17 range; approaching 20 "caution" threshold
+- **Micron (MU) earnings after close today** — $34.66B rev est (+283% YoY), $19.95 EPS est; options pricing ±17% move; key AI demand read-through for NVDA thesis
+- Earnings before open: PAYX + ~14 small names; no direct portfolio impact
+- Econ calendar: Current Account Balance + EIA Crude Inventories (10:30 AM ET); no CPI/NFP/FOMC today
+- Yesterday's sector day returns: Tech -3.49%, Materials -2.88%, Industrials -1.51% led losses; Healthcare +1.29%, Consumer Defensive +1.79% outperformed — defensive rotation underway
+- Sector YTD (through early June): XLB ~+13%, XLI ~+12%, XLV ~-3%; Tech/AI under valuation scrutiny
+
+### Held Position Thesis Check
+- **NVDA** $201.36: -5.9% off HWM $213.99; stop $192.59 is 4.4% below. AI inference demand thesis intact (analyst avg PT $324.95), but "AI profitability questions" and BoFA rate hike note driving broad semis selloff. Micron tonight = direct read-through. **WATCH — closest to stop.**
+- **XLB** $50.45: Materials -2.88% yesterday; oil falling (Iran normalization) = commodity headwind; 4.9% above stop. Secondary stop-watch. Thesis weaker if commodity cycle turns.
+- **XLI** $178.50: +2.26% from entry; only positive position; sector YTD +12% intact; industrials resilient vs pure-tech. 7.8% above stop.
+- **XLV** $152.02: Healthcare outperformed yesterday (+1.29%) in risk-off; -0.89% from entry; defensive positioning working. 8.1% above stop.
+
+### Trade Ideas
+1. **No new trades** — deployment 79.5% (in range); broad selloff + Micron binary event tonight = no new risk today
+2. **Tomorrow (Jun 25)**: re-evaluate post-Micron reaction; if NVDA stops out → deployment drops to ~59%, need 1-2 new entries
+
+### Risk Factors
+- **Micron earnings tonight** — bad result = semis selloff, NVDA stop $192.59 at risk
+- **Broad tech/AI derisking** — S&P futures -1.31%; AI valuation questions + hawkish Fed repricing
+- **NVDA 4.4% from stop** — one 5% day triggers stop-out; volatile tape
+- **XLB/oil thesis** — Iran normalization eroding commodity premium; materials exposure riskier
+- **Higher-for-longer rates** — growth/AI stocks (NVDA) most exposed to yield re-pricing
+- **No Perplexity** — PERPLEXITY_API_KEY missing; limited real-time news
+
+### Decision
+**HOLD all 4 positions.** No new trades today.
+- NVDA: hold; stop $192.59 protects downside; do not cut early — let the stop work; watch Micron tonight
+- XLB: hold; above -7% cut level, stop live; reassess thesis tomorrow if oil selloff continues
+- XLI: hold; thesis intact, well above stop
+- XLV: hold; defensive outperformer; thesis intact
+- New entries: defer to post-Micron clarity (Jun 25 pre-market)
