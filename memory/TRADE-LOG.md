@@ -317,3 +317,17 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 24 — EOD Snapshot (Day 40, Wednesday)
+**Portfolio:** $107,797.62 | **Cash:** $22,023.78 (20.4%) | **Day P&L:** +$430.19 (+0.40%) | **Phase P&L:** +$7,797.62 (+7.80%)
+
+| Ticker | Shares | Entry     | Close    | Day Chg | Unrealized P&L       | Stop                                      |
+|--------|--------|-----------|----------|---------|----------------------|-------------------------------------------|
+| NVDA   | 102    | $208.85   | $200.20  | +0.08%  | -$882.30 (-4.14%)    | 10% trail, HWM $213.99, stop $192.59     |
+| XLB    | 430    | $51.36    | $51.03   | +0.32%  | -$141.90 (-0.64%)    | 10% trail, HWM $53.31, stop $47.98       |
+| XLI    | 123    | $174.56   | $180.30  | +1.21%  | +$706.02 (+3.29%)    | 10% trail, HWM $182.92, stop $164.63     |
+| XLV    | 139    | $153.39   | $152.76  | +0.38%  | -$87.77 (-0.41%)     | 10% trail, HWM $155.16, stop $139.64     |
+
+**Notes:** Small gain day (+0.40%, +$430) driven by XLI +1.21% and broad sector ETF recovery. Portfolio rotated significantly since last logged EOD (May 20): exited AMZN and TXN, rotated into sector ETFs XLB (materials), XLI (industrials), XLV (healthcare). Deployment now 79.6% — healthy within 75-85% target. NVDA -4.14% unrealized is primary concern; stop at $192.59 (10% trail, HWM $213.99) provides downside protection. XLI is standout at +3.29% unrealized. No trades today. Cash $22K — no new positions needed, deployment on-target.
