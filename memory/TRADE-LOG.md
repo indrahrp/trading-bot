@@ -317,3 +317,25 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 24 — Midday Scan
+**Portfolio:** $108,122.33 | **Cash:** $22,023.78 (20.4%) | **Deployment:** 79.6% ✓ | **Day P&L:** +$754.90 (+0.70%) | **Phase P&L:** +$8,122.33 (+8.12%)
+
+> Note: Trade log was stale since May 20. Current positions entered May 29–Jun 8 (XLB, XLI, XLV added; NVDA position adjusted to 102 sh avg $208.85). Prior positions AMZN and TXN appear closed in the interim; NVDA continued and was added to.
+
+#### Open Positions (midday)
+| Ticker | Shares | Avg Entry | Now     | Unreal P&L          | Stop                                   |
+|--------|--------|-----------|---------|---------------------|----------------------------------------|
+| NVDA   | 102    | $208.85   | $200.72 | -$828.92 (-3.89%)   | 10% trail, HWM $213.99, stop $192.59, order 7b684bdf |
+| XLB    | 430    | $51.36    | $51.355 | -$2.15 (-0.01%)     | 10% trail, HWM $53.31, stop $47.98, order 1d015d52 |
+| XLI    | 123    | $174.56   | $181.05 | +$798.27 (+3.72%)   | 10% trail, HWM $182.92, stop $164.63, order 637caf61 |
+| XLV    | 139    | $153.39   | $152.99 | -$55.77 (-0.26%)    | 10% trail, HWM $155.155, stop $139.64, order a7fa88df |
+
+**Actions:**
+- Losers: None at -7%. NVDA deepest at -3.89% — well above cut threshold. No cuts.
+- Stop tighten: None. XLI only winner at +3.72% — far below +15% threshold ($200.74). No tightenings.
+- Thesis: No sharp intraday moves or obvious catalyst breaks. All stops live and GTC confirmed.
+- Research: PERPLEXITY_API_KEY not set — skipped.
+- **Deployment: 79.6% ✓ — within 75-85% target.**
