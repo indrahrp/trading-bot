@@ -717,3 +717,70 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-24 — Pre-market Research (inline, market-open workflow)
+
+*Note: PERPLEXITY_API_KEY not set — market research via WebSearch fallback.*
+
+### Account
+- Equity: $107,766.16
+- Cash: $22,023.78 (20.4%)
+- Long market value: $85,742.38 | Deployment: 79.6% ✓ (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (new week Jun 22-26)
+- Phase P&L: +$7,766.16 (+7.77%)
+
+### Open Positions
+| SYM  | Shares | Entry    | Ask     | Unrealized P&L       | Stop (GTC, live)                        |
+|------|--------|----------|---------|----------------------|-----------------------------------------|
+| NVDA | 102    | $208.85  | $201.67 | -$732 (-3.47%)       | 10% trail, HWM $213.99, stop $192.59   |
+| XLB  | 430    | $51.36   | $50.82  | -$232 (-1.05%)       | 10% trail, HWM $53.31, stop $47.98     |
+| XLI  | 123    | $174.56  | $178.67 | +$505 (+2.35%)       | 10% trail, HWM $182.92, stop $164.63   |
+| XLV  | 139    | $153.39  | $153.55 | +$22 (+0.10%)        | 10% trail, HWM $155.155, stop $139.64  |
+
+### Stop Tighten Check
+- NVDA -3.47%: below entry, no tighten
+- XLB -1.05%: below entry, no tighten
+- XLI +2.35%: below +15% threshold ($200.74) — no tighten
+- XLV +0.10%: below threshold — no tighten
+
+### -7% Manual Cut Check
+- NVDA -3.47%: above -7% threshold ($194.23) — hold
+- XLB -1.05%: above -7% — hold
+- XLI/XLV: positive — hold
+
+### Market Context
+- WTI: $71.02 (-3.0%) | Brent: $74.73 (-3.05%) — Strait of Hormuz reopening on US-Iran peace deal; oil sliding
+- S&P 500 / Nasdaq futures: mildly positive (QQQ +0.46%)
+- VIX: 19.49 — elevated vs mid-June 16.41; modest risk-off
+- **PCE inflation tomorrow June 25**: headline +3.8%, core +3.3% (both above Fed 2% target) — major macro event
+- NVDA annual stockholder meeting today (9 AM PT) — Blackwell ramp, Vera CPU production update
+- Micron (MU) earnings after close today — broad semis reaction possible
+- Sector momentum YTD: Tech +32%, Energy +26%, Materials +13%, Industrials +12%, Healthcare -3%, Financials -5%
+
+### Thesis Check
+- **NVDA** $201.67: -3.47% from entry $208.85. AI inference supercycle intact; Blackwell production ramp; shareholder meeting catalyst today. Stop $192.59 live. Thesis INTACT — hold; watch for recovery above entry.
+- **XLB** $50.82: -1.05% from entry. Materials sector +13% YTD in momentum. Oil -3% today creates short-term pressure on materials. Thesis INTACT — hold; stop $47.98 protects downside.
+- **XLI** $178.67: +2.35% from entry. Industrials +12% YTD, sector in momentum. Thesis INTACT — hold.
+- **XLV** $153.55: +0.10% from entry. ⚠️ Healthcare -3% YTD — lagging sector, below strategy momentum threshold. Position not at -7%, stop live at $139.64. Watch closely: if healthcare continues lagging or thesis breaks, prepare to exit.
+
+### Trade Ideas
+- **No new entries today** — PCE tomorrow is a major macro risk (core +3.3% YoY = hawkish Fed repricing risk). Deployment already at 79.6% (within 75-85% target). Patience > forcing entries.
+- Post-PCE (Jun 25): If benign print, evaluate 1 additional position to fill 5th slot. Tech/semis re-entry (AMD, NVDA add) if semis hold. Otherwise HOLD.
+
+### Risk Factors
+- **PCE tomorrow Jun 25**: Core +3.3% YoY above 2% target — hawkish Fed = rate spike, equity selloff
+- **VIX 19.49**: Elevated; any macro surprise hits harder
+- Oil -3% today: Commodity/materials headwind; XLB pressure
+- NVDA below entry (-3.47%): Stop $192.59 = 4.5% below current; modest cushion
+- XLV in lagging sector: Healthcare -3% YTD — first sign of thesis concern; monitor
+- Micron earnings after close: Broad semis reaction could affect NVDA
+
+### Decision
+**HOLD all 4 positions.** No new trades today.
+- PCE tomorrow blocks all new entries per risk discipline
+- No -7% cuts needed; no stop tightenings triggered
+- Watch XLV thesis (Healthcare lagging -3% YTD) — exit if sector continues deteriorating
+- Post-PCE: evaluate 5th position if data benign; NVDA re-entry thesis strongest
