@@ -717,3 +717,66 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-25 — Pre-market Research
+
+*Note: PERPLEXITY_API_KEY not set — WebSearch fallback. ClickUp alert not resent (known ongoing issue).*
+
+### Account
+- Equity: $108,370.22
+- Cash: $22,023.78
+- Long market value: $86,346.44 | Deployment: 79.7% ✓ (target 75-85%)
+- Daytrade count: 0 | PDT: false
+- Week trades: 0/3 (new week — last entries were week of Jun 8)
+- Phase P&L: +$8,370.22 (+8.37%)
+
+### Open Positions
+| SYM  | Shares | Avg Entry | Ask     | Unrealized P&L       | Stop (GTC, live)                          |
+|------|--------|-----------|---------|----------------------|-------------------------------------------|
+| NVDA | 102    | $208.85   | $199.73 | -$1,008 (-4.73%) ⚠️ | 10% trail, HWM $213.99, stop $192.591    |
+| XLB  | 430    | $51.36    | $51.47  | +$34 (+0.16%)        | 10% trail, HWM $53.31, stop $47.979      |
+| XLI  | 123    | $174.56   | $182.69 | +$998 (+4.65%)       | 10% trail, HWM $182.92, stop $164.628    |
+| XLV  | 139    | $153.39   | $154.54 | +$136 (+0.64%)       | 10% trail, HWM $155.155, stop $139.640   |
+
+### Market Context
+- WTI / Brent: Elevated (Middle East/Iran tensions ongoing)
+- S&P 500 futures: Higher on MU (Micron) blowout earnings after June 24 close; tech recovering from June 23-24 sell-off (-1.44%)
+- VIX: 18.24 — moderate, declining
+- **PCE today (8:30 AM ET)**: 4.1% annual rate — HOT (above estimates); core PCE revised to 3.3% (from 2.7%); Fed rate projection Q4 2026 raised to 3.8%
+- Sector momentum YTD: Tech +33% (leader), Energy +27%, Materials +13%, Industrials +12%, Healthcare -3% (laggard)
+- NVDA: Strong fundamentals — Q1 $81.62B +85% YoY; Vera Rubin AI chip architecture announced; SK Hynix/Meta/Siemens partnerships; MU semis rally may lift NVDA today
+- XLB/XLI: Materials +13%, Industrials +12% YTD — both in uptrend, thesis intact
+- XLV: Healthcare -3% YTD — WORST performing sector; position barely green (+0.64%); thesis weakening
+
+### Stop Tighten Check
+- NVDA -4.73%: no tighten (below any threshold)
+- XLB +0.16%: no tighten (threshold: $59.06 = +15%)
+- XLI +4.65%: no tighten (threshold: $200.74 = +15%)
+- XLV +0.64%: no tighten (threshold: $176.40 = +15%)
+
+### Manual Cut Check
+- NVDA: -7% cut level = $194.23; ask $199.73 > $194.23 — no cut
+- All others: positive, no cut
+
+### Trade Ideas
+1. **No new positions today** — Deployment 79.7% (in range); PCE 4.1% = hawkish macro gate fails; patience > forcing entries into hot-inflation open.
+2. **XLV watch**: Healthcare -3% YTD is the worst sector; position +0.64% from entry, stop $139.64 live. If thesis breaks or -7% approached, exit and reallocate to stronger sector.
+3. **NVDA watch**: -4.73% from entry; MU blowout may provide relief rally. Stop $192.59 provides buffer. Hold.
+
+### Risk Factors
+- PCE 4.1% > estimates — hawkish Fed repricing; growth/tech headwind
+- NVDA -4.73% from entry, stop $192.59 only 3.2% below current ask ($199.73) — tight
+- XLV healthcare position in worst-performing 2026 sector (-3% YTD)
+- Materials (XLB) flat (+0.16%) — needs momentum catalyst to justify hold
+- 4 positions — $22K cash available for 1 more entry if strong catalyst emerges midday
+
+### Decision
+**HOLD all 4 positions. No new trades today.**
+- PCE hot data = macro gate fails for new entries
+- Deployment 79.7% = in target range, no urgency
+- No positions at -7% manual cut
+- No stop-tighten triggers reached
+- **XLV concern**: Healthcare worst sector 2026; if position turns negative and approaches -7%, exit and evaluate sector rotation to Materials/Industrials add or stronger sector ETF
+- **NVDA watch**: Hold through MU-driven semis rally; stop auto-tracks
