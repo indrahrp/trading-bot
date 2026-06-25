@@ -317,3 +317,16 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 25 — EOD Snapshot (Day 43, Thursday)
+**Portfolio:** $108,438.18 | **Cash:** $41,662.86 (38.4%) | **Day P&L:** +$636.12 (+0.59%) | **Phase P&L:** +$8,438.18 (+8.44%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg | Unrealized P&L        | Stop                                     |
+|--------|--------|----------|----------|---------|-----------------------|------------------------------------------|
+| XLB    | 430    | $51.36   | $51.91   | +1.47%  | +$236.93 (+1.07%)     | 10% trail, HWM $53.31, stop $47.98      |
+| XLI    | 123    | $174.56  | $184.75  | +2.52%  | +$1,253.37 (+5.84%)   | 10% trail, HWM $186.09, stop $167.48    |
+| XLV    | 139    | $153.39  | $156.33  | +1.94%  | +$407.93 (+1.91%)     | 10% trail, HWM $157.21, stop $141.48    |
+
+**Notes:** All three sector ETF positions green — XLI +2.52%, XLV +1.94%, XLB +1.47% — generating +$636.12 (+0.59%) on the day. Portfolio has pivoted from individual tech/semi stocks (AMZN, NVDA, TXN exited May–Jun) to sector ETFs: XLB (materials, entered ~May 29), XLI (industrials, entered ~Jun 8), XLV (healthcare, entered ~Jun 8). Phase P&L +$8,438.18 (+8.44%) — below May 20 peak (+$9,523) due to Q2 sector rotation chop. ⚠️ Deployment 61.6% — underdeployed vs 75-85% target; ~$16K gap to close with 1-2 new entries. ⚠️ XLB ($22,322, 20.6%) and XLI ($22,724, 21.0%) slightly exceed the 20% position cap at current equity. No trades today; 0/3 trades this week.
