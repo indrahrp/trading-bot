@@ -307,6 +307,25 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 
 ---
 
+### Jun 25 — Midday Scan
+**Portfolio:** $108,335.63 | **Cash:** $41,662.86 (38.5%) | **Deployed:** 61.5% ⚠️ | **Day P&L:** +$533.57 (+0.49%) | **Phase P&L:** +$8,335.63 (+8.34%)
+
+#### Open Positions (midday)
+| Ticker | Shares | Entry   | Now     | Unreal P&L         | Stop                                   |
+|--------|--------|---------|---------|--------------------|----------------------------------------|
+| XLB    | 430    | $51.36  | $51.925 | +$242.95 (+1.1%)   | 10% trail, HWM $53.31, stop $47.979   |
+| XLI    | 123    | $174.56 | $183.84 | +$1,141.44 (+5.3%) | 10% trail, HWM $186.09, stop $167.481 |
+| XLV    | 139    | $153.39 | $156.50 | +$432.09 (+2.0%)   | 10% trail, HWM $157.205, stop $141.485|
+
+**Actions:**
+- Losers: None — all positive. No cuts.
+- Stop tighten: None — XLB +1.1%, XLI +5.3%, XLV +2.0% (all below +15% threshold)
+- Thesis: XLB (Materials momentum), XLI (Industrials momentum), XLV (Healthcare) — all intact; no intraday news breaks
+- Research: No sharp moves; Perplexity check skipped
+- **Deployment: 61.5% — below 75-85% target. Pre-market scan needed for 1-2 new entries.**
+
+---
+
 ### May 20 — EOD Snapshot (Day 17, Tuesday)
 **Portfolio:** $109,523.30 | **Cash:** $45,153.15 (41.2%) | **Day P&L:** +$698.32 (+0.64%) | **Phase P&L:** +$9,523.30 (+9.52%)
 
