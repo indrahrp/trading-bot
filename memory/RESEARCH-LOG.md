@@ -717,3 +717,79 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-25 — Pre-market Research
+
+> Note: PERPLEXITY_API_KEY not set in environment — research via WebSearch fallback. ClickUp alert sent.
+
+### Account
+- Equity: $107,937.22 | Cash: $22,023.78
+- Long market value: $85,913.44 | **Deployment: 79.6% ✓ (target 75-85%)**
+- Buying power: $328,652.76 (includes 4× margin; non-marginable: $64,981)
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (week Jun 22–26; no trades logged since prior entries)
+- Phase P&L: +$7,937.22 (+7.94%) from $100K baseline
+
+### Open Positions
+| SYM  | Shares | Avg Entry | Current  | Unrealized P&L        | Stop (GTC, live)                       |
+|------|--------|-----------|----------|-----------------------|----------------------------------------|
+| NVDA | 102    | $208.85   | $200.81  | -$820 (-3.85%) ⚠️    | 10% trail, HWM $213.99, stop $192.59  |
+| XLB  | 430    | $51.36    | $51.16   | -$86 (-0.39%)         | 10% trail, HWM $53.31, stop $47.98    |
+| XLI  | 123    | $174.56   | $180.70  | +$755 (+3.52%)        | 10% trail, HWM $182.92, stop $164.63  |
+| XLV  | 139    | $153.39   | $152.56  | -$115 (-0.54%)        | 10% trail, HWM $155.16, stop $139.64  |
+
+**Note:** Significant portfolio evolution since last log (May 21). AMZN/TXN exited; NVDA re-entered (avg $208.85 vs prior $218.04 — likely stopped out and re-entered); XLB added May 29; XLI/XLV added June 8. Portfolio now diversified across semis (NVDA) + sector ETFs (materials, industrials, healthcare).
+
+### Stop/Cut Check
+- NVDA -3.85%: **above -7% manual cut; 4.1% above stop $192.59 — watch closely**
+- XLB -0.39%: well above stop $47.98 (6.2% buffer)
+- XLI +3.52%: well above stop $164.63 (8.9% buffer); below +15% tighten ($200.74)
+- XLV -0.54%: above stop $139.64 (8.5% buffer)
+- No tightenings needed — all below +15% threshold
+
+### Market Context
+- **WTI / Brent**: ~$70.34 / ~$73.74 (Jun 24 close) — oil collapsed from $103/$110 (late May) on US-Iran MOU signed Jun 17 (60-day nuclear negotiation period); Hormuz transits resuming
+- **S&P 500 futures**: +0.79% premarket — Micron (MU) blowout earnings driving AI rally; Nasdaq leading; 97% Polymarket probability of up open
+- **VIX**: 18.44 (Jun 24 close, -5.38%) — moderate and declining; constructive for equities
+- **FOMC (Jun 16-17)**: Hawkish hold; projections released; rate-cut expectations pushed further out; 10-yr/30-yr yields elevated
+- **Today's key events (8:30 AM ET)**:
+  - **PCE Price Index (May)** — Fed's preferred inflation gauge; market-moving; do NOT trade before release
+  - **GDP Q2 Third Estimate**
+  - **Initial Jobless Claims + Continuing Claims**
+  - **Durable Goods Orders**
+- **Earnings before open today**: Micron (MU) — blowout Q3 FY2026 results (strong AI memory demand); ~18% premarket surge; key positive for semis sector
+
+### Sector Momentum (YTD 2026)
+- Leaders: Industrials (~+28% YTD per XLI data), Technology (AI-driven recovery), Healthcare steady
+- Materials: Mixed; oil collapse removes energy-cost tailwind but also reduces feedstock costs
+- Energy: Lagging YTD after oil collapse from Hormuz resolution
+- Financials/Consumer Disc: Weak
+
+### Held Ticker News
+- **NVDA $200.81** (-3.85% from entry): ATH was $235.47 on May 14. Headwinds: (1) OpenAI/Broadcom launched "Jalapeño" competing AI chip; (2) China H20 chip export restrictions; (3) CEO warned smuggled chips are "dead end." Tailwinds: 62 analysts "Strong Buy," avg PT $298.93 (+49% from current); AI inference supercycle intact; Micron beat today lifts semis sentiment; SK hynix/SK Telecom partnerships. NVDA HWM $213.99 — stop at $192.59 provides 4.1% buffer. **Thesis intact but under pressure; Micron rally today key test.**
+- **XLB $51.16** (-0.39% from entry): Materials ETF. Oil collapse (WTI $70 from $103) reduces energy input costs for chemicals/materials companies — mixed impact. US-Iran de-escalation reduces geopolitical risk. HWM $53.31 (3.7% from current); stop $47.98 at 6.2% below. **Thesis (sector momentum + diversification): intact but oil-driven tailwind weaker now.**
+- **XLI $180.70** (+3.52% from entry): Industrials ETF, +28% YTD strongest YTD sector data. HWM $182.92 (1.2% from current — near all-time high for position). US-Iran de-escalation positive for global trade/supply chains. Stop $164.63 well below. **Thesis intact — strongest position.**
+- **XLV $152.56** (-0.54% from entry): Healthcare ETF. Defensive sector. Near all-time high of $155.16 (HWM). Slightly under entry; stop at $139.64 (8.5% below). **Thesis: defensive diversification; intact.**
+
+### Trade Ideas
+1. **No new positions** — deployment 79.6% already in target range; PCE data at 8:30 AM creates pre-market uncertainty; Micron-fueled rally may lift NVDA without adding exposure
+2. **Watch NVDA** — if Micron rally pushes NVDA back above $208.85 entry, thesis fully confirmed; if PCE is benign + futures hold, potential recovery; do NOT add (sector concentration already elevated)
+3. **MU (Micron) opportunity** — +18% premarket on AI memory beat; direct AI infrastructure catalyst; BUT: +18% gap-up violates "no chasing" discipline; skip
+
+### Risk Factors
+- **PCE 8:30 AM today** — hot print → hawkish Fed repricing → broad selloff; ALL positions exposed
+- **NVDA -3.85%** — approaching -7% cut threshold; competition from Jalapeño chip and export restrictions are structural headwinds; stop at $192.59 is critical line
+- **Oil collapse** — WTI $70 from $103; significant macro shift since last log; XLB thesis weaker without oil tailwind
+- **FOMC hawkish** — rate-cut hopes fading; growth/tech valuations pressured; NVDA most exposed
+- **XLI near HWM** — at $180.70 vs HWM $182.92; pullback could trigger stop at $164.63 if broad market sells off
+- **4-position concentration** — 3 of 4 underwater; broad red day could push NVDA toward -7% cut
+
+### Decision
+**HOLD all 4 positions.** No new trades today.
+- **NVDA**: Hold; stop $192.59 live; Micron AI rally today is key catalyst for recovery; cut only at -7% ($194.23) or if thesis breaks
+- **XLI**: Best performer; hold, monitor HWM approach ($182.92)
+- **XLB/XLV**: Flat from entry; theses intact; stops live and correct
+- **PCE gate**: No new entries before 8:30 AM data release; if benign, reassess midday
+- **Week cap**: 0/3 trades used — capacity exists if high-conviction setup emerges post-PCE
