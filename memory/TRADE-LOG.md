@@ -317,3 +317,24 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 26 — Midday Scan (Friday)
+**Portfolio:** $109,115.53 | **Cash:** $21,174.48 (19.4%) | **Deployment:** 80.6% ✓ | **Day P&L:** +$882.17 (+0.81%) | **Phase P&L:** +$9,115.53 (+9.12%)
+
+*Note: Trade log gap May 20 → Jun 26 — positions rotated (AMZN/NVDA/TXN exited, MU/XLB/XLI/XLV entered) between sessions without log entries. Stops all confirmed live via orders API.*
+
+| Ticker | Shares | Entry      | Now        | Day Chg  | Unrealized P&L         | Stop                                        |
+|--------|--------|------------|------------|----------|------------------------|---------------------------------------------|
+| MU     | 18     | $1,138.24  | $1,167.66  | -3.78% ⚠️ | +$529.53 (+2.59%)     | 10% trail, HWM $1,198.63, stop $1,078.77   |
+| XLB    | 430    | $51.36     | $51.705    | -0.26%   | +$148.35 (+0.67%)      | 10% trail, HWM $53.31, stop $47.979        |
+| XLI    | 123    | $174.56    | $182.585   | -0.83%   | +$987.08 (+4.60%)      | 10% trail, HWM $186.09, stop $167.481      |
+| XLV    | 139    | $153.39    | $160.05    | +2.84%   | +$925.54 (+4.34%)      | 10% trail, HWM $160.35, stop $144.315      |
+
+**Actions:**
+- Losers: None — all positive from entry. No cuts.
+- Stop tighten: None — MU +2.59%, XLB +0.67%, XLI +4.60%, XLV +4.34% (all below +15% threshold)
+- Thesis: Perplexity unavailable (key not set). MU down -3.78% intraday (from $1,213.56 → $1,167.66) — notable move; stop $1,078.77 provides cushion; thesis check deferred.
+- Research: Perplexity unavailable — no live research conducted. MU sharp intraday drop warrants monitoring.
+- Deployment: 80.6% — within 75-85% target ✓. No new positions needed.
