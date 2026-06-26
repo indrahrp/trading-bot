@@ -153,3 +153,63 @@ Template for each entry:
 - Resume daily EOD log discipline (Mon–Fri snapshots)
 
 ### Overall Grade: B+
+
+---
+
+## Week ending 2026-06-26
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | ~$110,000 (est. Mon Jun 22) |
+| Ending portfolio | $108,391.21 |
+| Week return | -$1,609 (-1.46%) |
+| S&P 500 week | ~-1.5% (megacap tech selloff; NVDA -3.2%+, AAPL -6.1%, MSFT -3.5%) |
+| Bot vs S&P | ~+0.04% (approx. flat — defensive rotation partially offset NVDA stop-out) |
+| Trades | 1 (W:0 / L:1 / open:3) |
+| Win rate | 0% (1 closed trade) |
+| Best trade | XLI +5.84% unrealized |
+| Worst trade | NVDA -7.81% (stopped out Jun 25) |
+| Profit factor | N/A (no winners this week) |
+
+**Phase-to-date (Apr 27 launch):** +$8,391 (+8.39%) | Deployment: 61.6% ⚠️
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| NVDA | $208.85 | $192.54 | -$1,663 (-7.81%) | 10% trail GTC triggered Jun 25; HWM $213.99; megacap tech selloff this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| XLB | $51.36 | $51.82 | +$198 (+0.90%) | 10% trail, HWM $53.31, stop $47.98 |
+| XLI | $174.56 | $184.75 | +$1,253 (+5.84%) | 10% trail, HWM $186.09, stop $167.48 |
+| XLV | $153.39 | $156.27 | +$400 (+1.88%) | 10% trail, HWM $157.21, stop $141.48 |
+
+### What Worked
+- Trailing stop on NVDA worked as designed: exited at -7.81% vs uncapped losses (NVDA fell further to ~$192)
+- Sector rotation thesis proving out: XLI +5.84%, XLV +1.88% — cash rotated from tech into Industrials/Healthcare exactly as expected
+- XLI approaching HWM $186.09; potential +15% tighten trigger at $200.74
+
+### What Didn't Work
+- NVDA: 3rd consecutive stop-out (May 26: -2.44%, June 5: -1.21%, June 25: -7.81%) — all losses
+- **Semiconductor sector rule TRIGGERED**: last 2 consecutive semis trades both NVDA losses → strategy mandates no new semis entries until reassessment
+- Deployment at 61.6% — 3 position slots empty, cash drag persists week 5+ of under-deployment
+- NVDA re-entry June 8 at $208.85 was too soon after prior stop-out; semis sector was still rotating out
+
+### Key Lessons
+- Per strategy Rule 10: "Exit a sector after 2 consecutive failed trades" — **NVDA losses on Jun 5 + Jun 25 = 2 consecutive semis losses. Semis sector is ON NOTICE — no new entries.**
+- Defensive ETF rotation (XLB/XLI/XLV) is buffering tech volatility; this week's S&P drop was megacap-driven, our positions held firm
+- Trailing stop sequence (10% → 7% at +15% → 5% at +20%) prevented worse outcomes across all exits this phase
+- Every NVDA re-entry has ended in a stop-out; pattern is clear — avoid until sector thesis re-establishes
+
+### Adjustments for Next Week
+- **NO SEMIS entries** — sector strike rule triggered (2 consecutive losses: NVDA Jun 5 + Jun 25). Requires explicit reassessment and fresh catalyst before any AMD/NVDA/INTC re-entry
+- Deploy $41K cash into 1-2 new positions (Mon pre-market): prioritize non-tech momentum sectors
+  - XLB (Materials) already held; consider Energy, Financials, or Consumer Staples if momentum confirmed
+  - Target 75-85% deployment; need ~$16-26K more deployed
+- Watch XLI: tighten trail to 7% at $200.74 (+15% from entry $174.56)
+- Watch XLV: approaching HWM $157.21; tighten trail to 7% at $176.50 (+15% from entry $153.39)
+- Evaluate whether PCE/macro data (released today) changes rate outlook → affects deployment thesis
+
+### Overall Grade: C+
