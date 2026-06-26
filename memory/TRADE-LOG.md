@@ -317,3 +317,31 @@ INTC ran $81.69 → $113.50 HWM (+38.9%); stops tightened 10%→7%→5% per rule
 | TXN    | 70     | $267.28  | $304.18  | +0.62%   | +$2,583.16 (+13.81%)    | 7% trail, HWM $310.29, stop $288.57     |
 
 **Notes:** AMD stopped out May 19 via GTC trailing stop (profitable +1.59%, ~+$330). Three remaining positions all modestly green: AMZN +2.19%, NVDA +0.56%, TXN +0.62%. Portfolio now underdeployed at 58.8% vs 75-85% target — $45K cash available for 1-2 new entries. TXN approaching +15% threshold ($307.37) for trail tighten check — currently at +13.8%, stop already at 7% (tightened May 14). No new trades this week (0/3). Pre-market tomorrow: scan for 1-2 momentum entries to close deployment gap.
+
+---
+
+### Jun 26 — New Trade Entry
+
+#### Buy: MU (Micron Technology)
+| Field        | Value                                                                                              |
+|--------------|----------------------------------------------------------------------------------------------------|
+| Date         | 2026-06-26                                                                                         |
+| Ticker       | MU                                                                                                 |
+| Side         | BUY                                                                                                |
+| Shares       | 18                                                                                                 |
+| Entry Price  | $1,138.24 (avg fill)                                                                               |
+| Stop Level   | $1,030.47 (10% trailing GTC, HWM $1,144.97, order d30f2076)                                       |
+| Thesis       | Q3 earnings massive beat ($41.46B vs $35.84B est); Q4 guidance beat ($50B vs $43.58B est); Anthropic strategic AI partnership; AI memory supercycle; semis sector momentum |
+| Target       | $1,365.89 (+20%)                                                                                   |
+| R:R          | 2.0:1                                                                                              |
+| Week Trades  | 1/3                                                                                                |
+
+#### Portfolio After Trade
+**Equity:** ~$108,139 | **Cash:** ~$21,175 | **Deployment:** ~80.6% ✓ (target 75-85%)
+
+| Ticker | Shares | Entry      | Now       | Unrealized P&L      | Stop                                    |
+|--------|--------|------------|-----------|---------------------|-----------------------------------------|
+| MU     | 18     | $1,138.24  | $1,147.70 | +$170 (+0.83%)      | 10% trail, HWM $1,144.97, stop $1,030.47 |
+| XLB    | 430    | $51.36     | $51.61    | +$107 (+0.49%)      | 10% trail, HWM $53.31, stop $47.979    |
+| XLI    | 123    | $174.56    | $181.92   | +$904 (+4.21%)      | 10% trail, HWM $186.09, stop $167.481  |
+| XLV    | 139    | $153.39    | $157.88   | +$624 (+2.93%)      | 10% trail, HWM $157.21, stop $141.489  |

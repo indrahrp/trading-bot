@@ -717,3 +717,56 @@ Monitor TXN for $307.37 tighten trigger (→ 7% trail). AMD downgrade noted, the
 - **Fallback**: AMD re-entry if WMT misses; wait for post-8:30 AM data settle before any order
 - All 3 existing positions: HOLD. No cuts needed. NVDA stop auto-tracks on gap-up.
 - Next catalyst window: post-PPI reaction; evaluate any new entries if deployment slips below 75%.
+
+---
+
+## 2026-06-26 — Pre-market Research (inline, market-open workflow)
+
+### Account
+- Equity: $108,139.45
+- Cash: $41,662.83 (38.5%) pre-trade → ~$21,175 post-MU
+- Buying power: $352,785.86
+- Long market value: $66,476.62 | Deployment: 61.5% pre-trade → ~80.6% post-MU ✓
+- Daytrade count: 0 | PDT: false
+- Week trade count: 0/3 (fresh — all positions entered prior weeks)
+- Phase P&L: +$8,139.45 (+8.14%)
+
+### Open Positions
+| SYM  | Shares | Entry    | Now     | Unrealized P&L       | Stop (GTC)                              |
+|------|--------|----------|---------|----------------------|-----------------------------------------|
+| XLB  | 430    | $51.36   | $51.61  | +$107 (+0.49%)       | 10% trail, HWM $53.31, stop $47.979    |
+| XLI  | 123    | $174.56  | $181.92 | +$904 (+4.21%)       | 10% trail, HWM $186.09, stop $167.481  |
+| XLV  | 139    | $153.39  | $157.88 | +$624 (+2.93%)       | 10% trail, HWM $157.21, stop $141.489  |
+
+### Market Context
+- PERPLEXITY_API_KEY not set — WebSearch fallback
+- S&P 500: 7,357.49 (June 25 close, -0.01%); Nasdaq down 0.46% (4th consecutive down day); Dow at all-time high (sector rotation away from mega-cap tech)
+- VIX: ~16.41 — low volatility, constructive
+- Catalysts: Micron (MU) Q3 earnings June 24 after close — MASSIVE BEAT; Apple -6% on MacBook/iPad price hikes
+- Sector rotation: Dow ATH on non-AI names; Nasdaq weak; semis (MU +15-16%) diverging from big tech
+- JPMorgan raised S&P target to 7,800; Barclays/Stifel also raised to 7,800
+
+### Micron Catalyst (Primary Trade Idea)
+- **MU Q3 FY2026**: Revenue $41.46B vs $35.84B estimated (+15.7% beat)
+- **Q4 Guidance**: $50B vs $43.58B estimated (+14.7% guide raise)
+- Stock +15-16% on earnings (June 24 after close); 2nd full trading day today
+- Susquehanna raised PT to $2,000 (from $1,750); avg analyst target ~$1,339 (+17% upside from $1,150 ask)
+- Anthropic strategic partnership announced June 22 (AI memory demand supercycle)
+- 16 long-term supply agreements with datacenter operators/automakers
+- Semis sector: AMD, INTC, MU all showing breakout momentum patterns
+
+### Thesis Check on Held Positions
+- **XLB**: +0.49% from entry. ⚠️ MACD negative since June 8; Momentum < 0 since June 8 — bearish technicals. Stop $47.979 live (6.8% cushion). Not at -7% cut threshold. Hold with caution.
+- **XLI**: +4.21% from entry. Momentum turned positive June 11. Stop $167.48 live (8.2% cushion). Thesis intact.
+- **XLV**: +2.93% from entry. Healthcare recovering (YTD -3% sector but thesis: defensive rotation). Stop $141.49 live (10.3% cushion). Thesis intact.
+
+### Stop Tighten Check
+- XLB +0.49%: below +15% threshold — no tighten
+- XLI +4.21%: below +15% threshold — no tighten
+- XLV +2.93%: below +15% threshold — no tighten
+
+### Decision
+**MU: BUY** — 18 shares at market. Q3 massive beat + Q4 guidance beat + Anthropic partnership + AI memory supercycle. All gates pass. Closes deployment gap to ~80.6% (target 75-85%).
+**XLB/XLI/XLV: HOLD** — stops live. XLB bearish technicals noted; stop will handle exit if thesis fully breaks.
+
+**EXECUTED: MU 18 sh at $1,138.24 avg. 10% trailing stop GTC placed at $1,030.47 (HWM $1,144.97).**
